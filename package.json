@@ -1,0 +1,12 @@
+{
+  "name": "hotwheels-hub",
+  "version": "1.0.0",
+  "description": "Hot Wheels collector hub - automated news, releases and gallery",
+  "scripts": {
+    "scrape": "node scripts/scrape.js",
+    "dev": "cd site && npx serve -p 3000"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.0"
+  }
+}

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hot Wheels Hub | 风火轮收集者中心</title>
+  <meta name="description" content="Hot Wheels风火轮最新资讯、系列图鉴、新车速递、精美图片库 — 为风火轮收集者打造的一站式中心">
+  <meta name="keywords" content="Hot Wheels, 风火轮, 玩具车, 收藏, 模型车, Mattel, 新品, 系列">
+  <meta property="og:title" content="Hot Wheels Hub | 风火轮收集者中心">
+  <meta property="og:description" content="Hot Wheels最新资讯、系列图鉴、新车速递">
+  <meta property="og:type" content="website">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏎️</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Loader -->
+  <div id="loader" class="loader">
+    <div class="loader-content">
+      <div class="loader-flame"></div>
+      <h2>Loading Hot Wheels Hub...</h2>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="header" id="header">
+    <nav class="nav container">
+      <a href="#" class="logo" data-nav="home">
+        <span class="logo-flame">🔥</span>
+        <span class="logo-text">Hot Wheels<span class="logo-accent">Hub</span></span>
+      </a>
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#home" class="nav-link active" data-nav="home">首页</a></li>
+        <li><a href="#featured" class="nav-link" data-nav="featured">经典名车</a></li>
+        <li><a href="#series" class="nav-link" data-nav="series">系列图鉴</a></li>
+        <li><a href="#news" class="nav-link" data-nav="news">最新资讯</a></li>
+        <li><a href="#gallery" class="nav-link" data-nav="gallery">图片库</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero" id="home">
+    <div class="hero-bg">
+      <div class="hero-gradient"></div>
+      <div class="hero-grid"></div>
+    </div>
+    <div class="hero-content container">
+      <h1 class="hero-title">
+        <span class="hero-line">HOT WHEELS</span>
+        <span class="hero-line accent">收集者中心</span>
+      </h1>
+      <p class="hero-subtitle">实时追踪风火轮最新资讯 · 经典车款图鉴 · 精美图片库</p>
+      <div class="hero-stats" id="heroStats">
+        <div class="stat"><span class="stat-num" id="statCars">--</span><span class="stat-label">经典车款</span></div>
+        <div class="stat"><span class="stat-num" id="statSeries">--</span><span class="stat-label">系列</span></div>
+        <div class="stat"><span class="stat-num" id="statImages">--</span><span class="stat-label">精美图片</span></div>
+        <div class="stat"><span class="stat-num" id="statUpdated">--</span><span class="stat-label">最后更新</span></div>
+      </div>
+      <div class="hero-actions">
+        <a href="#featured" class="btn btn-primary">探索经典名车</a>
+        <a href="#gallery" class="btn btn-outline">浏览图片库</a>
+      </div>
+    </div>
+    <div class="hero-scroll">
+      <span>向下滚动</span>
+      <div class="scroll-arrow"></div>
+    </div>
+  </section>
+
+  <!-- Featured Cars -->
+  <section class="section" id="featured">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">ICONIC</span>
+        <h2 class="section-title">经典名车</h2>
+        <p class="section-desc">风火轮历史上最具标志性的经典车型</p>
+      </div>
+      <div class="featured-slider" id="featuredSlider">
+        <!-- JS populated -->
+      </div>
+      <div class="featured-grid" id="featuredGrid">
+        <!-- JS populated -->
+      </div>
+    </div>
+  </section>
+
+  <!-- New Releases -->
+  <section class="section section-alt" id="releases">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">NEW</span>
+        <h2 class="section-title">新车速递</h2>
+        <p class="section-desc">最新发布的风火轮车型，抢先看</p>
+      </div>
+      <div class="releases-filter" id="releasesFilter">
+        <!-- JS populated year/series filters -->
+      </div>
+      <div class="releases-grid" id="releasesGrid">
+        <!-- JS populated -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Series -->
+  <section class="section" id="series">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">COLLECTIONS</span>
+        <h2 class="section-title">系列图鉴</h2>
+        <p class="section-desc">探索风火轮各个精彩系列</p>
+      </div>
+      <div class="series-grid" id="seriesGrid">
+        <!-- JS populated -->
+      </div>
+    </div>
+  </section>
+
+  <!-- News -->
+  <section class="section section-alt" id="news">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">LATEST</span>
+        <h2 class="section-title">最新资讯</h2>
+        <p class="section-desc">风火轮世界最新动态</p>
+      </div>
+      <div class="news-grid" id="newsGrid">
+        <!-- JS populated -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Gallery -->
+  <section class="section" id="gallery">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag">GALLERY</span>
+        <h2 class="section-title">精美图片库</h2>
+        <p class="section-desc">海量风火轮精美图片，点击可查看大图</p>
+      </div>
+      <div class="gallery-masonry" id="galleryGrid">
+        <!-- JS populated -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-brand">
+          <span class="logo-flame">🔥</span>
+          <span class="logo-text">Hot Wheels<span class="logo-accent">Hub</span></span>
+          <p>为风火轮收集者打造的实时资讯中心</p>
+        </div>
+        <div class="footer-links">
+          <h4>数据来源</h4>
+          <a href="https://hotwheels.fandom.com" target="_blank" rel="noopener">Hot Wheels Wiki</a>
+          <a href="https://news.mattel.com" target="_blank" rel="noopener">Mattel News</a>
+          <a href="https://www.hotwheels.com" target="_blank" rel="noopener">Hot Wheels 官网</a>
+        </div>
+        <div class="footer-links">
+          <h4>关于</h4>
+          <p class="footer-note">本站数据通过自动化脚本从公开来源收集整理，每小时自动更新。</p>
+          <p class="footer-note">本站为非官方粉丝网站，与 Mattel, Inc. 无关。</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 Hot Wheels Hub. 非官方粉丝网站。Hot Wheels® 是 Mattel, Inc. 的注册商标。</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox">
+    <button class="lightbox-close" aria-label="Close">&times;</button>
+    <img class="lightbox-img" id="lightboxImg" src="" alt="">
+    <div class="lightbox-info" id="lightboxInfo"></div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
