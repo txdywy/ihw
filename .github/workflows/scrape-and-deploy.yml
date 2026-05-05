@@ -2,7 +2,7 @@ name: Scrape & Deploy Hot Wheels Hub
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '0 0,6,12,18 * * *'  # 每天4次: 00:00, 06:00, 12:00, 18:00 UTC
   workflow_dispatch:
   push:
     branches: [main]
