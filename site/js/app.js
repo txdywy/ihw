@@ -6,7 +6,7 @@
   'use strict';
 
   const DATA_BASE = 'data';
-  let allData = { featured: [], series: [], news: [], releases: [], gallery: [], newCastings: [], metadata: {} };
+  let allData = { featured: [], series: [], news: [], releases: [], gallery: [], newCastings: [], hwNews: [], treasureHunts: [], rlcReleases: [], seriesCars: [], metadata: {} };
 
   // ── Data Loading ───────────────────────────────────────────────────────────
 
@@ -19,10 +19,12 @@
   }
 
   async function loadAllData() {
-    const [featured, series, news, releases, gallery, newCastings, metadata] = await Promise.all([
+    const [featured, series, news, releases, gallery, newCastings, hwNews, treasureHunts, rlcReleases, seriesCars, metadata] = await Promise.all([
       loadJSON('featured.json'), loadJSON('series.json'),
       loadJSON('news.json'), loadJSON('releases.json'),
       loadJSON('gallery.json'), loadJSON('new-castings.json'),
+      loadJSON('hw-news.json'), loadJSON('treasure-hunts.json'),
+      loadJSON('rlc-releases.json'), loadJSON('series-cars.json'),
       loadJSON('metadata.json')
     ]);
     allData.featured = featured || [];
@@ -31,6 +33,10 @@
     allData.releases = releases || [];
     allData.gallery = gallery || [];
     allData.newCastings = newCastings || [];
+    allData.hwNews = hwNews || [];
+    allData.treasureHunts = treasureHunts || [];
+    allData.rlcReleases = rlcReleases || [];
+    allData.seriesCars = seriesCars || [];
     allData.metadata = metadata || {};
   }
 
@@ -184,6 +190,143 @@
       </div>
     `).join('');
     observeFadeIns(grid);
+  }
+
+  function renderHWNews() {
+    const grid = document.getElementById('hwNewsGrid');
+    if (!grid) return;
+    const items = allData.hwNews;
+    if (!items.length) { grid.innerHTML = emptyState('暂无产品资讯', '📡'); return; }
+    grid.innerHTML = items.slice(0, 12).map(n => `
+      <a href="${n.url}" target="_blank" rel="noopener" class="news-card fade-in">
+        <div class="news-img">
+          ${n.image ? `<img src="${n.image}" alt="${esc(n.title)}" loading="lazy">` : '<div style="width:100%;height:100%;background:linear-gradient(135deg,#1a1a1a,#222);display:flex;align-items:center;justify-content:center;font-size:1.5rem">📡</div>'}
+        </div>
+        <div class="news-body">
+          <h3>${esc(n.title)}</h3>
+          <p>${esc(n.summary || '')}</p>
+          <div class="news-meta">
+            <span class="news-source">${esc(n.category || n.source || 'HWheadline')}</span>
+          </div>
+        </div>
+      </a>
+    `).join('');
+    observeFadeIns(grid);
+  }
+
+  function renderTreasureHunts() {
+    const grid = document.getElementById('sthGrid');
+    if (!grid) return;
+    const items = allData.treasureHunts;
+    if (!items.length) { grid.innerHTML = emptyState('暂无超宝数据', '💎'); return; }
+    grid.innerHTML = items.map(sth => `
+      <div class="card fade-in" onclick="window.open('${sth.url}','_blank')">
+        <div class="card-img-wrap">
+          ${sth.image ? `<img src="${sth.image}" alt="${esc(sth.name)}" loading="lazy">` : placeholder()}
+          ${sth.mix ? `<span class="card-badge">${esc(sth.mix)}</span>` : ''}
+        </div>
+        <div class="card-body">
+          <h3 class="card-title">${esc(sth.name)}</h3>
+          <p class="card-meta">${esc(sth.description || '')}</p>
+        </div>
+      </div>
+    `).join('');
+    observeFadeIns(grid);
+  }
+
+  function renderRLC() {
+    const grid = document.getElementById('rlcGrid');
+    if (!grid) return;
+    const items = allData.rlcReleases;
+    if (!items.length) { grid.innerHTML = emptyState('暂无RLC数据', '🏆'); return; }
+    grid.innerHTML = items.map(r => `
+      <div class="card fade-in" onclick="window.open('${r.url}','_blank')">
+        <div class="card-img-wrap">
+          ${r.image ? `<img src="${r.image}" alt="${esc(r.name)}" loading="lazy">` : placeholder()}
+        </div>
+        <div class="card-body">
+          <h3 class="card-title">${esc(r.name)}</h3>
+          <p class="card-meta">${esc(r.color || '')}${r.saleDate ? ' · ' + r.saleDate : ''}</p>
+        </div>
+      </div>
+    `).join('');
+    observeFadeIns(grid);
+  }
+
+  function renderSeriesCars() {
+    const container = document.getElementById('seriesCarsContainer');
+    if (!container) return;
+    const items = allData.seriesCars;
+    if (!items.length) {
+      container.innerHTML = emptyState('暂无系列新车数据', '🚗');
+      return;
+    }
+
+    // Build series tabs
+    const tabsEl = document.getElementById('seriesCarsTabs');
+    const gridEl = document.getElementById('seriesCarsGrid');
+
+    if (!tabsEl || !gridEl) return;
+
+    const totalCars = items.reduce((s, g) => s + g.carCount, 0);
+
+    tabsEl.innerHTML =
+      `<button class="series-tab active" data-series="all">全部 <span class="tab-count">${totalCars}</span></button>` +
+      items.map(s => `
+        <button class="series-tab" data-series="${s.seriesId}">
+          ${esc(s.seriesName)} <span class="tab-count">${s.carCount}</span>
+        </button>
+      `).join('');
+
+    function renderFiltered(seriesId) {
+      let cars;
+      if (seriesId === 'all') {
+        // Show all cars from all series, with series label
+        cars = [];
+        for (const group of items) {
+          for (const car of group.cars) {
+            cars.push({ ...car, seriesName: group.seriesName });
+          }
+        }
+      } else {
+        const group = items.find(s => s.seriesId === seriesId);
+        cars = group ? group.cars.map(c => ({ ...c, seriesName: group.seriesName })) : [];
+      }
+
+      gridEl.innerHTML = cars.map(car => `
+        <div class="series-car-card fade-in" onclick="window.open('${car.url}','_blank')">
+          <div class="series-car-img">
+            ${car.image ? `<img src="${car.image}" alt="${esc(car.name)}" loading="lazy">` : placeholder()}
+            ${seriesId === 'all' && car.seriesName ? `<span class="series-car-tag">${esc(car.seriesName)}</span>` : ''}
+          </div>
+          <div class="series-car-info">
+            <h4>${esc(car.name)}</h4>
+            <span class="series-car-series">${esc(car.seriesName)}</span>
+          </div>
+        </div>
+      `).join('');
+
+      if (!cars.length) {
+        gridEl.innerHTML = emptyState('该系列暂无数据', '📭');
+      }
+
+      observeFadeIns(gridEl);
+    }
+
+    renderFiltered('all');
+
+    tabsEl.addEventListener('click', e => {
+      const btn = e.target.closest('.series-tab');
+      if (!btn) return;
+      tabsEl.querySelectorAll('.series-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderFiltered(btn.dataset.series);
+
+      // Auto-scroll active tab into view on mobile
+      btn.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    });
+
+    observeFadeIns(container);
   }
 
   // ── Helpers ────────────────────────────────────────────────────────────────
@@ -379,7 +522,11 @@
     renderStats();
     renderFeatured();
     renderReleases();
+    renderSeriesCars();
     renderNewCastings();
+    renderHWNews();
+    renderTreasureHunts();
+    renderRLC();
     renderSeries();
     renderNews();
     renderGallery();

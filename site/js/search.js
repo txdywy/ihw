@@ -70,6 +70,23 @@ class SearchEngine {
       });
     }
 
+    // Index series cars (2026 lineup)
+    if (allData.seriesCars && allData.seriesCars.length) {
+      allData.seriesCars.forEach(group => {
+        if (group.cars && group.cars.length) {
+          group.cars.forEach(car => {
+            this._index.push({
+              name: car.name || '',
+              image: car.image || null,
+              category: '系列新车 · ' + (group.seriesName || ''),
+              url: car.url || '',
+              sectionId: 'series-cars'
+            });
+          });
+        }
+      });
+    }
+
     // Index gallery
     if (allData.gallery && allData.gallery.length) {
       allData.gallery.forEach(img => {

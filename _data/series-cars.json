@@ -1,0 +1,187 @@
+[
+  {
+    "seriesId": "mazda_rx3",
+    "seriesName": "Mazda RX-3",
+    "year": 2026,
+    "carCount": 3,
+    "cars": [
+      {
+        "name": "<font color=\"black\">Compact Kings</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/MazdaRX-3Custom.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100117",
+        "url": "https://hotwheels.fandom.com/wiki/Compact_Kings_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"black\">Tooned</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/83/%27ToonedRX-3GT.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131826",
+        "url": "https://hotwheels.fandom.com/wiki/Tooned_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "ford_mustang_mache_1400",
+    "seriesName": "Ford Mustang Mach-E 1400",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"white\">HW EV</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121504",
+        "url": "https://hotwheels.fandom.com/wiki/HW_EV_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/82/JJM61_RED_o1z.jpg/revision/latest/scale-to-width-down/1200?cb=20260228000231",
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "20_jeep_gladiator",
+    "seriesName": "'20 Jeep Gladiator",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"white\">Truckin' Along</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/2020Gladiator.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121919",
+        "url": "https://hotwheels.fandom.com/wiki/Truckin'_Along_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/JJM62_RED_o1.jpg/revision/latest/scale-to-width-down/1200?cb=20260226210125",
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "maserati_shamal",
+    "seriesName": "Maserati Shamal",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"black\">Factory Fresh</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/1992MaseratiShamal.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133529",
+        "url": "https://hotwheels.fandom.com/wiki/Factory_Fresh_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/JJM57_RED_o4.jpg/revision/latest/scale-to-width-down/1200?cb=20260226201535",
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "47_chevy_fleetline",
+    "seriesName": "'47 Chevy Fleetline",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"white\">Layin' Low</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/86/1947Fleetline.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123252",
+        "url": "https://hotwheels.fandom.com/wiki/Layin'_Low_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/47_chevy_2026.jpg/revision/latest?cb=20260407112844",
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "porsche_911_turbo_cabriolet",
+    "seriesName": "Porsche 911 Turbo Cabriolet",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"white\">Drop Tops</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/964Turbo.jpg/revision/latest/scale-to-width-down/1200?cb=20251121094844",
+        "url": "https://hotwheels.fandom.com/wiki/Drop_Tops_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/49/JJM67_RED_o4.jpg/revision/latest/scale-to-width-down/1200?cb=20260319061551",
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "mclaren_w1",
+    "seriesName": "McLaren W1",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"black\">Exoticars</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/2025W1.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095544",
+        "url": "https://hotwheels.fandom.com/wiki/Exoticars_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/Mclaren_2026.jpg/revision/latest?cb=20260407113043",
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "passn_gasser",
+    "seriesName": "Pass'n Gasser",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"white\">Drag Racers</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Passin%27Gas.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111241",
+        "url": "https://hotwheels.fandom.com/wiki/Drag_Racers_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "maserati_tipo_61",
+    "seriesName": "Maserati Tipo 61",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"white\">HW Starting Grid</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100549",
+        "url": "https://hotwheels.fandom.com/wiki/HW_Starting_Grid_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  },
+  {
+    "seriesId": "honda_odyssey",
+    "seriesName": "Honda Odyssey",
+    "year": 2026,
+    "carCount": 2,
+    "cars": [
+      {
+        "name": "<font color=\"black\">HW J-Imports</font>",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/2014HondaOdyssey.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121432",
+        "url": "https://hotwheels.fandom.com/wiki/HW_J-Imports_Mini_Collection_(2026)"
+      },
+      {
+        "name": "<font color=\"white\">Red Edition</font>",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+      }
+    ]
+  }
+]

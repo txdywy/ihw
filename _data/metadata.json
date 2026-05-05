@@ -1,17 +1,34 @@
 {
-  "lastUpdated": "2026-05-04T12:01:28.314Z",
+  "lastUpdated": "2026-05-05T03:23:19.101Z",
   "sources": [
     {
       "name": "Hot Wheels Fandom Wiki",
       "url": "https://hotwheels.fandom.com",
       "type": "wiki"
+    },
+    {
+      "name": "HWheadline",
+      "url": "https://hwheadline.com",
+      "type": "news"
+    },
+    {
+      "name": "HW Treasure",
+      "url": "https://www.hwtreasure.com",
+      "type": "reference"
     }
   ],
   "stats": {
     "totalFeatured": 12,
     "totalSeries": 15,
-    "totalNews": 22,
-    "totalGallery": 45,
-    "lastUpdated": "2026-05-04T12:01:28.314Z"
+    "totalNews": 46,
+    "totalGallery": 31,
+    "totalNewCastings": 60,
+    "totalTreasureHunts": 0,
+    "totalRLC": 0,
+    "totalSeriesCars": 0,
+    "totalSeriesWithCars": 0,
+    "lastUpdated": "2026-05-05T03:23:19.101Z",
+    "totalRequests": 663,
+    "runTimeMs": 346853
   }
 }

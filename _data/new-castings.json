@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "id": "pass_'n_go",
+    "name": "Pass 'n Go",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Drop Tops",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest?cb=20250921133437",
+    "url": "https://hotwheels.fandom.com/wiki/Pass_'n_Go"
+  },
+  {
+    "id": "porsche_911_carrera_t",
+    "name": "Porsche 911 Carrera T",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Factory Fresh",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Porsche911CarreraT.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133515",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Porsche911CarreraT.jpg/revision/latest?cb=20250921133515",
+    "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_T"
+  },
+  {
+    "id": "bounce'n_bass",
+    "name": "Bounce'n Bass",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Layin' Low",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Bounce%27nBass.jpg/revision/latest/scale-to-width-down/1200?cb=20250920121109",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Bounce%27nBass.jpg/revision/latest?cb=20250920121109",
+    "url": "https://hotwheels.fandom.com/wiki/Bounce'n_Bass"
+  },
+  {
+    "id": "instant_boost",
+    "name": "Instant Boost",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Starting Grid",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest/scale-to-width-down/1200?cb=20250920121126",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest?cb=20250920121126",
+    "url": "https://hotwheels.fandom.com/wiki/Instant_Boost"
+  },
+  {
+    "id": "pagani_zonda_cinque_(tooned)",
+    "name": "Pagani Zonda Cinque",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Exoticars",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122209",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest?cb=20251015122209",
+    "url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)"
+  },
+  {
+    "id": "la_liebre",
+    "name": "La Liebre",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Dream Garage",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/21/LaLiebre.jpg/revision/latest/scale-to-width-down/1200?cb=20251210014159",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/2/21/LaLiebre.jpg/revision/latest?cb=20251210014159",
+    "url": "https://hotwheels.fandom.com/wiki/La_Liebre"
+  },
+  {
+    "id": "high-tail_chaser",
+    "name": "High-Tail Chaser",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Mods",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/High-TailChaser.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123328",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/High-TailChaser.jpg/revision/latest?cb=20251015123328",
+    "url": "https://hotwheels.fandom.com/wiki/High-Tail_Chaser"
+  },
+  {
+    "id": "toyota_prius_custom",
+    "name": "Toyota Prius Custom",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW J-Imports",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/ToyotaPriusCustom.jpg/revision/latest/scale-to-width-down/1200?cb=20251216105344",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/ToyotaPriusCustom.jpg/revision/latest?cb=20251216105344",
+    "url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom"
+  },
+  {
+    "id": "drift_box",
+    "name": "Drift Box",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Euro",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/DriftBox.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123444",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/DriftBox.jpg/revision/latest?cb=20251015123444",
+    "url": "https://hotwheels.fandom.com/wiki/Drift_Box"
+  },
+  {
+    "id": "austin_mini_cooper_s",
+    "name": "Austin Mini Cooper S",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Then and Now",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/1200?cb=20251213090022",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest?cb=20251213090022",
+    "url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S"
+  },
+  {
+    "id": "bmw_m4_gt3",
+    "name": "BMW M4 GT3",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Starting Grid",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/BMWM4GT3.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101031",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/BMWM4GT3.jpg/revision/latest?cb=20260430101031",
+    "url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3"
+  },
+  {
+    "id": "x-cceleron",
+    "name": "X-cceleron",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Exoticars",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/X-cceleron.jpg/revision/latest/scale-to-width-down/1200?cb=20251216105543",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/17/X-cceleron.jpg/revision/latest?cb=20251216105543",
+    "url": "https://hotwheels.fandom.com/wiki/X-cceleron"
+  },
+  {
+    "id": "vw_id._buzz_bomb",
+    "name": "VW ID. Buzz Bomb",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Euro",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/VolkswagenID.BuzzBomb.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110548",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/VolkswagenID.BuzzBomb.jpg/revision/latest?cb=20251216110548",
+    "url": "https://hotwheels.fandom.com/wiki/VW_ID._Buzz_Bomb"
+  },
+  {
+    "id": "ferrari_12cilindri",
+    "name": "Ferrari 12Cilindri",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Ferrari",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest/scale-to-width-down/1200?cb=20251128012749",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest?cb=20251128012749",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_12Cilindri"
+  },
+  {
+    "id": "eggshelleracer",
+    "name": "Eggshelleracer",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Drag Racers",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Eggshelleracer.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100024",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Eggshelleracer.jpg/revision/latest?cb=20260103100024",
+    "url": "https://hotwheels.fandom.com/wiki/Eggshelleracer"
+  },
+  {
+    "id": "custom_'66_toronado",
+    "name": "Custom '66 Toronado",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Factory Fresh",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100431",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest?cb=20260103100431",
+    "url": "https://hotwheels.fandom.com/wiki/Custom_'66_Toronado"
+  },
+  {
+    "id": "custom_2020_honda_e",
+    "name": "Custom 2020 Honda e",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW EV",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/HondaeCustom.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100446",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/HondaeCustom.jpg/revision/latest?cb=20260103100446",
+    "url": "https://hotwheels.fandom.com/wiki/Custom_2020_Honda_e"
+  },
+  {
+    "id": "maserati_tipo_61",
+    "name": "Maserati Tipo 61",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Starting Grid",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100549",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest?cb=20260103100549",
+    "url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+  },
+  {
+    "id": "2024_aston_martin_vantage_gt3",
+    "name": "2024 Aston Martin Vantage GT3",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Exoticars",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/AstonMartinVantageAMRGT3Evo.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131524",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/AstonMartinVantageAMRGT3Evo.jpg/revision/latest?cb=20260121131524",
+    "url": "https://hotwheels.fandom.com/wiki/2024_Aston_Martin_Vantage_GT3"
+  },
+  {
+    "id": "fiat_beast_of_turin",
+    "name": "Fiat Beast of Turin",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Drop Tops",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/64/FiatS76Record.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121043",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/6/64/FiatS76Record.jpg/revision/latest?cb=20260303121043",
+    "url": "https://hotwheels.fandom.com/wiki/Fiat_Beast_of_Turin"
+  },
+  {
+    "id": "deora_too'nd",
+    "name": "Deora Too'nd",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Tooned",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/%27ToonedDeoraII.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132000",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/%27ToonedDeoraII.jpg/revision/latest?cb=20260121132000",
+    "url": "https://hotwheels.fandom.com/wiki/Deora_Too'nd"
+  },
+  {
+    "id": "tooned_purple_passion",
+    "name": "Tooned Purple Passion",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Dream Garage",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/%27ToonedPurplePassion.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121417",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/%27ToonedPurplePassion.jpg/revision/latest?cb=20260303121417",
+    "url": "https://hotwheels.fandom.com/wiki/Tooned_Purple_Passion"
+  },
+  {
+    "id": "dino_206_gt",
+    "name": "Dino 206 GT",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Ferrari",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Dino206GT.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121449",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Dino206GT.jpg/revision/latest?cb=20260303121449",
+    "url": "https://hotwheels.fandom.com/wiki/Dino_206_GT"
+  },
+  {
+    "id": "ford_f-150_lightning_supertruck",
+    "name": "Ford F-150 Lightning SuperTruck",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Truckin' Along",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/FordSupertruck.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121511",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/FordSupertruck.jpg/revision/latest?cb=20260303121511",
+    "url": "https://hotwheels.fandom.com/wiki/Ford_F-150_Lightning_SuperTruck"
+  },
+  {
+    "id": "vairstrike",
+    "name": "Vairstrike",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Mods",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Vairstrike.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132023",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Vairstrike.jpg/revision/latest?cb=20260121132023",
+    "url": "https://hotwheels.fandom.com/wiki/Vairstrike"
+  },
+  {
+    "id": "cadillac_celestiq",
+    "name": "Cadillac Celestiq",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW EV",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/CadillacCelestiq.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130240",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/CadillacCelestiq.jpg/revision/latest?cb=20260311130240",
+    "url": "https://hotwheels.fandom.com/wiki/Cadillac_Celestiq"
+  },
+  {
+    "id": "twin_tags",
+    "name": "Twin Tags",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Experimotors",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130511",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest?cb=20260311130511",
+    "url": "https://hotwheels.fandom.com/wiki/Twin_Tags"
+  },
+  {
+    "id": "'88_mitsubishi_starion",
+    "name": "'88 Mitsubishi Starion",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW J-Imports",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MitsubishiStarion.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125415",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MitsubishiStarion.jpg/revision/latest?cb=20260410125415",
+    "url": "https://hotwheels.fandom.com/wiki/'88_Mitsubishi_Starion"
+  },
+  {
+    "id": "click_shift",
+    "name": "Click Shift",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW All Drivers Welcome",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/10/ClickShift.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101557",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/10/ClickShift.jpg/revision/latest?cb=20260430101557",
+    "url": "https://hotwheels.fandom.com/wiki/Click_Shift"
+  },
+  {
+    "id": "mercedes-benz_cla_hw",
+    "name": "Mercedes-Benz CLA HW",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Euro",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Mercedes-BenzCLAHW.jpg/revision/latest/scale-to-width-down/1200?cb=20260316113738",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Mercedes-BenzCLAHW.jpg/revision/latest?cb=20260316113738",
+    "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_CLA_HW"
+  },
+  {
+    "id": "chop_'n_bloc",
+    "name": "Chop 'n Bloc",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Rod Squad",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125509",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest?cb=20260410125509",
+    "url": "https://hotwheels.fandom.com/wiki/Chop_'n_Bloc"
+  },
+  {
+    "id": "pt_fast",
+    "name": "PT Fast",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Mods",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/39/PTFast.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125625",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/39/PTFast.jpg/revision/latest?cb=20260410125625",
+    "url": "https://hotwheels.fandom.com/wiki/PT_Fast"
+  },
+  {
+    "id": "mad_drip",
+    "name": "Mad Drip",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Sweet Rides",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/MadDrip.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125748",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/MadDrip.jpg/revision/latest?cb=20260410125748",
+    "url": "https://hotwheels.fandom.com/wiki/Mad_Drip"
+  },
+  {
+    "id": "lil'_mad",
+    "name": "Lil' Mad",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Wagons",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Lil%27Mad.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102422",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Lil%27Mad.jpg/revision/latest?cb=20260430102422",
+    "url": "https://hotwheels.fandom.com/wiki/Lil'_Mad"
+  },
+  {
+    "id": "1999_subaru_impreza",
+    "name": "1999 Subaru Impreza",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "''Fast & Furious'': Dream Lineup",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/1999SubaruImpreza.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132125",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/1999SubaruImpreza.jpg/revision/latest?cb=20260121132125",
+    "url": "https://hotwheels.fandom.com/wiki/1999_Subaru_Impreza"
+  },
+  {
+    "id": "'01_toyota_celica",
+    "name": "Toyota Celica",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "''Fast & Furious'': Race-Off",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/2001ToyotaCelica.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125930",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/2001ToyotaCelica.jpg/revision/latest?cb=20260410125930",
+    "url": "https://hotwheels.fandom.com/wiki/'01_Toyota_Celica"
+  },
+  {
+    "id": "'77_toyota_celica",
+    "name": "'77 Toyota Celica",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Japan Historics 5",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/1977Celica.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095759",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/4/43/1977Celica.jpg/revision/latest?cb=20251121095759",
+    "url": "https://hotwheels.fandom.com/wiki/'77_Toyota_Celica"
+  },
+  {
+    "id": "lancia_delta_s4",
+    "name": "Lancia Delta S4",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Thrill Climbers",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/LanciaDeltaS4.jpg/revision/latest/scale-to-width-down/1200?cb=20260320105618",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/4/44/LanciaDeltaS4.jpg/revision/latest?cb=20260320105618",
+    "url": "https://hotwheels.fandom.com/wiki/Lancia_Delta_S4"
+  },
+  {
+    "id": "1994_nismo_270r_(s14)",
+    "name": "1994 NISMO 270R (S14)",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Modern Classics",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/NISMO270R.jpg/revision/latest/scale-to-width-down/1200?cb=20260311131321",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/NISMO270R.jpg/revision/latest?cb=20260311131321",
+    "url": "https://hotwheels.fandom.com/wiki/1994_NISMO_270R_(S14)"
+  },
+  {
+    "id": "ferrari_testarossa_(2026)",
+    "name": "Ferrari Testarossa",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Modern Classics",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Testarossa.jpg/revision/latest/scale-to-width-down/1200?cb=20260311131345",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Testarossa.jpg/revision/latest?cb=20260311131345",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_Testarossa_(2026)"
+  },
+  {
+    "id": "jaguar_xjs_(2026)",
+    "name": "Jaguar XJS",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Vintage Racing",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/JaguarXJS.jpg/revision/latest/scale-to-width-down/1200?cb=20260424093348",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/JaguarXJS.jpg/revision/latest?cb=20260424093348",
+    "url": "https://hotwheels.fandom.com/wiki/Jaguar_XJS_(2026)"
+  },
+  {
+    "id": "porsche_917k",
+    "name": "Porsche 917K",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Vintage Racing",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Porsche917K.jpg/revision/latest/scale-to-width-down/1200?cb=20260424093438",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Porsche917K.jpg/revision/latest?cb=20260424093438",
+    "url": "https://hotwheels.fandom.com/wiki/Porsche_917K"
+  },
+  {
+    "id": "lb-kaido_works_nissan_r32_skyline_gt-r",
+    "name": "LB-Kaido Works Nissan R32 Skyline GT-R",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Aerostyles",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/LB-Kaido_Works_Nissan_R32_Skyline_GT-R"
+  },
+  {
+    "id": "2008_audi_a4_touring_car",
+    "name": "2008 Audi A4 Touring Car",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Aerostyles",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/2008_Audi_A4_Touring_Car"
+  },
+  {
+    "id": "mercedes-benz_300_slr",
+    "name": "Mercedes-Benz 300 SLR",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Team Transport",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Mercedes-Benz300SLR.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132515",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Mercedes-Benz300SLR.jpg/revision/latest?cb=20260121132515",
+    "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_300_SLR"
+  },
+  {
+    "id": "terra-torque",
+    "name": "Terra-Torque",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Team Transport",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Terra-Torque.jpg/revision/latest/scale-to-width-down/1200?cb=20260424094043",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Terra-Torque.jpg/revision/latest?cb=20260424094043",
+    "url": "https://hotwheels.fandom.com/wiki/Terra-Torque"
+  },
+  {
+    "id": "2005_mitsubishi_lancer_evolution_ix_wagon",
+    "name": "2005 Mitsubishi Lancer Evolution IX Wagon",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Japanese Wagons Car Culture 2-Pack",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/EvoWagon.jpg/revision/latest/scale-to-width-down/1200?cb=20251111082645",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/EvoWagon.jpg/revision/latest?cb=20251111082645",
+    "url": "https://hotwheels.fandom.com/wiki/2005_Mitsubishi_Lancer_Evolution_IX_Wagon"
+  },
+  {
+    "id": "2004_volkswagen_golf_r32",
+    "name": "2004 Volkswagen Golf R32",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Volkswagen Golf Car Culture 2-Pack",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/VolkswagenR32.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120718",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/VolkswagenR32.jpg/revision/latest?cb=20260126120718",
+    "url": "https://hotwheels.fandom.com/wiki/2004_Volkswagen_Golf_R32"
+  },
+  {
+    "id": "maserati_mc12_(2026)",
+    "name": "Maserati MC12",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Maserati Car Culture 2-Pack",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/13/MaseratiMC12.jpg/revision/latest/scale-to-width-down/1200?cb=20260424093628",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/13/MaseratiMC12.jpg/revision/latest?cb=20260424093628",
+    "url": "https://hotwheels.fandom.com/wiki/Maserati_MC12_(2026)"
+  },
+  {
+    "id": "2002_pontiac_firebird",
+    "name": "2002 Pontiac Firebird",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Hot Wheels Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2002PontiacFirebirdTransAm.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111729",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2002PontiacFirebirdTransAm.jpg/revision/latest?cb=20251216111729",
+    "url": "https://hotwheels.fandom.com/wiki/2002_Pontiac_Firebird"
+  },
+  {
+    "id": "1993_toyota_4runner",
+    "name": "1993 Toyota 4Runner",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Hot Wheels Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/1993Toyota4RunnerSR5.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111753",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/1993Toyota4RunnerSR5.jpg/revision/latest?cb=20251216111753",
+    "url": "https://hotwheels.fandom.com/wiki/1993_Toyota_4Runner"
+  },
+  {
+    "id": "toyota_gr_yaris",
+    "name": "Toyota GR Yaris",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Hot Wheels Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/ToyotaGRYaris.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132308",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/ToyotaGRYaris.jpg/revision/latest?cb=20260121132308",
+    "url": "https://hotwheels.fandom.com/wiki/Toyota_GR_Yaris"
+  },
+  {
+    "id": "2015_toyota_alphard",
+    "name": "2015 Toyota Alphard",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Hot Wheels Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/ToyotaAlphard.jpg/revision/latest/scale-to-width-down/1200?cb=20260311131032",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/ToyotaAlphard.jpg/revision/latest?cb=20260311131032",
+    "url": "https://hotwheels.fandom.com/wiki/2015_Toyota_Alphard"
+  },
+  {
+    "id": "koenigsegg_cc850",
+    "name": "Koenigsegg CC850",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Hot Wheels Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/61/KoenigseggCC850.jpg/revision/latest/scale-to-width-down/1200?cb=20260311131134",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/6/61/KoenigseggCC850.jpg/revision/latest?cb=20260311131134",
+    "url": "https://hotwheels.fandom.com/wiki/Koenigsegg_CC850"
+  },
+  {
+    "id": "1967_chevy_custom_c-10",
+    "name": "1967 Chevy Custom C-10",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Fast & Furious",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/1967ChevroletC10Custom.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120816",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/1967ChevroletC10Custom.jpg/revision/latest?cb=20260126120816",
+    "url": "https://hotwheels.fandom.com/wiki/1967_Chevy_Custom_C-10"
+  },
+  {
+    "id": "1994_honda_del_sol",
+    "name": "1994 Honda del Sol",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Fast & Furious",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HondaCR-XdelSol.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120830",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HondaCR-XdelSol.jpg/revision/latest?cb=20260126120830",
+    "url": "https://hotwheels.fandom.com/wiki/1994_Honda_del_Sol"
+  },
+  {
+    "id": "1970_dodge_challenger_r/t",
+    "name": "1970 Dodge Challenger R/T",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Fast & Furious",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/1970_Dodge_Challenger_R%2FT"
+  },
+  {
+    "id": "2010_bmw_m5",
+    "name": "2010 BMW M5",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Fast & Furious",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/2010_BMW_M5"
+  },
+  {
+    "id": "1983_bmw_733i",
+    "name": "1983 BMW 733i",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Pop Culture: ''Stranger Things''",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1983BMW733i.jpg/revision/latest/scale-to-width-down/1200?cb=20251121100103",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1983BMW733i.jpg/revision/latest?cb=20251121100103",
+    "url": "https://hotwheels.fandom.com/wiki/1983_BMW_733i"
+  },
+  {
+    "id": "2022_porsche_911_gt3_rs",
+    "name": "2022 Porsche 911 GT3 RS",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Pop Culture: ''Gran Turismo''",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/2022Porsche911GT3RS.jpg/revision/latest/scale-to-width-down/1200?cb=20260110124616",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/2022Porsche911GT3RS.jpg/revision/latest?cb=20260110124616",
+    "url": "https://hotwheels.fandom.com/wiki/2022_Porsche_911_GT3_RS"
+  }
+]

@@ -414,6 +414,91 @@ button { font: inherit; border: none; cursor: pointer; background: none; color: 
 /* ── New Castings Grid ──────────────────────────────────────────────────── */
 .castings-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
 
+/* ── Series Cars (2026 Lineup) ─────────────────────────────────────────── */
+.series-tabs-wrap {
+  overflow-x: auto; margin-bottom: 32px;
+  scrollbar-width: thin; scrollbar-color: var(--red) var(--bg-card);
+  -webkit-overflow-scrolling: touch;
+}
+.series-tabs-wrap::-webkit-scrollbar { height: 4px; }
+.series-tabs-wrap::-webkit-scrollbar-thumb { background: var(--red); border-radius: 2px; }
+.series-tabs-wrap::-webkit-scrollbar-track { background: transparent; }
+.series-tabs {
+  display: flex; gap: 8px; padding-bottom: 4px;
+  min-width: max-content;
+}
+.series-tab {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 8px 18px; border-radius: 50px;
+  font-size: .82rem; font-weight: 600;
+  border: 1px solid var(--border); color: var(--text-dim);
+  white-space: nowrap;
+  transition: all var(--transition);
+}
+.series-tab:hover {
+  border-color: var(--red); color: var(--text);
+  background: rgba(230,57,70,.06);
+}
+.series-tab.active {
+  border-color: var(--red); color: #fff;
+  background: linear-gradient(135deg, var(--red), var(--orange));
+  box-shadow: 0 2px 12px rgba(230,57,70,.25);
+}
+.tab-count {
+  font-size: .7rem; opacity: .7;
+  font-family: var(--font-display);
+}
+.series-tab.active .tab-count { opacity: 1; }
+.series-cars-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+.series-car-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  cursor: pointer;
+  transition: all var(--transition);
+}
+.series-car-card:hover {
+  transform: translateY(-6px);
+  border-color: rgba(230,57,70,.4);
+  box-shadow: 0 8px 32px rgba(230,57,70,.15), 0 0 0 1px rgba(230,57,70,.1);
+}
+.series-car-img {
+  position: relative; aspect-ratio: 4/3; overflow: hidden;
+  background: linear-gradient(135deg, #111, #1a1a1a);
+}
+.series-car-img img {
+  width: 100%; height: 100%; object-fit: contain;
+  padding: 14px;
+  transition: transform .5s cubic-bezier(.4,0,.2,1);
+}
+.series-car-card:hover .series-car-img img { transform: scale(1.08); }
+.series-car-tag {
+  position: absolute; top: 10px; left: 10px;
+  padding: 3px 10px; border-radius: 50px;
+  background: rgba(230,57,70,.85); color: #fff;
+  font-size: .65rem; font-weight: 700;
+  letter-spacing: 1px; font-family: var(--font-display);
+  backdrop-filter: blur(8px);
+}
+.series-car-info {
+  padding: 14px 16px;
+  border-top: 1px solid rgba(255,255,255,.04);
+}
+.series-car-info h4 {
+  font-size: .88rem; font-weight: 600; line-height: 1.35;
+  margin-bottom: 4px;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.series-car-series {
+  font-size: .72rem; color: var(--orange); font-weight: 600;
+  letter-spacing: .5px;
+}
+
 /* ── Responsive ─────────────────────────────────────────────────────────── */
 @media (max-width: 1024px) {
   .gallery-masonry { columns: 3; }
@@ -438,6 +523,8 @@ button { font: inherit; border: none; cursor: pointer; background: none; color: 
   .gallery-masonry { columns: 2; }
   .news-grid { grid-template-columns: 1fr; }
   .footer-content { grid-template-columns: 1fr; gap: 30px; }
+  .series-cars-grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 14px; }
+  .series-tab { padding: 6px 14px; font-size: .78rem; }
 }
 @media (max-width: 480px) {
   .hero-line { letter-spacing: 4px; }
@@ -446,6 +533,9 @@ button { font: inherit; border: none; cursor: pointer; background: none; color: 
   .section { padding: 60px 0; }
   .section-title { letter-spacing: 2px; }
   .slider-card { flex: 0 0 220px; }
+  .series-cars-grid { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .series-car-info h4 { font-size: .8rem; }
+  .series-car-info { padding: 10px 12px; }
 }
 
 /* ── Utility ────────────────────────────────────────────────────────────── */

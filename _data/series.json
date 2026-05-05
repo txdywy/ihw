@@ -2,7 +2,7 @@
   {
     "id": "mainline",
     "name": "Mainline",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Mainline",
     "description": "风火轮核心产品线，价格亲民、广泛发售的基础车型系列",
     "image": null,
     "carCount": null
@@ -10,39 +10,39 @@
   {
     "id": "premium",
     "name": "Premium",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Premium",
     "description": "高端系列，采用金属底盘、仿真轮胎和精美涂装，收藏价值更高",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/PremiumGoldLabel.png/revision/latest?cb=20231025101551",
     "carCount": null
   },
   {
     "id": "car_culture",
     "name": "Car Culture",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
     "description": "主题化的高端系列，致敬汽车文化和车迷最爱的经典车型",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/CarCulture.png/revision/latest?cb=20240830150816",
     "carCount": null
   },
   {
     "id": "super_treasure_hunt",
     "name": "Super Treasure Hunt",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Super_Treasure_Hunt",
     "description": "极其稀有的特别版，采用光谱漆面和仿真轮胎，是收藏者的终极目标",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/81/HakoSuper.jpg/revision/latest/scale-to-width-down/1200?cb=20220715051843",
     "carCount": null
   },
   {
     "id": "monster_trucks",
     "name": "Monster Trucks",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks",
     "description": "超大尺寸的怪物卡车系列，配备巨大的轮胎，带来极致的玩耍体验",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/HWMT.png/revision/latest?cb=20241119223555",
     "carCount": null
   },
   {
     "id": "fast_furious",
     "name": "Fast & Furious",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious_(series)",
     "description": "灵感源自《速度与激情》系列电影的经典车型",
     "image": null,
     "carCount": null
@@ -50,7 +50,7 @@
   {
     "id": "batman",
     "name": "Batman",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Batman_(series)",
     "description": "蝙蝠侠主题系列，包含标志性的蝙蝠车和反派车辆",
     "image": null,
     "carCount": null
@@ -58,15 +58,15 @@
   {
     "id": "hw_art_cars",
     "name": "HW Art Cars",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Art_Cars",
     "description": "独特艺术涂装系列，在经典车型上展现创意设计",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/VW_Beetle_2015.jpg/revision/latest?cb=20150405081601",
     "carCount": null
   },
   {
     "id": "team_transport",
     "name": "Team Transport",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Team_Transport",
     "description": "大型车辆搭配配套运输拖车的组合套装系列",
     "image": null,
     "carCount": null
@@ -74,15 +74,15 @@
   {
     "id": "rlc",
     "name": "RLC (Red Line Club)",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Red_Line_Club",
     "description": "限量版俱乐部专属系列，拥有最高品质的细节和包装",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/RLC.png/revision/latest/scale-to-width-down/1200?cb=20230422000126",
     "carCount": null
   },
   {
     "id": "legends_tour",
     "name": "Legends Tour",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Legends_Tour",
     "description": "与年度风火轮传奇之旅活动相关的特别版系列",
     "image": null,
     "carCount": null
@@ -90,7 +90,7 @@
   {
     "id": "ultra_hots",
     "name": "Ultra Hots",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Ultra_Hots",
     "description": "复古主题系列，致敬风火轮黄金时代的经典设计",
     "image": null,
     "carCount": null
@@ -98,23 +98,23 @@
   {
     "id": "boulevard",
     "name": "Boulevard",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
     "description": "精选高端系列，以精美涂装和仿真配件呈现经典车型",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/Boulevard2020.png/revision/latest?cb=20240830151915",
     "carCount": null
   },
   {
     "id": "hw_screen_time",
     "name": "HW Screen Time",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Screen_Time",
     "description": "影视联名系列，收录电影、电视和游戏中的经典车辆",
-    "image": null,
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/HW_Screen_Time.png/revision/latest?cb=20151029101816",
     "carCount": null
   },
   {
     "id": "hw_dream_garage",
     "name": "HW Dream Garage",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Dream_Garage",
     "description": "梦想车库系列，汇聚每个车迷心中的梦想之车",
     "image": null,
     "carCount": null
