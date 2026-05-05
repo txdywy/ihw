@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "rlc_2026__71_amc_javelin_amx",
+    "name": "'71 AMC Javelin AMX",
+    "year": 2026,
+    "color": "[[Spectraflame]] blue & bright red, gloss white",
+    "saleDate": "31 March 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_2026_rlc_exclusive",
+    "name": "2026 RLC Exclusive",
+    "year": 2026,
+    "color": "[[Spectraflame]] party pink",
+    "saleDate": "14 April 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_porsche_911_turbo_3_3_targa",
+    "name": "Porsche 911 Turbo 3.3 Targa",
+    "year": 2026,
+    "color": "[[Spectraflame]] root beer",
+    "saleDate": "21 April 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_porsche_911_turbo_3_3_targa",
+    "name": "Porsche 911 Turbo 3.3 Targa",
+    "year": 2026,
+    "color": null,
+    "saleDate": "21 April 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026__98_subaru_impreza_wrx_sti",
+    "name": "'98 Subaru Impreza WRX STi",
+    "year": 2026,
+    "color": "[[Spectraflame]] slate",
+    "saleDate": "28 April 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  }
+]

@@ -1,186 +1,926 @@
 [
   {
-    "seriesId": "mazda_rx3",
-    "seriesName": "Mazda RX-3",
+    "seriesId": "red_edition",
+    "seriesName": "Red Edition",
     "year": 2026,
-    "carCount": 3,
+    "carCount": 11,
     "cars": [
       {
-        "name": "<font color=\"black\">Compact Kings</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/MazdaRX-3Custom.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100117",
-        "url": "https://hotwheels.fandom.com/wiki/Compact_Kings_Mini_Collection_(2026)"
-      },
-      {
-        "name": "<font color=\"white\">Red Edition</font>",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      },
-      {
-        "name": "<font color=\"black\">Tooned</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/83/%27ToonedRX-3GT.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131826",
-        "url": "https://hotwheels.fandom.com/wiki/Tooned_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "ford_mustang_mache_1400",
-    "seriesName": "Ford Mustang Mach-E 1400",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"white\">HW EV</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121504",
-        "url": "https://hotwheels.fandom.com/wiki/HW_EV_Mini_Collection_(2026)"
-      },
-      {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "Ford Mustang Mach-E 1400",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/8/82/JJM61_RED_o1z.jpg/revision/latest/scale-to-width-down/1200?cb=20260228000231",
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "20_jeep_gladiator",
-    "seriesName": "'20 Jeep Gladiator",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"white\">Truckin' Along</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/2020Gladiator.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121919",
-        "url": "https://hotwheels.fandom.com/wiki/Truckin'_Along_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_Mach-E_1400"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "'20 Jeep Gladiator",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/JJM62_RED_o1.jpg/revision/latest/scale-to-width-down/1200?cb=20260226210125",
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "maserati_shamal",
-    "seriesName": "Maserati Shamal",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"black\">Factory Fresh</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/1992MaseratiShamal.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133529",
-        "url": "https://hotwheels.fandom.com/wiki/Factory_Fresh_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/'20_Jeep_Gladiator"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "Maserati Shamal",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/JJM57_RED_o4.jpg/revision/latest/scale-to-width-down/1200?cb=20260226201535",
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "47_chevy_fleetline",
-    "seriesName": "'47 Chevy Fleetline",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"white\">Layin' Low</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/86/1947Fleetline.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123252",
-        "url": "https://hotwheels.fandom.com/wiki/Layin'_Low_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/Maserati_Shamal"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "'47 Chevy Fleetline",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/47_chevy_2026.jpg/revision/latest?cb=20260407112844",
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "porsche_911_turbo_cabriolet",
-    "seriesName": "Porsche 911 Turbo Cabriolet",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"white\">Drop Tops</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/964Turbo.jpg/revision/latest/scale-to-width-down/1200?cb=20251121094844",
-        "url": "https://hotwheels.fandom.com/wiki/Drop_Tops_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/'47_Chevy_Fleetline"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "Porsche 911 Turbo Cabriolet",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/4/49/JJM67_RED_o4.jpg/revision/latest/scale-to-width-down/1200?cb=20260319061551",
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "mclaren_w1",
-    "seriesName": "McLaren W1",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"black\">Exoticars</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/2025W1.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095544",
-        "url": "https://hotwheels.fandom.com/wiki/Exoticars_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "McLaren W1",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/Mclaren_2026.jpg/revision/latest?cb=20260407113043",
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "passn_gasser",
-    "seriesName": "Pass'n Gasser",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"white\">Drag Racers</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Passin%27Gas.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111241",
-        "url": "https://hotwheels.fandom.com/wiki/Drag_Racers_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/McLaren_W1"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "Pass'n Gasser",
         "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
-      }
-    ]
-  },
-  {
-    "seriesId": "maserati_tipo_61",
-    "seriesName": "Maserati Tipo 61",
-    "year": 2026,
-    "carCount": 2,
-    "cars": [
-      {
-        "name": "<font color=\"white\">HW Starting Grid</font>",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100549",
-        "url": "https://hotwheels.fandom.com/wiki/HW_Starting_Grid_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/Pass'n_Gasser"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "Mazda RX-3",
         "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3"
+      },
+      {
+        "name": "Maserati Tipo 61",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+      },
+      {
+        "name": "Honda Odyssey",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Honda_Odyssey"
+      },
+      {
+        "name": "1970 Pontiac Firebird",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/1970_Pontiac_Firebird"
       }
     ]
   },
   {
-    "seriesId": "honda_odyssey",
-    "seriesName": "Honda Odyssey",
+    "seriesId": "exoticars",
+    "seriesName": "Exoticars",
     "year": 2026,
-    "carCount": 2,
+    "carCount": 10,
     "cars": [
       {
-        "name": "<font color=\"black\">HW J-Imports</font>",
+        "name": "'16 Lamborghini Centenario Roadster",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/LamborghiniCentenario.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133410",
+        "url": "https://hotwheels.fandom.com/wiki/'16_Lamborghini_Centenario_Roadster"
+      },
+      {
+        "name": "Gordon Murray Automotive T.33",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/37/2025GMAT.33.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121316",
+        "url": "https://hotwheels.fandom.com/wiki/Gordon_Murray_Automotive_T.33"
+      },
+      {
+        "name": "McMurtry Spéirling",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/McMurtrySp%C3%A9irlingPure.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122153",
+        "url": "https://hotwheels.fandom.com/wiki/McMurtry_Sp%C3%A9irling"
+      },
+      {
+        "name": "Pagani Zonda Cinque",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122209",
+        "url": "https://hotwheels.fandom.com/wiki/Pagani_Zonda_Cinque_(Tooned)"
+      },
+      {
+        "name": "McLaren W1",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/2025W1.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095544",
+        "url": "https://hotwheels.fandom.com/wiki/McLaren_W1"
+      },
+      {
+        "name": "X-cceleron",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/X-cceleron.jpg/revision/latest/scale-to-width-down/1200?cb=20251216105543",
+        "url": "https://hotwheels.fandom.com/wiki/X-cceleron"
+      },
+      {
+        "name": "'17 Pagani Huayra Roadster",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/2017Huayra.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131545",
+        "url": "https://hotwheels.fandom.com/wiki/'17_Pagani_Huayra_Roadster"
+      },
+      {
+        "name": "2016 Ford GT Race",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/2016FordGTLMGTE.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131507",
+        "url": "https://hotwheels.fandom.com/wiki/2016_Ford_GT_Race"
+      },
+      {
+        "name": "2024 Aston Martin Vantage GT3",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/AstonMartinVantageAMRGT3Evo.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131524",
+        "url": "https://hotwheels.fandom.com/wiki/2024_Aston_Martin_Vantage_GT3"
+      },
+      {
+        "name": "Mach Speeder",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/65/ExotiSpeeder.jpg/revision/latest/scale-to-width-down/1200?cb=20260316113652",
+        "url": "https://hotwheels.fandom.com/wiki/Mach_Speeder"
+      }
+    ]
+  },
+  {
+    "seriesId": "hw_ev",
+    "seriesName": "HW EV",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "Solar Reflex",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/86/SolarReflexEV.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121434",
+        "url": "https://hotwheels.fandom.com/wiki/Solar_Reflex"
+      },
+      {
+        "name": "Ford Mustang Mach-E 1400",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121504",
+        "url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_Mach-E_1400"
+      },
+      {
+        "name": "Porsche Taycan Turbo S",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/2026PorscheTaycan.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122910",
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_Taycan_Turbo_S"
+      },
+      {
+        "name": "Wattzup",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/TazerRacer.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122607",
+        "url": "https://hotwheels.fandom.com/wiki/Wattzup"
+      },
+      {
+        "name": "Electro Silhouette",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/ElectroSilhouetteTH.jpeg/revision/latest/scale-to-width-down/1200?cb=20251221174800",
+        "url": "https://hotwheels.fandom.com/wiki/Electro_Silhouette"
+      },
+      {
+        "name": "Lucid Air",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2022LucidAir.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095044",
+        "url": "https://hotwheels.fandom.com/wiki/Lucid_Air"
+      },
+      {
+        "name": "Polestar TRX",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/RacingTRX.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110507",
+        "url": "https://hotwheels.fandom.com/wiki/Polestar_TRX"
+      },
+      {
+        "name": "Voltage Spike",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Spiker.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110526",
+        "url": "https://hotwheels.fandom.com/wiki/Voltage_Spike"
+      },
+      {
+        "name": "Custom 2020 Honda e",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/HondaeCustom.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100446",
+        "url": "https://hotwheels.fandom.com/wiki/Custom_2020_Honda_e"
+      },
+      {
+        "name": "Cadillac Celestiq",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/CadillacCelestiq.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130240",
+        "url": "https://hotwheels.fandom.com/wiki/Cadillac_Celestiq"
+      }
+    ]
+  },
+  {
+    "seriesId": "nightspeed",
+    "seriesName": "Nightspeed",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "'87 Buick Regal GNX",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/BuickRegal.jpg/revision/latest/scale-to-width-down/1200?cb=20251101092453",
+        "url": "https://hotwheels.fandom.com/wiki/'87_Buick_Regal_GNX"
+      },
+      {
+        "name": "2020 Ford Mustang Shelby GT500",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/2020FordShelbyGT500.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121837",
+        "url": "https://hotwheels.fandom.com/wiki/2020_Ford_Mustang_Shelby_GT500"
+      },
+      {
+        "name": "2018 Honda Civic Type R",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/2018FK8.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133500",
+        "url": "https://hotwheels.fandom.com/wiki/2018_Honda_Civic_Type_R"
+      },
+      {
+        "name": "'70 Dodge Hemi Challenger",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/1970DodgeChallengerHemi.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122939",
+        "url": "https://hotwheels.fandom.com/wiki/'70_Dodge_Hemi_Challenger"
+      },
+      {
+        "name": "Cupra e-Racer",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/NightspeedCupra.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122708",
+        "url": "https://hotwheels.fandom.com/wiki/Cupra_e-Racer"
+      },
+      {
+        "name": "24/Seven",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/de/24-Seven.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123041",
+        "url": "https://hotwheels.fandom.com/wiki/24%2FSeven"
+      },
+      {
+        "name": "'16 Cadillac ATS-V R",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/CadillacGT3.jpg/revision/latest/scale-to-width-down/1200?cb=20260103095942",
+        "url": "https://hotwheels.fandom.com/wiki/'16_Cadillac_ATS-V_R"
+      },
+      {
+        "name": "LB-WORKS Lamborghini Huracán Coupé",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/LBHurac%C3%A1n.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110804",
+        "url": "https://hotwheels.fandom.com/wiki/LB-WORKS_Lamborghini_Hurac%C3%A1n_Coup%C3%A9"
+      },
+      {
+        "name": "Corvette C7 Z06",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2015CorvetteZ06.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100415",
+        "url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06"
+      },
+      {
+        "name": "'20 Dodge Charger Hellcat",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2020Hellcat.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131633",
+        "url": "https://hotwheels.fandom.com/wiki/'20_Dodge_Charger_Hellcat"
+      }
+    ]
+  },
+  {
+    "seriesId": "hw_jimports",
+    "seriesName": "HW J-Imports",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "Toyota Prius Custom",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/ToyotaPriusCustom.jpg/revision/latest/scale-to-width-down/1200?cb=20251216105344",
+        "url": "https://hotwheels.fandom.com/wiki/Toyota_Prius_Custom"
+      },
+      {
+        "name": "Mazda RX-7",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/1978MazdaRX-7.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095109",
+        "url": "https://hotwheels.fandom.com/wiki/Mazda_RX-7"
+      },
+      {
+        "name": "Nissan Skyline 2000 GT-R",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/1973NissanKenmeri.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110702",
+        "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_2000GT-R"
+      },
+      {
+        "name": "1985 Honda CR-X",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/1985HondaCR-XMugen.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110719",
+        "url": "https://hotwheels.fandom.com/wiki/1985_Honda_CR-X"
+      },
+      {
+        "name": "'89 Mazda Savanna RX-7 FC3S",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/1989MazdaRX-7.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100355",
+        "url": "https://hotwheels.fandom.com/wiki/'89_Mazda_Savanna_RX-7_FC3S"
+      },
+      {
+        "name": "Honda Odyssey",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/2014HondaOdyssey.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121432",
-        "url": "https://hotwheels.fandom.com/wiki/HW_J-Imports_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/Honda_Odyssey"
       },
       {
-        "name": "<font color=\"white\">Red Edition</font>",
+        "name": "Subaru Impreza WRX",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2005SubaruImpreza.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125327",
+        "url": "https://hotwheels.fandom.com/wiki/Subaru_Impreza"
+      },
+      {
+        "name": "'88 Mitsubishi Starion",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MitsubishiStarion.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125415",
+        "url": "https://hotwheels.fandom.com/wiki/'88_Mitsubishi_Starion"
+      },
+      {
+        "name": "Toyota AE86 Sprinter Trueno",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/1987ToyotaTrueno.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101827",
+        "url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno"
+      },
+      {
+        "name": "Nissan Skyline GT-R (BNR34)",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/1999NissanSkylineR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101851",
+        "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)"
+      }
+    ]
+  },
+  {
+    "seriesId": "hw_euro",
+    "seriesName": "HW Euro",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "Drift Box",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/DriftBox.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123444",
+        "url": "https://hotwheels.fandom.com/wiki/Drift_Box"
+      },
+      {
+        "name": "'17 Audi RS 6 Avant",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/2017Avant.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095157",
+        "url": "https://hotwheels.fandom.com/wiki/'17_Audi_RS_6_Avant"
+      },
+      {
+        "name": "Lotus Cortina",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/99/1963Cortina.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095216",
+        "url": "https://hotwheels.fandom.com/wiki/Lotus_Cortina"
+      },
+      {
+        "name": "VW ID. Buzz Bomb",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/VolkswagenID.BuzzBomb.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110548",
+        "url": "https://hotwheels.fandom.com/wiki/VW_ID._Buzz_Bomb"
+      },
+      {
+        "name": "'87 Ford Sierra Cosworth",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1987Sierra.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100500",
+        "url": "https://hotwheels.fandom.com/wiki/'87_Ford_Sierra_Cosworth"
+      },
+      {
+        "name": "Morgan Super 3",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Morgan3Wheeler.jpg/revision/latest/scale-to-width-down/1200?cb=20260128103231",
+        "url": "https://hotwheels.fandom.com/wiki/Morgan_Super_3"
+      },
+      {
+        "name": "BMW 635 CSi",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/1980BMW635.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121526",
+        "url": "https://hotwheels.fandom.com/wiki/BMW_635_CSi"
+      },
+      {
+        "name": "1983 Porsche 928S",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/1983Porsche928.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130616",
+        "url": "https://hotwheels.fandom.com/wiki/1983_Porsche_928S"
+      },
+      {
+        "name": "Mercedes-Benz CLA HW",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Mercedes-BenzCLAHW.jpg/revision/latest/scale-to-width-down/1200?cb=20260316113738",
+        "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_CLA_HW"
+      },
+      {
+        "name": "Jaguar XJC V12 Coupe",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1976JaguarXJC.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125803",
+        "url": "https://hotwheels.fandom.com/wiki/Jaguar_XJC_V12_Coupe"
+      }
+    ]
+  },
+  {
+    "seriesId": "drag_racers",
+    "seriesName": "Drag Racers",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "'76 Chevy Chevette",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/DragChevette.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095559",
+        "url": "https://hotwheels.fandom.com/wiki/'76_Chevy_Chevette"
+      },
+      {
+        "name": "Supercharged",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/63/NHRASupercharged.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110020",
+        "url": "https://hotwheels.fandom.com/wiki/Supercharged"
+      },
+      {
+        "name": "Pass'n Gasser",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Passin%27Gas.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111241",
+        "url": "https://hotwheels.fandom.com/wiki/Pass'n_Gasser"
+      },
+      {
+        "name": "Eggshelleracer",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Eggshelleracer.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100024",
+        "url": "https://hotwheels.fandom.com/wiki/Eggshelleracer"
+      },
+      {
+        "name": "'68 Dodge Dart",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/89/1968Dart.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100040",
+        "url": "https://hotwheels.fandom.com/wiki/'68_Dodge_Dart"
+      },
+      {
+        "name": "'64 Dodge 330",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/1964Dodge330.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100603",
+        "url": "https://hotwheels.fandom.com/wiki/'64_Dodge_330"
+      },
+      {
+        "name": "Custom '72 Chevy LUV",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/1972LUV.jpg/revision/latest/scale-to-width-down/1200?cb=20260128102812",
+        "url": "https://hotwheels.fandom.com/wiki/Custom_'72_Chevy_LUV"
+      },
+      {
+        "name": "Honda Civic Custom",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/88/HondaCivicDragster.jpg/revision/latest/scale-to-width-down/1200?cb=20260128103247",
+        "url": "https://hotwheels.fandom.com/wiki/Honda_Civic_Custom"
+      },
+      {
+        "name": "'65 Mercury Comet Cyclone",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/1965Cyclone.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130635",
+        "url": "https://hotwheels.fandom.com/wiki/'65_Mercury_Comet_Cyclone"
+      },
+      {
+        "name": "Fiat 500C",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Fiat500Drag.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101701",
+        "url": "https://hotwheels.fandom.com/wiki/Fiat_500C"
+      }
+    ]
+  },
+  {
+    "seriesId": "wagons",
+    "seriesName": "Wagons",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "Cruise Bruiser",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/49/TanBruiser.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110622",
+        "url": "https://hotwheels.fandom.com/wiki/Cruise_Bruiser"
+      },
+      {
+        "name": "Time Shifter",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Shiftin%27Time.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100226",
+        "url": "https://hotwheels.fandom.com/wiki/Time_Shifter"
+      },
+      {
+        "name": "'70 Chevelle SS Wagon",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/ATNChevelle.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100306",
+        "url": "https://hotwheels.fandom.com/wiki/'70_Chevelle_SS_Wagon"
+      },
+      {
+        "name": "Long Bloc",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/MoonBloc.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100340",
+        "url": "https://hotwheels.fandom.com/wiki/Long_Bloc"
+      },
+      {
+        "name": "8 Crate",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/47/8CrateRanchWagon.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131615",
+        "url": "https://hotwheels.fandom.com/wiki/8_Crate"
+      },
+      {
+        "name": "Classic '55 Nomad",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/1955Nomad.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121651",
+        "url": "https://hotwheels.fandom.com/wiki/Classic_Nomad"
+      },
+      {
+        "name": "Gone Mad",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/WagoneMad.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130314",
+        "url": "https://hotwheels.fandom.com/wiki/Gone_Mad"
+      },
+      {
+        "name": "'94 Audi Avant RS2",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/1994AudiRS2Avant.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125305",
+        "url": "https://hotwheels.fandom.com/wiki/'94_Audi_Avant_RS2"
+      },
+      {
+        "name": "Lil' Mad",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Lil%27Mad.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102422",
+        "url": "https://hotwheels.fandom.com/wiki/Lil'_Mad"
+      },
+      {
+        "name": "Nissan Maxima Drift Car",
         "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Red_Edition_Mini_Collection_(2026)"
+        "url": "https://hotwheels.fandom.com/wiki/Nissan_Maxima_Drift_Car"
+      }
+    ]
+  },
+  {
+    "seriesId": "hw_starting_grid",
+    "seriesName": "HW Starting Grid",
+    "year": 2026,
+    "carCount": 9,
+    "cars": [
+      {
+        "name": "Instant Boost",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest/scale-to-width-down/1200?cb=20250920121126",
+        "url": "https://hotwheels.fandom.com/wiki/Instant_Boost"
+      },
+      {
+        "name": "'69 Dodge Charger Daytona",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/1969DodgeDaytona.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122643",
+        "url": "https://hotwheels.fandom.com/wiki/'69_Dodge_Charger_Daytona"
+      },
+      {
+        "name": "Track Ripper",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/TrackRipper.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122131",
+        "url": "https://hotwheels.fandom.com/wiki/Track_Ripper"
+      },
+      {
+        "name": "Bugatti Bolide",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/92/RacingBolide.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122844",
+        "url": "https://hotwheels.fandom.com/wiki/Bugatti_Bolide"
+      },
+      {
+        "name": "BMW M4 GT3",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/BMWM4GT3.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101031",
+        "url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3"
+      },
+      {
+        "name": "Renault Espace F1",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/RacingEspace.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111129",
+        "url": "https://hotwheels.fandom.com/wiki/Renault_Espace_F1"
+      },
+      {
+        "name": "Twin Dorado",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/RacingDorado.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111219",
+        "url": "https://hotwheels.fandom.com/wiki/Twin_Dorado"
+      },
+      {
+        "name": "Cone Shaker",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/HotConez.jpg/revision/latest/scale-to-width-down/1200?cb=20260103111850",
+        "url": "https://hotwheels.fandom.com/wiki/Cone_Shaker"
+      },
+      {
+        "name": "Maserati Tipo 61",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100549",
+        "url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+      }
+    ]
+  },
+  {
+    "seriesId": "then_and_now",
+    "seriesName": "Then and Now",
+    "year": 2026,
+    "carCount": 8,
+    "cars": [
+      {
+        "name": "Austin Mini Cooper S",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/1200?cb=20251213090022",
+        "url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S"
+      },
+      {
+        "name": "Datsun 240Z",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1972240Z.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095527",
+        "url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
+      },
+      {
+        "name": "Corvette Grand Sport",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/54/C2GrandSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095618",
+        "url": "https://hotwheels.fandom.com/wiki/Corvette_Grand_Sport"
+      },
+      {
+        "name": "'96 Porsche Carrera",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/1996Porsche996.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111051",
+        "url": "https://hotwheels.fandom.com/wiki/'96_Porsche_Carrera"
+      },
+      {
+        "name": "2023 Nissan Z",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2023NissanZSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111257",
+        "url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z"
+      },
+      {
+        "name": "'20 Toyota GR Supra",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2020ToyotaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121610",
+        "url": "https://hotwheels.fandom.com/wiki/'20_Toyota_GR_Supra"
+      },
+      {
+        "name": "'11 Corvette Grand Sport",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/2011Corvette.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125656",
+        "url": "https://hotwheels.fandom.com/wiki/'11_Corvette_Grand_Sport"
+      },
+      {
+        "name": "'82 Toyota Supra",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/1982CelicaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125714",
+        "url": "https://hotwheels.fandom.com/wiki/'82_Toyota_Supra"
+      }
+    ]
+  },
+  {
+    "seriesId": "compact_kings",
+    "seriesName": "Compact Kings",
+    "year": 2026,
+    "carCount": 8,
+    "cars": [
+      {
+        "name": "Hako Type D",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/CompactSupotsuka.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110051",
+        "url": "https://hotwheels.fandom.com/wiki/Hako_Type_D"
+      },
+      {
+        "name": "Hoto Roto",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/BlackRoto.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110108",
+        "url": "https://hotwheels.fandom.com/wiki/Hoto_Roto"
+      },
+      {
+        "name": "Kei Swap",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/71/GabeSwap.jpg/revision/latest/scale-to-width-down/1200?cb=20260103095921",
+        "url": "https://hotwheels.fandom.com/wiki/Kei_Swap"
+      },
+      {
+        "name": "'85 Honda City Turbo II",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/HondaCityTurbo.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100055",
+        "url": "https://hotwheels.fandom.com/wiki/'85_Honda_City_Turbo_II"
+      },
+      {
+        "name": "Mazda RX-3",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/MazdaRX-3Custom.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100117",
+        "url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3"
+      },
+      {
+        "name": "Datsun 620",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/DatsunnyDay.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130042",
+        "url": "https://hotwheels.fandom.com/wiki/Datsun_620"
+      },
+      {
+        "name": "Lotus Sport Elise",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/LotusElise.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130144",
+        "url": "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise"
+      },
+      {
+        "name": "'63 Chevy II",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/1963ChevyII.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125730",
+        "url": "https://hotwheels.fandom.com/wiki/'63_Chevy_II"
+      }
+    ]
+  },
+  {
+    "seriesId": "rod_squad",
+    "seriesName": "Rod Squad",
+    "year": 2026,
+    "carCount": 7,
+    "cars": [
+      {
+        "name": "Erikenstein Rod",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/61/GreenRod.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100517",
+        "url": "https://hotwheels.fandom.com/wiki/Erikenstein_Rod"
+      },
+      {
+        "name": "Pedal Driver",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/26/PedalDriver.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100531",
+        "url": "https://hotwheels.fandom.com/wiki/Pedal_Driver"
+      },
+      {
+        "name": "'33 Ford Lo Boy",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/FordLoBoy.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121013",
+        "url": "https://hotwheels.fandom.com/wiki/'33_Ford_Lo_Boy"
+      },
+      {
+        "name": "Mid Mill",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/70/MoodyMill.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131805",
+        "url": "https://hotwheels.fandom.com/wiki/Mid_Mill"
+      },
+      {
+        "name": "Screamliner",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/Rodliner.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131936",
+        "url": "https://hotwheels.fandom.com/wiki/Screamliner"
+      },
+      {
+        "name": "'41 Willys",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/WillysCoupe.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130104",
+        "url": "https://hotwheels.fandom.com/wiki/Custom_'41_Willys_Coupe"
+      },
+      {
+        "name": "Chop 'n Bloc",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125509",
+        "url": "https://hotwheels.fandom.com/wiki/Chop_'n_Bloc"
+      }
+    ]
+  },
+  {
+    "seriesId": "hw_dream_garage",
+    "seriesName": "HW Dream Garage",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Mazda MX-5 Miata",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/26/CyberpunkMazda.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121255",
+        "url": "https://hotwheels.fandom.com/wiki/Mazda_MX-5_Miata_(2025)"
+      },
+      {
+        "name": "La Liebre",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/21/LaLiebre.jpg/revision/latest/scale-to-width-down/1200?cb=20251210014159",
+        "url": "https://hotwheels.fandom.com/wiki/La_Liebre"
+      },
+      {
+        "name": "'67 Camaro",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/DreamCamaro.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095024",
+        "url": "https://hotwheels.fandom.com/wiki/'67_Camaro_(2022)"
+      },
+      {
+        "name": "2 Jet Z",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/THJetZ.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121401",
+        "url": "https://hotwheels.fandom.com/wiki/2_Jet_Z"
+      },
+      {
+        "name": "Tooned Purple Passion",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/%27ToonedPurplePassion.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121417",
+        "url": "https://hotwheels.fandom.com/wiki/Tooned_Purple_Passion"
+      }
+    ]
+  },
+  {
+    "seriesId": "drop_tops",
+    "seriesName": "Drop Tops",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Pass 'n Go",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437",
+        "url": "https://hotwheels.fandom.com/wiki/Pass_'n_Go"
+      },
+      {
+        "name": "'92 Dodge Viper RT/10",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/1992Viper.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122319",
+        "url": "https://hotwheels.fandom.com/wiki/'92_Dodge_Viper_RT%2F10"
+      },
+      {
+        "name": "Porsche 911 Turbo Cabriolet",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/964Turbo.jpg/revision/latest/scale-to-width-down/1200?cb=20251121094844",
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_Cabriolet"
+      },
+      {
+        "name": "2019 Audi R8 Spyder",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/2019AudiR8.jpg/revision/latest/scale-to-width-down/1200?cb=20260105100259",
+        "url": "https://hotwheels.fandom.com/wiki/2019_Audi_R8_Spyder"
+      },
+      {
+        "name": "Fiat Beast of Turin",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/64/FiatS76Record.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121043",
+        "url": "https://hotwheels.fandom.com/wiki/Fiat_Beast_of_Turin"
+      }
+    ]
+  },
+  {
+    "seriesId": "xraycers",
+    "seriesName": "X-Raycers",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "RD-06",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/XRD-06.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121411",
+        "url": "https://hotwheels.fandom.com/wiki/RD-06"
+      },
+      {
+        "name": "X-Steam",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/X-SteamRacer.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122335",
+        "url": "https://hotwheels.fandom.com/wiki/X-Steam"
+      },
+      {
+        "name": "'69 Chevelle",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/1969Chevelle.jpg/revision/latest/scale-to-width-down/1200?cb=20251121094921",
+        "url": "https://hotwheels.fandom.com/wiki/'69_Chevelle_(X-Raycers)"
+      },
+      {
+        "name": "Hot Wheengs",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/59/HotSauce.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110138",
+        "url": "https://hotwheels.fandom.com/wiki/Hot_Wheengs"
+      },
+      {
+        "name": "Bullet Proof",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/BulletProof.jpg/revision/latest/scale-to-width-down/1200?cb=20260128103036",
+        "url": "https://hotwheels.fandom.com/wiki/Bullet_Proof"
+      }
+    ]
+  },
+  {
+    "seriesId": "experimotors",
+    "seriesName": "Experimotors",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Carbonator",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/HNY26Carbonator.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121652",
+        "url": "https://hotwheels.fandom.com/wiki/Carbonator"
+      },
+      {
+        "name": "Roller Toaster",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/39/RollerToaster.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122748",
+        "url": "https://hotwheels.fandom.com/wiki/Roller_Toaster"
+      },
+      {
+        "name": "Feline Lucky",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/I%27mFelineLucky.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110828",
+        "url": "https://hotwheels.fandom.com/wiki/Feline_Lucky"
+      },
+      {
+        "name": "Coupé Clip",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Coup%C3%A9Clip.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110913",
+        "url": "https://hotwheels.fandom.com/wiki/Coupe_Clip"
+      },
+      {
+        "name": "Twin Tags",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130511",
+        "url": "https://hotwheels.fandom.com/wiki/Twin_Tags"
+      }
+    ]
+  },
+  {
+    "seriesId": "truckin_along",
+    "seriesName": "Truckin' Along",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Drift-Ender",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/DriftDefender.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121900",
+        "url": "https://hotwheels.fandom.com/wiki/Drift-Ender"
+      },
+      {
+        "name": "'20 Jeep Gladiator",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/2020Gladiator.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121919",
+        "url": "https://hotwheels.fandom.com/wiki/'20_Jeep_Gladiator"
+      },
+      {
+        "name": "'83 Chevy Silverado",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/BlackWidowSilverado.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123210",
+        "url": "https://hotwheels.fandom.com/wiki/'83_Chevy_Silverado"
+      },
+      {
+        "name": "Mercedes-Benz Unimog 1300L",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Unimog1300.jpg/revision/latest/scale-to-width-down/1200?cb=20251209220115",
+        "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_Unimog_1300L"
+      },
+      {
+        "name": "Ford F-150 Lightning SuperTruck",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/FordSupertruck.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121511",
+        "url": "https://hotwheels.fandom.com/wiki/Ford_F-150_Lightning_SuperTruck"
+      }
+    ]
+  },
+  {
+    "seriesId": "factory_fresh",
+    "seriesName": "Factory Fresh",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Porsche 911 Carrera T",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Porsche911CarreraT.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133515",
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_T"
+      },
+      {
+        "name": "Maserati Shamal",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/1992MaseratiShamal.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133529",
+        "url": "https://hotwheels.fandom.com/wiki/Maserati_Shamal"
+      },
+      {
+        "name": "Ford Mustang GTD",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/50/2026FordMustangGTD.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122815",
+        "url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_GTD"
+      },
+      {
+        "name": "Custom '66 Toronado",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100431",
+        "url": "https://hotwheels.fandom.com/wiki/Custom_'66_Toronado"
+      },
+      {
+        "name": "'98 Honda Prelude",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1998HondaPrelude.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121145",
+        "url": "https://hotwheels.fandom.com/wiki/'98_Honda_Prelude"
+      }
+    ]
+  },
+  {
+    "seriesId": "layin_low",
+    "seriesName": "Layin' Low",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Bounce'n Bass",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Bounce%27nBass.jpg/revision/latest/scale-to-width-down/1200?cb=20250920121109",
+        "url": "https://hotwheels.fandom.com/wiki/Bounce'n_Bass"
+      },
+      {
+        "name": "'59 Chevy Impala",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1959Impala.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123228",
+        "url": "https://hotwheels.fandom.com/wiki/'59_Chevy_Bel_Air"
+      },
+      {
+        "name": "'47 Chevy Fleetline",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/86/1947Fleetline.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123252",
+        "url": "https://hotwheels.fandom.com/wiki/'47_Chevy_Fleetline"
+      },
+      {
+        "name": "'64 Impala",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/1964ChevroletImpala.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111004",
+        "url": "https://hotwheels.fandom.com/wiki/'64_Impala"
+      },
+      {
+        "name": "La Troca",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/45/1950ChevyTruck.jpg/revision/latest/scale-to-width-down/1200?cb=20260128103137",
+        "url": "https://hotwheels.fandom.com/wiki/La_Troca"
+      }
+    ]
+  },
+  {
+    "seriesId": "hw_fan_driven",
+    "seriesName": "HW Fan Driven",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Deora II",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Surfin%27Deora.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122510",
+        "url": "https://hotwheels.fandom.com/wiki/Deora_II"
+      },
+      {
+        "name": "Rodger Dodger",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/FanDrivenDodger.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122536",
+        "url": "https://hotwheels.fandom.com/wiki/Rodger_Dodger"
+      },
+      {
+        "name": "Purple Passion",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/PinkPassion.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123307",
+        "url": "https://hotwheels.fandom.com/wiki/Purple_Passion"
+      },
+      {
+        "name": "El Segundo Coupe",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/RacingCoupe.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111033",
+        "url": "https://hotwheels.fandom.com/wiki/El_Segundo_Coupe"
+      },
+      {
+        "name": "Bone Shaker",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/FanShaker.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131749",
+        "url": "https://hotwheels.fandom.com/wiki/Bone_Shaker"
       }
     ]
   }

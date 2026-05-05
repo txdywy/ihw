@@ -31,7 +31,7 @@ jobs:
           node-version: '20'
       - run: npm install
       - run: node scripts/scrape.js
-        timeout-minutes: 15
+        timeout-minutes: 20
       - name: Check for changes
         id: changes
         run: |

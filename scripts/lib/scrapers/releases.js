@@ -27,14 +27,14 @@ const MAX_CARS_PER_GROUP = 12;
  *
  * @param {import('../wiki-client')} wikiClient
  * @param {number} year
- * @returns {Promise<Array<{title: string, pageName: string, imgFile: string|null}>>}
+ * @returns {Promise<{cars: Array<{title: string, pageName: string, imgFile: string|null}>, wikitext: string}>}
  */
 async function parseYearList(wikiClient, year) {
   console.log(`\n📅 Parsing List of ${year} Hot Wheels...`);
   const parsed = await wikiClient.parsePage(`List of ${year} Hot Wheels`);
   if (!parsed) {
     console.log(`  ⚠ List page not found for ${year}`);
-    return [];
+    return { cars: [], wikitext: '' };
   }
 
   const wt = parsed.wikitext?.['*'] || '';
@@ -69,7 +69,7 @@ async function parseYearList(wikiClient, year) {
   }
 
   console.log(`  Found ${cars.length} cars for ${year}`);
-  return cars;
+  return { cars, wikitext: wt };
 }
 
 /**
@@ -165,11 +165,17 @@ async function scrapeReleases(wikiClient) {
 
   const newReleases = [];
   const releases = [];
+  let parsed2026Wikitext = null;
 
   for (const year of years) {
     try {
       // 1. Parse year list ONCE
-      const rawCars = await parseYearList(wikiClient, year);
+      const { cars: rawCars, wikitext } = await parseYearList(wikiClient, year);
+
+      // Capture 2026 wikitext for reuse by series-cars scraper
+      if (year === currentYear) {
+        parsed2026Wikitext = wikitext;
+      }
 
       // 2. Deduplicate by pageName
       const uniqueCars = deduplicateByPageName(rawCars);
@@ -228,7 +234,7 @@ async function scrapeReleases(wikiClient) {
   }
 
   console.log(`  🏁 New releases: ${newReleases.length}, Release groups: ${releases.length}`);
-  return { releases, newReleases };
+  return { releases, newReleases, parsed2026Wikitext };
 }
 
 module.exports = { scrapeReleases, parseYearList, deduplicateByPageName };
