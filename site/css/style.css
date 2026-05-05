@@ -383,12 +383,44 @@ button { font: inherit; border: none; cursor: pointer; background: none; color: 
 .empty-state .emoji { font-size: 3rem; margin-bottom: 16px; }
 .empty-state h3 { font-size: 1.2rem; color: var(--text); margin-bottom: 8px; }
 
+/* ── Search ──────────────────────────────────────────────────────────────── */
+.search-wrap { position: relative; margin-right: 16px; }
+.search-input {
+  width: 180px; padding: 8px 14px; border-radius: 50px;
+  border: 1px solid var(--border); background: rgba(255,255,255,.04);
+  color: var(--text); font-size: .85rem;
+  transition: all var(--transition);
+}
+.search-input:focus { width: 240px; border-color: var(--red); outline: none; background: rgba(255,255,255,.08); }
+.search-input::placeholder { color: var(--text-muted); }
+.search-results {
+  position: absolute; top: 100%; left: 0; right: 0; margin-top: 8px;
+  background: var(--bg-surface); border: 1px solid var(--border);
+  border-radius: var(--radius); max-height: 400px; overflow-y: auto;
+  display: none; z-index: 1001; box-shadow: var(--shadow);
+}
+.search-results.active { display: block; }
+.search-result-item {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 14px; cursor: pointer;
+  transition: background var(--transition);
+}
+.search-result-item:hover { background: rgba(255,255,255,.06); }
+.search-result-item img { width: 40px; height: 40px; object-fit: contain; border-radius: 6px; background: #1a1a1a; }
+.search-result-name { font-size: .85rem; font-weight: 500; }
+.search-result-category { font-size: .7rem; color: var(--orange); margin-top: 2px; }
+.search-no-results { padding: 20px; text-align: center; color: var(--text-dim); font-size: .85rem; }
+
+/* ── New Castings Grid ──────────────────────────────────────────────────── */
+.castings-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 20px; }
+
 /* ── Responsive ─────────────────────────────────────────────────────────── */
 @media (max-width: 1024px) {
   .gallery-masonry { columns: 3; }
   .footer-content { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 768px) {
+  .search-wrap { display: none; }
   .mobile-toggle { display: flex; }
   .nav-links {
     position: fixed; top: 0; right: -100%; width: 280px; height: 100vh;

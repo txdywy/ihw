@@ -6,7 +6,7 @@
   'use strict';
 
   const DATA_BASE = 'data';
-  let allData = { featured: [], series: [], news: [], releases: [], gallery: [], metadata: {} };
+  let allData = { featured: [], series: [], news: [], releases: [], gallery: [], newCastings: [], metadata: {} };
 
   // ── Data Loading ───────────────────────────────────────────────────────────
 
@@ -19,16 +19,18 @@
   }
 
   async function loadAllData() {
-    const [featured, series, news, releases, gallery, metadata] = await Promise.all([
+    const [featured, series, news, releases, gallery, newCastings, metadata] = await Promise.all([
       loadJSON('featured.json'), loadJSON('series.json'),
       loadJSON('news.json'), loadJSON('releases.json'),
-      loadJSON('gallery.json'), loadJSON('metadata.json')
+      loadJSON('gallery.json'), loadJSON('new-castings.json'),
+      loadJSON('metadata.json')
     ]);
     allData.featured = featured || [];
     allData.series = series || [];
     allData.news = news || [];
     allData.releases = releases || [];
     allData.gallery = gallery || [];
+    allData.newCastings = newCastings || [];
     allData.metadata = metadata || {};
   }
 
@@ -39,6 +41,10 @@
     document.getElementById('statCars').textContent = (m.stats?.totalFeatured || allData.featured.length) + '+';
     document.getElementById('statSeries').textContent = (m.stats?.totalSeries || allData.series.length) + '+';
     document.getElementById('statImages').textContent = (m.stats?.totalGallery || allData.gallery.length) + '+';
+    const castingsEl = document.getElementById('statCastings');
+    if (castingsEl) {
+      castingsEl.textContent = (m.stats?.totalNewCastings || allData.newCastings.length) + '+';
+    }
     const updated = m.lastUpdated ? timeAgo(new Date(m.lastUpdated)) : '--';
     document.getElementById('statUpdated').textContent = updated;
   }
@@ -155,6 +161,25 @@
         <div class="gallery-overlay">
           <h4>${esc(img.title)}</h4>
           <p>${esc(img.source || 'Hot Wheels')}</p>
+        </div>
+      </div>
+    `).join('');
+    observeFadeIns(grid);
+  }
+
+  function renderNewCastings() {
+    const grid = document.getElementById('castingsGrid');
+    const items = allData.newCastings;
+    if (!items.length) { grid.innerHTML = emptyState('暂无新模具数据', '🆕'); return; }
+    grid.innerHTML = items.map(c => `
+      <div class="card fade-in" onclick="window.open('${c.url}','_blank')">
+        <div class="card-img-wrap">
+          ${c.image ? `<img src="${c.image}" alt="${esc(c.name)}" loading="lazy">` : placeholder()}
+          ${c.year ? `<span class="card-badge">${c.year}</span>` : ''}
+        </div>
+        <div class="card-body">
+          <h3 class="card-title">${esc(c.name)}</h3>
+          <p class="card-meta">${esc(c.firstSeries || c.designer || '')}</p>
         </div>
       </div>
     `).join('');
@@ -342,9 +367,20 @@
     renderStats();
     renderFeatured();
     renderReleases();
+    renderNewCastings();
     renderSeries();
     renderNews();
     renderGallery();
+
+    // Initialize search
+    const searchEngine = new SearchEngine();
+    searchEngine.buildIndex(allData);
+    const searchUI = new SearchUI(
+      document.getElementById('searchInput'),
+      document.getElementById('searchResults'),
+      searchEngine
+    );
+    searchUI.init();
 
     observeFadeIns();
     document.getElementById('loader').classList.add('hidden');

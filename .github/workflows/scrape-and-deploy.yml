@@ -2,13 +2,14 @@ name: Scrape & Deploy Hot Wheels Hub
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
-  workflow_dispatch:      # Manual trigger
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'site/**'
-      - 'assets/**'
+      - 'scripts/**'
+      - 'package.json'
 
 permissions:
   contents: write
@@ -24,28 +25,17 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Run scraper
-        run: node scripts/scrape.js
+      - run: npm install
+      - run: node scripts/scrape.js
         timeout-minutes: 15
-
       - name: Check for changes
         id: changes
         run: |
           git diff --quiet _data/ && echo "changed=false" >> "$GITHUB_OUTPUT" || echo "changed=true" >> "$GITHUB_OUTPUT"
-          echo "Timestamp: $(date -u '+%Y-%m-%d %H:%M UTC')" >> "$GITHUB_OUTPUT"
-
       - name: Commit data updates
         if: steps.changes.outputs.changed == 'true'
         run: |
@@ -63,65 +53,19 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Build site
-        run: |
-          mkdir -p _site
-          # Copy site files
-          cp -r site/* _site/
-          # Copy data files into site
-          mkdir -p _site/data
-          cp _data/*.json _site/data/ 2>/dev/null || true
-          # Copy images
-          mkdir -p _site/images
-          cp -r images/* _site/images/ 2>/dev/null || true
-          # Copy assets
-          cp -r assets/* _site/ 2>/dev/null || true
-          echo "Build complete. Files:"
-          find _site -type f | head -30
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: git pull origin main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: '_site'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-  deploy-on-push:
-    if: github.event_name == 'push'
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      - name: Build site
-        run: |
-          mkdir -p _site
-          cp -r site/* _site/
-          mkdir -p _site/data
-          cp _data/*.json _site/data/ 2>/dev/null || true
-          mkdir -p _site/images
-          cp -r images/* _site/images/ 2>/dev/null || true
-          cp -r assets/* _site/ 2>/dev/null || true
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '_site'
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
