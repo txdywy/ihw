@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_773099",
+    "title": "Super Hot Wheels",
+    "summary": "/* 1:25 Formule 1 Series */",
+    "date": "2026-05-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Super_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/06/Super_Hot_Wheels_Logo.PNG/revision/latest?cb=20220713193456"
+  },
+  {
     "id": "rc_772981",
     "title": "'22 Ford Maverick Custom (Hot Wheels XL)",
     "summary": "Surprisingly the base matches what we have here.",
@@ -16,15 +25,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
-  },
-  {
-    "id": "rc_772972",
-    "title": "Super Hot Wheels",
-    "summary": "TALBOT base named wrong ( TALBOT LIGIES JS17) should ve Talbot Ligier JS17 •• ==S 19 Is probably named wrong too it should Be Ligier JS19 = 1981 Ligier JS17● 1982 Ligier JS17B & Ligier JS19",
-    "date": "2026-05-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Super_Hot_Wheels",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/06/Super_Hot_Wheels_Logo.PNG/revision/latest?cb=20220713193456"
   },
   {
     "id": "rc_772964",
@@ -171,42 +171,6 @@
     "image": null
   },
   {
-    "id": "rc_772340",
-    "title": "2025 Hot Wheels Monster Trucks",
-    "summary": "/* Monster Trucks */",
-    "date": "2026-05-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Monster_Trucks",
-    "image": null
-  },
-  {
-    "id": "rc_772303",
-    "title": "1998 Subaru Impreza 22B STi-Version",
-    "summary": "It's on the base exactly how it's on the card, '98 Subaru Impreza WRX STi. Sharp exhaust detail too",
-    "date": "2026-05-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/1998_Subaru_Impreza_22B_STi-Version",
-    "image": null
-  },
-  {
-    "id": "rc_772297",
-    "title": "Hot Wheels: Stunt Track Driver",
-    "summary": "Gallery GameBoyColor Sealed , Cartridge & instructions",
-    "date": "2026-05-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Stunt_Track_Driver",
-    "image": null
-  },
-  {
-    "id": "rc_772240",
-    "title": "Hot Wheels: World Race (video game)",
-    "summary": "Gallery edit",
-    "date": "2026-05-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_World_Race_(video_game)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -270,21 +234,21 @@
     "image": null
   },
   {
-    "id": "search_182641",
-    "title": "2026 5-Packs",
-    "summary": "Latest Hot Wheels information: 2026 5-Packs",
-    "date": "2026-04-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_5-Packs",
-    "image": null
-  },
-  {
     "id": "search_184784",
     "title": "Pontiac 100th Anniversary Series (2026)",
     "summary": "Latest Hot Wheels information: Pontiac 100th Anniversary Series (2026)",
     "date": "2026-04-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Pontiac_100th_Anniversary_Series_(2026)",
+    "image": null
+  },
+  {
+    "id": "search_187421",
+    "title": "Spring Series (2026)",
+    "summary": "Latest Hot Wheels information: Spring Series (2026)",
+    "date": "2026-03-29",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Spring_Series_(2026)",
     "image": null
   },
   {
@@ -315,12 +279,12 @@
     "image": null
   },
   {
-    "id": "search_115817",
-    "title": "Car Culture 2-Packs",
-    "summary": "Latest Hot Wheels information: Car Culture 2-Packs",
-    "date": "2026-04-24",
+    "id": "search_169009",
+    "title": "2025 Car Culture",
+    "summary": "Latest Hot Wheels information: 2025 Car Culture",
+    "date": "2026-04-19",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Car_Culture_2-Packs",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Car_Culture",
     "image": null
   },
   {
