@@ -244,6 +244,18 @@
 
   // ── Intersection Observer (fade-in) ────────────────────────────────────────
 
+  // Global image error handler — replace broken images with placeholder
+  document.addEventListener('error', function(e) {
+    if (e.target.tagName === 'IMG' && !e.target.dataset.fallback) {
+      e.target.dataset.fallback = '1';
+      e.target.style.display = 'none';
+      const placeholder = document.createElement('div');
+      placeholder.style.cssText = 'width:100%;height:100%;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,#1a1a1a,#252525);font-size:3rem';
+      placeholder.textContent = '🏎️';
+      e.target.parentNode.insertBefore(placeholder, e.target);
+    }
+  }, true);
+
   let observer;
   function observeFadeIns(container) {
     if (!observer) {
