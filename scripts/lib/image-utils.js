@@ -15,7 +15,7 @@ const { parse: htmlParse } = require('node-html-parser');
  */
 function isPlaceholderImage(url) {
   if (!url || typeof url !== 'string') return false;
-  return /image_not_available/i.test(url);
+  return /image[_ ]not[_ ]available/i.test(url) || /(?:^|\/)INA\.jpg/i.test(url);
 }
 
 /**

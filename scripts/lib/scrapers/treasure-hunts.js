@@ -172,6 +172,8 @@ async function scrapeSuperTreasureHunts(wikiClient) {
       headers.push(hm[1].replace(/<br\s*\/?>/gi, ' ').trim());
     }
 
+    const pageImages = parsed.images || [];
+
     for (let i = 1; i < rows.length; i++) {
       const cells = rows[i].split('\n|').filter(c => c.trim());
       if (cells.length < 4) continue;
@@ -183,9 +185,22 @@ async function scrapeSuperTreasureHunts(wikiClient) {
 
       const modelName = row['Model Name'] || '';
       const { name, pageName } = extractCarInfo(modelName);
-      if (!name) continue;
+      if (!name || name.length < 3) continue;
 
-      const imgFile = extractImageFile(row['Photo']);
+      let imgFile = extractImageFile(row['Photo']);
+
+      // Skip placeholder images, try page images as fallback
+      if (imgFile && isPlaceholderImage(imgFile)) imgFile = null;
+      if (!imgFile) {
+        const normalizedName = name.toLowerCase().replace(/[^a-z0-9]/g, '');
+        imgFile = pageImages.find(img => {
+          if (isPlaceholderImage(img)) return false;
+          const normalizedImg = img.toLowerCase().replace(/[^a-z0-9]/g, '');
+          return normalizedImg.includes(normalizedName.substring(0, 8)) ||
+                 normalizedName.includes(normalizedImg.substring(0, 8));
+        }) || null;
+      }
+
       const seriesName = extractSeriesName(row['Series']);
       const bodyColor = (row['Body Color'] || '').replace(/\[\[|\]\]/g, '').replace(/<[^>]+>/g, '').trim();
 
@@ -247,6 +262,8 @@ async function scrapeRegularTreasureHunts(wikiClient) {
       headers.push(hm[1].replace(/<br\s*\/?>/gi, ' ').trim());
     }
 
+    const pageImages = parsed.images || [];
+
     for (let i = 1; i < rows.length; i++) {
       const cells = rows[i].split('\n|').filter(c => c.trim());
       if (cells.length < 4) continue;
@@ -258,9 +275,22 @@ async function scrapeRegularTreasureHunts(wikiClient) {
 
       const modelName = row['Model Name'] || '';
       const { name, pageName } = extractCarInfo(modelName);
-      if (!name) continue;
+      if (!name || name.length < 3) continue;
 
-      const imgFile = extractImageFile(row['Photo']);
+      let imgFile = extractImageFile(row['Photo']);
+
+      // Skip placeholder images, try page images as fallback
+      if (imgFile && isPlaceholderImage(imgFile)) imgFile = null;
+      if (!imgFile) {
+        const normalizedName = name.toLowerCase().replace(/[^a-z0-9]/g, '');
+        imgFile = pageImages.find(img => {
+          if (isPlaceholderImage(img)) return false;
+          const normalizedImg = img.toLowerCase().replace(/[^a-z0-9]/g, '');
+          return normalizedImg.includes(normalizedName.substring(0, 8)) ||
+                 normalizedName.includes(normalizedImg.substring(0, 8));
+        }) || null;
+      }
+
       const seriesName = extractSeriesName(row['Series']);
       const bodyColor = (row['Body Color'] || '').replace(/\[\[|\]\]/g, '').replace(/<[^>]+>/g, '').trim();
 
@@ -319,7 +349,7 @@ async function scrapeRLCReleases(wikiClient) {
       let color = null;
       let saleDate = null;
       let toyNumber = null;
-      let imgFile = null;
+      const imgFiles = [];
 
       for (const cell of cells) {
         // Casting name - wiki link
@@ -343,20 +373,24 @@ async function scrapeRLCReleases(wikiClient) {
           const toyMatch = cell.match(/([A-Z]{2,3}\d{2,3})/);
           if (toyMatch && !castingName) toyNumber = toyMatch[1];
         }
-        // Image file
-        if (!imgFile && cell.includes('File:')) {
+        // Collect ALL image files from the row
+        if (cell.includes('File:')) {
           const fm = cell.match(/File:([^\]|&\n]+)/i);
-          if (fm) imgFile = fm[1].trim();
+          if (fm) imgFiles.push(fm[1].trim());
         }
       }
 
       if (!castingName) continue;
       if (castingName.includes('Series') || castingName.includes('Membership')) continue;
 
-      // If no image file found in row, try to match from page images
+      // Pick the first non-INA image from the row
+      let imgFile = imgFiles.find(f => !isPlaceholderImage(f)) || null;
+
+      // Fallback: match from page images by casting name
       if (!imgFile) {
         const normalizedName = castingName.toLowerCase().replace(/[^a-z0-9]/g, '');
         imgFile = pageImages.find(img => {
+          if (isPlaceholderImage(img)) return false;
           const normalizedImg = img.toLowerCase().replace(/[^a-z0-9]/g, '');
           return normalizedImg.includes(normalizedName.substring(0, 10));
         }) || null;

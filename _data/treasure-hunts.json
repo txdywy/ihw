@@ -121,50 +121,6 @@
     "type": "super"
   },
   {
-    "id": "sth_2026_m",
-    "name": "M",
-    "year": 2026,
-    "mix": "75px",
-    "toyNumber": "???/250",
-    "description": "M — 2026 Super Treasure Hunt",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/M",
-    "type": "super"
-  },
-  {
-    "id": "sth_2026_n",
-    "name": "N",
-    "year": 2026,
-    "mix": "75px",
-    "toyNumber": "???/250",
-    "description": "N — 2026 Super Treasure Hunt",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/N",
-    "type": "super"
-  },
-  {
-    "id": "sth_2026_p",
-    "name": "P",
-    "year": 2026,
-    "mix": "75px",
-    "toyNumber": "???/250",
-    "description": "P — 2026 Super Treasure Hunt",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/P",
-    "type": "super"
-  },
-  {
-    "id": "sth_2026_q",
-    "name": "Q",
-    "year": 2026,
-    "mix": "75px",
-    "toyNumber": "???/250",
-    "description": "Q — Spectraflame }\n\n=='''Treasure Hunts by year'''==\n{{TreasureHunts}}\n{{DEFAULTSORT:Treasure Hunts 2026}}\nCategory:Hot Wheels by Series\nCategory:2026 Hot Wheels\nCategory:Treasure Hunts\nCategory:Super Treasure Hunts",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/Q",
-    "type": "super"
-  },
-  {
     "id": "th_2026__87_buick_regal_gnx",
     "name": "'87 Buick Regal GNX",
     "year": 2026,
@@ -272,61 +228,6 @@
     "description": "Sweet Driver — Malaysia",
     "image": null,
     "url": "https://hotwheels.fandom.com/wiki/Sweet_Driver",
-    "type": "regular"
-  },
-  {
-    "id": "th_2026_l",
-    "name": "L",
-    "year": 2026,
-    "series": "75px",
-    "toyNumber": "???/250",
-    "description": "L — 2026 Treasure Hunt",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/L",
-    "type": "regular"
-  },
-  {
-    "id": "th_2026_m",
-    "name": "M",
-    "year": 2026,
-    "series": "75px",
-    "toyNumber": "???/250",
-    "description": "M — 2026 Treasure Hunt",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/M",
-    "type": "regular"
-  },
-  {
-    "id": "th_2026_n",
-    "name": "N",
-    "year": 2026,
-    "series": "75px",
-    "toyNumber": "???/250",
-    "description": "N — 2026 Treasure Hunt",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/N",
-    "type": "regular"
-  },
-  {
-    "id": "th_2026_p",
-    "name": "P",
-    "year": 2026,
-    "series": "75px",
-    "toyNumber": "???/250",
-    "description": "P — 2026 Treasure Hunt",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/P",
-    "type": "regular"
-  },
-  {
-    "id": "th_2026_q",
-    "name": "Q",
-    "year": 2026,
-    "series": "75px",
-    "toyNumber": "???/250",
-    "description": "Q — }\n\n==2026",
-    "image": null,
-    "url": "https://hotwheels.fandom.com/wiki/Q",
     "type": "regular"
   }
 ]
