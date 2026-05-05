@@ -18,7 +18,7 @@ const { scrapeNews } = require('./lib/scrapers/news');
 const { scrapeGallery } = require('./lib/scrapers/gallery');
 const { scrapeNewCastings } = require('./lib/scrapers/new-castings');
 const { scrapeHWHeadline } = require('./lib/scrapers/hw-news');
-const { scrapeSuperTreasureHunts, scrapeRLCReleases } = require('./lib/scrapers/treasure-hunts');
+const { scrapeSuperTreasureHunts, scrapeRegularTreasureHunts, scrapeRLCReleases, scrapeElite64 } = require('./lib/scrapers/treasure-hunts');
 const { scrapeSeriesCars } = require('./lib/scrapers/series-cars');
 
 const DATA_DIR = path.join(__dirname, '..', '_data');
@@ -42,7 +42,9 @@ async function main() {
   let newCastings = [];
   let hwNews = [];
   let treasureHunts = [];
+  let regularTH = [];
   let rlcReleases = [];
+  let elite64 = [];
   let seriesCars = { seriesList: [], totalCount: 0 };
 
   try { featured = await scrapeFeatured(wikiClient); } catch (e) { console.error('Featured failed:', e.message); }
@@ -60,11 +62,16 @@ async function main() {
   
   // New sources: HWheadline news and Treasure Hunts
   try { hwNews = await scrapeHWHeadline(wikiClient._httpGet.bind(wikiClient)); } catch (e) { console.error('HW News failed:', e.message); }
-  try { treasureHunts = await scrapeSuperTreasureHunts(wikiClient._httpGet.bind(wikiClient)); } catch (e) { console.error('Treasure Hunts failed:', e.message); }
+  try { treasureHunts = await scrapeSuperTreasureHunts(wikiClient); } catch (e) { console.error('Treasure Hunts failed:', e.message); }
   try { rlcReleases = await scrapeRLCReleases(wikiClient); } catch (e) { console.error('RLC Releases failed:', e.message); }
+  try { regularTH = await scrapeRegularTreasureHunts(wikiClient); } catch (e) { console.error('Regular TH failed:', e.message); }
+  try { elite64 = await scrapeElite64(wikiClient); } catch (e) { console.error('Elite 64 failed:', e.message); }
 
   // Series cars: per-series 2026 new releases (reuse pre-parsed wikitext from releases)
   try { seriesCars = await scrapeSeriesCars(wikiClient, parsed2026Wikitext); } catch (e) { console.error('Series Cars failed:', e.message); }
+
+  // Merge regular TH into treasureHunts
+  treasureHunts = [...treasureHunts, ...regularTH];
 
   // Fatal failure: all categories returned empty
   if (
@@ -114,6 +121,7 @@ async function main() {
       totalNewCastings: newCastings.length,
       totalTreasureHunts: treasureHunts.length,
       totalRLC: rlcReleases.length,
+      totalElite64: elite64.length,
       totalSeriesCars: seriesCars.totalCount,
       totalSeriesWithCars: seriesCars.seriesList.length,
       lastUpdated: new Date().toISOString(),
@@ -132,6 +140,7 @@ async function main() {
   safeWriteJSON(path.join(DATA_DIR, 'hw-news.json'), hwNews, 'hw-news');
   safeWriteJSON(path.join(DATA_DIR, 'treasure-hunts.json'), treasureHunts, 'treasure-hunts');
   safeWriteJSON(path.join(DATA_DIR, 'rlc-releases.json'), rlcReleases, 'rlc-releases');
+  safeWriteJSON(path.join(DATA_DIR, 'elite64.json'), elite64, 'elite64');
   safeWriteJSON(path.join(DATA_DIR, 'series-cars.json'), seriesCars.seriesList, 'series-cars');
 
   // Metadata is always written (it's an object, not an array)
@@ -141,7 +150,7 @@ async function main() {
   console.log(`\n✨ Done!`);
   console.log(`   Featured: ${featured.length} | Series: ${series.length} | News: ${news.length}`);
   console.log(`   Releases: ${releases.length} | Gallery: ${gallery.length} | New Castings: ${newCastings.length}`);
-  console.log(`   HW News: ${hwNews.length} | Treasure Hunts: ${treasureHunts.length} | RLC: ${rlcReleases.length}`);
+  console.log(`   HW News: ${hwNews.length} | Treasure Hunts: ${treasureHunts.length} | RLC: ${rlcReleases.length} | Elite 64: ${elite64.length}`);
   console.log(`   Series Cars: ${seriesCars.totalCount} across ${seriesCars.seriesList.length} series`);
   console.log(`   Total API requests: ${stats.totalRequests}`);
   console.log(`   Total run time: ${(runTimeMs / 1000).toFixed(1)}s`);

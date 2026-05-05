@@ -70,6 +70,19 @@ class SearchEngine {
       });
     }
 
+    // Index Elite 64
+    if (allData.elite64 && allData.elite64.length) {
+      allData.elite64.forEach(c => {
+        this._index.push({
+          name: c.name || '',
+          image: c.image || null,
+          category: 'Elite 64',
+          url: c.url || '',
+          sectionId: 'elite64'
+        });
+      });
+    }
+
     // Index series cars (2026 lineup)
     if (allData.seriesCars && allData.seriesCars.length) {
       allData.seriesCars.forEach(group => {

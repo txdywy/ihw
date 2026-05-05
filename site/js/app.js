@@ -6,7 +6,7 @@
   'use strict';
 
   const DATA_BASE = 'data';
-  let allData = { featured: [], series: [], news: [], releases: [], gallery: [], newCastings: [], hwNews: [], treasureHunts: [], rlcReleases: [], seriesCars: [], metadata: {} };
+  let allData = { featured: [], series: [], news: [], releases: [], gallery: [], newCastings: [], hwNews: [], treasureHunts: [], rlcReleases: [], elite64: [], seriesCars: [], metadata: {} };
 
   // ── Data Loading ───────────────────────────────────────────────────────────
 
@@ -19,13 +19,13 @@
   }
 
   async function loadAllData() {
-    const [featured, series, news, releases, gallery, newCastings, hwNews, treasureHunts, rlcReleases, seriesCars, metadata] = await Promise.all([
+    const [featured, series, news, releases, gallery, newCastings, hwNews, treasureHunts, rlcReleases, elite64, seriesCars, metadata] = await Promise.all([
       loadJSON('featured.json'), loadJSON('series.json'),
       loadJSON('news.json'), loadJSON('releases.json'),
       loadJSON('gallery.json'), loadJSON('new-castings.json'),
       loadJSON('hw-news.json'), loadJSON('treasure-hunts.json'),
-      loadJSON('rlc-releases.json'), loadJSON('series-cars.json'),
-      loadJSON('metadata.json')
+      loadJSON('rlc-releases.json'), loadJSON('elite64.json'),
+      loadJSON('series-cars.json'), loadJSON('metadata.json')
     ]);
     allData.featured = featured || [];
     allData.series = series || [];
@@ -36,6 +36,7 @@
     allData.hwNews = hwNews || [];
     allData.treasureHunts = treasureHunts || [];
     allData.rlcReleases = rlcReleases || [];
+    allData.elite64 = elite64 || [];
     allData.seriesCars = seriesCars || [];
     allData.metadata = metadata || {};
   }
@@ -247,6 +248,26 @@
         <div class="card-body">
           <h3 class="card-title">${esc(r.name)}</h3>
           <p class="card-meta">${esc(r.color || '')}${r.saleDate ? ' · ' + r.saleDate : ''}</p>
+        </div>
+      </div>
+    `).join('');
+    observeFadeIns(grid);
+  }
+
+  function renderElite64() {
+    const grid = document.getElementById('elite64Grid');
+    if (!grid) return;
+    const items = allData.elite64;
+    if (!items.length) { grid.innerHTML = emptyState('暂无Elite 64数据', '🏅'); return; }
+    grid.innerHTML = items.map(c => `
+      <div class="card fade-in" onclick="window.open('${c.url}','_blank')">
+        <div class="card-img-wrap">
+          ${c.image ? `<img src="${c.image}" alt="${esc(c.name)}" loading="lazy">` : placeholder()}
+          ${c.year ? `<span class="card-badge">${c.year}</span>` : ''}
+        </div>
+        <div class="card-body">
+          <h3 class="card-title">${esc(c.name)}</h3>
+          <p class="card-meta">${esc(c.color || 'Elite 64')}</p>
         </div>
       </div>
     `).join('');
@@ -527,6 +548,7 @@
     renderHWNews();
     renderTreasureHunts();
     renderRLC();
+    renderElite64();
     renderSeries();
     renderNews();
     renderGallery();
