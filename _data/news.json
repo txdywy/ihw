@@ -1,5 +1,50 @@
 [
   {
+    "id": "rc_772981",
+    "title": "'22 Ford Maverick Custom (Hot Wheels XL)",
+    "summary": "Surprisingly the base matches what we have here.",
+    "date": "2026-05-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'22_Ford_Maverick_Custom_(Hot_Wheels_XL)",
+    "image": null
+  },
+  {
+    "id": "rc_772977",
+    "title": "List of 2026 Hot Wheels new castings",
+    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "date": "2026-05-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+  },
+  {
+    "id": "rc_772972",
+    "title": "Super Hot Wheels",
+    "summary": "TALBOT base named wrong ( TALBOT LIGIES JS17) should ve Talbot Ligier JS17 •• ==S 19 Is probably named wrong too it should Be Ligier JS19 = 1981 Ligier JS17● 1982 Ligier JS17B & Ligier JS19",
+    "date": "2026-05-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Super_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/06/Super_Hot_Wheels_Logo.PNG/revision/latest?cb=20220713193456"
+  },
+  {
+    "id": "rc_772964",
+    "title": "Ferrari 5-Pack (2026)",
+    "summary": "This is a 5-Pack of cars designed in collaboration with Ferrari; this is the first 5-Pack consisting solely of Ferraris since 2014. Some packs feature the toy number JLN12 instead.",
+    "date": "2026-05-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_5-Pack_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/365C.jpg/revision/latest/scale-to-width-down/1200?cb=20260505074304"
+  },
+  {
+    "id": "rc_772935",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-05-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
     "id": "rc_772901",
     "title": "Hot Wheels: Stunt Track Challenge",
     "summary": "Hot Wheels: Stunt Track Challenge is a racing video game released on November 9, 2004 for PlayStation 2, GBA, PC, and Xbox.",
@@ -18,15 +63,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
   },
   {
-    "id": "rc_772845",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
-    "date": "2026-05-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
-  },
-  {
     "id": "rc_772781",
     "title": "Volvo",
     "summary": "Volvo Cars AB was founded in 1927 upon the subject of safety and was created as a subsidiary to SKF. Today, Volvo is under by Geely, and owns 18% of Polestar, 50% of NOVO Energy (electric vehicle batteries), 100% of Zenseact (AD and ADAS software), and 100% of HaleyTek (Android-based infotainment systems)....",
@@ -43,15 +79,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Volkswagen_Jetta_MK3",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/9/92/FFJetta.JPG/revision/latest/scale-to-width-down/1200?cb=20190721015404"
-  },
-  {
-    "id": "rc_772727",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
-    "date": "2026-05-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
   },
   {
     "id": "rc_772720",
@@ -83,16 +110,16 @@
   {
     "id": "rc_772711",
     "title": "2026 Mystery Models",
-    "summary": "Category:Hot Wheels by Series\nCategory:Mystery Models",
+    "summary": "/* Series 1 */",
     "date": "2026-05-04",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Mystery_Models",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/16_Bugatti_Chiron.jpg/revision/latest/scale-to-width-down/1200?cb=20260208122337"
+    "image": null
   },
   {
     "id": "rc_772708",
     "title": "Batman 10-Pack (2026)",
-    "summary": "The Batman 10-Pack (JMH15) is a 10-Pack of cars related to the Batman Series. All vehicles featured in this pack are identical to their single counterparts.",
+    "summary": "/* Vehicles */",
     "date": "2026-05-04",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Batman_10-Pack_(2026)",
@@ -105,7 +132,7 @@
     "date": "2026-05-04",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Ducati_Scrambler_Hot_Wheels_Edition",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2021NM29_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20210405040145"
+    "image": null
   },
   {
     "id": "rc_772585",
@@ -177,42 +204,6 @@
     "date": "2026-05-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_World_Race_(video_game)",
-    "image": null
-  },
-  {
-    "id": "rc_772200",
-    "title": "Two-Lane Ramptop",
-    "summary": "Created page with \" ==Description== Two-Lane Ramptop is a depiction of a futuristic car carrier. It features a tilting deck which has a fold-out second tier; this tier when unfolded allows the deck to be used as a makeshift two-lane downhill race track. All releases come packaged with GT-Scorcher. ==Versions== The Two-Lane Ramptop has come...\"",
-    "date": "2026-05-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Two-Lane_Ramptop",
-    "image": null
-  },
-  {
-    "id": "rc_772194",
-    "title": "Aqualiner",
-    "summary": "Created page with \" ==Description== Aqualiner is a depiction of a semi truck styled after an aquatic vehicle. ==Versions== The Aqualiner has come out in the following 1/64 scale versions: {| style=\"font-size: 85%; text-align: left;\" class=\"wikitable sortable\" width=\"100%\" |- !style=\"border-style: none none solid solid; |Col # !style=\"bor...\"",
-    "date": "2026-05-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Aqualiner",
-    "image": null
-  },
-  {
-    "id": "rc_772184",
-    "title": "2026 Hot Wheels Legends Tour",
-    "summary": "/* Finalists */",
-    "date": "2026-05-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
-    "id": "rc_772174",
-    "title": "Mattel Creations Collaboratory",
-    "summary": "/* Releases */",
-    "date": "2026-05-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mattel_Creations_Collaboratory",
     "image": null
   },
   {

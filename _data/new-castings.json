@@ -490,6 +490,16 @@
     "url": "https://hotwheels.fandom.com/wiki/Maserati_MC12_(2026)"
   },
   {
+    "id": "mclaren_p1_gtr",
+    "name": "McLaren P1 GTR",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "McLaren Car Culture 2-Pack",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/McLaren_P1_GTR"
+  },
+  {
     "id": "2002_pontiac_firebird",
     "name": "2002 Pontiac Firebird",
     "year": 2026,
@@ -588,15 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1983BMW733i.jpg/revision/latest/scale-to-width-down/1200?cb=20251121100103",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1983BMW733i.jpg/revision/latest?cb=20251121100103",
     "url": "https://hotwheels.fandom.com/wiki/1983_BMW_733i"
-  },
-  {
-    "id": "2022_porsche_911_gt3_rs",
-    "name": "2022 Porsche 911 GT3 RS",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Pop Culture: ''Gran Turismo''",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/2022Porsche911GT3RS.jpg/revision/latest/scale-to-width-down/1200?cb=20260110124616",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/2022Porsche911GT3RS.jpg/revision/latest?cb=20260110124616",
-    "url": "https://hotwheels.fandom.com/wiki/2022_Porsche_911_GT3_RS"
   }
 ]
