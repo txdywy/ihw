@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_773445",
+    "title": "Hallmark",
+    "summary": "Hallmark Cards, Inc. was founded in Kansas City, Missouri in 1910 and has been known primarily as an American greeting card and holiday decorative company. First introduced in 1973, Hallmark has produced more than 8,400 different Keepsake Christmas ornaments, encompassing a wide variety of themes and entertainment properties.",
+    "date": "2026-05-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hallmark",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/25/My_First_Hot_Wheels_Christmas.JPG/revision/latest?cb=20231014235708"
+  },
+  {
+    "id": "rc_773444",
+    "title": "Collector's Button",
+    "summary": "List of Collector's Button added in the blister & boxes of all Hot Wheels Models\nCustom Volkswagen",
+    "date": "2026-05-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Collector's_Button",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/1967_Beatnik_Bandit_HK_Collector_Button.jpg/revision/latest?cb=20211113153258"
+  },
+  {
+    "id": "rc_773438",
+    "title": "Hot Wheels Model Car Kits",
+    "summary": "A Model Car Kit is a toy car, usually in 1:32, 1:25 & 1:24 scale that needs to be assembled, glued, painted, and put together to have a finished custom car. Hot Wheels has released many kits for many years under different Model Kit companies such as AMT, Polar Lights, Snaps, Revell, and many more listed below.",
+    "date": "2026-05-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Model_Car_Kits",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/82model.jpg/revision/latest?cb=20231228034158"
+  },
+  {
     "id": "rc_773435",
     "title": "Display Case Artwork",
     "summary": "Artwork on the front of each case has varied over the years. This is a page to add pictures of the various artwork for different size car cases. Some of these cases where made by Tara Toys.",
@@ -83,20 +110,20 @@
   {
     "id": "rc_772935",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* Red Edition 40px */",
     "date": "2026-05-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_772901",
     "title": "Hot Wheels: Stunt Track Challenge",
-    "summary": "Hot Wheels: Stunt Track Challenge is a racing video game released on November 9, 2004 for PlayStation 2, GBA, PC, and Xbox.",
+    "summary": "Game Break cars added",
     "date": "2026-05-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Stunt_Track_Challenge",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/24Seven_stc.png/revision/latest/scale-to-width-down/1200?cb=20260504150006"
+    "image": null
   },
   {
     "id": "rc_772877",
@@ -105,7 +132,7 @@
     "date": "2026-05-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+    "image": null
   },
   {
     "id": "rc_772781",
