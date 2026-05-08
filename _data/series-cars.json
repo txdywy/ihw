@@ -525,7 +525,7 @@
     "seriesId": "then_and_now",
     "seriesName": "Then and Now",
     "year": 2026,
-    "carCount": 8,
+    "carCount": 9,
     "cars": [
       {
         "name": "Austin Mini Cooper S",
@@ -566,6 +566,11 @@
         "name": "'82 Toyota Supra",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/1982CelicaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125714",
         "url": "https://hotwheels.fandom.com/wiki/'82_Toyota_Supra"
+      },
+      {
+        "name": "Porsche 911 Carrera RS 2.7",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7"
       }
     ]
   },
