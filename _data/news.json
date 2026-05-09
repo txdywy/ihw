@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_773767",
+    "title": "Toyota Celica",
+    "summary": "Added pointer in \"see also\" to '01 Toyota Celica casting page",
+    "date": "2026-05-08",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Toyota_Celica",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Celica_-_01FE.JPG/revision/latest?cb=20160128065516"
+  },
+  {
     "id": "rc_773716",
     "title": "Enzo Ferrari (disambiguation)",
     "summary": "Enzo Ferrari may refer to:\n* Enzo Ferrari (2003), a Mark Jones designed casting introduced as a 2003 First Edition. * Enzo Ferrari (2026), a Ronald Wong designed casting introduced in the Hot Wheels Boulevard line. * Enzo Ferrari (Speed Demons) 2003\n* Enzo Ferrari ('Tooned), a Dave Deal designed casting introduced as a 2004 First Edition.",
@@ -101,11 +110,11 @@
   {
     "id": "rc_773438",
     "title": "Hot Wheels Model Car Kits",
-    "summary": "A Model Car Kit is a toy car, usually in 1:32, 1:25 & 1:24 scale that needs to be assembled, glued, painted, and put together to have a finished custom car. Hot Wheels has released many kits for many years under different Model Kit companies such as AMT, Polar Lights, Snaps, Revell, and many more listed below.",
+    "summary": "Monogram Corvette is 1981 Snap Tite 1040 included coupon for a Free Hot Wheels Car W/purchase of the Model Kits mid '81-'82 april 30th",
     "date": "2026-05-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Model_Car_Kits",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/82model.jpg/revision/latest?cb=20231228034158"
+    "image": null
   },
   {
     "id": "rc_773435",
@@ -171,24 +180,6 @@
     "image": null
   },
   {
-    "id": "rc_772981",
-    "title": "'22 Ford Maverick Custom (Hot Wheels XL)",
-    "summary": "Surprisingly the base matches what we have here.",
-    "date": "2026-05-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'22_Ford_Maverick_Custom_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_772977",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "/* Car Culture 2-Packs */",
-    "date": "2026-05-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -222,6 +213,24 @@
     "date": "2026-04-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious%3A_Dream_Lineup_Series_(2026)",
+    "image": null
+  },
+  {
+    "id": "search_189648",
+    "title": "European Car Culture Themed Multipack (2026)",
+    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
+    "date": "2026-04-21",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
+    "image": null
+  },
+  {
+    "id": "search_51374",
+    "title": "Car Culture",
+    "summary": "Latest Hot Wheels information: Car Culture",
+    "date": "2025-08-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
     "image": null
   },
   {
