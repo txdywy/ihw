@@ -198,15 +198,6 @@
     "image": null
   },
   {
-    "id": "rc_773099",
-    "title": "Super Hot Wheels",
-    "summary": "/* 1:25 Formule 1 Series */",
-    "date": "2026-05-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Super_Hot_Wheels",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -270,21 +261,21 @@
     "image": null
   },
   {
+    "id": "search_182641",
+    "title": "2026 5-Packs",
+    "summary": "Latest Hot Wheels information: 2026 5-Packs",
+    "date": "2026-05-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_5-Packs",
+    "image": null
+  },
+  {
     "id": "search_169010",
     "title": "2025 Hot Wheels Boulevard",
     "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
     "date": "2026-04-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_168215",
-    "title": "2023 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2023 Hot Wheels Boulevard",
-    "date": "2025-05-20",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2023_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
