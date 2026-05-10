@@ -43,5 +43,14 @@
     "saleDate": "28 April 2026",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/RLC_2026_%2798_Subaru_Impreza_WRX_STi_China_JJY62.jpg/revision/latest/scale-to-width-down/1200?cb=20260501225645",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_1991_bmw_m3",
+    "name": "1991 BMW M3",
+    "year": 2026,
+    "color": "Spectraflame olive",
+    "saleDate": "19 May 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
   }
 ]
