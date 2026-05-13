@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_774515",
+    "title": "Mazda Furai",
+    "summary": "I added the production code for the mazda furai (its page did not specify the release year of that version, I added L43",
+    "date": "2026-05-13",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Mazda_Furai",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/24/JunImaiMazdaFuraiESheet.jpg/revision/latest/scale-to-width-down/1200?cb=20211105004004"
+  },
+  {
+    "id": "rc_774503",
+    "title": "Formula One 10-Pack",
+    "summary": "This is a 10-Pack of cars designed in collaboration with Formula One. It uses the standard 10-Pack packaging with unique graphics indicating its tie-in with the Formula One branding as well as a unique toy number (JMM24).",
+    "date": "2026-05-13",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Formula_One_10-Pack",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/McLarenMastercardMCL39.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122047"
+  },
+  {
     "id": "rc_774450",
     "title": "List of 2026 Hot Wheels (by Series)",
     "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
@@ -101,11 +119,11 @@
   {
     "id": "rc_773901",
     "title": "Socketech Construction System",
-    "summary": "300px|right\nThe Socketech Construction System is series of cars designed by Dave Martis and other planned to be released in 2002. These cars can be constructed and put together and swapped with other models, similar to the Mechanix but with more futuristic approach. The idea was Hot Wheels take on the popular at the time toyline K'Nex.",
+    "summary": "Created page with \"300px|right The Socketech Construction System is series of cars designed by Dave Martis and other planned to be released in 2002. These cars can be constructed and put together and swapped with other models, similar to the Mechanix but with more futuristic approach. The idea was Hot Wheels take on the popular at the time toyline K'Nex. You can put the rods and unique...\"",
     "date": "2026-05-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Socketech_Construction_System",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Socketech_Construction_System_%281%29.jpg/revision/latest?cb=20260509172805"
+    "image": null
   },
   {
     "id": "rc_773898",
@@ -135,37 +153,10 @@
     "image": null
   },
   {
-    "id": "rc_773716",
-    "title": "Enzo Ferrari (disambiguation)",
-    "summary": "Added the 2003 Speed Demons Series",
-    "date": "2026-05-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Enzo_Ferrari_(disambiguation)",
-    "image": null
-  },
-  {
-    "id": "rc_773700",
-    "title": "30th Annual Hot Wheels Collectors Convention",
-    "summary": "Added Pink Metallic Drag Truck",
-    "date": "2026-05-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/30th_Annual_Hot_Wheels_Collectors_Convention",
-    "image": null
-  },
-  {
-    "id": "rc_773697",
-    "title": "22nd Annual Hot Wheels Collectors Nationals",
-    "summary": "VW Drag Beetle Blue • Pink mf , Red mf , Yellow",
-    "date": "2026-05-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/22nd_Annual_Hot_Wheels_Collectors_Nationals",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
-    "date": "2026-05-08",
+    "date": "2026-05-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
     "image": null
