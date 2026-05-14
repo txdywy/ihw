@@ -666,6 +666,44 @@
     ]
   },
   {
+    "seriesId": "hw_dirt",
+    "seriesName": "HW Dirt",
+    "year": 2026,
+    "carCount": 6,
+    "cars": [
+      {
+        "name": "El Segundo Rallye",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/ESRallyeDirt.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121220",
+        "url": "https://hotwheels.fandom.com/wiki/El_Segundo_Rallye"
+      },
+      {
+        "name": "Mazda Autozam",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Purplezam.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121240",
+        "url": "https://hotwheels.fandom.com/wiki/Mazda_Autozam"
+      },
+      {
+        "name": "'70 Ford Escort RS1600",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1970Escort.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130204",
+        "url": "https://hotwheels.fandom.com/wiki/'70_Ford_Escort_RS1600"
+      },
+      {
+        "name": "Duck N' Roll",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/JeepN%27Roll.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125245",
+        "url": "https://hotwheels.fandom.com/wiki/Duck_N'_Roll"
+      },
+      {
+        "name": "Lil' Roar",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/2003MiniCooper.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101728",
+        "url": "https://hotwheels.fandom.com/wiki/Lil'_Roar"
+      },
+      {
+        "name": "2019 Audi TT Safari",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
+      }
+    ]
+  },
+  {
     "seriesId": "hw_dream_garage",
     "seriesName": "HW Dream Garage",
     "year": 2026,
@@ -893,39 +931,6 @@
         "name": "La Troca",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/4/45/1950ChevyTruck.jpg/revision/latest/scale-to-width-down/1200?cb=20260128103137",
         "url": "https://hotwheels.fandom.com/wiki/La_Troca"
-      }
-    ]
-  },
-  {
-    "seriesId": "hw_fan_driven",
-    "seriesName": "HW Fan Driven",
-    "year": 2026,
-    "carCount": 5,
-    "cars": [
-      {
-        "name": "Deora II",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Surfin%27Deora.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122510",
-        "url": "https://hotwheels.fandom.com/wiki/Deora_II"
-      },
-      {
-        "name": "Rodger Dodger",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/FanDrivenDodger.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122536",
-        "url": "https://hotwheels.fandom.com/wiki/Rodger_Dodger"
-      },
-      {
-        "name": "Purple Passion",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/PinkPassion.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123307",
-        "url": "https://hotwheels.fandom.com/wiki/Purple_Passion"
-      },
-      {
-        "name": "El Segundo Coupe",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/RacingCoupe.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111033",
-        "url": "https://hotwheels.fandom.com/wiki/El_Segundo_Coupe"
-      },
-      {
-        "name": "Bone Shaker",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/FanShaker.jpg/revision/latest/scale-to-width-down/1200?cb=20260121131749",
-        "url": "https://hotwheels.fandom.com/wiki/Bone_Shaker"
       }
     ]
   }

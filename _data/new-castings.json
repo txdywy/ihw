@@ -340,6 +340,36 @@
     "url": "https://hotwheels.fandom.com/wiki/Lil'_Mad"
   },
   {
+    "id": "2019_audi_tt_safari",
+    "name": "2019 Audi TT Safari",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Dirt",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
+  },
+  {
+    "id": "go-realla-fast",
+    "name": "Go-Realla-Fast",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Trophy Case",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Go-Realla-Fast"
+  },
+  {
+    "id": "ridge_crest_gt",
+    "name": "Ridge Crest GT",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Torque",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
+  },
+  {
     "id": "1999_subaru_impreza",
     "name": "1999 Subaru Impreza",
     "year": 2026,
@@ -568,35 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HondaCR-XdelSol.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120830",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HondaCR-XdelSol.jpg/revision/latest?cb=20260126120830",
     "url": "https://hotwheels.fandom.com/wiki/1994_Honda_del_Sol"
-  },
-  {
-    "id": "1970_dodge_challenger_r/t",
-    "name": "1970 Dodge Challenger R/T",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Fast & Furious",
-    "image": null,
-    "fullImage": null,
-    "url": "https://hotwheels.fandom.com/wiki/1970_Dodge_Challenger_R%2FT"
-  },
-  {
-    "id": "2010_bmw_m5",
-    "name": "2010 BMW M5",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Fast & Furious",
-    "image": null,
-    "fullImage": null,
-    "url": "https://hotwheels.fandom.com/wiki/2010_BMW_M5"
-  },
-  {
-    "id": "1983_bmw_733i",
-    "name": "1983 BMW 733i",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Pop Culture: ''Stranger Things''",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1983BMW733i.jpg/revision/latest/scale-to-width-down/1200?cb=20251121100103",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1983BMW733i.jpg/revision/latest?cb=20251121100103",
-    "url": "https://hotwheels.fandom.com/wiki/1983_BMW_733i"
   }
 ]
