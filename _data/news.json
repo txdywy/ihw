@@ -1,8 +1,17 @@
 [
   {
+    "id": "rc_774899",
+    "title": "Batmobile (Action Figure)",
+    "summary": "Marked for deletion: 3 times the same car (2004)",
+    "date": "2026-05-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Batmobile_(Action_Figure)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/2003ActionFigureBatmobile.jpg/revision/latest?cb=20201014062336"
+  },
+  {
     "id": "rc_774795",
     "title": "Alfa Romeo Carabo",
-    "summary": "Redirected page to Carabo",
+    "summary": "#REDIRECT Carabo\nCategory:Redirects",
     "date": "2026-05-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_Carabo",
@@ -105,7 +114,7 @@
     "date": "2026-05-14",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Park_'N_Plates",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/9134.JPG/revision/latest?cb=20250316231906"
+    "image": null
   },
   {
     "id": "rc_774605",
@@ -222,15 +231,6 @@
     "date": "2026-05-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/The_Hot_Ones_(2011)",
-    "image": null
-  },
-  {
-    "id": "rc_774099",
-    "title": "2026 Collector Edition",
-    "summary": "/* Vehicles */",
-    "date": "2026-05-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Collector_Edition",
     "image": null
   },
   {
