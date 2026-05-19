@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_776087",
+    "title": "Pontiac Aztek Custom",
+    "summary": "Undo revision 776012 by WKPQ (talk) this is not a car wiki. We should not be listing information about the actual vehicle before the hot wheels model.",
+    "date": "2026-05-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Pontiac_Aztek_Custom",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/PontiacAztekCustom.jpg/revision/latest/scale-to-width-down/1200?cb=20240104130337"
+  },
+  {
     "id": "rc_776008",
     "title": "Hot Wheels 500",
     "summary": "And I take responsibility here as well to avoid confusion",
@@ -101,11 +110,11 @@
   {
     "id": "rc_775442",
     "title": "Justice League 5-Pack",
-    "summary": "The Justice League 5-Pack was released in 2018.",
+    "summary": "/* Cars */",
     "date": "2026-05-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Justice_League_5-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/JusticeLeagueHotWheels.JPG/revision/latest/scale-to-width-down/1200?cb=20171226174754"
+    "image": null
   },
   {
     "id": "rc_775433",
