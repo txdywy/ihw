@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_776008",
+    "title": "Hot Wheels 500",
+    "summary": "And I take responsibility here as well to avoid confusion",
+    "date": "2026-05-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_500",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/Hot_Wheels_500_Blu.JPG/revision/latest?cb=20090207022900"
+  },
+  {
     "id": "rc_775912",
     "title": "Hot Wheels: Stunt Track Challenge",
     "summary": "Hot Wheels: Stunt Track Challenge is a racing video game released on November 9, 2004 for PlayStation 2, GBA, PC, and Xbox.",
@@ -101,7 +110,7 @@
   {
     "id": "rc_775433",
     "title": "Fast & Furious: Silver Anniversary Series (2026)",
-    "summary": "This is a Fast & Furious-themed assortment that is part of Hot Wheels' semi-premium (also informally known as \"Silver Series\") offerings.",
+    "summary": "/* Vehicles */",
     "date": "2026-05-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious%3A_Silver_Anniversary_Series_(2026)",
@@ -123,60 +132,6 @@
     "date": "2026-05-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mid-Air_Blast",
-    "image": null
-  },
-  {
-    "id": "rc_775298",
-    "title": "Crashing Canine",
-    "summary": "Created page with \" ==Description== This truck casting name is called Podium Crasher, and is redecorated and/or reused throughout the line. ==Versions== The Crashing Canine has come out in the following 1/64 scale versions: {| class=\"wikitable sortable\" style=\"font-size: 85%; tex...\"",
-    "date": "2026-05-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Crashing_Canine",
-    "image": null
-  },
-  {
-    "id": "rc_775297",
-    "title": "Sweet Ride",
-    "summary": "Created page with \" ==Description== This truck casting name is called Haul Y'all, and is redecorated and/or reused throughout the line. ==Versions== The Sweet Ride has come out in the following 1/64 scale versions: {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\"...\"",
-    "date": "2026-05-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Sweet_Ride",
-    "image": null
-  },
-  {
-    "id": "rc_775295",
-    "title": "Concrete Crusher",
-    "summary": "Created page with \" ==Description== Concrete Crusher is a front loader monster truck. It has a tipping front bucket. ==Versions== The Concrete Crusher has come out in the following 1/64 scale versions: {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" wi...\"",
-    "date": "2026-05-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Concrete_Crusher",
-    "image": null
-  },
-  {
-    "id": "rc_775291",
-    "title": "Hot Wheels Monster Trucks Big Rigs",
-    "summary": "/* 2026 */",
-    "date": "2026-05-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Big_Rigs",
-    "image": null
-  },
-  {
-    "id": "rc_775281",
-    "title": "Wall Tracks",
-    "summary": "Couple more backs & cars closeups In GALLERY",
-    "date": "2026-05-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Wall_Tracks",
-    "image": null
-  },
-  {
-    "id": "rc_775272",
-    "title": "2026 Hot Wheels Boulevard",
-    "summary": "#147 & #148 base codes V04A found today",
-    "date": "2026-05-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
     "image": null
   },
   {
@@ -204,6 +159,15 @@
     "date": "2026-05-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "image": null
+  },
+  {
+    "id": "search_185401",
+    "title": "2026 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
+    "date": "2026-05-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
     "image": null
   },
   {
@@ -261,12 +225,12 @@
     "image": null
   },
   {
-    "id": "search_182641",
-    "title": "2026 5-Packs",
-    "summary": "Latest Hot Wheels information: 2026 5-Packs",
-    "date": "2026-05-10",
+    "id": "search_169010",
+    "title": "2025 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
+    "date": "2026-04-16",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_5-Packs",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
