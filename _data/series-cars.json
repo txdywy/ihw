@@ -578,7 +578,7 @@
     "seriesId": "compact_kings",
     "seriesName": "Compact Kings",
     "year": 2026,
-    "carCount": 8,
+    "carCount": 9,
     "cars": [
       {
         "name": "Hako Type D",
@@ -619,6 +619,11 @@
         "name": "'63 Chevy II",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/1963ChevyII.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125730",
         "url": "https://hotwheels.fandom.com/wiki/'63_Chevy_II"
+      },
+      {
+        "name": "1972 Datsun Sunny Coupe",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe"
       }
     ]
   },
@@ -626,7 +631,7 @@
     "seriesId": "rod_squad",
     "seriesName": "Rod Squad",
     "year": 2026,
-    "carCount": 7,
+    "carCount": 9,
     "cars": [
       {
         "name": "Erikenstein Rod",
@@ -662,6 +667,16 @@
         "name": "Chop 'n Bloc",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125509",
         "url": "https://hotwheels.fandom.com/wiki/Chop_'n_Bloc"
+      },
+      {
+        "name": "Custom '62 Chevy Pickup",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Custom_'62_Chevy"
+      },
+      {
+        "name": "Uncertain-T",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Uncertain-T"
       }
     ]
   },
@@ -669,7 +684,7 @@
     "seriesId": "hw_dirt",
     "seriesName": "HW Dirt",
     "year": 2026,
-    "carCount": 6,
+    "carCount": 8,
     "cars": [
       {
         "name": "El Segundo Rallye",
@@ -697,9 +712,95 @@
         "url": "https://hotwheels.fandom.com/wiki/Lil'_Roar"
       },
       {
+        "name": "Hyper Rocker",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Hyper_Rocker"
+      },
+      {
+        "name": "'21 Ford Bronco",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'21_Ford_Bronco"
+      },
+      {
         "name": "2019 Audi TT Safari",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
+      }
+    ]
+  },
+  {
+    "seriesId": "screen_time",
+    "seriesName": "Screen Time",
+    "year": 2026,
+    "carCount": 6,
+    "cars": [
+      {
+        "name": "Optimus Prime",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/1200?cb=20250120090211",
+        "url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
+      },
+      {
+        "name": "HW K.I.T.T. Concept",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122239",
+        "url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
+      },
+      {
+        "name": "The Simpsons Family Car",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100211",
+        "url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
+      },
+      {
+        "name": "Standard Kart",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest/scale-to-width-down/1200?cb=20210926022809",
+        "url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
+      },
+      {
+        "name": "Spider-Mobile",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101754",
+        "url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
+      },
+      {
+        "name": "'68 Corvette - Gas Monkey Garage",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage"
+      }
+    ]
+  },
+  {
+    "seriesId": "hw_torque",
+    "seriesName": "HW Torque",
+    "year": 2026,
+    "carCount": 6,
+    "cars": [
+      {
+        "name": "'70 Buick GSX",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/1970BuickGSX.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125525",
+        "url": "https://hotwheels.fandom.com/wiki/'70_Buick_GSX"
+      },
+      {
+        "name": "'68 Shelby GT500",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/51/1968ShelbyGT500.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125601",
+        "url": "https://hotwheels.fandom.com/wiki/'68_Shelby_GT500"
+      },
+      {
+        "name": "Bully Goat",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BullyGTO.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102335",
+        "url": "https://hotwheels.fandom.com/wiki/Bully_Goat"
+      },
+      {
+        "name": "'18 Camaro SS",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/df/2018Camaro.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102358",
+        "url": "https://hotwheels.fandom.com/wiki/'18_Camaro_SS"
+      },
+      {
+        "name": "'96 Dodge Viper GTS",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'96_Dodge_Viper_GTS"
+      },
+      {
+        "name": "Ridge Crest GT",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
       }
     ]
   },
@@ -865,72 +966,6 @@
         "name": "Ford F-150 Lightning SuperTruck",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/FordSupertruck.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121511",
         "url": "https://hotwheels.fandom.com/wiki/Ford_F-150_Lightning_SuperTruck"
-      }
-    ]
-  },
-  {
-    "seriesId": "factory_fresh",
-    "seriesName": "Factory Fresh",
-    "year": 2026,
-    "carCount": 5,
-    "cars": [
-      {
-        "name": "Porsche 911 Carrera T",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Porsche911CarreraT.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133515",
-        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_T"
-      },
-      {
-        "name": "Maserati Shamal",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/1992MaseratiShamal.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133529",
-        "url": "https://hotwheels.fandom.com/wiki/Maserati_Shamal"
-      },
-      {
-        "name": "Ford Mustang GTD",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/50/2026FordMustangGTD.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122815",
-        "url": "https://hotwheels.fandom.com/wiki/Ford_Mustang_GTD"
-      },
-      {
-        "name": "Custom '66 Toronado",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100431",
-        "url": "https://hotwheels.fandom.com/wiki/Custom_'66_Toronado"
-      },
-      {
-        "name": "'98 Honda Prelude",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1998HondaPrelude.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121145",
-        "url": "https://hotwheels.fandom.com/wiki/'98_Honda_Prelude"
-      }
-    ]
-  },
-  {
-    "seriesId": "layin_low",
-    "seriesName": "Layin' Low",
-    "year": 2026,
-    "carCount": 5,
-    "cars": [
-      {
-        "name": "Bounce'n Bass",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Bounce%27nBass.jpg/revision/latest/scale-to-width-down/1200?cb=20250920121109",
-        "url": "https://hotwheels.fandom.com/wiki/Bounce'n_Bass"
-      },
-      {
-        "name": "'59 Chevy Impala",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1959Impala.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123228",
-        "url": "https://hotwheels.fandom.com/wiki/'59_Chevy_Bel_Air"
-      },
-      {
-        "name": "'47 Chevy Fleetline",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/86/1947Fleetline.jpg/revision/latest/scale-to-width-down/1200?cb=20251015123252",
-        "url": "https://hotwheels.fandom.com/wiki/'47_Chevy_Fleetline"
-      },
-      {
-        "name": "'64 Impala",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/1964ChevroletImpala.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111004",
-        "url": "https://hotwheels.fandom.com/wiki/'64_Impala"
-      },
-      {
-        "name": "La Troca",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/45/1950ChevyTruck.jpg/revision/latest/scale-to-width-down/1200?cb=20260128103137",
-        "url": "https://hotwheels.fandom.com/wiki/La_Troca"
       }
     ]
   }
