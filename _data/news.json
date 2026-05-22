@@ -180,15 +180,6 @@
     "image": null
   },
   {
-    "id": "rc_776087",
-    "title": "Pontiac Aztek Custom",
-    "summary": "Undo revision 776012 by WKPQ (talk) this is not a car wiki. We should not be listing information about the actual vehicle before the hot wheels model.",
-    "date": "2026-05-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Pontiac_Aztek_Custom",
-    "image": null
-  },
-  {
     "id": "search_185871",
     "title": "2026 Hot Wheels Monster Trucks",
     "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
@@ -204,24 +195,6 @@
     "date": "2025-06-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Super_Treasure_Hunt",
-    "image": null
-  },
-  {
-    "id": "search_185401",
-    "title": "2026 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
-    "date": "2026-05-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_185581",
-    "title": "2026 New Models",
-    "summary": "Latest Hot Wheels information: 2026 New Models",
-    "date": "2026-05-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
     "image": null
   },
   {
@@ -258,6 +231,15 @@
     "date": "2025-08-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
+    "image": null
+  },
+  {
+    "id": "search_185401",
+    "title": "2026 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
+    "date": "2026-05-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
     "image": null
   },
   {
