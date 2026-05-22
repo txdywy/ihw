@@ -240,5 +240,16 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/CupcakeRacer.jpg/revision/latest/scale-to-width-down/1200?cb=20260513083806",
     "url": "https://hotwheels.fandom.com/wiki/Sweet_Driver",
     "type": "regular"
+  },
+  {
+    "id": "th_2026_mad_manga",
+    "name": "Mad Manga",
+    "year": 2026,
+    "series": "Hot Wheels Let's Race",
+    "toyNumber": "JJM10",
+    "description": "Mad Manga — White",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/Mad_Manga",
+    "type": "regular"
   }
 ]

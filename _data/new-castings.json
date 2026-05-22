@@ -340,6 +340,26 @@
     "url": "https://hotwheels.fandom.com/wiki/Lil'_Mad"
   },
   {
+    "id": "hw_test_ride",
+    "name": "HW Test Ride",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Trophy Case",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/HW_Test_Ride"
+  },
+  {
+    "id": "project_twin_mill",
+    "name": "Project Twin Mill",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Cool Classics",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Project_Twin_Mill"
+  },
+  {
     "id": "2019_audi_tt_safari",
     "name": "2019 Audi TT Safari",
     "year": 2026,
@@ -348,6 +368,16 @@
     "image": null,
     "fullImage": null,
     "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
+  },
+  {
+    "id": "uncertain-t",
+    "name": "Uncertain-T",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Rod Squad",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Uncertain-T"
   },
   {
     "id": "go-realla-fast",
@@ -568,35 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/ToyotaAlphard.jpg/revision/latest/scale-to-width-down/1200?cb=20260311131032",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/ToyotaAlphard.jpg/revision/latest?cb=20260311131032",
     "url": "https://hotwheels.fandom.com/wiki/2015_Toyota_Alphard"
-  },
-  {
-    "id": "koenigsegg_cc850",
-    "name": "Koenigsegg CC850",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Hot Wheels Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/61/KoenigseggCC850.jpg/revision/latest/scale-to-width-down/1200?cb=20260311131134",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/6/61/KoenigseggCC850.jpg/revision/latest?cb=20260311131134",
-    "url": "https://hotwheels.fandom.com/wiki/Koenigsegg_CC850"
-  },
-  {
-    "id": "1967_chevy_custom_c-10",
-    "name": "1967 Chevy Custom C-10",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Fast & Furious",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/1967ChevroletC10Custom.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120816",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/1967ChevroletC10Custom.jpg/revision/latest?cb=20260126120816",
-    "url": "https://hotwheels.fandom.com/wiki/1967_Chevy_Custom_C-10"
-  },
-  {
-    "id": "1994_honda_del_sol",
-    "name": "1994 Honda del Sol",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Fast & Furious",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HondaCR-XdelSol.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120830",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HondaCR-XdelSol.jpg/revision/latest?cb=20260126120830",
-    "url": "https://hotwheels.fandom.com/wiki/1994_Honda_del_Sol"
   }
 ]
