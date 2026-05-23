@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_777310",
+    "title": "Nissan Skyline GT-R (R32)",
+    "summary": "Added 2026 Color Shifters to releases, carded image to gallery",
+    "date": "2026-05-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(R32)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/20/NissanSkylineR32Sketch.jpg/revision/latest/scale-to-width-down/1200?cb=20230322095624"
+  },
+  {
+    "id": "rc_777248",
+    "title": "Tool Box",
+    "summary": "i cannot find proof of these cars existence",
+    "date": "2026-05-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Tool_Box",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Tool_Box_-_98_HW_Pro_Racing_19122_600pxOTD.jpg/revision/latest?cb=20161130051828"
+  },
+  {
+    "id": "rc_777247",
+    "title": "2000 Pro Racing",
+    "summary": "\"The excitement of a NASCAR race is greatly enhanced by the venue at which it is held - raceways rich in heritage, as well as new, state-of-the-art speedways where racing history is created at every turn. To commemorate these famous tracks and the traditions they represent, Hot Wheels Racing presents its 2000 Treasure Hunt series....",
+    "date": "2026-05-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2000_Pro_Racing",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/2000_Pro_Racing_4.JPG/revision/latest/scale-to-width-down/1200?cb=20210731174048"
+  },
+  {
     "id": "rc_777124",
     "title": "Corvette Stingray (1976)",
     "summary": "1988 mainline. white. line #2. edited release year",
@@ -83,11 +110,11 @@
   {
     "id": "rc_776894",
     "title": "Gyro Jets",
-    "summary": "200px|right\nGyro Jets is a small line of Hot Wheels aircraft that was released in 2003. It was created by Dave Martis, Phedon Tsiknopoulos, & others. The craft would station on a handle with a ripcord.",
+    "summary": "Created page with \"Gyro Jets is a small line of Hot Wheels aircraft that was released in 2003. It was created by Dave Martis, Phedon Tsiknopoulos, & others. The craft would station on a handle with a ripcord. Pulling fast at the ripcord the craft would spin upward like a helicopter. But when the blades slowed down, the aerodynamic winged design of the craft would help if glide a far distance away....",
     "date": "2026-05-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Gyro_Jets",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Gyro_Jets.jpg/revision/latest?cb=20260522003532"
+    "image": null
   },
   {
     "id": "rc_776865",
@@ -96,16 +123,16 @@
     "date": "2026-05-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Acceleracers_logo_1.jpg/revision/latest/scale-to-width-down/1200?cb=20260521114202"
+    "image": null
   },
   {
     "id": "rc_776849",
     "title": "2026 Hot Wheels Legends Tour",
-    "summary": "Legends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "summary": "/* Finalists */",
     "date": "2026-05-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
+    "image": null
   },
   {
     "id": "rc_776835",
