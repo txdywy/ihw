@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_777124",
+    "title": "Corvette Stingray (1976)",
+    "summary": "1988 mainline. white. line #2. edited release year",
+    "date": "2026-05-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Corvette_Stingray_(1976)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/27/Corvettestingray.jpg/revision/latest?cb=20080413064741"
+  },
+  {
+    "id": "rc_777086",
+    "title": "2024 Car Culture",
+    "summary": "Category:Car Culture\nCategory:Car Culture by Year\nCategory:Hot Wheels by Series",
+    "date": "2026-05-22",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2024_Car_Culture",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Porsche911Classic.jpg/revision/latest/scale-to-width-down/1200?cb=20240408112553"
+  },
+  {
+    "id": "rc_777066",
+    "title": "List of 2026 Hot Wheels new castings",
+    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "date": "2026-05-22",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+  },
+  {
     "id": "rc_777059",
     "title": "List of 2026 Hot Wheels (by Series)",
     "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
@@ -83,29 +110,20 @@
   {
     "id": "rc_776835",
     "title": "Batman Series (2026)",
-    "summary": "Category:2026 Hot Wheels\nCategory:Hot Wheels by Series",
+    "summary": "/* Vehicles */",
     "date": "2026-05-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Batman_Series_(2026)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/%E9%A2%A8%E7%81%AB%E8%BC%AA_BATCOPTER_%E7%9B%B4%E5%8D%87%E6%A9%9F_%E8%9D%99%E8%9D%A0%E7%9B%B4%E5%8D%87%E6%A9%9F_1-15_%E8%9D%99%E8%9D%A0%E4%BF%A0%E9%8A%80%E6%A8%992026_MIX1-1.jpg/revision/latest/scale-to-width-down/1200?cb=20260127074034"
-  },
-  {
-    "id": "rc_776824",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
-    "date": "2026-05-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+    "image": null
   },
   {
     "id": "rc_776814",
     "title": "2026 Treasure Hunts Series",
-    "summary": "This is a list of Treasure Hunts from 2026.",
+    "summary": "/* 2026 Treasure Hunts */",
     "date": "2026-05-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+    "image": null
   },
   {
     "id": "rc_776807",
@@ -180,15 +198,6 @@
     "image": null
   },
   {
-    "id": "rc_776151",
-    "title": "RC",
-    "summary": "Redirected page to RC Car",
-    "date": "2026-05-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/RC",
-    "image": null
-  },
-  {
     "id": "search_185871",
     "title": "2026 Hot Wheels Monster Trucks",
     "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
@@ -219,7 +228,7 @@
     "id": "search_185581",
     "title": "2026 New Models",
     "summary": "Latest Hot Wheels information: 2026 New Models",
-    "date": "2026-05-22",
+    "date": "2026-05-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
     "image": null

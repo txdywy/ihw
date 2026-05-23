@@ -330,6 +330,16 @@
     "url": "https://hotwheels.fandom.com/wiki/Mad_Drip"
   },
   {
+    "id": "1972_datsun_sunny_coupe",
+    "name": "1972 Datsun Sunny Coupe",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Compact Kings",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe"
+  },
+  {
     "id": "lil'_mad",
     "name": "Lil' Mad",
     "year": 2026,
@@ -588,15 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/ToyotaGRYaris.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132308",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/ToyotaGRYaris.jpg/revision/latest?cb=20260121132308",
     "url": "https://hotwheels.fandom.com/wiki/Toyota_GR_Yaris"
-  },
-  {
-    "id": "2015_toyota_alphard",
-    "name": "2015 Toyota Alphard",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Hot Wheels Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/ToyotaAlphard.jpg/revision/latest/scale-to-width-down/1200?cb=20260311131032",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/ToyotaAlphard.jpg/revision/latest?cb=20260311131032",
-    "url": "https://hotwheels.fandom.com/wiki/2015_Toyota_Alphard"
   }
 ]
