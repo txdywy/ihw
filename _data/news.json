@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_777870",
+    "title": "Hot Wheels: AcceleRacers (film series)",
+    "summary": "Added Meet the Driver official descriptions",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Acceleracers_logo_1.jpg/revision/latest/scale-to-width-down/1200?cb=20260521114202"
+  },
+  {
+    "id": "rc_777850",
+    "title": "Radical Rides",
+    "summary": "Radical Rides is a line of cartoonish Bobble Head cars spanning from 1999 to 2001. The line focused on two sports; NASCAR & the NBA. The cars are 1:43 scale with a cartoonish look.",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Radical_Rides",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/35/RADICAL_RIDES_Court_Cruisers_BACK.jpg/revision/latest?cb=20260524151023"
+  },
+  {
     "id": "rc_777824",
     "title": "2026 Multi-Pack Exclusives",
     "summary": "The following vehicles could only be found in Multi-Packs (3, 8, 10, and 20 Packs) in the year 2026. Toy # goes as the following: 3-packs: K5904, 8-packs: HPV78, 9/10-packs: X6999 & 20-packs: H7045. Some multi-pack exclusive vehicles use existing tampo designs but were released with different colors and wheels, these vehicles are mixed into the contents of the multi-pack.",
@@ -36,15 +54,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Nomadder_what_2002_orange.png/revision/latest?cb=20110409193619"
   },
   {
-    "id": "rc_777750",
-    "title": "Hot Wheels: AcceleRacers (film series)",
-    "summary": "/* Characters */",
-    "date": "2026-05-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Acceleracers_logo_1.jpg/revision/latest/scale-to-width-down/1200?cb=20260521114202"
-  },
-  {
     "id": "rc_777745",
     "title": "Grand Prix Series",
     "summary": "250px \nAfter the 2000 Pro Racing series the Formula Racing castings separated from the Pro Racing line (since the Pro Racing line is more focused on NASCARs) to create its own line, the Grand Prix Series. From 2001- 2005, though the castings represented different car manufacturers, they all are the same casting; GP-2009....",
@@ -70,15 +79,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Slideout",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/1/18/SlideOut_Prp.JPG/revision/latest?cb=20090126011438"
-  },
-  {
-    "id": "rc_777624",
-    "title": "Radical Rides",
-    "summary": "Radical Rides is a line of cartoonish Bobble Head cars spanning from 1999 to 2001. The line focused on two sports; NASCAR & the NBA. The cars are 1:43 scale with a cartoonish look.",
-    "date": "2026-05-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Radical_Rides",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/35/RADICAL_RIDES_Court_Cruisers_BACK.jpg/revision/latest?cb=20260524151023"
   },
   {
     "id": "rc_777576",
@@ -180,24 +180,6 @@
     "image": null
   },
   {
-    "id": "rc_777066",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "/* Mainline */",
-    "date": "2026-05-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
-    "id": "rc_777036",
-    "title": "1985 Honda CR-X",
-    "summary": "Added image of the 2026 ZAMAC release",
-    "date": "2026-05-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/1985_Honda_CR-X",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -231,6 +213,15 @@
     "date": "2026-05-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_185492",
+    "title": "List of 2026 Hot Wheels new castings",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels new castings",
+    "date": "2026-05-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
     "image": null
   },
   {
