@@ -1,12 +1,57 @@
 [
   {
-    "id": "rc_777870",
+    "id": "rc_778123",
+    "title": "Hot Wheels Unlimited",
+    "summary": "New monster trucks in hot wheels unlimited",
+    "date": "2026-05-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Unlimited",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/UnlimitedApp.png/revision/latest?cb=20240308063309"
+  },
+  {
+    "id": "rc_778078",
     "title": "Hot Wheels: AcceleRacers (film series)",
-    "summary": "Added Meet the Driver official descriptions",
-    "date": "2026-05-25",
+    "summary": "Added screensaver that was available on www.cartoonnetwork.com/promos/hotwheels/downloads. Restored via Waybackmachine service.",
+    "date": "2026-05-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Acceleracers_logo_1.jpg/revision/latest/scale-to-width-down/1200?cb=20260521114202"
+  },
+  {
+    "id": "rc_778044",
+    "title": "Hot Wheels: Beat That!",
+    "summary": "Hot Wheels: Beat That! is a racing video game released in September 2007 and based on the Hot Wheels toy line manufactured by Mattel. The game was developed by Eutechnyx and published by Activision.",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Beat_That!",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/HWBTBrutalistic.jpg/revision/latest?cb=20150710234736"
+  },
+  {
+    "id": "rc_778016",
+    "title": "2025 Hot Wheels Boulevard",
+    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Project935X.jpg/revision/latest/scale-to-width-down/1200?cb=20250119123805"
+  },
+  {
+    "id": "rc_777998",
+    "title": "16 Angels",
+    "summary": "Added new image of 2024 multipack release.",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/16_Angels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/16_Angels_Nathan_Proch.jpg/revision/latest?cb=20080331010415"
+  },
+  {
+    "id": "rc_777957",
+    "title": "2022 Car Culture",
+    "summary": "Category:Car Culture\nCategory:Car Culture by Year\nCategory:Hot Wheels by Series",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2022_Car_Culture",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/67/CorvetteC8R_AmericanScene_2022_Loose.JPG/revision/latest/scale-to-width-down/1200?cb=20220217075236"
   },
   {
     "id": "rc_777850",
@@ -65,11 +110,11 @@
   {
     "id": "rc_777728",
     "title": "2011 Japan Collectors Convention",
-    "summary": "The 2011 Japan Collectors Convention took place in Yokohama, Japan on 4 December 2011.",
+    "summary": "/* Convention Cars */",
     "date": "2026-05-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2011_Japan_Collectors_Convention",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/HW_20Yokohama_202011_edit.png/revision/latest?cb=20250317035014"
+    "image": null
   },
   {
     "id": "rc_777630",
@@ -78,7 +123,7 @@
     "date": "2026-05-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Slideout",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/18/SlideOut_Prp.JPG/revision/latest?cb=20090126011438"
+    "image": null
   },
   {
     "id": "rc_777576",
@@ -87,25 +132,25 @@
     "date": "2026-05-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/8_Crate",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/8_Crate.jpg/revision/latest/scale-to-width-down/1200?cb=20090615151713"
+    "image": null
   },
   {
     "id": "rc_777534",
     "title": "The Hot Ones (2011)",
-    "summary": "200px|right\nThe Hot Ones line is a throw back to the classic cars of Mattel's line-up. Released in 1981, the original \"The Hot Ones (1981)\" was a series of cars with a new wheel and axle design that allowed the cars to go faster than those of the previous few years. The '70's saw many cost cutting measures to keep Mattel from going bankrupt, which included the thick straight axle design.",
+    "summary": "CHASE Countach from mp 10pk speed pack 2 E21 & E27 removed E code from carded Chase CARDS are D's",
     "date": "2026-05-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/The_Hot_Ones_(2011)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/THO.jpg/revision/latest?cb=20250317011137"
+    "image": null
   },
   {
     "id": "rc_777479",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* Drop Tops */",
     "date": "2026-05-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_777469",
@@ -141,42 +186,6 @@
     "date": "2026-05-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(R32)",
-    "image": null
-  },
-  {
-    "id": "rc_777248",
-    "title": "Tool Box",
-    "summary": "i cannot find proof of these cars existence",
-    "date": "2026-05-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Tool_Box",
-    "image": null
-  },
-  {
-    "id": "rc_777247",
-    "title": "2000 Pro Racing",
-    "summary": "i cannot find proof of these cars existence",
-    "date": "2026-05-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2000_Pro_Racing",
-    "image": null
-  },
-  {
-    "id": "rc_777124",
-    "title": "Corvette Stingray (1976)",
-    "summary": "1988 mainline. white. line #2. edited release year",
-    "date": "2026-05-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Corvette_Stingray_(1976)",
-    "image": null
-  },
-  {
-    "id": "rc_777086",
-    "title": "2024 Car Culture",
-    "summary": "added base code T05 for BMW M1 Procar",
-    "date": "2026-05-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2024_Car_Culture",
     "image": null
   },
   {
@@ -276,15 +285,6 @@
     "date": "2024-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_169010",
-    "title": "2025 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
-    "date": "2026-04-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
