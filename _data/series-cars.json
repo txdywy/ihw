@@ -684,7 +684,7 @@
     "seriesId": "hw_dirt",
     "seriesName": "HW Dirt",
     "year": 2026,
-    "carCount": 8,
+    "carCount": 9,
     "cars": [
       {
         "name": "El Segundo Rallye",
@@ -725,6 +725,11 @@
         "name": "2019 Audi TT Safari",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
+      },
+      {
+        "name": "'23 Ram 1500",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'23_Ram_1500"
       }
     ]
   },

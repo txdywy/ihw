@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_778156",
+    "title": "2026 Treasure Hunts Series",
+    "summary": "This is a list of Treasure Hunts from 2026.",
+    "date": "2026-05-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+  },
+  {
+    "id": "rc_778151",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-05-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
+    "id": "rc_778138",
+    "title": "Street Cleaver",
+    "summary": "Team Hot Wheels Top Rides Series (2012)|Team Hot Wheels Top Rides",
+    "date": "2026-05-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Street_Cleaver",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/66/Street-Larry-Wood-Mr.-Hot-Wheels.jpg/revision/latest?cb=20200205043555"
+  },
+  {
+    "id": "rc_778134",
+    "title": "Custom '64 Galaxie 500",
+    "summary": "Also on Target Top Rides CARDS",
+    "date": "2026-05-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Custom_'64_Galaxie_500",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Galaxie_Phil_R.jpg/revision/latest?cb=20080328194122"
+  },
+  {
     "id": "rc_778123",
     "title": "Hot Wheels Unlimited",
     "summary": "New monster trucks in hot wheels unlimited",
@@ -74,20 +110,20 @@
   {
     "id": "rc_777812",
     "title": "Japanese Classics Series (2023)",
-    "summary": "The Japanese Classics Series is one of a number of Themed Automotive Assortments for 2023, with five pre-2000 Japanese cars.",
+    "summary": "/* Vehicles */",
     "date": "2026-05-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Japanese_Classics_Series_(2023)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/HLK16.jpg/revision/latest/scale-to-width-down/1200?cb=20241030202545"
+    "image": null
   },
   {
     "id": "rc_777770",
     "title": "2021 Multi-Pack Exclusives",
-    "summary": "The following vehicles could only be found in Multi-Packs (3, 9, 10, and 20 Packs) in the year 2021. Some multi-pack exclusive vehicles use existing tampo designs but were released with different colors and wheels, these vehicles are mixed into the contents of the multi-pack....",
+    "summary": "/* Exclusive Decoration Vehicles */",
     "date": "2026-05-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2021_Multi-Pack_Exclusives",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/IMG_20210302_132110.jpg/revision/latest/scale-to-width-down/1200?cb=20210302124122"
+    "image": null
   },
   {
     "id": "rc_777753",
@@ -96,16 +132,16 @@
     "date": "2026-05-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Nomadder_What",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Nomadder_what_2002_orange.png/revision/latest?cb=20110409193619"
+    "image": null
   },
   {
     "id": "rc_777745",
     "title": "Grand Prix Series",
-    "summary": "250px \nAfter the 2000 Pro Racing series the Formula Racing castings separated from the Pro Racing line (since the Pro Racing line is more focused on NASCARs) to create its own line, the Grand Prix Series. From 2001- 2005, though the castings represented different car manufacturers, they all are the same casting; GP-2009....",
+    "summary": "Added amotheg Cool AD from magazine ●GRAND PRIX COLLECTOR'S SERIES● FERRARI Pits image for 1:64 , 1:43, 1:24 & 1:18 also Ferrari Jordan McLaren Stewart WilliamsF1",
     "date": "2026-05-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Grand_Prix_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Grand_Prix_Logo.jpg/revision/latest?cb=20220330150812"
+    "image": null
   },
   {
     "id": "rc_777728",
@@ -144,57 +180,12 @@
     "image": null
   },
   {
-    "id": "rc_777479",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* Drop Tops */",
-    "date": "2026-05-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "rc_777469",
     "title": "List of 2015 Hot Wheels new castings",
     "summary": "/* Track Stars Haulers */",
     "date": "2026-05-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2015_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
-    "id": "rc_777375",
-    "title": "2024 Hot Wheels Boulevard",
-    "summary": "added base code T40 for 1967 Volkswagen Samba Bus",
-    "date": "2026-05-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2024_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "rc_777370",
-    "title": "Bedlam",
-    "summary": "2016 Holiday Hot Rods release is gray, not chrome.",
-    "date": "2026-05-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Bedlam",
-    "image": null
-  },
-  {
-    "id": "rc_777310",
-    "title": "Nissan Skyline GT-R (R32)",
-    "summary": "Added 2026 Color Shifters to releases, carded image to gallery",
-    "date": "2026-05-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(R32)",
-    "image": null
-  },
-  {
-    "id": "search_183990",
-    "title": "2026 Treasure Hunts Series",
-    "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
-    "date": "2026-05-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
     "image": null
   },
   {
