@@ -1,6 +1,15 @@
 [
   {
-    "id": "rc_778156",
+    "id": "rc_778353",
+    "title": "2002 McDonald's Series (Europe)",
+    "summary": "In 2002 McDonald's Happy Meals featured a set of 4 racing vehicles. This set was available only in Europe.",
+    "date": "2026-05-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2002_McDonald's_Series_(Europe)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/93/2002MCD-F1_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20200705022301"
+  },
+  {
+    "id": "rc_778348",
     "title": "2026 Treasure Hunts Series",
     "summary": "This is a list of Treasure Hunts from 2026.",
     "date": "2026-05-26",
@@ -101,11 +110,11 @@
   {
     "id": "rc_777824",
     "title": "2026 Multi-Pack Exclusives",
-    "summary": "The following vehicles could only be found in Multi-Packs (3, 8, 10, and 20 Packs) in the year 2026. Toy # goes as the following: 3-packs: K5904, 8-packs: HPV78, 9/10-packs: X6999 & 20-packs: H7045. Some multi-pack exclusive vehicles use existing tampo designs but were released with different colors and wheels, these vehicles are mixed into the contents of the multi-pack.",
+    "summary": "/* Vehicles */",
     "date": "2026-05-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Multi-Pack_Exclusives",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/X6999-32ford-2026.jpg/revision/latest/scale-to-width-down/1200?cb=20260110185802"
+    "image": null
   },
   {
     "id": "rc_777812",
@@ -177,15 +186,6 @@
     "date": "2026-05-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/The_Hot_Ones_(2011)",
-    "image": null
-  },
-  {
-    "id": "rc_777469",
-    "title": "List of 2015 Hot Wheels new castings",
-    "summary": "/* Track Stars Haulers */",
-    "date": "2026-05-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2015_Hot_Wheels_new_castings",
     "image": null
   },
   {
