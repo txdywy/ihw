@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_778872",
+    "title": "Design Team",
+    "summary": "Hot Wheels's design team (colloquially known as the Hot Wheels Dream Team) comprises of casting designers, graphic designers and packaging designers.",
+    "date": "2026-05-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Design_Team",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/CharlieAngulo.jpg/revision/latest?cb=20241113120522"
+  },
+  {
+    "id": "rc_778846",
+    "title": "BMW M3 Wagon (Hot Wheels XL)",
+    "summary": "/* Versions */",
+    "date": "2026-05-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/BMW_M3_Wagon_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/BMWE30Wagon.jpg/revision/latest/scale-to-width-down/1200?cb=20260424095840"
+  },
+  {
     "id": "rc_778839",
     "title": "Hot Wheels: Turbo Racing",
     "summary": "Hot Wheels Turbo Racing is a racing video game released for the Nintendo 64 and PlayStation in 1999 published by Electronic Arts and developed by Stormfront Studios. It features 40 cars based on the Hot Wheels series of toys by Mattel. It also features Kyle Petty's 1999 NASCAR stock car, as it was sponsored by Hot Wheels.",
@@ -101,11 +119,11 @@
   {
     "id": "rc_778637",
     "title": "2025 Hot Wheels Monster Trucks",
-    "summary": "Each truck included a trophy accessory. JDW07 MONSTER TRUCKS Trophy Champions GOLD r1.jpg|JDW07\nJDW07 MONSTER TRUCKS Trophy Champions GOLD r1R.jpg\nJDW07 MONSTER TRUCKS Trophy Champions GOLD r1T.jpg\nJDW07 MONSTER TRUCKS Trophy Champions GOLD r2.jpg\n2025 Monster Trucks TYRE Dump 1L.jpg\n2025 Monster Trucks TYRE Dump Left.jpg\n2025 Demolition Doubles JDV73....",
+    "summary": "/* Monster Trucks */",
     "date": "2026-05-27",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Monster_Trucks",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/JDW07_MONSTER_TRUCKS_Trophy_Champions_GOLD_r1.jpg/revision/latest/scale-to-width-down/1200?cb=20260208165926"
+    "image": null
   },
   {
     "id": "rc_778629",
@@ -300,7 +318,7 @@
     "id": "search_184597",
     "title": "2026 Car Culture: Team Transport",
     "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-05-10",
+    "date": "2026-05-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
     "image": null
