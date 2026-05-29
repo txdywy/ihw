@@ -3,7 +3,7 @@
     "seriesId": "red_edition",
     "seriesName": "Red Edition",
     "year": 2026,
-    "carCount": 11,
+    "carCount": 12,
     "cars": [
       {
         "name": "Ford Mustang Mach-E 1400",
@@ -54,6 +54,11 @@
         "name": "Honda Odyssey",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/Honda_Odyssey"
+      },
+      {
+        "name": "'20 Toyota GR Supra",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'20_Toyota_GR_Supra"
       },
       {
         "name": "1970 Pontiac Firebird",

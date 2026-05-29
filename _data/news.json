@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_778968",
+    "title": "Ferrari F1-2000 (RC)",
+    "summary": "Created page with \" ==Description== The Ferrari F1-2000 is a highly successful Formula One car designed by Ross Brawn, Rory Byrne, Giorgio Ascanelli, Aldo Costa, Marco Fainello and others to compete in the 2000 Formula One World Championship. Driven by Scuderia Ferrari Marlboro drivers Michael Schumacher and ...\"",
+    "date": "2026-05-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_F1-2000_(RC)",
+    "image": null
+  },
+  {
+    "id": "rc_778963",
+    "title": "Ferrari F1-89 (RC)",
+    "summary": "Created page with \" ==Description== The Ferrari F1-89, often known by its project code of 640, is a Formula One car designed by John Barnard, Pierguido Castelli, Enrique Scalabroni, Henri Durand, Jean-Jacques His and others to compete in the 1989 Formula One World Championship. Driven by Scuderia Ferrari SpA SEFAC drivers wikipedia:Nigel...\"",
+    "date": "2026-05-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_F1-89_(RC)",
+    "image": null
+  },
+  {
+    "id": "rc_778960",
+    "title": "Hot Wheels RC",
+    "summary": "/* Versions */",
+    "date": "2026-05-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+  },
+  {
     "id": "rc_778928",
     "title": "List of 2006 Hot Wheels new castings",
     "summary": "Category:2006 Hot Wheels\nCategory:New Castings",
@@ -83,11 +110,11 @@
   {
     "id": "rc_778690",
     "title": "Hot Wheels: World's Best Driver",
-    "summary": "Hot Wheels World's Best Driver is a 2013 vehicular sports-racing video game developed by Firebrand Games and published by Warner Bros Interactive. It was released on the Xbox 360, PlayStation 3, Nintendo 3DS, Wii U, and PC on September 17, 2013.",
+    "summary": "/* Vehicle List */",
     "date": "2026-05-27",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_World's_Best_Driver",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/WBD_Cover.png/revision/latest?cb=20260515221201"
+    "image": null
   },
   {
     "id": "rc_778667",
@@ -96,7 +123,7 @@
     "date": "2026-05-27",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Lamborghini_Temerario_Alleggerita",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Hot_Wheels_RC_2026_Lamborghini_Temerario_Alleggerita_China_JHW60.jpg/revision/latest/scale-to-width-down/1200?cb=20260515225212"
+    "image": null
   },
   {
     "id": "rc_778642",
@@ -249,24 +276,6 @@
     "date": "2026-05-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Beat_That!",
-    "image": null
-  },
-  {
-    "id": "rc_778016",
-    "title": "2025 Hot Wheels Boulevard",
-    "summary": "Added base code U32A for '77 Pontiac Firebird TA",
-    "date": "2026-05-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "rc_777998",
-    "title": "16 Angels",
-    "summary": "Added new image of 2024 multipack release.",
-    "date": "2026-05-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/16_Angels",
     "image": null
   },
   {
