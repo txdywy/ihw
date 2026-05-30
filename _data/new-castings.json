@@ -510,6 +510,26 @@
     "url": "https://hotwheels.fandom.com/wiki/2008_Audi_A4_Touring_Car"
   },
   {
+    "id": "land_rover_s2",
+    "name": "Land Rover S2",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Road Trip",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_S2"
+  },
+  {
+    "id": "subaru_legacy_gt_(bp)",
+    "name": "Subaru Legacy GT (BP)",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Road Trip",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Subaru_Legacy_GT_(BP)"
+  },
+  {
     "id": "mercedes-benz_300_slr",
     "name": "Mercedes-Benz 300 SLR",
     "year": 2026,
@@ -578,25 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2002PontiacFirebirdTransAm.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111729",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2002PontiacFirebirdTransAm.jpg/revision/latest?cb=20251216111729",
     "url": "https://hotwheels.fandom.com/wiki/2002_Pontiac_Firebird"
-  },
-  {
-    "id": "1993_toyota_4runner",
-    "name": "1993 Toyota 4Runner",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Hot Wheels Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/1993Toyota4RunnerSR5.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111753",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/1993Toyota4RunnerSR5.jpg/revision/latest?cb=20251216111753",
-    "url": "https://hotwheels.fandom.com/wiki/1993_Toyota_4Runner"
-  },
-  {
-    "id": "toyota_gr_yaris",
-    "name": "Toyota GR Yaris",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Hot Wheels Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/ToyotaGRYaris.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132308",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/ToyotaGRYaris.jpg/revision/latest?cb=20260121132308",
-    "url": "https://hotwheels.fandom.com/wiki/Toyota_GR_Yaris"
   }
 ]
