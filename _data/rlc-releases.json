@@ -61,5 +61,32 @@
     "saleDate": "27 May 2026",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/RLC_2026_%2794_Honda_NSX_China_JJY73.jpg/revision/latest/scale-to-width-down/1200?cb=20260530123707",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_1948_chevrolet_fleetline",
+    "name": "1948 Chevrolet Fleetline",
+    "year": 2026,
+    "color": "Spectraflame yellow",
+    "saleDate": "9 June 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_1948_chevrolet_fleetline",
+    "name": "1948 Chevrolet Fleetline",
+    "year": 2026,
+    "color": null,
+    "saleDate": "9 June 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_1962_ford_f100",
+    "name": "1962 Ford F100",
+    "year": 2026,
+    "color": "Spectraflame aqua",
+    "saleDate": "16 June 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
   }
 ]
