@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_779220",
+    "title": "Hot Wheels: Turbo Racing",
+    "summary": "Hot Wheels Turbo Racing is a racing video game released for the Nintendo 64 and PlayStation in 1999 published by Electronic Arts and developed by Stormfront Studios. It features 40 cars based on the Hot Wheels series of toys by Mattel. It also features Kyle Petty's 1999 NASCAR stock car, as it was sponsored by Hot Wheels.",
+    "date": "2026-05-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Turbo_Racing",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/00BiSector.jpg/revision/latest?cb=20130916032218"
+  },
+  {
     "id": "rc_779208",
     "title": "Hot Wheels Let's Race: Activate!",
     "summary": "Hot Wheels Let's Race: Activate! is a series of 1/32 scale cars featuring vehicles featured in Hot Wheels Let's Race introduced in 2026. Each vehicle features an \"alternate\" mode depicting itself using the powerups each of the cars use in the show, with the cars intended to be rolled to deploy their \"transformations\".",
@@ -88,15 +97,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/BMW_M3_Wagon_(Hot_Wheels_XL)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/BMWE30Wagon.jpg/revision/latest/scale-to-width-down/1200?cb=20260424095840"
-  },
-  {
-    "id": "rc_778839",
-    "title": "Hot Wheels: Turbo Racing",
-    "summary": "Hot Wheels Turbo Racing is a racing video game released for the Nintendo 64 and PlayStation in 1999 published by Electronic Arts and developed by Stormfront Studios. It features 40 cars based on the Hot Wheels series of toys by Mattel. It also features Kyle Petty's 1999 NASCAR stock car, as it was sponsored by Hot Wheels.",
-    "date": "2026-05-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Turbo_Racing",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/00BiSector.jpg/revision/latest?cb=20130916032218"
   },
   {
     "id": "rc_778813",
@@ -231,24 +231,6 @@
     "date": "2026-05-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/AcceleDrome",
-    "image": null
-  },
-  {
-    "id": "rc_778376",
-    "title": "Hot Wheels Video Racer",
-    "summary": "/* Gallery */",
-    "date": "2026-05-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Video_Racer",
-    "image": null
-  },
-  {
-    "id": "rc_778367",
-    "title": "Jurassic Starter Set",
-    "summary": "/* Car(s) included */",
-    "date": "2026-05-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Jurassic_Starter_Set",
     "image": null
   },
   {
