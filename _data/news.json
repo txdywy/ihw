@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_779672",
+    "title": "Hot Wheels RC",
+    "summary": "/* Singles */",
+    "date": "2026-05-31",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+  },
+  {
     "id": "rc_779637",
     "title": "Crazy Croc 5-Pack",
     "summary": "Released in 2006, the Crazy Croc 5-Pack (J3294)\n100px",
@@ -101,11 +110,11 @@
   {
     "id": "rc_779382",
     "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "summary": "/* HWC/RLC */",
     "date": "2026-05-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+    "image": null
   },
   {
     "id": "rc_779379",
@@ -195,33 +204,6 @@
     "date": "2026-05-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Ferrari_F1-2000_(RC)",
-    "image": null
-  },
-  {
-    "id": "rc_778963",
-    "title": "Ferrari F1-89 (RC)",
-    "summary": "Created page with \" ==Description== The Ferrari F1-89, often known by its project code of 640, is a Formula One car designed by John Barnard, Pierguido Castelli, Enrique Scalabroni, Henri Durand, Jean-Jacques His and others to compete in the 1989 Formula One World Championship. Driven by Scuderia Ferrari SpA SEFAC drivers wikipedia:Nigel...\"",
-    "date": "2026-05-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Ferrari_F1-89_(RC)",
-    "image": null
-  },
-  {
-    "id": "rc_778960",
-    "title": "Hot Wheels RC",
-    "summary": "/* Versions */",
-    "date": "2026-05-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
-    "image": null
-  },
-  {
-    "id": "rc_778928",
-    "title": "List of 2006 Hot Wheels new castings",
-    "summary": "/* Batman Begins */",
-    "date": "2026-05-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2006_Hot_Wheels_new_castings",
     "image": null
   },
   {
