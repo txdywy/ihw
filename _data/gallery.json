@@ -1,5 +1,15 @@
 [
   {
+    "id": "img_135276",
+    "title": "Tuk 'N' Roll",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Tuk%27nRoll2.jpg/revision/latest/scale-to-width-down/1200?cb=20230313150957",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Tuk%27nRoll2.jpg/revision/latest?cb=20230313150957",
+    "width": 1200,
+    "height": 1217,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Tuk_'N'_Roll"
+  },
+  {
     "id": "img_31603",
     "title": "4ward Speed",
     "url": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Paul_Delorean_4Ward.JPG/revision/latest?cb=20260123230219",
@@ -148,16 +158,6 @@
     "height": 404,
     "source": "Hot Wheels Wiki",
     "carUrl": "https://hotwheels.fandom.com/wiki/Aero_Car"
-  },
-  {
-    "id": "img_189062",
-    "title": "Semi Twin Mill",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Semi_Twin_Mill_Artwork.jpg/revision/latest/scale-to-width-down/1200?cb=20260327162201",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Semi_Twin_Mill_Artwork.jpg/revision/latest?cb=20260327162201",
-    "width": 1200,
-    "height": 601,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Semi_Twin_Mill"
   },
   {
     "id": "feat_twin_mill",
