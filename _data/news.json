@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_780067",
+    "title": "VHS Pack (Heroes on Hot Wheels)",
+    "summary": "Firebird with PMZ-006",
+    "date": "2026-06-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/VHS_Pack_(Heroes_on_Hot_Wheels)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/PMZ001.jpeg/revision/latest?cb=20240716063232"
+  },
+  {
     "id": "rc_779993",
     "title": "2026 Mystery Models",
     "summary": "Category:Hot Wheels by Series\nCategory:Mystery Models",
@@ -101,11 +110,11 @@
   {
     "id": "rc_779540",
     "title": "Hot Wheels: Turbo Racing",
-    "summary": "Hot Wheels Turbo Racing is a racing video game released for the Nintendo 64 and PlayStation in 1999 published by Electronic Arts and developed by Stormfront Studios. It features 40 cars based on the Hot Wheels series of toys by Mattel. It also features Kyle Petty's 1999 NASCAR stock car, as it was sponsored by Hot Wheels.",
+    "summary": "Can we NOT use eBay images for god sakes?",
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Turbo_Racing",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/00BiSector.jpg/revision/latest?cb=20130916032218"
+    "image": null
   },
   {
     "id": "rc_779533",
@@ -204,15 +213,6 @@
     "date": "2026-05-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Test_Ride",
-    "image": null
-  },
-  {
-    "id": "rc_779247",
-    "title": "Fast & Furious: Silver Anniversary Series (2026)",
-    "summary": "/* Vehicles */",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious%3A_Silver_Anniversary_Series_(2026)",
     "image": null
   },
   {
