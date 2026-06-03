@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_780289",
+    "title": "Hot Wheels: AcceleRacers (film series)",
+    "summary": "/* Featured Movie Realms */",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Teku.png/revision/latest?cb=20240321053446"
+  },
+  {
+    "id": "rc_780270",
+    "title": "Team Hot Wheels Top Rides Series (2012)",
+    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
+  },
+  {
     "id": "rc_780253",
     "title": "Hotwheels.com (2005)",
     "summary": "center|300px\nPlease check out the other hotwheels.com pages listed by year\nhotwheels.com was a website that served as a hub for parents, children, and collectors to interact with the link appearing on various products throughout the years. For 2005 the site was updated with advertisements for the Mainline, AcceleRacers, Adidas, and many other series....",
@@ -11,7 +29,7 @@
   {
     "id": "rc_780247",
     "title": "Hotwheels.com",
-    "summary": "center|300px\nhotwheels.com was a website first launched in 1997 (domain registered August 21, 1996) that served as a hub for parents, children, and collectors to interact, with the link appearing on various products in the years after. It featured many activities, news posts, webgames, and downloadable content. The site was shut down with its domain redirecting to the mattel....",
+    "summary": "center|300px\nhotwheels.com was a website first launched in 1997 (domain registered August 21, 1996) that served as a hub for parents, children, and collectors to interact, with the link appearing on various products in the years after. It featured many activities, news posts, webgames, and downloadable content. The site was shut down with its domain redirected to the mattel....",
     "date": "2026-06-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hotwheels.com",
@@ -20,7 +38,7 @@
   {
     "id": "rc_780246",
     "title": "Hotwheels.com (1997)",
-    "summary": "center|300px\nPlease check out the other hotwheels.com pages listed by year\nhotwheels.com was a website that served as a hub for parents, children, and collectors to interact with the link appearing on various products throughout the years. In 1997 the site was launched with advertisements for the Mainline and various track sets. Sections titled Starting Line, What's Hot!...",
+    "summary": "center|300px\nPlease check out the other hotwheels.com pages listed by year\nhotwheels.com was a website that served as a hub for parents, children, and collectors to interact with the link appearing on various products throughout the years. In 1997 the site was launched with advertisements for the mainline and various track sets. Sections titled Starting Line, What's Hot!...",
     "date": "2026-06-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hotwheels.com_(1997)",
@@ -63,15 +81,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
   },
   {
-    "id": "rc_780121",
-    "title": "Hot Wheels: AcceleRacers (film series)",
-    "summary": "Will later correct and incorporate information into respective pages.. please do not link to acceleracers.fandom or battleforce5.fandom as both are notorious for inncuracy..",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Teku.png/revision/latest?cb=20240321053446"
-  },
-  {
     "id": "rc_780103",
     "title": "Toyota AE86 Sprinter Trueno (Hot Wheels XL)",
     "summary": "/* Versions */",
@@ -101,11 +110,11 @@
   {
     "id": "rc_779993",
     "title": "2026 Mystery Models",
-    "summary": "Category:Hot Wheels by Series\nCategory:Mystery Models",
+    "summary": "/* Series 2 */",
     "date": "2026-06-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Mystery_Models",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/16_Bugatti_Chiron.jpg/revision/latest/scale-to-width-down/1200?cb=20260208122337"
+    "image": null
   },
   {
     "id": "rc_779989",
@@ -222,15 +231,6 @@
     "date": "2026-05-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7",
-    "image": null
-  },
-  {
-    "id": "rc_779468",
-    "title": "DC Super Villains 5-Pack",
-    "summary": "/* Cars */",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/DC_Super_Villains_5-Pack",
     "image": null
   },
   {
