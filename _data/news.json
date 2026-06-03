@@ -1,5 +1,59 @@
 [
   {
+    "id": "rc_780182",
+    "title": "'68 Corvette - Gas Monkey Garage",
+    "summary": "/* 2017 card */",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/%2768_Corvette_-_Gas_Monkey_Garage-2017_099.jpg/revision/latest?cb=20161206173951"
+  },
+  {
+    "id": "rc_780147",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
+    "id": "rc_780130",
+    "title": "Hot Wheels RC",
+    "summary": "/* Tracksets */",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+  },
+  {
+    "id": "rc_780121",
+    "title": "Hot Wheels: AcceleRacers (film series)",
+    "summary": "Will later correct and incorporate information into respective pages.. please do not link to acceleracers.fandom or battleforce5.fandom as both are notorious for inncuracy..",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/TekuWallpaper.png/revision/latest?cb=20240327132930"
+  },
+  {
+    "id": "rc_780103",
+    "title": "Toyota AE86 Sprinter Trueno (Hot Wheels XL)",
+    "summary": "/* Versions */",
+    "date": "2026-06-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/2026_XL_15.jpg/revision/latest/scale-to-width-down/1200?cb=20260601062733"
+  },
+  {
+    "id": "rc_780102",
+    "title": "McLaren Senna (Hot Wheels XL)",
+    "summary": "/* Versions */",
+    "date": "2026-06-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/McLaren_Senna_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/88/2026_XL_14.jpg/revision/latest/scale-to-width-down/1200?cb=20260601062832"
+  },
+  {
     "id": "rc_780067",
     "title": "VHS Pack (Heroes on Hot Wheels)",
     "summary": "Firebird with PMZ-006",
@@ -45,15 +99,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Action_Cycles_BIKE_IMAGE.jpg/revision/latest?cb=20260531235829"
   },
   {
-    "id": "rc_779758",
-    "title": "Hot Wheels RC",
-    "summary": "Reverted edit by Countach75 (talk) to last revision by Admiral747",
-    "date": "2026-05-31",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
-  },
-  {
     "id": "rc_779750",
     "title": "Streex",
     "summary": "center|500px\ncenter|500px",
@@ -65,11 +110,11 @@
   {
     "id": "rc_779637",
     "title": "Crazy Croc 5-Pack",
-    "summary": "Released in 2006, the Crazy Croc 5-Pack (J3294)\n100px",
+    "summary": "/* Cars */",
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Crazy_Croc_5-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Crazy_Croc.jpg/revision/latest?cb=20091001053955"
+    "image": null
   },
   {
     "id": "rc_779595",
@@ -83,29 +128,29 @@
   {
     "id": "rc_779592",
     "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "Each truck included a trophy accessory. 2025 Monster Trucks TYRE Dump 1L.jpg\n2025 Monster Trucks TYRE Dump Left.jpg\nCategory:2026 Hot Wheels\nCategory:Hot Wheels Monster Trucks",
+    "summary": "/* Monster Trucks */",
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/2025_Monster_Trucks_TYRE_Dump_1L.jpg/revision/latest/scale-to-width-down/1200?cb=20251222081402"
+    "image": null
   },
   {
     "id": "rc_779565",
     "title": "2026 Collector Edition",
-    "summary": "Category:2026 Hot Wheels\nCategory:Mail-in Promotions\nCategory:Hot Wheels by Series",
+    "summary": "/* Vehicles */",
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Collector_Edition",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Hot_Wheels_1991_GMC_Syclone_loose.jpg/revision/latest/scale-to-width-down/1200?cb=20260510223024"
+    "image": null
   },
   {
     "id": "rc_779560",
     "title": "2024 Hot Wheels Legends Tour",
-    "summary": "The winner of each round received a trophy with an exclusive Black Porsche 944 Dirtmeister. 2024 Legends Trophy.JPG\nHW Legends 2024 Winners (1).jpg\nHW Legends 2024 Winners (5).jpg\nHW Legends 2024 Winners (6).jpg\nHW Legends 2024 Winners (2).jpg\nHW Legends 2024 Winners (3).jpg\nHW Legends 2024 Winners (4).jpg\nLegends Tour 2024 Kool Kombi Deep Pink Malaysia HTF90....",
+    "summary": "/* Finalists */",
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2024_Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Volkswagen_Karmann_Ghia_%22K%C3%A4rm%C3%A4%22_by_Jorge_Lazcanos_-_Miami.jpg/revision/latest?cb=20240914204900"
+    "image": null
   },
   {
     "id": "rc_779540",
@@ -153,69 +198,6 @@
     "image": null
   },
   {
-    "id": "rc_779450",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* HW Starting Grid 40px */",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
-    "id": "rc_779382",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "/* HWC/RLC */",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
-    "id": "rc_779379",
-    "title": "Mattel Brick Shop",
-    "summary": "sorted by year of release",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mattel_Brick_Shop",
-    "image": null
-  },
-  {
-    "id": "rc_779374",
-    "title": "Mercedes-Benz CLA HW",
-    "summary": "I am so suprised Mercedes-Benz even approved this Hideous colours and FULL RELEASE of piece(s) colours 👎🏾👎🏾",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_CLA_HW",
-    "image": null
-  },
-  {
-    "id": "rc_779371",
-    "title": "Purple Passion",
-    "summary": "2026 purple mf V05N changed Interior to WHITE ●●NOTE colours do not always Match CARD ARTWORK ●● window is TW but interior not grey",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Purple_Passion",
-    "image": null
-  },
-  {
-    "id": "rc_779368",
-    "title": "Kawa-Bug-A",
-    "summary": "JPN Right & Left Faced carded ~~ W👀 H👀 jist purchased mé set",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Kawa-Bug-A",
-    "image": null
-  },
-  {
-    "id": "rc_779364",
-    "title": "HW Test Ride",
-    "summary": "/* Description */",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Test_Ride",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -234,10 +216,19 @@
     "image": null
   },
   {
+    "id": "search_185492",
+    "title": "List of 2026 Hot Wheels new castings",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels new castings",
+    "date": "2026-05-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "image": null
+  },
+  {
     "id": "search_185581",
     "title": "2026 New Models",
     "summary": "Latest Hot Wheels information: 2026 New Models",
-    "date": "2026-05-30",
+    "date": "2026-06-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
     "image": null
@@ -246,7 +237,7 @@
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
-    "date": "2026-06-01",
+    "date": "2026-06-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
@@ -285,15 +276,6 @@
     "date": "2024-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_182641",
-    "title": "2026 5-Packs",
-    "summary": "Latest Hot Wheels information: 2026 5-Packs",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_5-Packs",
     "image": null
   }
 ]
