@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_780291",
+    "title": "Hot Wheels XL",
+    "summary": "Hot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and wheels. This series was developed by Charlie Angulo.",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/JKL09_a.jpg/revision/latest/scale-to-width-down/1200?cb=20260110071501"
+  },
+  {
     "id": "rc_780289",
     "title": "Hot Wheels: AcceleRacers (film series)",
     "summary": "/* Featured Movie Realms */",
@@ -105,7 +114,7 @@
     "date": "2026-06-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/VHS_Pack_(Heroes_on_Hot_Wheels)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/PMZ001.jpeg/revision/latest?cb=20240716063232"
+    "image": null
   },
   {
     "id": "rc_779993",
@@ -216,24 +225,6 @@
     "image": null
   },
   {
-    "id": "rc_779519",
-    "title": "Japanese Car Culture Themed Multipack (2026)",
-    "summary": "/* Cars */",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Japanese_Car_Culture_Themed_Multipack_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_779503",
-    "title": "Porsche 911 Carrera RS 2.7",
-    "summary": "On TH PAGE listing Says \"M\" Case. ITS \"K\" case/mix/assort I have x2 IN HAND USA long cards",
-    "date": "2026-05-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -303,6 +294,15 @@
     "date": "2025-08-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
+    "image": null
+  },
+  {
+    "id": "search_200140",
+    "title": "Japanese Car Culture Themed Multipack (2026)",
+    "summary": "Latest Hot Wheels information: Japanese Car Culture Themed Multipack (2026)",
+    "date": "2026-06-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Japanese_Car_Culture_Themed_Multipack_(2026)",
     "image": null
   },
   {
