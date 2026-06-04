@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_780521",
+    "title": "Team Hot Wheels Top Rides Series (2012)",
+    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
+    "date": "2026-06-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
+  },
+  {
     "id": "rc_780499",
     "title": "World's Smallest Hot Wheels",
     "summary": "200px|rightWorld's Smallest Hot Wheels is a series of Hot Wheels-themed toys manufactured and marketed by Super Impulse as one of their many brands in their World's Smallest product line introduced in 2017. These are approximately 1:180 scale versions of Hot Wheels cars and tracksets; the wheels on the cars turn and the cars run on tracks. Each car is no larger than a quarter.",
@@ -34,15 +43,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/JKL09_a.jpg/revision/latest/scale-to-width-down/1200?cb=20260110071501"
-  },
-  {
-    "id": "rc_780270",
-    "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
   },
   {
     "id": "rc_780253",
@@ -189,30 +189,21 @@
     "image": null
   },
   {
-    "id": "rc_779595",
-    "title": "Wreckin' Wolf (Big Rigs)",
-    "summary": "Created page with \" ==Description== This monster truck big rig is based on Wreckin' Wolf. ==Versions== The Wreckin' Wolf has come out in the following 1/64 scale versions: {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid...\"",
-    "date": "2026-05-31",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Wreckin'_Wolf_(Big_Rigs)",
-    "image": null
-  },
-  {
-    "id": "rc_779592",
-    "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "/* Monster Trucks */",
-    "date": "2026-05-31",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185871",
+    "title": "2026 Hot Wheels Monster Trucks",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
+    "date": "2026-05-31",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
     "image": null
   },
   {
