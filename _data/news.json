@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_780499",
+    "title": "World's Smallest Hot Wheels",
+    "summary": "200px|rightWorld's Smallest Hot Wheels is a series of Hot Wheels-themed toys manufactured and marketed by Super Impulse as one of their many brands in their World's Smallest product line introduced in 2017. These are approximately 1:180 scale versions of Hot Wheels cars and tracksets; the wheels on the cars turn and the cars run on tracks. Each car is no larger than a quarter.",
+    "date": "2026-06-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/World's_Smallest_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/World%27sSmallest.png/revision/latest?cb=20260604124842"
+  },
+  {
     "id": "rc_780424",
     "title": "Steel Flame",
     "summary": "Steve Platt had nothing to do with the design of the actual casting.",
@@ -105,7 +114,7 @@
     "date": "2026-06-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno_(Hot_Wheels_XL)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/2026_XL_15.jpg/revision/latest/scale-to-width-down/1200?cb=20260601062733"
+    "image": null
   },
   {
     "id": "rc_780102",
@@ -195,24 +204,6 @@
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": null
-  },
-  {
-    "id": "rc_779565",
-    "title": "2026 Collector Edition",
-    "summary": "/* Vehicles */",
-    "date": "2026-05-31",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Collector_Edition",
-    "image": null
-  },
-  {
-    "id": "rc_779560",
-    "title": "2024 Hot Wheels Legends Tour",
-    "summary": "/* Finalists */",
-    "date": "2026-05-31",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2024_Hot_Wheels_Legends_Tour",
     "image": null
   },
   {
