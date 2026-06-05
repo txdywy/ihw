@@ -550,6 +550,16 @@
     "url": "https://hotwheels.fandom.com/wiki/Terra-Torque"
   },
   {
+    "id": "2003_porsche_cayenne",
+    "name": "2003 Porsche Cayenne",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Car Culture: Team Transport",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/2003_Porsche_Cayenne"
+  },
+  {
     "id": "2005_mitsubishi_lancer_evolution_ix_wagon",
     "name": "2005 Mitsubishi Lancer Evolution IX Wagon",
     "year": 2026,
@@ -588,15 +598,5 @@
     "image": null,
     "fullImage": null,
     "url": "https://hotwheels.fandom.com/wiki/McLaren_P1_GTR"
-  },
-  {
-    "id": "2002_pontiac_firebird",
-    "name": "2002 Pontiac Firebird",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Hot Wheels Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2002PontiacFirebirdTransAm.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111729",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2002PontiacFirebirdTransAm.jpg/revision/latest?cb=20251216111729",
-    "url": "https://hotwheels.fandom.com/wiki/2002_Pontiac_Firebird"
   }
 ]
