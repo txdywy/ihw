@@ -1,6 +1,24 @@
 [
   {
-    "id": "rc_780521",
+    "id": "rc_780603",
+    "title": "Jeremy Padawer",
+    "summary": "Jeremy Padawer (born October 26, 1973) was Marketing Manager for Hot Wheels from 2001 to 2003. He was hired by Mattel shortly after he completed college. His first pitch at the company was the K.I.T.",
+    "date": "2026-06-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Jeremy_Padawer",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/58/JeremyPadawer.jpeg/revision/latest?cb=20260605031738"
+  },
+  {
+    "id": "rc_780592",
+    "title": "Micro Hot Wheels",
+    "summary": "Micro Hot Wheels is a series of miniature Hot Wheel cars that came out in 1989 to compete with the newest phenomenon of diecast toys \"Micro Machines\". They are the first series for Hot Wheels to venture into making cars smaller than their usual 1:64 scale. After the series ended within a year (or two?...",
+    "date": "2026-06-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Micro_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Micro_HW_Compare.JPG/revision/latest/scale-to-width-down/1200?cb=20220922140424"
+  },
+  {
+    "id": "rc_780579",
     "title": "Team Hot Wheels Top Rides Series (2012)",
     "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
     "date": "2026-06-04",
@@ -92,11 +110,11 @@
   {
     "id": "rc_780147",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* HW Fan Driven */",
     "date": "2026-06-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_780130",
@@ -105,7 +123,7 @@
     "date": "2026-06-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+    "image": null
   },
   {
     "id": "rc_780103",
@@ -177,15 +195,6 @@
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Streex",
-    "image": null
-  },
-  {
-    "id": "rc_779637",
-    "title": "Crazy Croc 5-Pack",
-    "summary": "/* Cars */",
-    "date": "2026-05-31",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Crazy_Croc_5-Pack",
     "image": null
   },
   {
