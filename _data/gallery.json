@@ -1,5 +1,55 @@
 [
   {
+    "id": "img_200541",
+    "title": "Energi",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Energi_KIT.png/revision/latest?cb=20260514204752",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Energi_KIT.png/revision/latest?cb=20260514204752",
+    "width": 97,
+    "height": 71,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Energi"
+  },
+  {
+    "id": "img_200540",
+    "title": "MPH/KPH",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/MPH-KPH-KIT.png/revision/latest?cb=20260514204821",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/MPH-KPH-KIT.png/revision/latest?cb=20260514204821",
+    "width": 95,
+    "height": 71,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/MPH%2FKPH"
+  },
+  {
+    "id": "img_200539",
+    "title": "RPM",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/RPM-KIT.png/revision/latest?cb=20260514204808",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/RPM-KIT.png/revision/latest?cb=20260514204808",
+    "width": 98,
+    "height": 71,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/RPM"
+  },
+  {
+    "id": "img_200538",
+    "title": "Slalom",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Slalom-KIT.png/revision/latest?cb=20260514204831",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Slalom-KIT.png/revision/latest?cb=20260514204831",
+    "width": 97,
+    "height": 71,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Slalom"
+  },
+  {
+    "id": "img_200537",
+    "title": "Test Trax vehicle",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/56599.jpeg/revision/latest/scale-to-width-down/1200?cb=20260606071919",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/56599.jpeg/revision/latest?cb=20260606071919",
+    "width": 1200,
+    "height": 616,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Test_Trax_vehicle"
+  },
+  {
     "id": "img_135276",
     "title": "Tuk 'N' Roll",
     "url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Tuk%27nRoll2.jpg/revision/latest/scale-to-width-down/1200?cb=20230313150957",
@@ -128,36 +178,6 @@
     "height": 441,
     "source": "Hot Wheels Wiki",
     "carUrl": "https://hotwheels.fandom.com/wiki/Twin_Tags"
-  },
-  {
-    "id": "img_194932",
-    "title": "Fandango (micro)",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/5/56/Fandangoatomixblack.jpg/revision/latest/scale-to-width-down/1200?cb=20260215005623",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/5/56/Fandangoatomixblack.jpg/revision/latest?cb=20260215005623",
-    "width": 1200,
-    "height": 710,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Fandango_(micro)"
-  },
-  {
-    "id": "img_194588",
-    "title": "Whip Creamer II (1994)",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Whip_Creamer_2.JPG/revision/latest?cb=20230215195222",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Whip_Creamer_2.JPG/revision/latest?cb=20230215195222",
-    "width": 787,
-    "height": 581,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Whip_Creamer_II_(1994)"
-  },
-  {
-    "id": "img_194336",
-    "title": "Aero Car",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Aero_Car_June_2021_Newsletter.jpg/revision/latest?cb=20260222202307",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Aero_Car_June_2021_Newsletter.jpg/revision/latest?cb=20260222202307",
-    "width": 532,
-    "height": 404,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Aero_Car"
   },
   {
     "id": "feat_twin_mill",
