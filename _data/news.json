@@ -1,6 +1,42 @@
 [
   {
-    "id": "rc_780793",
+    "id": "rc_780829",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinte Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 24 september 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-06-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Hot_Wheels_Infinite_Rush.jpg/revision/latest/scale-to-width-down/1200?cb=20260605230514"
+  },
+  {
+    "id": "rc_780821",
+    "title": "'67 Ford Anglia Racer",
+    "summary": "2026 car culture 2-pack base code U52A",
+    "date": "2026-06-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'67_Ford_Anglia_Racer",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/FordAngliaRacer.jpg/revision/latest/scale-to-width-down/1200?cb=20231120113826"
+  },
+  {
+    "id": "rc_780820",
+    "title": "Custom '64 Galaxie 500",
+    "summary": "2026 car culture 2-pack base code U52A",
+    "date": "2026-06-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Custom_'64_Galaxie_500",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Galaxie_Phil_R.jpg/revision/latest?cb=20080328194122"
+  },
+  {
+    "id": "rc_780815",
+    "title": "40th Annual Hot Wheels Collectors Convention",
+    "summary": "The 40th Annual Hot Wheels Collectors Convention will take place from 7 to 11 October 2026 in Dallas, Texas. The Guest of Honor at the Nationals will be Bryan Benedict. The following vehicles were released for the 40th Annual Hot Wheels Collectors Convention:",
+    "date": "2026-06-05",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
+    "image": null
+  },
+  {
+    "id": "rc_780810",
     "title": "List of 2026 Hot Wheels new castings",
     "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
     "date": "2026-06-05",
@@ -25,15 +61,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Planet_Micro",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Planet_Micro_Logo.JPG/revision/latest/scale-to-width-down/1200?cb=20220630213736"
-  },
-  {
-    "id": "rc_780734",
-    "title": "Hot Wheels Infinite Rush",
-    "summary": "Hot Wheels Infinite Rush is a 2026 racing video game developed and published by Milestone. The game was released on 24 September 2026 for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2, Microsoft Windows, Amazon Luna and Google Stadia.",
-    "date": "2026-06-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": null
   },
   {
     "id": "rc_780722",
@@ -87,7 +114,7 @@
     "date": "2026-06-04",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Steel_Flame",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/30/Steel_Flame_by_Dave_Martis_%281%29.jpg/revision/latest?cb=20260415014609"
+    "image": null
   },
   {
     "id": "rc_780411",
@@ -96,16 +123,16 @@
     "date": "2026-06-04",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Teku.png/revision/latest?cb=20240321053446"
+    "image": null
   },
   {
     "id": "rc_780291",
     "title": "Hot Wheels XL",
-    "summary": "Hot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and wheels. This series was developed by Charlie Angulo.",
+    "summary": "/* 2026 */",
     "date": "2026-06-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/JKL09_a.jpg/revision/latest/scale-to-width-down/1200?cb=20260110071501"
+    "image": null
   },
   {
     "id": "rc_780253",
