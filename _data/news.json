@@ -1,6 +1,15 @@
 [
   {
-    "id": "rc_781115",
+    "id": "rc_781207",
+    "title": "Color Shifters",
+    "summary": "right|200px\nColor Shifters is a series involving color changing cars introduced in 2008. It acts as a successor to the Color Changers, Color Racers and Color FX series from the 1980s and 1990s.",
+    "date": "2026-06-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Color_Shifters",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/60/ColorShifters26.png/revision/latest?cb=20251017225453"
+  },
+  {
+    "id": "rc_781117",
     "title": "Hot Wheels Infinite Rush",
     "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 24 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
     "date": "2026-06-07",
@@ -101,7 +110,7 @@
   {
     "id": "rc_780815",
     "title": "40th Annual Hot Wheels Collectors Convention",
-    "summary": "The 40th Annual Hot Wheels Collectors Convention will take place from 7 to 11 October 2026 in Dallas, Texas. The Guest of Honor at the Nationals will be Bryan Benedict. The following vehicles were released for the 40th Annual Hot Wheels Collectors Convention:",
+    "summary": "Created page with \"The 40th Annual Hot Wheels Collectors Convention took place from 7 to 11 October 2026 in Dallas, Texas. The Guest of Honor at the Nationals was Bryan Benedict. The following vehicles were released for the 40th Annual Hot Wheels Collectors Convention: ==Vehicles== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- !...",
     "date": "2026-06-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
@@ -207,66 +216,21 @@
     "image": null
   },
   {
-    "id": "rc_780253",
-    "title": "Hotwheels.com (2005)",
-    "summary": "Adding categories",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hotwheels.com_(2005)",
-    "image": null
-  },
-  {
-    "id": "rc_780247",
-    "title": "Hotwheels.com",
-    "summary": "Adding categories",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hotwheels.com",
-    "image": null
-  },
-  {
-    "id": "rc_780246",
-    "title": "Hotwheels.com (1997)",
-    "summary": "Adding categories",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hotwheels.com_(1997)",
-    "image": null
-  },
-  {
-    "id": "rc_780241",
-    "title": "Hotwheels.com (disambiguation)",
-    "summary": "Redirected page to Hotwheels.com",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hotwheels.com_(disambiguation)",
-    "image": null
-  },
-  {
-    "id": "rc_780182",
-    "title": "'68 Corvette - Gas Monkey Garage",
-    "summary": "/* 2017 card */",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage",
-    "image": null
-  },
-  {
-    "id": "rc_780147",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* HW Fan Driven */",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
     "date": "2026-05-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-06-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
