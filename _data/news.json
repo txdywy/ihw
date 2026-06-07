@@ -1,21 +1,30 @@
 [
   {
-    "id": "rc_781207",
-    "title": "Color Shifters",
-    "summary": "right|200px\nColor Shifters is a series involving color changing cars introduced in 2008. It acts as a successor to the Color Changers, Color Racers and Color FX series from the 1980s and 1990s.",
-    "date": "2026-06-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Color_Shifters",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/60/ColorShifters26.png/revision/latest?cb=20251017225453"
-  },
-  {
-    "id": "rc_781117",
+    "id": "rc_781273",
     "title": "Hot Wheels Infinite Rush",
     "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 24 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
     "date": "2026-06-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Hot_Wheels_Infinite_Rush.jpg/revision/latest/scale-to-width-down/1200?cb=20260605230514"
+  },
+  {
+    "id": "rc_781230",
+    "title": "Summit Surge Series (2026)",
+    "summary": "Silver Series 2026 Summit Surge Back of Card.jpg|Back of Card\nCategory:2026 Hot Wheels\nCategory:Hot Wheels by Series\nCategory:Wal-Mart Exclusive",
+    "date": "2026-06-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Summit_Surge_Series_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Silver_Series_2026_Summit_Surge_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260320204726"
+  },
+  {
+    "id": "rc_781207",
+    "title": "Color Shifters",
+    "summary": "right|200px\nColor Shifters is a series involving color changing cars introduced in 2008. It acts as a successor to the Color Changers, Color Racers / Automagic and Color FX series from the 1980s and 1990s.",
+    "date": "2026-06-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Color_Shifters",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/60/ColorShifters26.png/revision/latest?cb=20251017225453"
   },
   {
     "id": "rc_780964",
@@ -105,7 +114,7 @@
     "date": "2026-06-06",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Custom_'64_Galaxie_500",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Galaxie_Phil_R.jpg/revision/latest?cb=20080328194122"
+    "image": null
   },
   {
     "id": "rc_780815",
@@ -207,15 +216,6 @@
     "image": null
   },
   {
-    "id": "rc_780291",
-    "title": "Hot Wheels XL",
-    "summary": "/* 2026 */",
-    "date": "2026-06-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -237,7 +237,7 @@
     "id": "search_185871",
     "title": "2026 Hot Wheels Monster Trucks",
     "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
-    "date": "2026-05-31",
+    "date": "2026-06-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
     "image": null
