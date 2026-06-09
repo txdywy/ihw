@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_781698",
+    "title": "Deora",
+    "summary": "fixed what shows for 1994 vintage series ii for the first line",
+    "date": "2026-06-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Deora",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/35_Years_of_Speed_Randy_Leffingwell_Deora_%281%29.JPG/revision/latest/scale-to-width-down/1200?cb=20240723020657"
+  },
+  {
     "id": "rc_781682",
     "title": "Special Delivery",
     "summary": "Beautiful 1 OWNER piece I'm the 2nd OWNER of a PRIME example in LITE BLUE Glacier Blue with ALL (4) ORIG STICKERS both sides, Rear & License Plate Decals/stickers. received 4 BEAUTIFUL REDLINES today the next SET COMING UP IN also 1 owner 2 CAR SET \"Wildlife Racing' in prime condition",
@@ -101,11 +110,11 @@
   {
     "id": "rc_781447",
     "title": "Hot Wheels: Bash Arena",
-    "summary": "thumb|200px\nHot Wheels Bash Arena is a 2002 game for PC that challenges players to dodge and crash into opponents with performance varied Hot Wheels cars in a last car standing, interactive demolition derby-style competition. The game features 20 authentic Hot Wheels cars to unlock and control in six dynamic multi-level arenas full of hazards....",
+    "summary": "/* Gallery */",
     "date": "2026-06-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Bash_Arena",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/Hot_Wheels_Bash_Arena--cdcovers_cc--front.jpg/revision/latest?cb=20140714123122"
+    "image": null
   },
   {
     "id": "rc_781437",
@@ -234,33 +243,6 @@
     "image": null
   },
   {
-    "id": "rc_780821",
-    "title": "'67 Ford Anglia Racer",
-    "summary": "2026 car culture 2-pack base code U52A",
-    "date": "2026-06-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'67_Ford_Anglia_Racer",
-    "image": null
-  },
-  {
-    "id": "rc_780820",
-    "title": "Custom '64 Galaxie 500",
-    "summary": "2026 car culture 2-pack base code U52A",
-    "date": "2026-06-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Custom_'64_Galaxie_500",
-    "image": null
-  },
-  {
-    "id": "rc_780815",
-    "title": "40th Annual Hot Wheels Collectors Convention",
-    "summary": "Created page with \"The 40th Annual Hot Wheels Collectors Convention took place from 7 to 11 October 2026 in Dallas, Texas. The Guest of Honor at the Nationals was Bryan Benedict. The following vehicles were released for the 40th Annual Hot Wheels Collectors Convention: ==Vehicles== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- !...",
-    "date": "2026-06-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -336,7 +318,7 @@
     "id": "search_184597",
     "title": "2026 Car Culture: Team Transport",
     "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-06-07",
+    "date": "2026-06-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
     "image": null
