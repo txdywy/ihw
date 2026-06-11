@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_782191",
+    "title": "La Liebre",
+    "summary": "/* 2026 card */",
+    "date": "2026-06-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/La_Liebre",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/21/LaLiebre.jpg/revision/latest/scale-to-width-down/1200?cb=20251210014159"
+  },
+  {
+    "id": "rc_782163",
+    "title": "Hot Wheels id (app)",
+    "summary": "Hot Wheels id was a freemium mobile game developed by Mattel and released on the Apple App Store and Google Play Store in July 2019 as a companion app to the Hot Wheels id line.",
+    "date": "2026-06-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_id_(app)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/61/BlizzardRipper.jpg/revision/latest?cb=20250217224024"
+  },
+  {
+    "id": "rc_782161",
+    "title": "Mario Kart",
+    "summary": "200px|right\nThe Mario Kart series features a variety of Super Mario characters in a variety of karts, with plastic driver figures. Playsets that mimic the video game tracks are also available, as well as 4-packs and a glider series.",
+    "date": "2026-06-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Mario_Kart",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Mario_Kart_logo.png/revision/latest/scale-to-width-down/1200?cb=20250316232131"
+  },
+  {
+    "id": "rc_782156",
+    "title": "Fiat 642 RN2 Bartoletti Transporter",
+    "summary": "There are a few other castings which use Phillips-head screws instead of rivets.",
+    "date": "2026-06-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Fiat_642_RN2_Bartoletti_Transporter",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/66/FiatBartoletti.jpg/revision/latest/scale-to-width-down/1200?cb=20251003154119"
+  },
+  {
     "id": "rc_782129",
     "title": "VW Bug",
     "summary": "International cards VOLKSWAGEN (97) 5sp NoLogo & VW BUG (98)",
@@ -78,7 +114,7 @@
     "date": "2026-06-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'84_Audi_Sport_quattro",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/64/2019_%2784_Audi_Sport_Quattro_W.jpg/revision/latest/scale-to-width-down/1200?cb=20260121094753"
+    "image": null
   },
   {
     "id": "rc_781851",
@@ -87,7 +123,7 @@
     "date": "2026-06-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Feline_Lucky",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/FelineLucky.jpg/revision/latest/scale-to-width-down/1200?cb=20250715130414"
+    "image": null
   },
   {
     "id": "rc_781698",
@@ -96,7 +132,7 @@
     "date": "2026-06-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Deora",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/35_Years_of_Speed_Randy_Leffingwell_Deora_%281%29.JPG/revision/latest/scale-to-width-down/1200?cb=20240723020657"
+    "image": null
   },
   {
     "id": "rc_781682",
@@ -105,7 +141,7 @@
     "date": "2026-06-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Special_Delivery",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/Specialdelivery.jpg/revision/latest?cb=20080314161021"
+    "image": null
   },
   {
     "id": "rc_781629",
@@ -240,24 +276,6 @@
     "date": "2026-06-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_unreleased_Hot_Wheels",
-    "image": null
-  },
-  {
-    "id": "rc_781230",
-    "title": "Summit Surge Series (2026)",
-    "summary": "/* Vehicles */",
-    "date": "2026-06-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Summit_Surge_Series_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_781207",
-    "title": "Color Shifters",
-    "summary": "Replaced content with \"right|200px Color Shifters is a series involving color changing cars introduced in 2008. It acts as a successor to the Color Changers, Color Racers and Color FX series from the 1980s and 1990s. ==Gallery== Color_Shifters_Card.jpg|Logo used from 2008 to 2017 ColorShifters2014.png|Logo used from 2014 to 2015 Hot_wheels-0.jpg|Color Shifters Creatures logo ColorShifters....",
-    "date": "2026-06-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Color_Shifters",
     "image": null
   },
   {
