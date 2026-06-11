@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_782367",
+    "title": "Porsche 930",
+    "summary": "Replaced picture and series name from 1991 yellow brazil variant. Also added 1 picture to the bottom of the gallery",
+    "date": "2026-06-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Porsche_930",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Porsche_930_MtRed.JPG/revision/latest?cb=20090311023033"
+  },
+  {
     "id": "rc_782308",
     "title": "Mothers Wax",
     "summary": "thumb|300px|Right|Mothers Wax Blister Card\nSpecial Mothers Wax Promotions Started in 2003 and ran into 2004. Cars came with special Hot Wheels Wax from Mothers. Carson Lev put this program together and Chip Foose designed graphics for many of the early models.",
@@ -101,11 +110,11 @@
   {
     "id": "rc_782070",
     "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
+    "summary": "BLUE Driver Y3838 '49 Drag Merc",
     "date": "2026-06-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
+    "image": null
   },
   {
     "id": "rc_782042",
@@ -252,24 +261,6 @@
     "image": null
   },
   {
-    "id": "rc_781490",
-    "title": "Taurus Stocker (1998, basic)",
-    "summary": "Thanks Sval9500 I didn't think Reese's Pieces was in the Yellow if so they was Definitely MELTED solid as no rattle made I also noted that the Car is inside a Hard Shell Display. Like a watch case",
-    "date": "2026-06-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Taurus_Stocker_(1998%2C_basic)",
-    "image": null
-  },
-  {
-    "id": "rc_781467",
-    "title": "2026 Hot Wheels Legends Tour",
-    "summary": "/* International finalists */",
-    "date": "2026-06-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -336,7 +327,7 @@
     "id": "search_184597",
     "title": "2026 Car Culture: Team Transport",
     "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-06-09",
+    "date": "2026-06-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
     "image": null
