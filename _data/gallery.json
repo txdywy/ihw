@@ -1,5 +1,15 @@
 [
   {
+    "id": "img_195236",
+    "title": "Rip Roarin",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Rip_roarin_%28zip_rippers%29.jpg/revision/latest/scale-to-width-down/1200?cb=20260305184310",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Rip_roarin_%28zip_rippers%29.jpg/revision/latest?cb=20260305184310",
+    "width": 1200,
+    "height": 900,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Rip_Roarin"
+  },
+  {
     "id": "img_200541",
     "title": "Energi",
     "url": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Energi_KIT.png/revision/latest?cb=20260514204752",
@@ -158,26 +168,6 @@
     "height": 1161,
     "source": "Hot Wheels Wiki",
     "carUrl": "https://hotwheels.fandom.com/wiki/Flight_'03_(micro)"
-  },
-  {
-    "id": "img_195082",
-    "title": "Audacious (micro)",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Atomix_Burton_Snowboards.jpg/revision/latest?cb=20230225232646",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Atomix_Burton_Snowboards.jpg/revision/latest?cb=20230225232646",
-    "width": 984,
-    "height": 1161,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Audacious_(micro)"
-  },
-  {
-    "id": "img_195025",
-    "title": "Twin Tags",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130511",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest?cb=20260311130511",
-    "width": 1200,
-    "height": 441,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Twin_Tags"
   },
   {
     "id": "feat_twin_mill",
