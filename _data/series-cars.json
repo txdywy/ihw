@@ -358,64 +358,6 @@
     ]
   },
   {
-    "seriesId": "then_and_now",
-    "seriesName": "Then and Now",
-    "year": 2026,
-    "carCount": 10,
-    "cars": [
-      {
-        "name": "Austin Mini Cooper S",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/1200?cb=20251213090022",
-        "url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S"
-      },
-      {
-        "name": "Datsun 240Z",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1972240Z.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095527",
-        "url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
-      },
-      {
-        "name": "Corvette Grand Sport",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/54/C2GrandSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095618",
-        "url": "https://hotwheels.fandom.com/wiki/Corvette_Grand_Sport"
-      },
-      {
-        "name": "'96 Porsche Carrera",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/1996Porsche996.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111051",
-        "url": "https://hotwheels.fandom.com/wiki/'96_Porsche_Carrera"
-      },
-      {
-        "name": "2023 Nissan Z",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2023NissanZSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111257",
-        "url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z"
-      },
-      {
-        "name": "'20 Toyota GR Supra",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2020ToyotaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121610",
-        "url": "https://hotwheels.fandom.com/wiki/'20_Toyota_GR_Supra"
-      },
-      {
-        "name": "'11 Corvette Grand Sport",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/2011Corvette.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125656",
-        "url": "https://hotwheels.fandom.com/wiki/'11_Corvette_Grand_Sport"
-      },
-      {
-        "name": "'82 Toyota Supra",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/1982CelicaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125714",
-        "url": "https://hotwheels.fandom.com/wiki/'82_Toyota_Supra"
-      },
-      {
-        "name": "Porsche 911 Carrera RS 2.7",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7"
-      },
-      {
-        "name": "Mini JCW Electric",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Mini_JCW_Electric"
-      }
-    ]
-  },
-  {
     "seriesId": "drag_racers",
     "seriesName": "Drag Racers",
     "year": 2026,
@@ -470,64 +412,6 @@
         "name": "Fiat 500C",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Fiat500Drag.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101701",
         "url": "https://hotwheels.fandom.com/wiki/Fiat_500C"
-      }
-    ]
-  },
-  {
-    "seriesId": "compact_kings",
-    "seriesName": "Compact Kings",
-    "year": 2026,
-    "carCount": 10,
-    "cars": [
-      {
-        "name": "Hako Type D",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/CompactSupotsuka.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110051",
-        "url": "https://hotwheels.fandom.com/wiki/Hako_Type_D"
-      },
-      {
-        "name": "Hoto Roto",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/BlackRoto.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110108",
-        "url": "https://hotwheels.fandom.com/wiki/Hoto_Roto"
-      },
-      {
-        "name": "Kei Swap",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/71/GabeSwap.jpg/revision/latest/scale-to-width-down/1200?cb=20260103095921",
-        "url": "https://hotwheels.fandom.com/wiki/Kei_Swap"
-      },
-      {
-        "name": "'85 Honda City Turbo II",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/HondaCityTurbo.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100055",
-        "url": "https://hotwheels.fandom.com/wiki/'85_Honda_City_Turbo_II"
-      },
-      {
-        "name": "Mazda RX-3",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/MazdaRX-3Custom.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100117",
-        "url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3"
-      },
-      {
-        "name": "Datsun 620",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/DatsunnyDay.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130042",
-        "url": "https://hotwheels.fandom.com/wiki/Datsun_620"
-      },
-      {
-        "name": "Lotus Sport Elise",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/LotusElise.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130144",
-        "url": "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise"
-      },
-      {
-        "name": "'63 Chevy II",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/1963ChevyII.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125730",
-        "url": "https://hotwheels.fandom.com/wiki/'63_Chevy_II"
-      },
-      {
-        "name": "'19 Mercedes-Benz A-Class",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/'19_Mercedes-Benz_A-Class"
-      },
-      {
-        "name": "1972 Datsun Sunny Coupe",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/DatsunSunnyCoupe.jpg/revision/latest/scale-to-width-down/1200?cb=20260530095659",
-        "url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe"
       }
     ]
   },
@@ -639,6 +523,112 @@
         "name": "Maserati Tipo 61",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100549",
         "url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+      }
+    ]
+  },
+  {
+    "seriesId": "then_and_now",
+    "seriesName": "Then and Now",
+    "year": 2026,
+    "carCount": 9,
+    "cars": [
+      {
+        "name": "Austin Mini Cooper S",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/1200?cb=20251213090022",
+        "url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S"
+      },
+      {
+        "name": "Datsun 240Z",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1972240Z.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095527",
+        "url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
+      },
+      {
+        "name": "Corvette Grand Sport",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/54/C2GrandSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095618",
+        "url": "https://hotwheels.fandom.com/wiki/Corvette_Grand_Sport"
+      },
+      {
+        "name": "'96 Porsche Carrera",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/1996Porsche996.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111051",
+        "url": "https://hotwheels.fandom.com/wiki/'96_Porsche_Carrera"
+      },
+      {
+        "name": "2023 Nissan Z",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2023NissanZSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111257",
+        "url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z"
+      },
+      {
+        "name": "'20 Toyota GR Supra",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2020ToyotaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121610",
+        "url": "https://hotwheels.fandom.com/wiki/'20_Toyota_GR_Supra"
+      },
+      {
+        "name": "'11 Corvette Grand Sport",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/2011Corvette.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125656",
+        "url": "https://hotwheels.fandom.com/wiki/'11_Corvette_Grand_Sport"
+      },
+      {
+        "name": "'82 Toyota Supra",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/1982CelicaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125714",
+        "url": "https://hotwheels.fandom.com/wiki/'82_Toyota_Supra"
+      },
+      {
+        "name": "Porsche 911 Carrera RS 2.7",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7"
+      }
+    ]
+  },
+  {
+    "seriesId": "compact_kings",
+    "seriesName": "Compact Kings",
+    "year": 2026,
+    "carCount": 9,
+    "cars": [
+      {
+        "name": "Hako Type D",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/CompactSupotsuka.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110051",
+        "url": "https://hotwheels.fandom.com/wiki/Hako_Type_D"
+      },
+      {
+        "name": "Hoto Roto",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/BlackRoto.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110108",
+        "url": "https://hotwheels.fandom.com/wiki/Hoto_Roto"
+      },
+      {
+        "name": "Kei Swap",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/71/GabeSwap.jpg/revision/latest/scale-to-width-down/1200?cb=20260103095921",
+        "url": "https://hotwheels.fandom.com/wiki/Kei_Swap"
+      },
+      {
+        "name": "'85 Honda City Turbo II",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/HondaCityTurbo.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100055",
+        "url": "https://hotwheels.fandom.com/wiki/'85_Honda_City_Turbo_II"
+      },
+      {
+        "name": "Mazda RX-3",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/MazdaRX-3Custom.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100117",
+        "url": "https://hotwheels.fandom.com/wiki/Mazda_RX-3"
+      },
+      {
+        "name": "Datsun 620",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/DatsunnyDay.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130042",
+        "url": "https://hotwheels.fandom.com/wiki/Datsun_620"
+      },
+      {
+        "name": "Lotus Sport Elise",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/LotusElise.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130144",
+        "url": "https://hotwheels.fandom.com/wiki/Lotus_Sport_Elise"
+      },
+      {
+        "name": "'63 Chevy II",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/1963ChevyII.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125730",
+        "url": "https://hotwheels.fandom.com/wiki/'63_Chevy_II"
+      },
+      {
+        "name": "1972 Datsun Sunny Coupe",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/DatsunSunnyCoupe.jpg/revision/latest/scale-to-width-down/1200?cb=20260530095659",
+        "url": "https://hotwheels.fandom.com/wiki/1972_Datsun_Sunny_Coupe"
       }
     ]
   },
