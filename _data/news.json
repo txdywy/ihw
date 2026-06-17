@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_783658",
+    "title": "Dave Martis",
+    "summary": "Martis is a Hot Wheels designer, modelmaker, and prototyper who worked with Mattel from 1999 to late 2004 as a senior project designer and model maker....",
+    "date": "2026-06-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Dave_Martis",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/DaveMartis.jpg/revision/latest?cb=20210608142203"
+  },
+  {
+    "id": "rc_783638",
+    "title": "Hot Wheels: Turbo Racing",
+    "summary": "Hot Wheels Turbo Racing is a racing video game released for the Nintendo 64 and PlayStation in 1999 published by Electronic Arts and developed by Stormfront Studios. It features 40 cars based on the Hot Wheels series of toys by Mattel. It also features Kyle Petty's 1999 NASCAR stock car, as it was sponsored by Hot Wheels.",
+    "date": "2026-06-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Turbo_Racing",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/00BiSector.jpg/revision/latest?cb=20130916032218"
+  },
+  {
+    "id": "rc_783631",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-06-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
     "id": "rc_783591",
     "title": "'56 Ford Truck",
     "summary": "based off this casting, should be at the top",
@@ -34,15 +61,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_id_(app)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/6/61/BlizzardRipper.jpg/revision/latest?cb=20250217224024"
-  },
-  {
-    "id": "rc_783538",
-    "title": "Hot Wheels: Turbo Racing",
-    "summary": "Hot Wheels Turbo Racing is a racing video game released for the Nintendo 64 and PlayStation in 1999 published by Electronic Arts and developed by Stormfront Studios. It features 40 cars based on the Hot Wheels series of toys by Mattel. It also features Kyle Petty's 1999 NASCAR stock car, as it was sponsored by Hot Wheels.",
-    "date": "2026-06-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Turbo_Racing",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/00BiSector.jpg/revision/latest?cb=20130916032218"
   },
   {
     "id": "rc_783514",
@@ -92,11 +110,11 @@
   {
     "id": "rc_783367",
     "title": "Mario Kart",
-    "summary": "200px|right\nThe Mario Kart series features a variety of Super Mario characters in a variety of karts, with plastic driver figures. Playsets that mimic the video game tracks are also available, as well as 4-packs and a glider series.",
+    "summary": "/* Theatrical Releases */",
     "date": "2026-06-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mario_Kart",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Mario_Kart_logo.png/revision/latest/scale-to-width-down/1200?cb=20250316232131"
+    "image": null
   },
   {
     "id": "rc_783294",
@@ -198,39 +216,12 @@
     "image": null
   },
   {
-    "id": "rc_782753",
-    "title": "Exotics Series (2026)",
-    "summary": "Created page with \"==Vehicles== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" ! style=\"border-style: none none solid solid\" |Series # ! style=\"border-style: none none solid solid\" |Toy # ! style=\"border-style: none none solid solid\" |Casting Name ! style=\"border-style: none none solid solid\" |Color ! style=\"border-style: none none solid solid\" |Wheel Type !...",
-    "date": "2026-06-13",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Exotics_Series_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_782736",
-    "title": "Hot Wheels Model Car Kits",
-    "summary": "amt Silhouette 161pieces",
-    "date": "2026-06-13",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Model_Car_Kits",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
     "date": "2026-06-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
-    "id": "search_185583",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
-    "date": "2026-06-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
@@ -258,15 +249,6 @@
     "date": "2026-05-29",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_185581",
-    "title": "2026 New Models",
-    "summary": "Latest Hot Wheels information: 2026 New Models",
-    "date": "2026-06-09",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
     "image": null
   },
   {
@@ -321,6 +303,15 @@
     "date": "2024-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_169010",
+    "title": "2025 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
