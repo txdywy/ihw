@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_783880",
+    "title": "Collector Cards",
+    "summary": "Collector Cards were a series of collectible trading cards produced by Comic Images in 1999. A total of 72 cards were made available with flavor text on the rear, in addition to six chase cards themed after NASCAR driver Kyle Petty. center|300px center|300px",
+    "date": "2026-06-18",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Collector_Cards",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/1999-TC_Ad_72cards_r1.jpg/revision/latest/scale-to-width-down/1200?cb=20251027170450"
+  },
+  {
+    "id": "rc_783846",
+    "title": "Blue and Gold Series (2026)",
+    "summary": "center|300px\nJKX81 Bone Shaker r2.jpg|JKX81 Bone Shaker\nJKX82 CivicEG r2.jpg|JKX82 Civic\nJKX83 '70 RS r2.jpg|JKX83 '70 Camaro RS\nJKX84 '87 D100 r2.jpg|JKX84 D100\nJKX85 Brat r1.jpg|JKX85Tampo Greenish yellow\nJKX85 Brat r1TD.jpg|Tampo PURE BRIGHT Yellow\nJKX85 Brat rVT.jpg|Light Greenish yellow & PURE BRIGHT YELLOWmassive swing\nJKX85 Brat r2.jpg|JKX85\nJKX86 Stingray Chase r1....",
+    "date": "2026-06-18",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Blue_and_Gold_Series_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/28/58th_Anniversary_SetTemp.jpg/revision/latest/scale-to-width-down/1200?cb=20251001070011"
+  },
+  {
     "id": "rc_783830",
     "title": "Mattel Creations Collaboratory",
     "summary": "The following releases were offered on the Mattel Creations website, outside of the Red Line Club, highlighting a collaboration between Hot Wheels and various subjects.",
@@ -92,20 +110,20 @@
   {
     "id": "rc_783567",
     "title": "Hot Wheels Stunt Track Driver 2: Get'n Dirty",
-    "summary": "thumb|Box art for Stunt Track Driver 2. Stunt Track Driver 2: Get'n Dirty is a PC game developed by Mattel Media and published by THQ. It features a radical difference from the first Stunt Track Driver in the fact that the levels feature more terrain features than actual track.",
+    "summary": "Minor edit, but for all intents and purposes for simplicity in the car select screen (or rather, the \"off-road model select screen\") in clockwise direction, starting from Roll Cage, we'll just get right into it.",
     "date": "2026-06-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Stunt_Track_Driver_2%3A_Get'n_Dirty",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/61/3628-1.jpg/revision/latest?cb=20130922211807"
+    "image": null
   },
   {
     "id": "rc_783514",
     "title": "Hot Wheels Legends Tour",
-    "summary": "200px|rightThe Hot Wheels Legends Tour is an annual custom car competition organized by Mattel since 2018 across the United States and globally, initially started to celebrate Hot Wheels's 50th anniversary. A calendar of scheduled events is released before the start of the competition, with global events introduced in 2020; US-based events have usually been held in conjunction with Wal-Mart....",
+    "summary": "/* Winners */",
     "date": "2026-06-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/06/LegendsTourLogo.svg/revision/latest?cb=20260614230622"
+    "image": null
   },
   {
     "id": "rc_783377",
