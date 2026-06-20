@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_784359",
+    "title": "2027 5-Packs",
+    "summary": "Category:5-Packs\nCategory:2027 Hot Wheels",
+    "date": "2026-06-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2027_5-Packs",
+    "image": null
+  },
+  {
+    "id": "rc_784350",
+    "title": "BMW M3 Wagon (Hot Wheels XL)",
+    "summary": "3595EAA , 3605EAA",
+    "date": "2026-06-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/BMW_M3_Wagon_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/BMWE30Wagon.jpg/revision/latest/scale-to-width-down/1200?cb=20260424095840"
+  },
+  {
     "id": "rc_784307",
     "title": "List of 2026 Hot Wheels (by Series)",
     "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
@@ -92,20 +110,20 @@
   {
     "id": "rc_784024",
     "title": "2020 Hot Wheels Monster Trucks",
-    "summary": "Same as regular series releases but with different packaging, toy #'s and no collector numbers. Category:2020 Hot Wheels\nCategory:Hot Wheels Monster Trucks",
+    "summary": "/* Monster Truck + Crushed Die-Cast Car Packs */",
     "date": "2026-06-19",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2020_Hot_Wheels_Monster_Trucks",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/Loco_Punk_GJF25.jpg/revision/latest?cb=20200611115334"
+    "image": null
   },
   {
     "id": "rc_784014",
     "title": "Summit Surge Series (2026)",
-    "summary": "Silver Series 2026 Summit Surge Back of Card.jpg|Back of Card\nCategory:2026 Hot Wheels\nCategory:Hot Wheels by Series\nCategory:Wal-Mart Exclusive",
+    "summary": "/* Vehicles */",
     "date": "2026-06-19",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Summit_Surge_Series_(2026)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/62/JKX66.jpg/revision/latest/scale-to-width-down/1200?cb=20260618214120"
+    "image": null
   },
   {
     "id": "rc_784008",
