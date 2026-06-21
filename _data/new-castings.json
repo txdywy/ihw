@@ -270,6 +270,16 @@
     "url": "https://hotwheels.fandom.com/wiki/Twin_Tags"
   },
   {
+    "id": "ferrari_f2004",
+    "name": "Ferrari F2004",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Starting Grid",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/12/FerrariF2004.jpg/revision/latest/scale-to-width-down/1200?cb=20260620015911",
+    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/12/FerrariF2004.jpg/revision/latest?cb=20260620015911",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_F2004"
+  },
+  {
     "id": "'88_mitsubishi_starion",
     "name": "'88 Mitsubishi Starion",
     "year": 2026,
@@ -588,15 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/1/13/MaseratiMC12.jpg/revision/latest/scale-to-width-down/1200?cb=20260424093628",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/13/MaseratiMC12.jpg/revision/latest?cb=20260424093628",
     "url": "https://hotwheels.fandom.com/wiki/Maserati_MC12_(2026)"
-  },
-  {
-    "id": "mclaren_p1_gtr",
-    "name": "McLaren P1 GTR",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "McLaren Car Culture 2-Pack",
-    "image": null,
-    "fullImage": null,
-    "url": "https://hotwheels.fandom.com/wiki/McLaren_P1_GTR"
   }
 ]
