@@ -242,6 +242,64 @@
     ]
   },
   {
+    "seriesId": "hw_starting_grid",
+    "seriesName": "HW Starting Grid",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "Instant Boost",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest/scale-to-width-down/1200?cb=20250920121126",
+        "url": "https://hotwheels.fandom.com/wiki/Instant_Boost"
+      },
+      {
+        "name": "'69 Dodge Charger Daytona",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/1969DodgeDaytona.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122643",
+        "url": "https://hotwheels.fandom.com/wiki/'69_Dodge_Charger_Daytona"
+      },
+      {
+        "name": "Track Ripper",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/TrackRipper.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122131",
+        "url": "https://hotwheels.fandom.com/wiki/Track_Ripper"
+      },
+      {
+        "name": "Bugatti Bolide",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/92/RacingBolide.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122844",
+        "url": "https://hotwheels.fandom.com/wiki/Bugatti_Bolide"
+      },
+      {
+        "name": "BMW M4 GT3",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/BMWM4GT3.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101031",
+        "url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3"
+      },
+      {
+        "name": "Renault Espace F1",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/RacingEspace.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111129",
+        "url": "https://hotwheels.fandom.com/wiki/Renault_Espace_F1"
+      },
+      {
+        "name": "Twin Dorado",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/RacingDorado.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111219",
+        "url": "https://hotwheels.fandom.com/wiki/Twin_Dorado"
+      },
+      {
+        "name": "Cone Shaker",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/HotConez.jpg/revision/latest/scale-to-width-down/1200?cb=20260103111850",
+        "url": "https://hotwheels.fandom.com/wiki/Cone_Shaker"
+      },
+      {
+        "name": "Maserati Tipo 61",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100549",
+        "url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
+      },
+      {
+        "name": "Ferrari F2004",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/12/FerrariF2004.jpg/revision/latest/scale-to-width-down/1200?cb=20260620015911",
+        "url": "https://hotwheels.fandom.com/wiki/Ferrari_F2004"
+      }
+    ]
+  },
+  {
     "seriesId": "hw_jimports",
     "seriesName": "HW J-Imports",
     "year": 2026,
@@ -470,59 +528,6 @@
         "name": "Nissan Maxima Drift Car",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/Nissan_Maxima_Drift_Car"
-      }
-    ]
-  },
-  {
-    "seriesId": "hw_starting_grid",
-    "seriesName": "HW Starting Grid",
-    "year": 2026,
-    "carCount": 9,
-    "cars": [
-      {
-        "name": "Instant Boost",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest/scale-to-width-down/1200?cb=20250920121126",
-        "url": "https://hotwheels.fandom.com/wiki/Instant_Boost"
-      },
-      {
-        "name": "'69 Dodge Charger Daytona",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/1969DodgeDaytona.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122643",
-        "url": "https://hotwheels.fandom.com/wiki/'69_Dodge_Charger_Daytona"
-      },
-      {
-        "name": "Track Ripper",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/TrackRipper.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122131",
-        "url": "https://hotwheels.fandom.com/wiki/Track_Ripper"
-      },
-      {
-        "name": "Bugatti Bolide",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/92/RacingBolide.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122844",
-        "url": "https://hotwheels.fandom.com/wiki/Bugatti_Bolide"
-      },
-      {
-        "name": "BMW M4 GT3",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/BMWM4GT3.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101031",
-        "url": "https://hotwheels.fandom.com/wiki/BMW_M4_GT3"
-      },
-      {
-        "name": "Renault Espace F1",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/RacingEspace.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111129",
-        "url": "https://hotwheels.fandom.com/wiki/Renault_Espace_F1"
-      },
-      {
-        "name": "Twin Dorado",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/RacingDorado.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111219",
-        "url": "https://hotwheels.fandom.com/wiki/Twin_Dorado"
-      },
-      {
-        "name": "Cone Shaker",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/HotConez.jpg/revision/latest/scale-to-width-down/1200?cb=20260103111850",
-        "url": "https://hotwheels.fandom.com/wiki/Cone_Shaker"
-      },
-      {
-        "name": "Maserati Tipo 61",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/76/MaseratiBirdcage.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100549",
-        "url": "https://hotwheels.fandom.com/wiki/Maserati_Tipo_61"
       }
     ]
   },
