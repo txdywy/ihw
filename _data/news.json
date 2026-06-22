@@ -1,26 +1,35 @@
 [
   {
-    "id": "rc_784783",
-    "title": "24-Car Super Rally Case",
+    "id": "rc_784815",
+    "title": "SharkBite Bay",
     "summary": "/* Releases */",
     "date": "2026-06-22",
     "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/SharkBite_Bay",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Sharkb1.jpeg/revision/latest?cb=20231122031442"
+  },
+  {
+    "id": "rc_784783",
+    "title": "24-Car Super Rally Case",
+    "summary": "#REDIRECT Super Rally Case\nCategory:Redirects",
+    "date": "2026-06-22",
+    "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/24-Car_Super_Rally_Case",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/56/9530.jpeg/revision/latest?cb=20260622034545"
+    "image": null
   },
   {
     "id": "rc_784776",
     "title": "12-Car Rally Case",
-    "summary": "Created page with \" ==Description== The 12-Car Rally Case is a storage box and track accessory designed by Lenny Moquin that first debuted in 1968. The Rally 'N Freeway track set debuted in 1969 featuring this case as part of an archway over...\"",
+    "summary": "#REDIRECT Rally Case\nCategory:Redirects",
     "date": "2026-06-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/12-Car_Rally_Case",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/50/12_car_case.jpg/revision/latest?cb=20130208222855"
+    "image": null
   },
   {
     "id": "rc_784761",
     "title": "Lenny Moquin",
-    "summary": "Leonard \"Lenny\" R. Moquin is a former designer and engineer at Mattel from roughly 1967 until sometime around 1973 with family ties to wrestler Laurent \"Larry\" Moquin. He is known for patenting the design for both Rally Cases alongside his work on Sizzlers and other early track system parts.",
+    "summary": "Moquin (born 8 July 1935) is a former designer and engineer at Mattel from roughly 1967 until sometime around 1973 with family ties to wrestler Larry Moquin. He is known for patenting the design for both Rally Cases alongside his work on Sizzlers and other early track system parts....",
     "date": "2026-06-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Lenny_Moquin",
@@ -105,7 +114,7 @@
     "date": "2026-06-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/King_Chrome_(Road_Wars)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/RWKingChrome.jpg/revision/latest/scale-to-width-down/1200?cb=20260621022414"
+    "image": null
   },
   {
     "id": "rc_784493",
@@ -357,15 +366,6 @@
     "date": "2026-06-19",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": null
-  },
-  {
-    "id": "rc_783880",
-    "title": "Collector Cards",
-    "summary": "/* Cards */",
-    "date": "2026-06-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Collector_Cards",
     "image": null
   },
   {

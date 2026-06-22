@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T04:19:56.481Z",
+  "lastUpdated": "2026-06-22T11:59:52.528Z",
   "sources": [
     {
       "name": "Hot Wheels Fandom Wiki",
@@ -28,8 +28,8 @@
     "totalElite64": 29,
     "totalSeriesCars": 165,
     "totalSeriesWithCars": 20,
-    "lastUpdated": "2026-06-22T04:19:56.481Z",
-    "totalRequests": 749,
-    "runTimeMs": 374207
+    "lastUpdated": "2026-06-22T11:59:52.528Z",
+    "totalRequests": 748,
+    "runTimeMs": 373638
   }
 }
