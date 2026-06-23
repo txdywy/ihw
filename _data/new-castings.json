@@ -390,6 +390,16 @@
     "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
   },
   {
+    "id": "salt_streaker",
+    "name": "Salt Streaker",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Team Wheels",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Salt_Streaker"
+  },
+  {
     "id": "uncertain-t",
     "name": "Uncertain-T",
     "year": 2026,
@@ -408,6 +418,16 @@
     "image": null,
     "fullImage": null,
     "url": "https://hotwheels.fandom.com/wiki/Go-Realla-Fast"
+  },
+  {
+    "id": "1963_ford_galaxie",
+    "name": "1963 Ford Galaxie",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Cool Classics",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/1963_Ford_Galaxie"
   },
   {
     "id": "ridge_crest_gt",
@@ -578,25 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/EvoWagon.jpg/revision/latest/scale-to-width-down/1200?cb=20251111082645",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/EvoWagon.jpg/revision/latest?cb=20251111082645",
     "url": "https://hotwheels.fandom.com/wiki/2005_Mitsubishi_Lancer_Evolution_IX_Wagon"
-  },
-  {
-    "id": "2004_volkswagen_golf_r32",
-    "name": "2004 Volkswagen Golf R32",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Volkswagen Golf Car Culture 2-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/VolkswagenR32.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120718",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/VolkswagenR32.jpg/revision/latest?cb=20260126120718",
-    "url": "https://hotwheels.fandom.com/wiki/2004_Volkswagen_Golf_R32"
-  },
-  {
-    "id": "maserati_mc12_(2026)",
-    "name": "Maserati MC12",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Maserati Car Culture 2-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/13/MaseratiMC12.jpg/revision/latest/scale-to-width-down/1200?cb=20260424093628",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/1/13/MaseratiMC12.jpg/revision/latest?cb=20260424093628",
-    "url": "https://hotwheels.fandom.com/wiki/Maserati_MC12_(2026)"
   }
 ]
