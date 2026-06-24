@@ -1,5 +1,35 @@
 [
   {
+    "id": "img_191007",
+    "title": "Muscle Mania (Zip Rippers)",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Muscle_mania_%28zip_rippers%29.jpg/revision/latest/scale-to-width-down/1200?cb=20251223130025",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Muscle_mania_%28zip_rippers%29.jpg/revision/latest?cb=20251223130025",
+    "width": 1200,
+    "height": 900,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Muscle_Mania_(Zip_Rippers)"
+  },
+  {
+    "id": "img_192003",
+    "title": "Dieselboy (McDonald's)",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/Dieselboy_mcd%27s_2007.jpg/revision/latest/scale-to-width-down/1200?cb=20260110073101",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/Dieselboy_mcd%27s_2007.jpg/revision/latest?cb=20260110073101",
+    "width": 1200,
+    "height": 900,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Dieselboy_(McDonald's)"
+  },
+  {
+    "id": "img_194981",
+    "title": "Impavido 1 (McDonald's)",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/6/62/HW_Impavido_McD.JPG/revision/latest/scale-to-width-down/1200?cb=20090917230236",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/6/62/HW_Impavido_McD.JPG/revision/latest?cb=20090917230236",
+    "width": 1200,
+    "height": 900,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Impavido_1_(McDonald's)"
+  },
+  {
     "id": "img_195236",
     "title": "Rip Roarin",
     "url": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Rip_roarin_%28zip_rippers%29.jpg/revision/latest/scale-to-width-down/1200?cb=20260305184310",
@@ -158,36 +188,6 @@
     "height": 1209,
     "source": "Hot Wheels Wiki",
     "carUrl": "https://hotwheels.fandom.com/wiki/Click_Shift"
-  },
-  {
-    "id": "img_15348",
-    "title": "Road Pirate",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Road_Pirate.JPG/revision/latest?cb=20091006022436",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Road_Pirate.JPG/revision/latest?cb=20091006022436",
-    "width": 397,
-    "height": 200,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Road_Pirate"
-  },
-  {
-    "id": "img_195087",
-    "title": "Chop 'n Bloc",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125509",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Chop%27nBloc.jpg/revision/latest?cb=20260410125509",
-    "width": 1200,
-    "height": 706,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Chop_'n_Bloc"
-  },
-  {
-    "id": "img_195086",
-    "title": "Flight '03 (micro)",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Atomix_Burton_Snowboards.jpg/revision/latest?cb=20230225232646",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Atomix_Burton_Snowboards.jpg/revision/latest?cb=20230225232646",
-    "width": 984,
-    "height": 1161,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Flight_'03_(micro)"
   },
   {
     "id": "feat_twin_mill",

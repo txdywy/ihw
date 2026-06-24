@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_785365",
+    "title": "Fake Hot Wheels",
+    "summary": "Hot Wheels has been a popular diecast manufacture for many decades. Unfortunately, a lot of knock offs have been made. Whether it is a terrible error, or the use of similar Hot Wheels castings in different manufacturer brand, or if it is a toy that uses a familiar flame logo on the blister, it must be shared for all to laugh.",
+    "date": "2026-06-24",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Fake_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Fake_Mustang.JPG/revision/latest/scale-to-width-down/1200?cb=20221013024431"
+  },
+  {
     "id": "rc_785316",
     "title": "'66 Chevy Super Nova",
     "summary": "Woops moved wrong CONVENTION CAR",
@@ -101,11 +110,11 @@
   {
     "id": "rc_784957",
     "title": "2026 Treasure Hunts Series",
-    "summary": "This is a list of Treasure Hunts from 2026.",
+    "summary": "/* 2026 Treasure Hunts */",
     "date": "2026-06-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+    "image": null
   },
   {
     "id": "rc_784869",
@@ -198,15 +207,6 @@
     "image": null
   },
   {
-    "id": "rc_784564",
-    "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "Bluebird 510 THERE is 3 different Wheels during Releases FTE2 , TRAP5 , TRAP5 alt colour ( looks similar to FTE colour but is different plus does not have the Fast long spinning nickel plated AXEL this was one of the FEW CARS that had LOOKED LIKE FTE Wheels because of the two similar colours BRONZE & Copper spokes Confusing people",
-    "date": "2026-06-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -243,21 +243,21 @@
     "image": null
   },
   {
-    "id": "search_189648",
-    "title": "European Car Culture Themed Multipack (2026)",
-    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
-    "date": "2026-04-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
-    "image": null
-  },
-  {
     "id": "search_200140",
     "title": "Japanese Car Culture Themed Multipack (2026)",
     "summary": "Latest Hot Wheels information: Japanese Car Culture Themed Multipack (2026)",
     "date": "2026-06-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Japanese_Car_Culture_Themed_Multipack_(2026)",
+    "image": null
+  },
+  {
+    "id": "search_189648",
+    "title": "European Car Culture Themed Multipack (2026)",
+    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
+    "date": "2026-04-21",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
     "image": null
   },
   {
