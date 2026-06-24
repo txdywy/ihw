@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_785316",
+    "title": "'66 Chevy Super Nova",
+    "summary": "Woops moved wrong CONVENTION CAR",
+    "date": "2026-06-24",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'66_Chevy_Super_Nova",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/66-super-nova-1415-rlc-rewards-600pxotd.png/revision/latest?cb=20170320174550"
+  },
+  {
     "id": "rc_785287",
     "title": "List of unreleased Hot Wheels",
     "summary": "This is a list of unreleased Hot Wheels products. This article encompasses unreleased casting designs, playsets and other related products.",
@@ -101,11 +110,11 @@
   {
     "id": "rc_784869",
     "title": "Zowees",
-    "summary": "300px|rightZowees were a series of very small (1/125 scale) Hot Wheels vehicles produced in 1972. There were 8 different vehicles which were originally made for Shell Oil Company as a promotional item which one would receive after fueling up their car, or they could be purchased from the station for $0.49; these were packaged in baggies....",
+    "summary": "Expanded on a previously stated suggestion. Explained which Zowees castings are related and how",
     "date": "2026-06-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Zowees",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Zowees.png/revision/latest?cb=20220315033835"
+    "image": null
   },
   {
     "id": "rc_784832",
@@ -198,15 +207,6 @@
     "image": null
   },
   {
-    "id": "rc_784538",
-    "title": "2013 SRT Viper",
-    "summary": "/* 2012 card */",
-    "date": "2026-06-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2013_SRT_Viper",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -252,21 +252,21 @@
     "image": null
   },
   {
-    "id": "search_51374",
-    "title": "Car Culture",
-    "summary": "Latest Hot Wheels information: Car Culture",
-    "date": "2025-08-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
-    "image": null
-  },
-  {
     "id": "search_200140",
     "title": "Japanese Car Culture Themed Multipack (2026)",
     "summary": "Latest Hot Wheels information: Japanese Car Culture Themed Multipack (2026)",
     "date": "2026-06-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Japanese_Car_Culture_Themed_Multipack_(2026)",
+    "image": null
+  },
+  {
+    "id": "search_51374",
+    "title": "Car Culture",
+    "summary": "Latest Hot Wheels information: Car Culture",
+    "date": "2025-08-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
     "image": null
   },
   {
@@ -279,12 +279,12 @@
     "image": null
   },
   {
-    "id": "search_169010",
-    "title": "2025 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
-    "date": "2026-05-25",
+    "id": "search_182641",
+    "title": "2026 5-Packs",
+    "summary": "Latest Hot Wheels information: 2026 5-Packs",
+    "date": "2026-06-11",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
+    "url": "https://hotwheels.fandom.com/wiki/2026_5-Packs",
     "image": null
   }
 ]
