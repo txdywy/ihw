@@ -88,5 +88,14 @@
     "saleDate": "16 June 2026",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/3/37/RLC_2026_1962_Ford_F100_China_JJY60.jpg/revision/latest/scale-to-width-down/1200?cb=20260618191002",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_1976_volkswagen_golf_mk1_gti",
+    "name": "1976 Volkswagen Golf MK1 GTI",
+    "year": 2026,
+    "color": "Spectraflame Gulf Racing Blue",
+    "saleDate": "30 June 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
   }
 ]
