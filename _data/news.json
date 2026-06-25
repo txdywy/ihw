@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_785572",
+    "title": "Hot Wheels XL",
+    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
+    "date": "2026-06-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
+  },
+  {
+    "id": "rc_785570",
+    "title": "Hot Wheels RC",
+    "summary": "/* Gallery */",
+    "date": "2026-06-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+  },
+  {
+    "id": "rc_785556",
+    "title": "Micro Hot Wheels",
+    "summary": "Micro Hot Wheels is a series of miniature Hot Wheel cars that came out in 1989 to compete with the newest phenomenon of diecast toys \"Micro Machines\". They are the first series for Hot Wheels to venture into making cars smaller than their usual 1:64 scale. After the series ended within a year (or two?...",
+    "date": "2026-06-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Micro_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Micro_HW_Compare.JPG/revision/latest/scale-to-width-down/1200?cb=20220922140424"
+  },
+  {
     "id": "rc_785494",
     "title": "SpongeBob SquarePants (RacerVerse)",
     "summary": "OPEN Free'D GOLDEN Pineapple under the Sea ●● moved your card to Gallery Admiral",
@@ -87,16 +114,16 @@
     "date": "2026-06-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Auto-City_Action_Squad",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/ACSQ10.jpeg/revision/latest?cb=20240108115040"
+    "image": null
   },
   {
     "id": "rc_785220",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* HW Dirt */",
     "date": "2026-06-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_785090",
@@ -105,7 +132,7 @@
     "date": "2026-06-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Prototype_12",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/HW_Proto_12_Phil_R_Rev160507.jpg/revision/latest?cb=20160509044504"
+    "image": null
   },
   {
     "id": "rc_785086",
@@ -132,15 +159,6 @@
     "date": "2026-06-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
-    "id": "rc_784975",
-    "title": "Micro Hot Wheels",
-    "summary": "/* Quaker State 3pk (4431) */",
-    "date": "2026-06-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Micro_Hot_Wheels",
     "image": null
   },
   {
@@ -216,15 +234,6 @@
     "image": null
   },
   {
-    "id": "rc_784783",
-    "title": "24-Car Super Rally Case",
-    "summary": "/* Releases */",
-    "date": "2026-06-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/24-Car_Super_Rally_Case",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -246,7 +255,7 @@
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
-    "date": "2026-06-23",
+    "date": "2026-06-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
