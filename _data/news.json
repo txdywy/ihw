@@ -1,5 +1,50 @@
 [
   {
+    "id": "rc_785783",
+    "title": "2026 Treasure Hunts Series",
+    "summary": "This is a list of Treasure Hunts from 2026.",
+    "date": "2026-06-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+  },
+  {
+    "id": "rc_785778",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-06-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
+    "id": "rc_785754",
+    "title": "13th Annual Hot Wheels Collectors Convention",
+    "summary": "The 13th Annual Hot Wheels Collectors Convention took place in Dearborn, Michigan, October 14–16, 1999. The guest of honor at the Convention was Larry Wood.",
+    "date": "2026-06-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/13th_Annual_Hot_Wheels_Collectors_Convention",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/13thConlogo.jpg/revision/latest?cb=20200519104838"
+  },
+  {
+    "id": "rc_785748",
+    "title": "Revealers",
+    "summary": "150pxright|135px\nThe Revealers from 1993 were a series of cars with a lottery type of game included. They were the original Mystery cars. The cars were sold in different clear blister packs, but they were wrapped inside a yellow opaque paper baggie.",
+    "date": "2026-06-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Revealers",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Revelerspack.JPG/revision/latest?cb=20100501145227"
+  },
+  {
+    "id": "rc_785747",
+    "title": "Land Rover Series II (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-06-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Series_II_(Hot_Wheels_XL)",
+    "image": null
+  },
+  {
     "id": "rc_785657",
     "title": "Avatar: The Last Airbender Series (2025)",
     "summary": "/* Vehicles */",
@@ -45,15 +90,6 @@
     "image": null
   },
   {
-    "id": "rc_785612",
-    "title": "Land Rover Series II (Hot Wheels XL)",
-    "summary": "Adding categories",
-    "date": "2026-06-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Series_II_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
     "id": "rc_785610",
     "title": "'90 Acura NSX (Hot Wheels XL)",
     "summary": "Adding categories",
@@ -74,11 +110,11 @@
   {
     "id": "rc_785586",
     "title": "Hot Wheels XL",
-    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
+    "summary": "/* 2026 */",
     "date": "2026-06-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
+    "image": null
   },
   {
     "id": "rc_785570",
@@ -87,16 +123,16 @@
     "date": "2026-06-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+    "image": null
   },
   {
     "id": "rc_785556",
     "title": "Micro Hot Wheels",
-    "summary": "Micro Hot Wheels is a series of miniature Hot Wheel cars that came out in 1989 to compete with the newest phenomenon of diecast toys \"Micro Machines\". They are the first series for Hot Wheels to venture into making cars smaller than their usual 1:64 scale. After the series ended within a year (or two?...",
+    "summary": "Posted a OPEN Free'D 4431 Mini Formula Racers '68 Camaro ORANGE",
     "date": "2026-06-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Micro_Hot_Wheels",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Micro_HW_Compare.JPG/revision/latest/scale-to-width-down/1200?cb=20220922140424"
+    "image": null
   },
   {
     "id": "rc_785494",
@@ -105,7 +141,7 @@
     "date": "2026-06-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/SpongeBob_SquarePants_(RacerVerse)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/56/SpongeBob_SquarePants_RacerVerse.jpg/revision/latest/scale-to-width-down/1200?cb=20250806121357"
+    "image": null
   },
   {
     "id": "rc_785456",
@@ -189,15 +225,6 @@
     "image": null
   },
   {
-    "id": "rc_785220",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* HW Dirt */",
-    "date": "2026-06-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "rc_785090",
     "title": "HW Prototype 12",
     "summary": "/* Gallery */",
@@ -243,24 +270,6 @@
     "image": null
   },
   {
-    "id": "rc_784965",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "/* Mainline */",
-    "date": "2026-06-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
-    "id": "rc_784957",
-    "title": "2026 Treasure Hunts Series",
-    "summary": "/* 2026 Treasure Hunts */",
-    "date": "2026-06-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -279,10 +288,28 @@
     "image": null
   },
   {
+    "id": "search_185492",
+    "title": "List of 2026 Hot Wheels new castings",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels new castings",
+    "date": "2026-06-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "image": null
+  },
+  {
+    "id": "search_185581",
+    "title": "2026 New Models",
+    "summary": "Latest Hot Wheels information: 2026 New Models",
+    "date": "2026-06-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
+    "image": null
+  },
+  {
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
-    "date": "2026-06-25",
+    "date": "2026-06-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
@@ -330,6 +357,15 @@
     "date": "2024-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_169010",
+    "title": "2025 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
+    "date": "2026-05-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
