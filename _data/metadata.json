@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T20:06:32.957Z",
+  "lastUpdated": "2026-06-26T03:46:33.876Z",
   "sources": [
     {
       "name": "Hot Wheels Fandom Wiki",
@@ -20,16 +20,16 @@
   "stats": {
     "totalFeatured": 12,
     "totalSeries": 15,
-    "totalNews": 40,
-    "totalGallery": 31,
+    "totalNews": 43,
+    "totalGallery": 29,
     "totalNewCastings": 60,
     "totalTreasureHunts": 25,
     "totalRLC": 11,
     "totalElite64": 29,
     "totalSeriesCars": 173,
     "totalSeriesWithCars": 20,
-    "lastUpdated": "2026-06-25T20:06:32.957Z",
-    "totalRequests": 752,
-    "runTimeMs": 381742
+    "lastUpdated": "2026-06-26T03:46:33.876Z",
+    "totalRequests": 747,
+    "runTimeMs": 373982
   }
 }
