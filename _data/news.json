@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_785987",
+    "title": "Jaguar D-Type",
+    "summary": "Cars have genders now?",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Jaguar_D-Type",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Jaguar_D-Type_Blu5sp.JPG/revision/latest?cb=20090126044951"
+  },
+  {
+    "id": "rc_785986",
+    "title": "Formula 1",
+    "summary": "Reverted edits by Dr.Driv3r (talk) to last revision by Coldpopcarl",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Formula_1",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Formula1Collection.jpg/revision/latest/scale-to-width-down/1200?cb=20250427073337"
+  },
+  {
     "id": "rc_785936",
     "title": "Micro Hot Wheels",
     "summary": "Micro Hot Wheels is a series of miniature Hot Wheel cars that came out in 1989 to compete with the newest phenomenon of diecast toys \"Micro Machines\". They are the first series for Hot Wheels to venture into making cars smaller than their usual 1:64 scale. After the series ended within a year (or two?...",
@@ -105,7 +123,7 @@
     "date": "2026-06-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Avatar%3A_The_Last_Airbender_Series_(2025)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/Avatar_The_Last_Airbender_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20251031195316"
+    "image": null
   },
   {
     "id": "rc_785624",
