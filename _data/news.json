@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_786020",
+    "title": "Hot Wheels XL",
+    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
+  },
+  {
+    "id": "rc_786015",
+    "title": "Donut Drifter (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Donut_Drifter_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/24/JKL12_YuM_o4.jpg/revision/latest/scale-to-width-down/1200?cb=20260628064507"
+  },
+  {
+    "id": "rc_785994",
+    "title": "2026 Hot Wheels Legends Tour",
+    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
+  },
+  {
     "id": "rc_785987",
     "title": "Jaguar D-Type",
     "summary": "Cars have genders now?",
@@ -83,29 +110,29 @@
   {
     "id": "rc_785778",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* HW Dirt */",
     "date": "2026-06-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_785754",
     "title": "13th Annual Hot Wheels Collectors Convention",
-    "summary": "The 13th Annual Hot Wheels Collectors Convention took place in Dearborn, Michigan, October 14–16, 1999. The guest of honor at the Convention was Larry Wood.",
+    "summary": "The cards aren't numbered but the description on the back of the card lists it",
     "date": "2026-06-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/13th_Annual_Hot_Wheels_Collectors_Convention",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/13thConlogo.jpg/revision/latest?cb=20200519104838"
+    "image": null
   },
   {
     "id": "rc_785748",
     "title": "Revealers",
-    "summary": "150pxright|135px\nThe Revealers from 1993 were a series of cars with a lottery type of game included. They were the original Mystery cars. The cars were sold in different clear blister packs, but they were wrapped inside a yellow opaque paper baggie.",
+    "summary": "Updating formatting to other series of the time.",
     "date": "2026-06-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Revealers",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Revelerspack.JPG/revision/latest?cb=20100501145227"
+    "image": null
   },
   {
     "id": "rc_785747",
@@ -177,15 +204,6 @@
     "date": "2026-06-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Small_Bloc",
-    "image": null
-  },
-  {
-    "id": "rc_785586",
-    "title": "Hot Wheels XL",
-    "summary": "/* 2026 */",
-    "date": "2026-06-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
     "image": null
   },
   {
