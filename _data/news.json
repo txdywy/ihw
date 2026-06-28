@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_786185",
+    "title": "Micro Hot Wheels",
+    "summary": "Micro Hot Wheels is a series of miniature Hot Wheel cars that came out in 1989 to compete with the newest phenomenon of diecast toys \"Micro Machines\". They are the first series for Hot Wheels to venture into making cars smaller than their usual 1:64 scale. After the series ended within a year (or two?...",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Micro_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Micro_HW_Compare.JPG/revision/latest/scale-to-width-down/1200?cb=20220922140424"
+  },
+  {
+    "id": "rc_786140",
+    "title": "Hot Wheels: Stunt Track Driver",
+    "summary": "Stunt Track Driver is a video game developed by Semi Logic Entertainments and Good Chicken Games while being published by Mattel Media. It was released on October 15th, 1998 for Windows and Game Boy Color. This game is notable for being one of the first Hot Wheels games allowing you to race the cars, being based on the Track System sets.",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Stunt_Track_Driver",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/Super_Modified_Yel.JPG/revision/latest?cb=20090317192408"
+  },
+  {
+    "id": "rc_786136",
+    "title": "Team Hot Wheels Top Rides Series (2012)",
+    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
+  },
+  {
     "id": "rc_786020",
     "title": "Hot Wheels XL",
     "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
@@ -45,15 +72,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Formula1Collection.jpg/revision/latest/scale-to-width-down/1200?cb=20250427073337"
   },
   {
-    "id": "rc_785936",
-    "title": "Micro Hot Wheels",
-    "summary": "Micro Hot Wheels is a series of miniature Hot Wheel cars that came out in 1989 to compete with the newest phenomenon of diecast toys \"Micro Machines\". They are the first series for Hot Wheels to venture into making cars smaller than their usual 1:64 scale. After the series ended within a year (or two?...",
-    "date": "2026-06-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Micro_Hot_Wheels",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Micro_HW_Compare.JPG/revision/latest/scale-to-width-down/1200?cb=20220922140424"
-  },
-  {
     "id": "rc_785917",
     "title": "2001 BMW M3 GTR",
     "summary": "More info regarding the car",
@@ -92,7 +110,7 @@
   {
     "id": "rc_785796",
     "title": "Mercedes-Benz SLS AMG Black Series",
-    "summary": "#REDIRECT Mercedes-Benz SLS AMG Coupe Black Series\nCategory:Redirects",
+    "summary": "Changed redirect target from Mercedes-Benz SLS AMG Coupé Black Series to Mercedes-Benz SLS AMG Coupe Black Series",
     "date": "2026-06-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_SLS_AMG_Black_Series",
@@ -101,11 +119,11 @@
   {
     "id": "rc_785783",
     "title": "2026 Treasure Hunts Series",
-    "summary": "This is a list of Treasure Hunts from 2026.",
+    "summary": "/* 2026 Super Treasure Hunts */",
     "date": "2026-06-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+    "image": null
   },
   {
     "id": "rc_785778",
