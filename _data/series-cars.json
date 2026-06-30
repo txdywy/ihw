@@ -807,6 +807,54 @@
     ]
   },
   {
+    "seriesId": "screen_time",
+    "seriesName": "Screen Time",
+    "year": 2026,
+    "carCount": 8,
+    "cars": [
+      {
+        "name": "Optimus Prime",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/1200?cb=20250120090211",
+        "url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
+      },
+      {
+        "name": "HW K.I.T.T. Concept",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122239",
+        "url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
+      },
+      {
+        "name": "The Simpsons Family Car",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100211",
+        "url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
+      },
+      {
+        "name": "Standard Kart",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest/scale-to-width-down/1200?cb=20210926022809",
+        "url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
+      },
+      {
+        "name": "Spider-Mobile",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101754",
+        "url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
+      },
+      {
+        "name": "'68 Corvette - Gas Monkey Garage",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMGCorvetteC3.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100010",
+        "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage"
+      },
+      {
+        "name": "1970 Custom Plymouth Roadrunner",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner"
+      },
+      {
+        "name": "Mickey Mouse Car",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car"
+      }
+    ]
+  },
+  {
     "seriesId": "cool_classics",
     "seriesName": "Cool Classics",
     "year": 2026,
@@ -855,49 +903,6 @@
     ]
   },
   {
-    "seriesId": "screen_time",
-    "seriesName": "Screen Time",
-    "year": 2026,
-    "carCount": 7,
-    "cars": [
-      {
-        "name": "Optimus Prime",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/1200?cb=20250120090211",
-        "url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
-      },
-      {
-        "name": "HW K.I.T.T. Concept",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122239",
-        "url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
-      },
-      {
-        "name": "The Simpsons Family Car",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100211",
-        "url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
-      },
-      {
-        "name": "Standard Kart",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest/scale-to-width-down/1200?cb=20210926022809",
-        "url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
-      },
-      {
-        "name": "Spider-Mobile",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101754",
-        "url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
-      },
-      {
-        "name": "'68 Corvette - Gas Monkey Garage",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMGCorvetteC3.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100010",
-        "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage"
-      },
-      {
-        "name": "1970 Custom Plymouth Roadrunner",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner"
-      }
-    ]
-  },
-  {
     "seriesId": "hw_dream_garage",
     "seriesName": "HW Dream Garage",
     "year": 2026,
@@ -927,6 +932,39 @@
         "name": "Tooned Purple Passion",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/%27ToonedPurplePassion.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121417",
         "url": "https://hotwheels.fandom.com/wiki/Tooned_Purple_Passion"
+      }
+    ]
+  },
+  {
+    "seriesId": "batman",
+    "seriesName": "Batman",
+    "year": 2026,
+    "carCount": 5,
+    "cars": [
+      {
+        "name": "Batmobile",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/GunmetalBatmobile.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121354",
+        "url": "https://hotwheels.fandom.com/wiki/Batmobile_(2021)"
+      },
+      {
+        "name": "The Dark Knight Batmobile",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/TheTumbler.jpg/revision/latest/scale-to-width-down/1200?cb=20251121094824",
+        "url": "https://hotwheels.fandom.com/wiki/The_Dark_Knight_Batmobile"
+      },
+      {
+        "name": "1966 Bat Boat",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/1966Batboat.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100152",
+        "url": "https://hotwheels.fandom.com/wiki/1966_Bat_Boat"
+      },
+      {
+        "name": "Classic TV Series Batmobile",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/%27ToonedClassicBatmobile.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121204",
+        "url": "https://hotwheels.fandom.com/wiki/Classic_TV_Series_Batmobile_(Tooned)"
+      },
+      {
+        "name": "Armored Batmobile",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Armored_Batmobile"
       }
     ]
   },
@@ -993,39 +1031,6 @@
         "name": "Bullet Proof",
         "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/BulletProof.jpg/revision/latest/scale-to-width-down/1200?cb=20260128103036",
         "url": "https://hotwheels.fandom.com/wiki/Bullet_Proof"
-      }
-    ]
-  },
-  {
-    "seriesId": "experimotors",
-    "seriesName": "Experimotors",
-    "year": 2026,
-    "carCount": 5,
-    "cars": [
-      {
-        "name": "Carbonator",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/HNY26Carbonator.jpg/revision/latest/scale-to-width-down/1200?cb=20251015121652",
-        "url": "https://hotwheels.fandom.com/wiki/Carbonator"
-      },
-      {
-        "name": "Roller Toaster",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/3/39/RollerToaster.jpg/revision/latest/scale-to-width-down/1200?cb=20251018122748",
-        "url": "https://hotwheels.fandom.com/wiki/Roller_Toaster"
-      },
-      {
-        "name": "Feline Lucky",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/91/I%27mFelineLucky.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110828",
-        "url": "https://hotwheels.fandom.com/wiki/Feline_Lucky"
-      },
-      {
-        "name": "Coupé Clip",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Coup%C3%A9Clip.jpg/revision/latest/scale-to-width-down/1200?cb=20251216110913",
-        "url": "https://hotwheels.fandom.com/wiki/Coupe_Clip"
-      },
-      {
-        "name": "Twin Tags",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/TwinTags.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130511",
-        "url": "https://hotwheels.fandom.com/wiki/Twin_Tags"
       }
     ]
   }
