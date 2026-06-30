@@ -410,6 +410,26 @@
     "url": "https://hotwheels.fandom.com/wiki/Uncertain-T"
   },
   {
+    "id": "armored_batmobile",
+    "name": "Armored Batmobile",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Batman",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Armored_Batmobile"
+  },
+  {
+    "id": "mickey_mouse_car",
+    "name": "Mickey Mouse Car",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Screen Time",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car"
+  },
+  {
     "id": "go-realla-fast",
     "name": "Go-Realla-Fast",
     "year": 2026,
@@ -578,25 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Terra-Torque.jpg/revision/latest/scale-to-width-down/1200?cb=20260424094043",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Terra-Torque.jpg/revision/latest?cb=20260424094043",
     "url": "https://hotwheels.fandom.com/wiki/Terra-Torque"
-  },
-  {
-    "id": "2008_porsche_cayenne",
-    "name": "2008 Porsche Cayenne",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Car Culture: Team Transport",
-    "image": null,
-    "fullImage": null,
-    "url": "https://hotwheels.fandom.com/wiki/2008_Porsche_Cayenne"
-  },
-  {
-    "id": "2005_mitsubishi_lancer_evolution_ix_wagon",
-    "name": "2005 Mitsubishi Lancer Evolution IX Wagon",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Japanese Wagons Car Culture 2-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/EvoWagon.jpg/revision/latest/scale-to-width-down/1200?cb=20251111082645",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/EvoWagon.jpg/revision/latest?cb=20251111082645",
-    "url": "https://hotwheels.fandom.com/wiki/2005_Mitsubishi_Lancer_Evolution_IX_Wagon"
   }
 ]
