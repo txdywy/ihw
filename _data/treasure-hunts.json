@@ -273,5 +273,16 @@
     "image": null,
     "url": "https://hotwheels.fandom.com/wiki/Ford_Model_A_Custom_'31",
     "type": "regular"
+  },
+  {
+    "id": "th_2026_fast_fish",
+    "name": "Fast Fish",
+    "year": 2026,
+    "series": "Team Wheels",
+    "toyNumber": "JJM12",
+    "description": "Fast Fish — Malaysia",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/Fast_Fish",
+    "type": "regular"
   }
 ]

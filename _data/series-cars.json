@@ -754,6 +754,59 @@
     ]
   },
   {
+    "seriesId": "hw_torque",
+    "seriesName": "HW Torque",
+    "year": 2026,
+    "carCount": 9,
+    "cars": [
+      {
+        "name": "'70 Buick GSX",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/1970BuickGSX.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125525",
+        "url": "https://hotwheels.fandom.com/wiki/'70_Buick_GSX"
+      },
+      {
+        "name": "'68 Shelby GT500",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/51/1968ShelbyGT500.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125601",
+        "url": "https://hotwheels.fandom.com/wiki/'68_Shelby_GT500"
+      },
+      {
+        "name": "Bully Goat",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BullyGTO.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102335",
+        "url": "https://hotwheels.fandom.com/wiki/Bully_Goat"
+      },
+      {
+        "name": "'18 Camaro SS",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/df/2018Camaro.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102358",
+        "url": "https://hotwheels.fandom.com/wiki/'18_Camaro_SS"
+      },
+      {
+        "name": "'96 Dodge Viper GTS",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/MuscleViper.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100228",
+        "url": "https://hotwheels.fandom.com/wiki/'96_Dodge_Viper_GTS"
+      },
+      {
+        "name": "'68 Mercury Cougar",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'68_Mercury_Cougar_(2014)"
+      },
+      {
+        "name": "Slide-Burn",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Slide-Burn"
+      },
+      {
+        "name": "'70 Plymouth AAR Cuda",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'70_Plymouth_AAR_Cuda"
+      },
+      {
+        "name": "Ridge Crest GT",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
+      }
+    ]
+  },
+  {
     "seriesId": "cool_classics",
     "seriesName": "Cool Classics",
     "year": 2026,
@@ -798,54 +851,6 @@
         "name": "1963 Ford Galaxie",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/1963_Ford_Galaxie"
-      }
-    ]
-  },
-  {
-    "seriesId": "hw_torque",
-    "seriesName": "HW Torque",
-    "year": 2026,
-    "carCount": 8,
-    "cars": [
-      {
-        "name": "'70 Buick GSX",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/1970BuickGSX.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125525",
-        "url": "https://hotwheels.fandom.com/wiki/'70_Buick_GSX"
-      },
-      {
-        "name": "'68 Shelby GT500",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/51/1968ShelbyGT500.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125601",
-        "url": "https://hotwheels.fandom.com/wiki/'68_Shelby_GT500"
-      },
-      {
-        "name": "Bully Goat",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BullyGTO.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102335",
-        "url": "https://hotwheels.fandom.com/wiki/Bully_Goat"
-      },
-      {
-        "name": "'18 Camaro SS",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/df/2018Camaro.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102358",
-        "url": "https://hotwheels.fandom.com/wiki/'18_Camaro_SS"
-      },
-      {
-        "name": "'96 Dodge Viper GTS",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/MuscleViper.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100228",
-        "url": "https://hotwheels.fandom.com/wiki/'96_Dodge_Viper_GTS"
-      },
-      {
-        "name": "'68 Mercury Cougar",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/'68_Mercury_Cougar_(2014)"
-      },
-      {
-        "name": "Slide-Burn",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Slide-Burn"
-      },
-      {
-        "name": "Ridge Crest GT",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
       }
     ]
   },
