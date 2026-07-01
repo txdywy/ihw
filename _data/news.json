@@ -1,5 +1,59 @@
 [
   {
+    "id": "rc_786857",
+    "title": "Ghostbusters Ecto-1",
+    "summary": "Reverted edit by NiHao2026 (talk) to last revision by Coldpopcarl",
+    "date": "2026-07-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ghostbusters_Ecto-1",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Jamie_Seymour_ECTO.jpg/revision/latest?cb=20200204225504"
+  },
+  {
+    "id": "rc_786834",
+    "title": "World's Smallest Hot Wheels",
+    "summary": "200px|rightWorld's Smallest Hot Wheels is a series of Hot Wheels-themed toys manufactured and marketed by Super Impulse as one of their many brands in their World's Smallest product line introduced in 2017. These are approximately 1:180 scale versions of Hot Wheels cars and tracksets; the wheels on the cars turn and the cars run on tracks. Each car is no larger than a quarter.",
+    "date": "2026-07-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/World's_Smallest_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/World%27sSmallest.png/revision/latest?cb=20260604124842"
+  },
+  {
+    "id": "rc_786827",
+    "title": "Toy Story 5 Series (2026)",
+    "summary": "Category:2026 Hot Wheels\nCategory:Hot Wheels by Series",
+    "date": "2026-07-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Toy_Story_5_Series_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Toy_Story_Fandango_2026_loose.jpg/revision/latest?cb=20260701115431"
+  },
+  {
+    "id": "rc_786819",
+    "title": "Spider-Man Series (2026)",
+    "summary": "Silver Series 2026 Spider-Man Back of Card.jpg|Back of Card\nCategory:2026 Hot Wheels\nCategory:Hot Wheels by Series",
+    "date": "2026-07-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Spider-Man_Series_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/Cool_One_Venom_loose_2026.jpg.jpg/revision/latest?cb=20260619064421"
+  },
+  {
+    "id": "rc_786796",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-07-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
+    "id": "rc_786795",
+    "title": "List of 2026 Hot Wheels new castings",
+    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "date": "2026-07-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+  },
+  {
     "id": "rc_786738",
     "title": "Datsun 240z (2001)",
     "summary": "Created page with \" ==Description== The Datsun 240z (2001) is a unreleased model with alot of mystery to it. It was found as part of the Dave Martis collection as a model that he took to possibly later customize it into a product, only to be shelved. The main issue is there is alot unknown about it and unfortunately Dave Martis forgot it's o...\"",
@@ -16,24 +70,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_unreleased_Hot_Wheels",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Resin_Gurney_Eagle_68.JPG/revision/latest?cb=20250517003201"
-  },
-  {
-    "id": "rc_786707",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
-  },
-  {
-    "id": "rc_786704",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
   },
   {
     "id": "rc_786682",
@@ -78,7 +114,7 @@
     "date": "2026-06-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/GM_Lean_Machine",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/50/GM_Lean_Machine_Demo.JPG/revision/latest?cb=20090104060842"
+    "image": null
   },
   {
     "id": "rc_786605",
@@ -87,7 +123,7 @@
     "date": "2026-06-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Screamin'_Hauler",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Header_Screamin%27_Hauler_-_7041cf.jpg/revision/latest/scale-to-width-down/1200?cb=20090108082328"
+    "image": null
   },
   {
     "id": "rc_786600",
@@ -96,7 +132,7 @@
     "date": "2026-06-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Shadow_Jet",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Shadow_Jet_Image.jpg/revision/latest?cb=20260303204617"
+    "image": null
   },
   {
     "id": "rc_786594",
@@ -105,7 +141,7 @@
     "date": "2026-06-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hare_Splitter",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/Hare_Splitter_WhtRed.JPG/revision/latest?cb=20090107232440"
+    "image": null
   },
   {
     "id": "rc_786589",
@@ -354,7 +390,7 @@
     "id": "search_185581",
     "title": "2026 New Models",
     "summary": "Latest Hot Wheels information: 2026 New Models",
-    "date": "2026-06-30",
+    "date": "2026-07-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
     "image": null
@@ -393,15 +429,6 @@
     "date": "2024-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_182641",
-    "title": "2026 5-Packs",
-    "summary": "Latest Hot Wheels information: 2026 5-Packs",
-    "date": "2026-06-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_5-Packs",
     "image": null
   }
 ]

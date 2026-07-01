@@ -416,6 +416,64 @@
     ]
   },
   {
+    "seriesId": "then_and_now",
+    "seriesName": "Then and Now",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "Austin Mini Cooper S",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/1200?cb=20251213090022",
+        "url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S"
+      },
+      {
+        "name": "Datsun 240Z",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1972240Z.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095527",
+        "url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
+      },
+      {
+        "name": "Corvette Grand Sport",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/54/C2GrandSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095618",
+        "url": "https://hotwheels.fandom.com/wiki/Corvette_Grand_Sport"
+      },
+      {
+        "name": "'96 Porsche Carrera",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/1996Porsche996.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111051",
+        "url": "https://hotwheels.fandom.com/wiki/'96_Porsche_Carrera"
+      },
+      {
+        "name": "2023 Nissan Z",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2023NissanZSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111257",
+        "url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z"
+      },
+      {
+        "name": "'20 Toyota GR Supra",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2020ToyotaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121610",
+        "url": "https://hotwheels.fandom.com/wiki/'20_Toyota_GR_Supra"
+      },
+      {
+        "name": "'11 Corvette Grand Sport",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/2011Corvette.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125656",
+        "url": "https://hotwheels.fandom.com/wiki/'11_Corvette_Grand_Sport"
+      },
+      {
+        "name": "'82 Toyota Supra",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/1982CelicaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125714",
+        "url": "https://hotwheels.fandom.com/wiki/'82_Toyota_Supra"
+      },
+      {
+        "name": "Porsche 911 Carrera RS 2.7",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/48/1973PorscheRSTH.jpg/revision/latest/scale-to-width-down/1200?cb=20260616083549",
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7"
+      },
+      {
+        "name": "Mini JCW Electric",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Mini_JCW_Electric"
+      }
+    ]
+  },
+  {
     "seriesId": "drag_racers",
     "seriesName": "Drag Racers",
     "year": 2026,
@@ -648,55 +706,55 @@
     ]
   },
   {
-    "seriesId": "then_and_now",
-    "seriesName": "Then and Now",
+    "seriesId": "screen_time",
+    "seriesName": "Screen Time",
     "year": 2026,
     "carCount": 9,
     "cars": [
       {
-        "name": "Austin Mini Cooper S",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/1200?cb=20251213090022",
-        "url": "https://hotwheels.fandom.com/wiki/Austin_Mini_Cooper_S"
+        "name": "Optimus Prime",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/1200?cb=20250120090211",
+        "url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
       },
       {
-        "name": "Datsun 240Z",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/1972240Z.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095527",
-        "url": "https://hotwheels.fandom.com/wiki/Datsun_240Z"
+        "name": "HW K.I.T.T. Concept",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122239",
+        "url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
       },
       {
-        "name": "Corvette Grand Sport",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/54/C2GrandSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251121095618",
-        "url": "https://hotwheels.fandom.com/wiki/Corvette_Grand_Sport"
+        "name": "The Simpsons Family Car",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100211",
+        "url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
       },
       {
-        "name": "'96 Porsche Carrera",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/1996Porsche996.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111051",
-        "url": "https://hotwheels.fandom.com/wiki/'96_Porsche_Carrera"
+        "name": "Standard Kart",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest/scale-to-width-down/1200?cb=20210926022809",
+        "url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
       },
       {
-        "name": "2023 Nissan Z",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2023NissanZSport.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111257",
-        "url": "https://hotwheels.fandom.com/wiki/2023_Nissan_Z"
+        "name": "Spider-Mobile",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101754",
+        "url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
       },
       {
-        "name": "'20 Toyota GR Supra",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2020ToyotaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121610",
-        "url": "https://hotwheels.fandom.com/wiki/'20_Toyota_GR_Supra"
+        "name": "'68 Corvette - Gas Monkey Garage",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMGCorvetteC3.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100010",
+        "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage"
       },
       {
-        "name": "'11 Corvette Grand Sport",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/2011Corvette.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125656",
-        "url": "https://hotwheels.fandom.com/wiki/'11_Corvette_Grand_Sport"
+        "name": "1970 Custom Plymouth Roadrunner",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner"
       },
       {
-        "name": "'82 Toyota Supra",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/1982CelicaSupra.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125714",
-        "url": "https://hotwheels.fandom.com/wiki/'82_Toyota_Supra"
+        "name": "Party Wagon",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Party_Wagon"
       },
       {
-        "name": "Porsche 911 Carrera RS 2.7",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/48/1973PorscheRSTH.jpg/revision/latest/scale-to-width-down/1200?cb=20260616083549",
-        "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7"
+        "name": "Mickey Mouse Car",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car"
       }
     ]
   },
@@ -803,54 +861,6 @@
         "name": "Ridge Crest GT",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
-      }
-    ]
-  },
-  {
-    "seriesId": "screen_time",
-    "seriesName": "Screen Time",
-    "year": 2026,
-    "carCount": 8,
-    "cars": [
-      {
-        "name": "Optimus Prime",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/1200?cb=20250120090211",
-        "url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
-      },
-      {
-        "name": "HW K.I.T.T. Concept",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122239",
-        "url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
-      },
-      {
-        "name": "The Simpsons Family Car",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100211",
-        "url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
-      },
-      {
-        "name": "Standard Kart",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest/scale-to-width-down/1200?cb=20210926022809",
-        "url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
-      },
-      {
-        "name": "Spider-Mobile",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101754",
-        "url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
-      },
-      {
-        "name": "'68 Corvette - Gas Monkey Garage",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMGCorvetteC3.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100010",
-        "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage"
-      },
-      {
-        "name": "1970 Custom Plymouth Roadrunner",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner"
-      },
-      {
-        "name": "Mickey Mouse Car",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car"
       }
     ]
   },

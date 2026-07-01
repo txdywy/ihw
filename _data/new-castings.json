@@ -340,6 +340,16 @@
     "url": "https://hotwheels.fandom.com/wiki/Mad_Drip"
   },
   {
+    "id": "mini_jcw_electric",
+    "name": "Mini JCW Electric",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Then and Now",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Mini_JCW_Electric"
+  },
+  {
     "id": "1972_datsun_sunny_coupe",
     "name": "1972 Datsun Sunny Coupe",
     "year": 2026,
@@ -588,15 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Mercedes-Benz300SLR.jpg/revision/latest/scale-to-width-down/1200?cb=20260121132515",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Mercedes-Benz300SLR.jpg/revision/latest?cb=20260121132515",
     "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_300_SLR"
-  },
-  {
-    "id": "terra-torque",
-    "name": "Terra-Torque",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Car Culture: Team Transport",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Terra-Torque.jpg/revision/latest/scale-to-width-down/1200?cb=20260424094043",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Terra-Torque.jpg/revision/latest?cb=20260424094043",
-    "url": "https://hotwheels.fandom.com/wiki/Terra-Torque"
   }
 ]
