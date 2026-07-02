@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_787128",
+    "title": "Errors",
+    "summary": "Errors are Hot Wheels cars with defects from the manufacturing process. This can include problems with the actual car itself, such as having the incorrect wheels, mis-application of tampos, and broken/missing parts, or can include mistakes with how the car is packaged....",
+    "date": "2026-07-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Errors",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/Zoticerror1.jpeg/revision/latest/scale-to-width-down/1200?cb=20240707021620"
+  },
+  {
+    "id": "rc_787060",
+    "title": "2026 Hot Wheels Legends Tour",
+    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "date": "2026-07-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
+  },
+  {
     "id": "rc_787041",
     "title": "Gulch Stepper",
     "summary": "did changes to the black #251. after some research of card variations for the black variation #251 i believe all of them have a 1995 release and the ORSB spoke might have a 1997 release. i did put in 2 wheel variations not on the page for #251",
@@ -54,15 +72,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
   },
   {
-    "id": "rc_786992",
-    "title": "2026 Hot Wheels Legends Tour",
-    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
-    "date": "2026-07-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
-  },
-  {
     "id": "rc_786976",
     "title": "Twin Mill III (Superstar Speeders)",
     "summary": "Created page with \" ==Description== This is a version of Twin Mill III adapted to fit a figure of a character. All releases feature a figure of Wolverine. ==Versions== The Twin Mill III has come out in the following 1/64 scale versions: {| style=\"font-size: 85%; text-align: left;\" class=\"wikitable...\"",
@@ -101,11 +110,11 @@
   {
     "id": "rc_786927",
     "title": "2026 Hot Wheels Boulevard",
-    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "summary": "/* Mix 4 */",
     "date": "2026-07-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/NissanZ32.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111652"
+    "image": null
   },
   {
     "id": "rc_786908",
@@ -459,24 +468,6 @@
     "image": null
   },
   {
-    "id": "rc_786223",
-    "title": "Japanese Car Culture Themed Multipack (2026)",
-    "summary": "First, how can you question it when you don't have it in hand to see? Second, each silver series has had at least one with a metal base. Third, each '98 Toyota Altezza has had a metal base so far. Fourth, research first before editing. Go to eBay, there is at least one with a great pic of the base and you can see.",
-    "date": "2026-06-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Japanese_Car_Culture_Themed_Multipack_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_786185",
-    "title": "Micro Hot Wheels",
-    "summary": "/* Atlantic Squadron Pack (4813) */",
-    "date": "2026-06-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Micro_Hot_Wheels",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -519,6 +510,15 @@
     "date": "2025-08-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
+    "image": null
+  },
+  {
+    "id": "search_200140",
+    "title": "Japanese Car Culture Themed Multipack (2026)",
+    "summary": "Latest Hot Wheels information: Japanese Car Culture Themed Multipack (2026)",
+    "date": "2026-06-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Japanese_Car_Culture_Themed_Multipack_(2026)",
     "image": null
   },
   {
