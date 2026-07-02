@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_787260",
+    "title": "Buick Wildcat",
+    "summary": "changed 1997 #597 to 1996 for both colors. the cards have 1995 on the back.",
+    "date": "2026-07-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Buick_Wildcat",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Buick_Wildcat_CRedBW.JPG/revision/latest?cb=20090104210913"
+  },
+  {
+    "id": "rc_787235",
+    "title": "Land Rover Defender 90",
+    "summary": "Added additional base codes to Pantone series.",
+    "date": "2026-07-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Defender_90",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/Land_Rover_Defender_90_2020_Factory_Fresh.JPG/revision/latest/scale-to-width-down/1200?cb=20200530215033"
+  },
+  {
+    "id": "rc_787230",
+    "title": "Straight Track Pack",
+    "summary": "Created page with \" == Description == The Straight Track Pack is a Hot Wheels accessory pack that contains two 12' molded track pieces, one 12' flex track piece, and two adapter pieces to connect to connect to older Track Builder track pieces, with one piece each for the peg and socket ends.\"",
+    "date": "2026-07-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Straight_Track_Pack",
+    "image": null
+  },
+  {
     "id": "rc_787183",
     "title": "Seared Tuner",
     "summary": ">>CHUCK E. CHEESE'S << / Chuck E Cheese release has Malaysia base & Sho-Stopper on Base Name",
@@ -83,11 +110,11 @@
   {
     "id": "rc_786999",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* Screen Time 40px */",
     "date": "2026-07-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_786976",
