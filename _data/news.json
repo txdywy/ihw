@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_787540",
+    "title": "2009 Nissan GT-R",
+    "summary": "Changed release entry image to clearer image and moved old image to gallery",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2009_Nissan_GT-R",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/Nissangtr_white.JPG/revision/latest?cb=20091214091047"
+  },
+  {
+    "id": "rc_787538",
+    "title": "Renault Sport R.S. 01",
+    "summary": "Changed release entry image to clearer image and moved old image to gallery",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Renault_Sport_R.S._01",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Renault_Sport_R.S.-2016.jpg/revision/latest?cb=20160305145818"
+  },
+  {
+    "id": "rc_787537",
+    "title": "Celero GT",
+    "summary": "Changed release entry image to clearer image and moved old image to gallery",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Celero_GT",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/CeleroGT.jpg/revision/latest/scale-to-width-down/1200?cb=20230323135135"
+  },
+  {
     "id": "rc_787483",
     "title": "Hot Wheels Racing 1:43 Scale",
     "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
@@ -83,20 +110,20 @@
   {
     "id": "rc_787304",
     "title": "Hot Wheels Elite",
-    "summary": "200px|rightHot Wheels Elite was a series of larger scale Hot Wheels models produced from 2007 to 2016. The series was originally created as part of Hot Wheels's deal with Ferrari and initially featured exclusively Ferrari models before other cars were added in the series' later years to pad out the line following the lapsing of the Ferrari license. The line's slogan was \"Be Part Of It\".",
+    "summary": "Created page with \"200px|rightHot Wheels Elite was a series of larger scale Hot Wheels models produced from 2007 to 2016. The series was originally created as part of Hot Wheels's deal with Ferrari and initially featured exclusively Ferrari models before other cars were added in the series' later years to pad out the line following the lapsing of the Ferrari license....",
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/HotWheelsElite.jpg/revision/latest?cb=20260702230221"
+    "image": null
   },
   {
     "id": "rc_787285",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* HW Torque */",
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_787272",
@@ -105,7 +132,7 @@
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Silhouette_II",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/18/Silouette_II_PrpUH.JPG/revision/latest?cb=20090102173214"
+    "image": null
   },
   {
     "id": "rc_787271",
@@ -396,24 +423,6 @@
     "image": null
   },
   {
-    "id": "rc_786682",
-    "title": "2025 Hot Wheels Boulevard",
-    "summary": "Added base code U30A for '98 Toyota Altezza",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "rc_786655",
-    "title": "2026 Car Culture",
-    "summary": "added base code V05A for 2008 Mercedes-Benz CLK 63 AMG Black Series",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -447,6 +456,15 @@
     "date": "2026-07-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
+    "image": null
+  },
+  {
+    "id": "search_185398",
+    "title": "2026 Car Culture",
+    "summary": "Latest Hot Wheels information: 2026 Car Culture",
+    "date": "2026-07-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
   },
   {
