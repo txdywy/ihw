@@ -1,12 +1,66 @@
 [
   {
-    "id": "rc_787351",
+    "id": "rc_787428",
+    "title": "Ferrari 1:18 Scale Series",
+    "summary": "Category:2013 Hot Wheels\nCategory:2014 Hot Wheels\nCategory:1:18\nCategory:Hot Wheels by Series",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_1%3A18_Scale_Series",
+    "image": null
+  },
+  {
+    "id": "rc_787427",
     "title": "Hot Wheels Elite 1:43 Scale",
     "summary": "This is a 1:43 scale series of Hot Wheels cars under the Hot Wheels Elite branding produced from 2008 to 2015. Most castings from 2008 to 2011 have a limited production run of between 5,000 and 10,000.",
     "date": "2026-07-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_1%3A43_Scale",
     "image": null
+  },
+  {
+    "id": "rc_787424",
+    "title": "Hot Wheels Racing 1:18 Scale",
+    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A18_Scale",
+    "image": null
+  },
+  {
+    "id": "rc_787423",
+    "title": "Hot Wheels Racing 1:43 Scale",
+    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A43_Scale",
+    "image": null
+  },
+  {
+    "id": "rc_787414",
+    "title": "La Storia",
+    "summary": "200px|rightLa Storia was a short-lived series of 1:43-scale Hot Wheels models sold in 2001 mainly for the Italian market, marketing Ferrari's Formula One cars....",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/La_Storia",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/LaStoria.jpg/revision/latest?cb=20260703074652"
+  },
+  {
+    "id": "rc_787403",
+    "title": "Hot Wheels Elite 1:18 Scale",
+    "summary": "This is a 1:18 scale series of Hot Wheels cars under the Hot Wheels Elite branding produced from 2006 to 2015. Most castings from 2006 to 2011 have a limited production run of between 5,000 and 10,000. Some models are part of the \"Super Elite\" line with a significantly reduced production run.",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_1%3A18_Scale",
+    "image": null
+  },
+  {
+    "id": "rc_787391",
+    "title": "Hot Wheels Elite One",
+    "summary": "200px|right\nThis series was released in 2013 & 2014 and made in China.",
+    "date": "2026-07-03",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_One",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/Elite_20One.jpg/revision/latest?cb=20250703035221"
   },
   {
     "id": "rc_787327",
@@ -60,7 +114,7 @@
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Buick_Wildcat",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Buick_Wildcat_CRedBW.JPG/revision/latest?cb=20090104210913"
+    "image": null
   },
   {
     "id": "rc_787235",
@@ -69,7 +123,7 @@
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Defender_90",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/Land_Rover_Defender_90_2020_Factory_Fresh.JPG/revision/latest/scale-to-width-down/1200?cb=20200530215033"
+    "image": null
   },
   {
     "id": "rc_787230",
@@ -87,7 +141,7 @@
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Seared_Tuner",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/SearedTunerSketch.jpg/revision/latest?cb=20251220071348"
+    "image": null
   },
   {
     "id": "rc_787158",
@@ -96,16 +150,16 @@
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'56_Ford_Truck",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/44/%2756_Ford_Truck_FE_-_4739ff.jpg/revision/latest/scale-to-width-down/1200?cb=20100408085027"
+    "image": null
   },
   {
     "id": "rc_787128",
     "title": "Errors",
-    "summary": "Errors are Hot Wheels cars with defects from the manufacturing process. This can include problems with the actual car itself, such as having the incorrect wheels, mis-application of tampos, and broken/missing parts, or can include mistakes with how the car is packaged....",
+    "summary": "/* Vehicles found with incorrect/non-matching wheels */",
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Errors",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/Zoticerror1.jpeg/revision/latest/scale-to-width-down/1200?cb=20240707021620"
+    "image": null
   },
   {
     "id": "rc_787060",
@@ -441,66 +495,21 @@
     "image": null
   },
   {
-    "id": "rc_786566",
-    "title": "P-911",
-    "summary": "Last week was a GREAT week of Porsche Carrera & Hare Splitter Arrivals plus many more enroutes Inculding Rotoplast Venezuela & Belive I got a CISPA P-911 ( does have slight kid paint ) This CARD FC NO.7648 CARRERA Card& Base SSW cap-open and a RAINBOW Toning or burnt metal base WOOO HOOO it's a PRIDE N HaPpY HaPpY JoY jOy",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/P-911",
-    "image": null
-  },
-  {
-    "id": "rc_786555",
-    "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "/* Playsets */",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": null
-  },
-  {
-    "id": "rc_786535",
+    "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
-    "summary": "/* 2026 Treasure Hunts */",
-    "date": "2026-06-30",
+    "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
+    "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
     "image": null
   },
   {
-    "id": "rc_786517",
-    "title": "Corvette",
-    "summary": "Reverted edits by Countach75 (talk) to last revision by CArni81",
+    "id": "search_185871",
+    "title": "2026 Hot Wheels Monster Trucks",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
     "date": "2026-06-30",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Corvette",
-    "image": null
-  },
-  {
-    "id": "rc_786516",
-    "title": "Corvette C7 Z06 (Hot Wheels XL)",
-    "summary": "Reverted edit by Countach75 (talk) to last revision by Combatbot2015",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_786514",
-    "title": "Hot Wheels XL",
-    "summary": "Reverted edit by Countach75 (talk) to last revision by Orymizak",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": null
-  },
-  {
-    "id": "rc_786512",
-    "title": "Land Rover Series II (Hot Wheels XL)",
-    "summary": "Reverted edits by Countach75 (talk) to last revision by Combatbot2015",
-    "date": "2026-06-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Series_II_(Hot_Wheels_XL)",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
     "image": null
   },
   {
