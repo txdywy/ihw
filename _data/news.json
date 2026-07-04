@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_787607",
+    "title": "Hot Wheels Racing 1:24 Scale",
+    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:1:24\nCategory:Hot Wheels by Series",
+    "date": "2026-07-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A24_Scale",
+    "image": null
+  },
+  {
+    "id": "rc_787601",
+    "title": "Hot Wheels Racing 1:43 Scale",
+    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
+    "date": "2026-07-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A43_Scale",
+    "image": null
+  },
+  {
+    "id": "rc_787598",
+    "title": "Hot Wheels Racing 1:18 Scale",
+    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
+    "date": "2026-07-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A18_Scale",
+    "image": null
+  },
+  {
+    "id": "rc_787592",
+    "title": "Ferrari 1:24 Scale Series",
+    "summary": "Category:2014 Hot Wheels\nCategory:1:24\nCategory:Hot Wheels by Series",
+    "date": "2026-07-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_1%3A24_Scale_Series",
+    "image": null
+  },
+  {
     "id": "rc_787540",
     "title": "2009 Nissan GT-R",
     "summary": "Changed release entry image to clearer image and moved old image to gallery",
@@ -27,15 +63,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/CeleroGT.jpg/revision/latest/scale-to-width-down/1200?cb=20230323135135"
   },
   {
-    "id": "rc_787483",
-    "title": "Hot Wheels Racing 1:43 Scale",
-    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
-    "date": "2026-07-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A43_Scale",
-    "image": null
-  },
-  {
     "id": "rc_787463",
     "title": "Meyers Manx (2003)",
     "summary": "I flipp Flopped the 2014 BFG40 GOLD 2nd colour to the End as it was the last Colour WHAT I been doing in galleries Os Puttibg Images in Order of releases grouping together so People can see the progression of a casting or A RELEASE changes of Wheels, Tampos Ibtetiors windows etc ITS nice to see ORGANIZATION Easy and info of a Image",
@@ -43,15 +70,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Meyers_Manx_(2003)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MeyersM-Seven.jpg/revision/latest?cb=20081211051344"
-  },
-  {
-    "id": "rc_787429",
-    "title": "Hot Wheels Racing 1:18 Scale",
-    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
-    "date": "2026-07-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A18_Scale",
-    "image": null
   },
   {
     "id": "rc_787428",
@@ -92,16 +110,16 @@
   {
     "id": "rc_787391",
     "title": "Hot Wheels Elite One",
-    "summary": "200px|right\nThis series was released in 2013 & 2014 and made in China.",
+    "summary": "/* 2013 */",
     "date": "2026-07-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_One",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/Elite_20One.jpg/revision/latest?cb=20250703035221"
+    "image": null
   },
   {
     "id": "rc_787327",
     "title": "Hot Wheels Classics Limited Edition (1:18 Scale)",
-    "summary": "#REDIRECT Hot Wheels Classics 1:18 Scale\nCategory:Redirects",
+    "summary": "Adding categories",
     "date": "2026-07-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Classics_Limited_Edition_(1%3A18_Scale)",
@@ -402,24 +420,6 @@
     "date": "2026-07-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
-    "id": "rc_786738",
-    "title": "Datsun 240z (2001)",
-    "summary": "Created page with \" ==Description== The Datsun 240z (2001) is a unreleased model with alot of mystery to it. It was found as part of the Dave Martis collection as a model that he took to possibly later customize it into a product, only to be shelved. The main issue is there is alot unknown about it and unfortunately Dave Martis forgot it's o...\"",
-    "date": "2026-07-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Datsun_240z_(2001)",
-    "image": null
-  },
-  {
-    "id": "rc_786737",
-    "title": "List of unreleased Hot Wheels",
-    "summary": "/* 2000s */",
-    "date": "2026-07-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_unreleased_Hot_Wheels",
     "image": null
   },
   {
