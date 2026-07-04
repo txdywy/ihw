@@ -1,6 +1,24 @@
 [
   {
-    "id": "rc_787607",
+    "id": "rc_787646",
+    "title": "'40 Ford Coupe",
+    "summary": "Reverted edit by Jinx20 (talk) to last revision by Coldpopcarl",
+    "date": "2026-07-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'40_Ford_Coupe",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/40_Ford_Coupe.JPG/revision/latest?cb=20091018135934"
+  },
+  {
+    "id": "rc_787645",
+    "title": "Passione",
+    "summary": "Category:2001 Hot Wheels\nCategory:Passione\nCategory:1:24",
+    "date": "2026-07-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Passione",
+    "image": null
+  },
+  {
+    "id": "rc_787644",
     "title": "Hot Wheels Racing 1:24 Scale",
     "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:1:24\nCategory:Hot Wheels by Series",
     "date": "2026-07-04",
@@ -92,16 +110,16 @@
   {
     "id": "rc_787414",
     "title": "La Storia",
-    "summary": "200px|rightLa Storia was a short-lived series of 1:43-scale Hot Wheels models sold in 2001 mainly for the Italian market, marketing Ferrari's Formula One cars....",
+    "summary": "Created page with \"200px|rightLa Storia was a short-lived series of 1:43-scale Hot Wheels models sold in 2001 mainly for the Italian market, marketing Ferrari's Formula One cars....",
     "date": "2026-07-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/La_Storia",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/LaStoria.jpg/revision/latest?cb=20260703074652"
+    "image": null
   },
   {
     "id": "rc_787403",
     "title": "Hot Wheels Elite 1:18 Scale",
-    "summary": "This is a 1:18 scale series of Hot Wheels cars under the Hot Wheels Elite branding produced from 2006 to 2015. Most castings from 2006 to 2011 have a limited production run of between 5,000 and 10,000. Some models are part of the \"Super Elite\" line with a significantly reduced production run.",
+    "summary": "/* 2014 */",
     "date": "2026-07-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_1%3A18_Scale",
@@ -414,15 +432,6 @@
     "image": null
   },
   {
-    "id": "rc_786795",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "/* Mainline */",
-    "date": "2026-07-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -447,6 +456,15 @@
     "date": "2025-06-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Super_Treasure_Hunt",
+    "image": null
+  },
+  {
+    "id": "search_185492",
+    "title": "List of 2026 Hot Wheels new castings",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels new castings",
+    "date": "2026-07-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
     "image": null
   },
   {
