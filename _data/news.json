@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_788023",
+    "title": "Hot Wheels 1:18 Scale Series",
+    "summary": "Category:1:18\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot Wheels\nCategory:2014 Hot Wheels\nCategory:2015 Hot Wheels",
+    "date": "2026-07-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_1%3A18_Scale_Series",
+    "image": null
+  },
+  {
+    "id": "rc_788021",
+    "title": "Hot Wheels Elite 1:18 Scale",
+    "summary": "This is a 1:18 scale series of Hot Wheels cars under the Hot Wheels Elite branding produced from 2006 to 2015. Most castings from 2006 to 2011 have a limited production run of between 5,000 and 10,000. Some models are part of the \"Super Elite\" line with a significantly reduced production run.",
+    "date": "2026-07-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_1%3A18_Scale",
+    "image": null
+  },
+  {
+    "id": "rc_788016",
+    "title": "Hot Wheels 1:24 Scale Series",
+    "summary": "Category:1:24\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot Wheels\nCategory:2014 Hot Wheels\nCategory:2015 Hot Wheels",
+    "date": "2026-07-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_1%3A24_Scale_Series",
+    "image": null
+  },
+  {
+    "id": "rc_788010",
+    "title": "Hot Wheels Racing 1:18 Scale",
+    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
+    "date": "2026-07-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A18_Scale",
+    "image": null
+  },
+  {
     "id": "rc_787932",
     "title": "'91 Mazda MX-5 Miata",
     "summary": "replacing with loose version. this was on display and im 90% certian this is the released version",
@@ -7,24 +43,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'91_Mazda_MX-5_Miata",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/2019NM25_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20200712013928"
-  },
-  {
-    "id": "rc_787783",
-    "title": "Hot Wheels Elite 1:18 Scale",
-    "summary": "This is a 1:18 scale series of Hot Wheels cars under the Hot Wheels Elite branding produced from 2006 to 2015. Most castings from 2006 to 2011 have a limited production run of between 5,000 and 10,000. Some models are part of the \"Super Elite\" line with a significantly reduced production run.",
-    "date": "2026-07-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_1%3A18_Scale",
-    "image": null
-  },
-  {
-    "id": "rc_787781",
-    "title": "Hot Wheels Racing 1:18 Scale",
-    "summary": "Category:1998 Hot Wheels\nCategory:1999 Hot Wheels\nCategory:2000 Hot Wheels\nCategory:2001 Hot Wheels\nCategory:2002 Hot Wheels\nCategory:2003 Hot Wheels\nCategory:2004 Hot Wheels\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot...",
-    "date": "2026-07-05",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A18_Scale",
-    "image": null
   },
   {
     "id": "rc_787753",
@@ -92,7 +110,7 @@
   {
     "id": "rc_787592",
     "title": "Ferrari 1:24 Scale Series",
-    "summary": "Category:2014 Hot Wheels\nCategory:1:24\nCategory:Hot Wheels by Series",
+    "summary": "Created page with \"==2014== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: center;\" width=\"100%\" ! style=\"border-style: none none solid solid\" |Toy # ! style=\"border-style: none none solid solid\" |Casting Name ! style=\"border-style: none none solid solid\" |Color ! style=\"border-style: none none solid solid\" |Notes !...",
     "date": "2026-07-04",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Ferrari_1%3A24_Scale_Series",
@@ -105,7 +123,7 @@
     "date": "2026-07-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2009_Nissan_GT-R",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/Nissangtr_white.JPG/revision/latest?cb=20091214091047"
+    "image": null
   },
   {
     "id": "rc_787538",
@@ -258,15 +276,6 @@
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'56_Ford_Truck",
-    "image": null
-  },
-  {
-    "id": "rc_787128",
-    "title": "Errors",
-    "summary": "/* Vehicles found with incorrect/non-matching wheels */",
-    "date": "2026-07-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Errors",
     "image": null
   },
   {
