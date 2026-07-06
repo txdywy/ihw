@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_788112",
+    "title": "Hot Wheels 1:18 Scale Series",
+    "summary": "1-18 C2590 GT3 SILVER r1T.jpg|C2590\n1-18 C2590 GT3 SILVER r2.jpg\n1-18 C2590 GT3 SILVER r3.jpg\n1-18 GT3 SILVER o4U.jpg\n1-18 GT3 SILVER o5R.jpg\n1-18 GT3 SILVER o5T.jpg\n1-18 GT3 SILVER o3F.jpg\n1-18 GT3 SILVER o3RU.jpg\n1-18 GT3 SILVER o3Eng.jpg\n1-18 GT3 SILVER o6.jpg\n1-18 B6054 166 MM Barchetta RHD Pininfarina R1....",
+    "date": "2026-07-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_1%3A18_Scale_Series",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/2003_-_3rd_Annual_NationalsBeatnik_Bandit_pink.jpg/revision/latest?cb=20200208160517"
+  },
+  {
     "id": "rc_788110",
     "title": "Alpine",
     "summary": "Société des Automobiles Alpine SAS, commonly known as Alpine, is a French manufacturer of sports cars and racing cars established in 1955. The Alpine car marque was created in 1954. Jean Rédélé, the founder of Alpine, was originally a Dieppe garage proprietor who began to achieve success in motorsport with the Renault 4CV, one of the few French cars produced after the Second World War.",
@@ -7,15 +16,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Alpine",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Alpine_A110_Blue_19.jpg/revision/latest/scale-to-width-down/1200?cb=20190809091732"
-  },
-  {
-    "id": "rc_788109",
-    "title": "Hot Wheels 1:18 Scale Series",
-    "summary": "Category:1:18\nCategory:2005 Hot Wheels\nCategory:2006 Hot Wheels\nCategory:2007 Hot Wheels\nCategory:2008 Hot Wheels\nCategory:2009 Hot Wheels\nCategory:2010 Hot Wheels\nCategory:2011 Hot Wheels\nCategory:2012 Hot Wheels\nCategory:2013 Hot Wheels\nCategory:2014 Hot Wheels\nCategory:2015 Hot Wheels",
-    "date": "2026-07-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_1%3A18_Scale_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/2003_-_3rd_Annual_NationalsBeatnik_Bandit_pink.jpg/revision/latest?cb=20200208160517"
   },
   {
     "id": "rc_788106",
@@ -225,66 +225,21 @@
     "image": null
   },
   {
-    "id": "rc_787327",
-    "title": "Hot Wheels Classics Limited Edition (1:18 Scale)",
-    "summary": "Adding categories",
-    "date": "2026-07-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Classics_Limited_Edition_(1%3A18_Scale)",
-    "image": null
-  },
-  {
-    "id": "rc_787304",
-    "title": "Hot Wheels Elite",
-    "summary": "Created page with \"200px|rightHot Wheels Elite was a series of larger scale Hot Wheels models produced from 2007 to 2016. The series was originally created as part of Hot Wheels's deal with Ferrari and initially featured exclusively Ferrari models before other cars were added in the series' later years to pad out the line following the lapsing of the Ferrari license....",
-    "date": "2026-07-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite",
-    "image": null
-  },
-  {
-    "id": "rc_787285",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* HW Torque */",
-    "date": "2026-07-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
-    "id": "rc_787272",
-    "title": "Silhouette II",
-    "summary": "rearranged the dark rider series lines to help see the differences in wheel and engine color variations.",
-    "date": "2026-07-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Silhouette_II",
-    "image": null
-  },
-  {
-    "id": "rc_787271",
-    "title": "Skullrider",
-    "summary": "#593 is a 1996 release and not 1997",
-    "date": "2026-07-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Skullrider",
-    "image": null
-  },
-  {
-    "id": "rc_787260",
-    "title": "Buick Wildcat",
-    "summary": "changed 1997 #597 to 1996 for both colors. the cards have 1995 on the back.",
-    "date": "2026-07-02",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Buick_Wildcat",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
     "date": "2026-07-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-07-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
