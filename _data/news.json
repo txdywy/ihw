@@ -1,6 +1,15 @@
 [
   {
-    "id": "rc_788563",
+    "id": "rc_788656",
+    "title": "Len Mayem",
+    "summary": "Leonard Martin Mayem (30 August 1930 - 30 January 2007) was a former Product Planning Director of Marketing at Mattel sometime around 1967 who held multiple positions throughout his tenure. He helped purchase competitor castings alongside Fred Adickes to mount on \"3x4 foot display boards\" by their \"passenger sides\" for inspiration during prototyping....",
+    "date": "2026-07-08",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Len_Mayem",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/52/LenMayem.jpeg/revision/latest?cb=20260708020725"
+  },
+  {
+    "id": "rc_788595",
     "title": "Team Hot Wheels Top Rides Series (2012)",
     "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
     "date": "2026-07-07",
@@ -11,11 +20,11 @@
   {
     "id": "rc_788513",
     "title": "American Motors Coporation",
-    "summary": "American Motors Corporation (AMC; commonly referred to as American Motors) was an American automobile manufacturing company formed by the merger of Nash-Kelvinator Corporation and Hudson Motor Car Company on May 1, 1954. At the time, it was the largest corporate merger in U.S....",
+    "summary": "#REDIRECT AMC\nCategory:Redirects",
     "date": "2026-07-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/American_Motors_Coporation",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/Customamx.jpg/revision/latest?cb=20080311164857"
+    "image": null
   },
   {
     "id": "rc_788460",
@@ -105,7 +114,7 @@
     "date": "2026-07-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Gazella_R",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/86/GazellaRFE.jpg/revision/latest/scale-to-width-down/1200?cb=20210613231526"
+    "image": null
   },
   {
     "id": "rc_788310",
@@ -225,24 +234,6 @@
     "image": null
   },
   {
-    "id": "rc_787753",
-    "title": "Hako Type D",
-    "summary": "Detailed the Initial D references the car features.",
-    "date": "2026-07-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hako_Type_D",
-    "image": null
-  },
-  {
-    "id": "rc_787752",
-    "title": "'69 Charger (1:50)",
-    "summary": "Added notes for two releases, which may not have actually been released.",
-    "date": "2026-07-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'69_Charger_(1%3A50)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -267,6 +258,15 @@
     "date": "2025-06-01",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Super_Treasure_Hunt",
+    "image": null
+  },
+  {
+    "id": "search_185581",
+    "title": "2026 New Models",
+    "summary": "Latest Hot Wheels information: 2026 New Models",
+    "date": "2026-07-08",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
     "image": null
   },
   {
