@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_788691",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-07-08",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
     "id": "rc_788656",
     "title": "Len Mayem",
     "summary": "Leonard Martin Mayem (30 August 1930 - 30 January 2007) was a former Product Planning Director of Marketing at Mattel sometime around 1967 who held multiple positions throughout his tenure. He helped purchase competitor castings alongside Fred Adickes to mount on \"3x4 foot display boards\" by their \"passenger sides\" for inspiration during prototyping....",
@@ -101,11 +110,11 @@
   {
     "id": "rc_788350",
     "title": "World Cup 5-Pack",
-    "summary": "The World Cup 5-Pack was released in 1994. All vehicles were made in Malaysia.",
+    "summary": "/* Cars */",
     "date": "2026-07-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/World_Cup_5-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/93_Camaro_DkRedWC.JPG/revision/latest?cb=20091010203515"
+    "image": null
   },
   {
     "id": "rc_788340",
@@ -132,15 +141,6 @@
     "date": "2026-07-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mario_Godoy",
-    "image": null
-  },
-  {
-    "id": "rc_788247",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* HW Starting Grid 40px */",
-    "date": "2026-07-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
@@ -339,6 +339,15 @@
     "date": "2024-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_182641",
+    "title": "2026 5-Packs",
+    "summary": "Latest Hot Wheels information: 2026 5-Packs",
+    "date": "2026-06-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_5-Packs",
     "image": null
   }
 ]
