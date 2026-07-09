@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_788843",
+    "title": "'92 Ford Mustang (Hot Wheels XL)",
+    "summary": "3355EAA",
+    "date": "2026-07-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'92_Ford_Mustang_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/1992FordFoxbody.jpg/revision/latest/scale-to-width-down/1200?cb=20260424095928"
+  },
+  {
+    "id": "rc_788807",
+    "title": "Team Hot Wheels Commemorative 20-Pack",
+    "summary": "535px\nIn 2011 Hot Wheels has gathered the best drivers from around the world to create an 'ultimate' stunt team. They are known racers and stunt drivers who are being kept hidden under their helmets as they do amazing stunts. The first big stunt was called Fearless at the 500 where Tanner Foust jumped a RSP Pro2 Truck 302 feet for a new world record.",
+    "date": "2026-07-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Commemorative_20-Pack",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/85/TeamHotWheels20Pack.jpg/revision/latest/scale-to-width-down/1200?cb=20111002221057"
+  },
+  {
     "id": "rc_788780",
     "title": "Batman: The Animated Series Batmobile (1:50)",
     "summary": "Removed redirect to Animated Series Batmobile (1:50)",
@@ -96,7 +114,7 @@
     "date": "2026-07-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Rod_Runner",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/03/6479.jpeg/revision/latest/scale-to-width-down/1200?cb=20260707074301"
+    "image": null
   },
   {
     "id": "rc_788373",
@@ -105,7 +123,7 @@
     "date": "2026-07-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Dual-Lane_Rod_Runner_Drag_Set",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/6446.jpeg/revision/latest/scale-to-width-down/1200?cb=20260707073847"
+    "image": null
   },
   {
     "id": "rc_788372",
@@ -240,24 +258,6 @@
     "date": "2026-07-06",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Ford_J-Car",
-    "image": null
-  },
-  {
-    "id": "rc_788040",
-    "title": "Hot Wheels Racing 1:18 Scale",
-    "summary": "/* 2003 */",
-    "date": "2026-07-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_1%3A18_Scale",
-    "image": null
-  },
-  {
-    "id": "rc_788016",
-    "title": "Hot Wheels 1:24 Scale Series",
-    "summary": "Also WIP.",
-    "date": "2026-07-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_1%3A24_Scale_Series",
     "image": null
   },
   {
