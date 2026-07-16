@@ -1,12 +1,30 @@
 [
   {
-    "id": "rc_790198",
+    "id": "rc_790238",
+    "title": "Team Hot Wheels Top Rides Series (2012)",
+    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
+    "date": "2026-07-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
+  },
+  {
+    "id": "rc_790231",
     "title": "Hot Wheels Infinite Rush",
     "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
     "date": "2026-07-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Hot_Wheels_Infinite_Rush.jpg/revision/latest/scale-to-width-down/1200?cb=20260605230514"
+  },
+  {
+    "id": "rc_790229",
+    "title": "Overbored 454",
+    "summary": "book one is just the serpent cyclone 5 pack one, probably identical but I'm not sure it was even actually re-released in that set and its not just a mistake from the old southtexasdiecast guide repeated, newsletter omits it. Chrome 5SP variant of the Speed Trap Raceway version is not in guides, I don't think it exists",
+    "date": "2026-07-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Overbored_454",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/2002_Overbored_454_B.jpg/revision/latest/scale-to-width-down/1200?cb=20251122213801"
   },
   {
     "id": "rc_790187",
@@ -34,15 +52,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Muscle_Tone_(Fatbax)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/475539553_1324235242108057_6262433668088619686_n.jpg/revision/latest?cb=20260321142516"
-  },
-  {
-    "id": "rc_790159",
-    "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
-    "date": "2026-07-15",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
   },
   {
     "id": "rc_790145",
@@ -101,11 +110,11 @@
   {
     "id": "rc_789963",
     "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "Each truck included a trophy accessory. 2025 Monster Trucks TYRE Dump 1L.jpg\n2025 Monster Trucks TYRE Dump Left.jpg\nCategory:2026 Hot Wheels\nCategory:Hot Wheels Monster Trucks",
+    "summary": "/* Monster Trucks Demolition Doubles */",
     "date": "2026-07-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/2025_Monster_Trucks_TYRE_Dump_1L.jpg/revision/latest/scale-to-width-down/1200?cb=20251222081402"
+    "image": null
   },
   {
     "id": "rc_789960",
@@ -375,33 +384,6 @@
     "date": "2026-07-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'65_Mustang_Convertible",
-    "image": null
-  },
-  {
-    "id": "rc_789188",
-    "title": "2023 Hot Wheels Monster Trucks",
-    "summary": "/* Monster Trucks */",
-    "date": "2026-07-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2023_Hot_Wheels_Monster_Trucks",
-    "image": null
-  },
-  {
-    "id": "rc_789185",
-    "title": "Massive Bash",
-    "summary": "Created page with \" ==Description== This truck casting name is called Will Trash It All, and is redecorated/reused throughout the line. ==Versions== The Massive Bash has come out in the following 1/64 scale versions: {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align:...\"",
-    "date": "2026-07-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Massive_Bash",
-    "image": null
-  },
-  {
-    "id": "rc_789179",
-    "title": "1985 Ford Bronco",
-    "summary": "Created page with \" ==Description== This is a monster truck version of a 1985 Ford Bronco. ==Versions== The 1985 Ford Bronco has come out in the following 1/64 scale versions: {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- !...\"",
-    "date": "2026-07-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/1985_Ford_Bronco",
     "image": null
   },
   {
