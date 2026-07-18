@@ -1,12 +1,21 @@
 [
   {
-    "id": "rc_790910",
-    "title": "Visa",
-    "summary": "Hot Wheels with Visa Liveries have come out in the following 1/64 scale versions:",
+    "id": "rc_790952",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
     "date": "2026-07-18",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Visa",
-    "image": null
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
+    "id": "rc_790930",
+    "title": "2026 Hot Wheels Legends Tour",
+    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "date": "2026-07-18",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
   },
   {
     "id": "rc_790905",
@@ -101,11 +110,11 @@
   {
     "id": "rc_790769",
     "title": "Legends",
-    "summary": "400px|\nLegends are a sub line of Hot Wheels in the late 90s specifically for the adult collector. As part of the 100% series, these 1/64 casting where issued with much more detail than the regular line-up. Starting in 1996 these sets usually came in sets of 4 cars.",
+    "summary": "/* 4-Car Sets */",
     "date": "2026-07-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Legends",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/05/Legends_Logo.JPG/revision/latest/scale-to-width-down/1200?cb=20220331174951"
+    "image": null
   },
   {
     "id": "rc_790745",
@@ -270,15 +279,6 @@
     "image": null
   },
   {
-    "id": "rc_790603",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* Team Wheels */",
-    "date": "2026-07-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "rc_790489",
     "title": "G-Machines",
     "summary": "/* Unknown Series */",
@@ -402,15 +402,6 @@
     "date": "2026-07-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Oversized",
-    "image": null
-  },
-  {
-    "id": "rc_789864",
-    "title": "Hot Wheels Monster Trucks Big Rigs",
-    "summary": "/* 2025 */",
-    "date": "2026-07-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Big_Rigs",
     "image": null
   },
   {
