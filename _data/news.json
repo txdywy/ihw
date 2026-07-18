@@ -1,6 +1,15 @@
 [
   {
-    "id": "rc_790901",
+    "id": "rc_790910",
+    "title": "Visa",
+    "summary": "Hot Wheels with Visa Liveries have come out in the following 1/64 scale versions:",
+    "date": "2026-07-18",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Visa",
+    "image": null
+  },
+  {
+    "id": "rc_790905",
     "title": "2026 Hot Wheels Boulevard",
     "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
     "date": "2026-07-18",
@@ -101,11 +110,11 @@
   {
     "id": "rc_790745",
     "title": "Legends: Barris Kustom 4-Car Set",
-    "summary": "center|800px\nIn 1998, Hot Wheels commemorated the Legendary custom car shop: Barris Kustoms. Four castings were included based on real-life 'Barris Kustom' vehicles.",
+    "summary": "/* Vehicles */",
     "date": "2026-07-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Legends%3A_Barris_Kustom_4-Car_Set",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/Barris_Kustom_4-Car_Set.JPG/revision/latest/scale-to-width-down/1200?cb=20220127003648"
+    "image": null
   },
   {
     "id": "rc_790725",
