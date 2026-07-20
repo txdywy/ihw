@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_791297",
+    "title": "Supdogg",
+    "summary": "/* 2008 card */",
+    "date": "2026-07-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Supdogg",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Supdog-Art.jpg/revision/latest?cb=20080325031538"
+  },
+  {
+    "id": "rc_791293",
+    "title": "Jaded",
+    "summary": "/* 2008 card */",
+    "date": "2026-07-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Jaded",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Jaded_Mike_Nuttall.jpg/revision/latest?cb=20080329233126"
+  },
+  {
+    "id": "rc_791274",
+    "title": "Austin",
+    "summary": "The Austin Motor Company Limited was a British manufacturer of motor vehicles, founded in 1905 by Herbert Austin in Longbridge. In 1952, it was merged with Morris Motors Limited to form the new holding company British Motor Corporation (BMC) Limited, while retaining its separate identity. The marque Austin was used by BMC's successors, British Leyland and Rover Group, until 1987.",
+    "date": "2026-07-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Austin",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/40/LondonTaxiBlack_loose.jpeg/revision/latest/scale-to-width-down/1200?cb=20240106202423"
+  },
+  {
     "id": "rc_791236",
     "title": "Retro Racers 5-Pack",
     "summary": "The Retro Racers 5-Pack (HTV50) was relased in 2024. All vehicles were made in Indonesia.",
@@ -83,11 +110,11 @@
   {
     "id": "rc_790997",
     "title": "Race Team Crew 5-Pack",
-    "summary": "The Race Team Crew 5-pack was released in 1998. All vehicles were made in Thailand.",
+    "summary": "/* Cars */",
     "date": "2026-07-19",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Race_Team_Crew_5-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/63/18837.jpg/revision/latest?cb=20141202081458"
+    "image": null
   },
   {
     "id": "rc_790974",
@@ -96,16 +123,16 @@
     "date": "2026-07-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Turboa",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/Turboa_YelUH.JPG/revision/latest?cb=20090112010531"
+    "image": null
   },
   {
     "id": "rc_790952",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* Drop Tops */",
     "date": "2026-07-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_790905",
