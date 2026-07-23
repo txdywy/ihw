@@ -460,6 +460,16 @@
     "url": "https://hotwheels.fandom.com/wiki/1963_Ford_Galaxie"
   },
   {
+    "id": "aston_martin_db5_safari_edition",
+    "name": "Aston Martin DB5 Safari Edition",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "HW Dirt",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Aston_Martin_DB5_Safari_Edition"
+  },
+  {
     "id": "ridge_crest_gt",
     "name": "Ridge Crest GT",
     "year": 2026,
@@ -588,15 +598,5 @@
     "image": null,
     "fullImage": null,
     "url": "https://hotwheels.fandom.com/wiki/Subaru_Legacy_GT_(BP)"
-  },
-  {
-    "id": "2025_mercedes-amg_gt_63_pro",
-    "name": "2025 Mercedes-AMG GT 63 PRO",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Car Culture: Deutschland Design",
-    "image": null,
-    "fullImage": null,
-    "url": "https://hotwheels.fandom.com/wiki/2025_Mercedes-AMG_GT_63_PRO"
   }
 ]
