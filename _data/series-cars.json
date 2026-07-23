@@ -300,6 +300,64 @@
     ]
   },
   {
+    "seriesId": "screen_time",
+    "seriesName": "Screen Time",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "Optimus Prime",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/1200?cb=20250120090211",
+        "url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
+      },
+      {
+        "name": "HW K.I.T.T. Concept",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122239",
+        "url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
+      },
+      {
+        "name": "The Simpsons Family Car",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100211",
+        "url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
+      },
+      {
+        "name": "Standard Kart",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest/scale-to-width-down/1200?cb=20210926022809",
+        "url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
+      },
+      {
+        "name": "Spider-Mobile",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101754",
+        "url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
+      },
+      {
+        "name": "'68 Corvette - Gas Monkey Garage",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMGCorvetteC3.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100010",
+        "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage"
+      },
+      {
+        "name": "1970 Custom Plymouth Roadrunner",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner"
+      },
+      {
+        "name": "Party Wagon",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Party_Wagon"
+      },
+      {
+        "name": "Mickey Mouse Car",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car"
+      },
+      {
+        "name": "Nissan Skyline HT 2000GT-X",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_H%2FT_2000GT-X"
+      }
+    ]
+  },
+  {
     "seriesId": "hw_jimports",
     "seriesName": "HW J-Imports",
     "year": 2026,
@@ -706,6 +764,64 @@
     ]
   },
   {
+    "seriesId": "hw_dirt",
+    "seriesName": "HW Dirt",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "El Segundo Rallye",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/ESRallyeDirt.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121220",
+        "url": "https://hotwheels.fandom.com/wiki/El_Segundo_Rallye"
+      },
+      {
+        "name": "Mazda Autozam",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Purplezam.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121240",
+        "url": "https://hotwheels.fandom.com/wiki/Mazda_Autozam"
+      },
+      {
+        "name": "'70 Ford Escort RS1600",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1970Escort.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130204",
+        "url": "https://hotwheels.fandom.com/wiki/'70_Ford_Escort_RS1600"
+      },
+      {
+        "name": "Duck N' Roll",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/JeepN%27Roll.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125245",
+        "url": "https://hotwheels.fandom.com/wiki/Duck_N'_Roll"
+      },
+      {
+        "name": "Lil' Roar",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/2003MiniCooper.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101728",
+        "url": "https://hotwheels.fandom.com/wiki/Lil'_Roar"
+      },
+      {
+        "name": "Hyper Rocker",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/HyperRocker.jpg/revision/latest/scale-to-width-down/1200?cb=20260530095731",
+        "url": "https://hotwheels.fandom.com/wiki/Hyper_Rocker"
+      },
+      {
+        "name": "'21 Ford Bronco",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/2021FordBroncoBigBend.jpg/revision/latest/scale-to-width-down/1200?cb=20260530095943",
+        "url": "https://hotwheels.fandom.com/wiki/'21_Ford_Bronco"
+      },
+      {
+        "name": "2019 Audi TT Safari",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
+      },
+      {
+        "name": "'23 Ram 1500",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/RamTRXSTH.jpg/revision/latest/scale-to-width-down/1200?cb=20260626090436",
+        "url": "https://hotwheels.fandom.com/wiki/'23_Ram_1500"
+      },
+      {
+        "name": "Aston Martin DB5 Safari Edition",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Aston_Martin_DB5_Safari_Edition"
+      }
+    ]
+  },
+  {
     "seriesId": "hw_torque",
     "seriesName": "HW Torque",
     "year": 2026,
@@ -760,112 +876,6 @@
         "name": "Ridge Crest GT",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
-      }
-    ]
-  },
-  {
-    "seriesId": "screen_time",
-    "seriesName": "Screen Time",
-    "year": 2026,
-    "carCount": 9,
-    "cars": [
-      {
-        "name": "Optimus Prime",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/1200?cb=20250120090211",
-        "url": "https://hotwheels.fandom.com/wiki/Optimus_Prime"
-      },
-      {
-        "name": "HW K.I.T.T. Concept",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HWKITTConcept.jpg/revision/latest/scale-to-width-down/1200?cb=20251015122239",
-        "url": "https://hotwheels.fandom.com/wiki/HW_K.I.T.T._Concept"
-      },
-      {
-        "name": "The Simpsons Family Car",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/SimpsonsCar.jpg/revision/latest/scale-to-width-down/1200?cb=20260103100211",
-        "url": "https://hotwheels.fandom.com/wiki/The_Simpsons_Family_Car"
-      },
-      {
-        "name": "Standard Kart",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest/scale-to-width-down/1200?cb=20210926022809",
-        "url": "https://hotwheels.fandom.com/wiki/Standard_Kart"
-      },
-      {
-        "name": "Spider-Mobile",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/SpiderBuggy.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101754",
-        "url": "https://hotwheels.fandom.com/wiki/Spider-Mobile"
-      },
-      {
-        "name": "'68 Corvette - Gas Monkey Garage",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMGCorvetteC3.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100010",
-        "url": "https://hotwheels.fandom.com/wiki/'68_Corvette_-_Gas_Monkey_Garage"
-      },
-      {
-        "name": "1970 Custom Plymouth Roadrunner",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/1970_Custom_Plymouth_Roadrunner"
-      },
-      {
-        "name": "Party Wagon",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Party_Wagon"
-      },
-      {
-        "name": "Mickey Mouse Car",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Mickey_Mouse_Car"
-      }
-    ]
-  },
-  {
-    "seriesId": "hw_dirt",
-    "seriesName": "HW Dirt",
-    "year": 2026,
-    "carCount": 9,
-    "cars": [
-      {
-        "name": "El Segundo Rallye",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/ESRallyeDirt.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121220",
-        "url": "https://hotwheels.fandom.com/wiki/El_Segundo_Rallye"
-      },
-      {
-        "name": "Mazda Autozam",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Purplezam.jpg/revision/latest/scale-to-width-down/1200?cb=20260303121240",
-        "url": "https://hotwheels.fandom.com/wiki/Mazda_Autozam"
-      },
-      {
-        "name": "'70 Ford Escort RS1600",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1970Escort.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130204",
-        "url": "https://hotwheels.fandom.com/wiki/'70_Ford_Escort_RS1600"
-      },
-      {
-        "name": "Duck N' Roll",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/JeepN%27Roll.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125245",
-        "url": "https://hotwheels.fandom.com/wiki/Duck_N'_Roll"
-      },
-      {
-        "name": "Lil' Roar",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/2003MiniCooper.jpg/revision/latest/scale-to-width-down/1200?cb=20260430101728",
-        "url": "https://hotwheels.fandom.com/wiki/Lil'_Roar"
-      },
-      {
-        "name": "Hyper Rocker",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/HyperRocker.jpg/revision/latest/scale-to-width-down/1200?cb=20260530095731",
-        "url": "https://hotwheels.fandom.com/wiki/Hyper_Rocker"
-      },
-      {
-        "name": "'21 Ford Bronco",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/2021FordBroncoBigBend.jpg/revision/latest/scale-to-width-down/1200?cb=20260530095943",
-        "url": "https://hotwheels.fandom.com/wiki/'21_Ford_Bronco"
-      },
-      {
-        "name": "2019 Audi TT Safari",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/2019_Audi_TT_Safari"
-      },
-      {
-        "name": "'23 Ram 1500",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/RamTRXSTH.jpg/revision/latest/scale-to-width-down/1200?cb=20260626090436",
-        "url": "https://hotwheels.fandom.com/wiki/'23_Ram_1500"
       }
     ]
   },
