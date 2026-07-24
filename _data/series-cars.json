@@ -822,6 +822,64 @@
     ]
   },
   {
+    "seriesId": "cool_classics",
+    "seriesName": "Cool Classics",
+    "year": 2026,
+    "carCount": 10,
+    "cars": [
+      {
+        "name": "'64 Lincoln Continental",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/16/LincolnContinental.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130554",
+        "url": "https://hotwheels.fandom.com/wiki/'64_Lincoln_Continental_(2007)"
+      },
+      {
+        "name": "'55 Chevy",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/49/1955ChevyFever.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125452",
+        "url": "https://hotwheels.fandom.com/wiki/'55_Chevy_(2006)"
+      },
+      {
+        "name": "Mod Mill",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/CoolMill.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102252",
+        "url": "https://hotwheels.fandom.com/wiki/Mod_Mill"
+      },
+      {
+        "name": "Alfa Romeo Giulia TI Super",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_Giulia_TI_Super"
+      },
+      {
+        "name": "Project Twin Mill",
+        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/ProjectTwinMill.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100130",
+        "url": "https://hotwheels.fandom.com/wiki/Project_Twin_Mill"
+      },
+      {
+        "name": "'71 Lamborghini Miura SV",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'71_Lamborghini_Miura_SV"
+      },
+      {
+        "name": "'66 Buick Riviera",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'66_Buick_Riviera"
+      },
+      {
+        "name": "1963 Ford Galaxie",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/1963_Ford_Galaxie"
+      },
+      {
+        "name": "'67 Pontiac Firebird 400",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/'67_Pontiac_Firebird_400"
+      },
+      {
+        "name": "Porsche 908-3",
+        "image": null,
+        "url": "https://hotwheels.fandom.com/wiki/Porsche_908-3"
+      }
+    ]
+  },
+  {
     "seriesId": "hw_torque",
     "seriesName": "HW Torque",
     "year": 2026,
@@ -876,54 +934,6 @@
         "name": "Ridge Crest GT",
         "image": null,
         "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
-      }
-    ]
-  },
-  {
-    "seriesId": "cool_classics",
-    "seriesName": "Cool Classics",
-    "year": 2026,
-    "carCount": 8,
-    "cars": [
-      {
-        "name": "'64 Lincoln Continental",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/1/16/LincolnContinental.jpg/revision/latest/scale-to-width-down/1200?cb=20260311130554",
-        "url": "https://hotwheels.fandom.com/wiki/'64_Lincoln_Continental_(2007)"
-      },
-      {
-        "name": "'55 Chevy",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/4/49/1955ChevyFever.jpg/revision/latest/scale-to-width-down/1200?cb=20260410125452",
-        "url": "https://hotwheels.fandom.com/wiki/'55_Chevy_(2006)"
-      },
-      {
-        "name": "Mod Mill",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/CoolMill.jpg/revision/latest/scale-to-width-down/1200?cb=20260430102252",
-        "url": "https://hotwheels.fandom.com/wiki/Mod_Mill"
-      },
-      {
-        "name": "Alfa Romeo Giulia TI Super",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_Giulia_TI_Super"
-      },
-      {
-        "name": "Project Twin Mill",
-        "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/ProjectTwinMill.jpg/revision/latest/scale-to-width-down/1200?cb=20260530100130",
-        "url": "https://hotwheels.fandom.com/wiki/Project_Twin_Mill"
-      },
-      {
-        "name": "'71 Lamborghini Miura SV",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/'71_Lamborghini_Miura_SV"
-      },
-      {
-        "name": "'66 Buick Riviera",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/'66_Buick_Riviera"
-      },
-      {
-        "name": "1963 Ford Galaxie",
-        "image": null,
-        "url": "https://hotwheels.fandom.com/wiki/1963_Ford_Galaxie"
       }
     ]
   },

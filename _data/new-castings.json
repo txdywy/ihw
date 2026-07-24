@@ -480,6 +480,26 @@
     "url": "https://hotwheels.fandom.com/wiki/Ridge_Crest_GT"
   },
   {
+    "id": "custom_vanster",
+    "name": "Custom Vanster",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Trophy Case",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Custom_Vanster"
+  },
+  {
+    "id": "porsche_908-3",
+    "name": "Porsche 908-3",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Cool Classics",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/Porsche_908-3"
+  },
+  {
     "id": "1999_subaru_impreza",
     "name": "1999 Subaru Impreza",
     "year": 2026,
@@ -578,25 +598,5 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/3/34/KaidoGT-R.jpg/revision/latest/scale-to-width-down/1200?cb=20260702081646",
     "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/3/34/KaidoGT-R.jpg/revision/latest?cb=20260702081646",
     "url": "https://hotwheels.fandom.com/wiki/LB-Kaido_Works_Nissan_R32_Skyline_GT-R"
-  },
-  {
-    "id": "2008_audi_a4_touring_car",
-    "name": "2008 Audi A4 Touring Car",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Car Culture: Aerostyles",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/66/AudiA4DTM.jpg/revision/latest/scale-to-width-down/1200?cb=20260702081713",
-    "fullImage": "https://static.wikia.nocookie.net/hotwheels/images/6/66/AudiA4DTM.jpg/revision/latest?cb=20260702081713",
-    "url": "https://hotwheels.fandom.com/wiki/2008_Audi_A4_Touring_Car"
-  },
-  {
-    "id": "land_rover_s2",
-    "name": "Land Rover S2",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Car Culture: Road Trip",
-    "image": null,
-    "fullImage": null,
-    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_S2"
   }
 ]
