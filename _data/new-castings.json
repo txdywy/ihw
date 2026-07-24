@@ -500,6 +500,16 @@
     "url": "https://hotwheels.fandom.com/wiki/'01_Toyota_Celica"
   },
   {
+    "id": "unsc_m12_warthog",
+    "name": "UNSC M12 Warthog",
+    "year": 2026,
+    "designer": null,
+    "firstSeries": "Mattel Brick Shop",
+    "image": null,
+    "fullImage": null,
+    "url": "https://hotwheels.fandom.com/wiki/UNSC_M12_Warthog"
+  },
+  {
     "id": "'77_toyota_celica",
     "name": "'77 Toyota Celica",
     "year": 2026,
@@ -588,15 +598,5 @@
     "image": null,
     "fullImage": null,
     "url": "https://hotwheels.fandom.com/wiki/Land_Rover_S2"
-  },
-  {
-    "id": "subaru_legacy_gt_(bp)",
-    "name": "Subaru Legacy GT (BP)",
-    "year": 2026,
-    "designer": null,
-    "firstSeries": "Car Culture: Road Trip",
-    "image": null,
-    "fullImage": null,
-    "url": "https://hotwheels.fandom.com/wiki/Subaru_Legacy_GT_(BP)"
   }
 ]

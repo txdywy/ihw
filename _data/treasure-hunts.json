@@ -295,5 +295,27 @@
     "image": null,
     "url": "https://hotwheels.fandom.com/wiki/Fast_Fish",
     "type": "regular"
+  },
+  {
+    "id": "th_2026_nissan_skyline_ht_2000gt_x",
+    "name": "Nissan Skyline HT 2000GT-X",
+    "year": 2026,
+    "series": "Screen Time",
+    "toyNumber": "JJM13",
+    "description": "Nissan Skyline HT 2000GT-X — Malaysia",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_H%2FT_2000GT-X",
+    "type": "regular"
+  },
+  {
+    "id": "th_2026_gazella_gt",
+    "name": "Gazella GT",
+    "year": 2026,
+    "series": "Trophy Case",
+    "toyNumber": "JJM14",
+    "description": "Gazella GT — Malaysia",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/Gazella_GT",
+    "type": "regular"
   }
 ]
