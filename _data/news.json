@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_792422",
+    "title": "Bass Boat",
+    "summary": "Undo revision 792377 by RetroAsurada (talk)not one hit wonder, this category is for castings released only once. this one here was released several times",
+    "date": "2026-07-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Bass_Boat",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Bass_12.jpg/revision/latest?cb=20210803021322"
+  },
+  {
+    "id": "rc_792413",
+    "title": "Best in Class Mini Collection (2027)",
+    "summary": "Category:Hot Wheels by Series\nCategory:Mainline Segment\nCategory:Best in Class Series\nCategory:2027 Hot Wheels",
+    "date": "2026-07-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Best_in_Class_Mini_Collection_(2027)",
+    "image": null
+  },
+  {
     "id": "rc_792388",
     "title": "2027 Collector Edition",
     "summary": "Category:2027 Hot Wheels\nCategory:Mail-in Promotions\nCategory:Hot Wheels by Series",
@@ -92,20 +110,20 @@
   {
     "id": "rc_792118",
     "title": "2026 Treasure Hunts Series",
-    "summary": "This is a list of Treasure Hunts from 2026.",
+    "summary": "/* 2026 Super Treasure Hunts */",
     "date": "2026-07-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+    "image": null
   },
   {
     "id": "rc_792114",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "/* Cool Classics */",
     "date": "2026-07-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_792057",
@@ -333,12 +351,12 @@
     "image": null
   },
   {
-    "id": "search_189673",
-    "title": "Fast & Furious: Dream Lineup Series (2026)",
-    "summary": "Latest Hot Wheels information: Fast & Furious: Dream Lineup Series (2026)",
-    "date": "2026-04-15",
+    "id": "search_185581",
+    "title": "2026 New Models",
+    "summary": "Latest Hot Wheels information: 2026 New Models",
+    "date": "2026-07-24",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious%3A_Dream_Lineup_Series_(2026)",
+    "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
     "image": null
   },
   {
@@ -360,21 +378,21 @@
     "image": null
   },
   {
-    "id": "search_189648",
-    "title": "European Car Culture Themed Multipack (2026)",
-    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
-    "date": "2026-07-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
-    "image": null
-  },
-  {
     "id": "search_51374",
     "title": "Car Culture",
     "summary": "Latest Hot Wheels information: Car Culture",
     "date": "2025-08-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
+    "image": null
+  },
+  {
+    "id": "search_189648",
+    "title": "European Car Culture Themed Multipack (2026)",
+    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
+    "date": "2026-07-22",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
     "image": null
   },
   {
