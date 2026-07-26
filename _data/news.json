@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_792451",
+    "title": "Hot Wheels 500",
+    "summary": "I think you didnt use the |",
+    "date": "2026-07-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_500",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/Hot_Wheels_500_Blu.JPG/revision/latest?cb=20090207022900"
+  },
+  {
     "id": "rc_792422",
     "title": "Bass Boat",
     "summary": "Undo revision 792377 by RetroAsurada (talk)not one hit wonder, this category is for castings released only once. this one here was released several times",
@@ -101,11 +110,11 @@
   {
     "id": "rc_792119",
     "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "summary": "/* Mainline */",
     "date": "2026-07-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+    "image": null
   },
   {
     "id": "rc_792118",
