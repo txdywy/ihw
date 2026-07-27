@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_792729",
+    "title": "List of 2020 Hot Wheels new castings",
+    "summary": "Category:2020 Hot Wheels\nCategory:New Castings",
+    "date": "2026-07-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2020_Hot_Wheels_new_castings",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/2JetZ.2020_New_Model._Front_Pers.jpg/revision/latest/scale-to-width-down/1200?cb=20191103190744"
+  },
+  {
+    "id": "rc_792725",
+    "title": "Disney Character Cars",
+    "summary": "The Disney Character Cars is a series of Character Cars with appearances based on Disney characters. The series began in 2018 and featured six vehicles, but has since expanded significantly.",
+    "date": "2026-07-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Disney_Character_Cars",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/MickeyMouse.jpg/revision/latest?cb=20190203232048"
+  },
+  {
+    "id": "rc_792711",
+    "title": "Chaparral Cars",
+    "summary": "Chaparral Cars was an American automobile racing team and race car developer that engineered, built, and raced cars from 1963 through 1970. Founded in 1962 by American Formula One racers Hap Sharp and Jim Hall, it was named after the roadrunner, a fast-running ground cuckoo also known as a chaparral bird....",
+    "date": "2026-07-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Chaparral_Cars",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/WchapralRedLF4.JPG/revision/latest?cb=20130527223324"
+  },
+  {
     "id": "rc_792619",
     "title": "Blimp",
     "summary": "Removed duplicate Racing Card, I think it was supposed to be the Citgo version",
@@ -96,7 +123,7 @@
     "date": "2026-07-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/LB-ER34_Super_Silhouette_Nissan_Skyline",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/LBR34.jpg/revision/latest/scale-to-width-down/1200?cb=20220420140026"
+    "image": null
   },
   {
     "id": "rc_792272",
@@ -105,7 +132,7 @@
     "date": "2026-07-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Bird",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Hot_Bird_-_78_Flying_Colors.jpg/revision/latest?cb=20090621041550"
+    "image": null
   },
   {
     "id": "rc_792185",
@@ -333,33 +360,6 @@
     "image": null
   },
   {
-    "id": "rc_791723",
-    "title": "Hot Wheels: Turbo Racing",
-    "summary": "/* Playable Vehicles */",
-    "date": "2026-07-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Turbo_Racing",
-    "image": null
-  },
-  {
-    "id": "rc_791714",
-    "title": "T-Bird Stocker (McDonald's, 2019)",
-    "summary": "Created page with \" ==Description== The T-Bird Stocker is a design that first debuted under the McDonald's: 40 Years of Happy Meals promotion in 2019. It is an entirely different casting from the previous T-Bird Stocker released under McDonald's and the original T-Bird Stocker...\"",
-    "date": "2026-07-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/T-Bird_Stocker_(McDonald's%2C_2019)",
-    "image": null
-  },
-  {
-    "id": "rc_791655",
-    "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "Enlarged TAIL DRAGGER image sizing format",
-    "date": "2026-07-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": null
-  },
-  {
     "id": "search_185871",
     "title": "2026 Hot Wheels Monster Trucks",
     "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
@@ -408,7 +408,7 @@
     "id": "search_184597",
     "title": "2026 Car Culture: Team Transport",
     "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-07-24",
+    "date": "2026-07-27",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
     "image": null
