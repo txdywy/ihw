@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_792619",
+    "title": "Blimp",
+    "summary": "Removed duplicate Racing Card, I think it was supposed to be the Citgo version",
+    "date": "2026-07-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Blimp",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/Goodyear_Blimp_-_01881ef.jpg/revision/latest/scale-to-width-down/1200?cb=20100805141646"
+  },
+  {
     "id": "rc_792502",
     "title": "List of 2015 Hot Wheels new castings",
     "summary": "Category:2015 Hot Wheels\nCategory:New Castings",
@@ -101,11 +110,11 @@
   {
     "id": "rc_792185",
     "title": "34th Annual Hot Wheels Collectors Convention",
-    "summary": "The 34th Annual Hot Wheels Collectors Convention was due to take place October 7 to 11, 2020 in Los Angeles, California, but was cancelled due to the COVID-19 pandemic. The guest of honor at the Convention was intended to be Steve Vandervate. 308x308px\nThe following vehicles were released for the 34th Annual Hot Wheels Collectors Convention:",
+    "summary": "/* Gallery */",
     "date": "2026-07-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/34th_Annual_Hot_Wheels_Collectors_Convention",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/34thCollCon.jpg/revision/latest/scale-to-width-down/1200?cb=20210301051528"
+    "image": null
   },
   {
     "id": "rc_792175",
