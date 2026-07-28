@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_792850",
+    "title": "DMC",
+    "summary": "The DeLorean Motor Company (DMC) was an American automobile manufacturer formed by automobile industry executive John DeLorean in 1975. It produced just one model, from early 1981 to late 1982—the stainless steel DeLorean sports car featuring gull-wing doors. Its history was brief and turbulent, ending in receivership and bankruptcy in 1982.",
+    "date": "2026-07-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/DMC",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/02/20180521_183302.jpg/revision/latest/scale-to-width-down/1200?cb=20180521164117"
+  },
+  {
     "id": "rc_792796",
     "title": "List of 2018 Hot Wheels new castings",
     "summary": "Category:2018 Hot Wheels\nCategory:New Castings",
@@ -105,7 +114,7 @@
     "date": "2026-07-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_500",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/Hot_Wheels_500_Blu.JPG/revision/latest?cb=20090207022900"
+    "image": null
   },
   {
     "id": "rc_792422",
@@ -297,15 +306,6 @@
     "image": null
   },
   {
-    "id": "rc_791848",
-    "title": "School Bus",
-    "summary": "Added LEO table. I don't own any of these so I'm going by the pics for window and interior color, please correct. From the few Brian and Anna pics I can find, I can't tell if the country is on the base. Also looks like they are generally from the early 90's, seems to be the timeframe for the premium cards.",
-    "date": "2026-07-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/School_Bus",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -342,6 +342,15 @@
     "image": null
   },
   {
+    "id": "search_186448",
+    "title": "2026 Fast & Furious Premium Series",
+    "summary": "Latest Hot Wheels information: 2026 Fast & Furious Premium Series",
+    "date": "2026-07-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Fast_%26_Furious_Premium_Series",
+    "image": null
+  },
+  {
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
@@ -354,7 +363,7 @@
     "id": "search_184597",
     "title": "2026 Car Culture: Team Transport",
     "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-07-27",
+    "date": "2026-07-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
     "image": null
