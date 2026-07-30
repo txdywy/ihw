@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_793154",
+    "title": "1996 Mustang GT",
+    "summary": "1997 ShortCard 18604",
+    "date": "2026-07-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/1996_Mustang_GT",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/96_Mustang_Red7Spk.JPG/revision/latest?cb=20090315001201"
+  },
+  {
     "id": "rc_793131",
     "title": "Hot Wheels: Stunt Track Driver",
     "summary": "Stunt Track Driver is a video game developed by Semi Logic Entertainments and Good Chicken Games while being published by Mattel Media. It was released on October 15th, 1998 for Windows and Game Boy Color. This game is notable for being one of the first Hot Wheels games allowing you to race the cars, being based on the Track System sets.",
@@ -101,11 +110,11 @@
   {
     "id": "rc_792742",
     "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "summary": "/* Elite 64 */",
     "date": "2026-07-27",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+    "image": null
   },
   {
     "id": "rc_792729",
@@ -243,15 +252,6 @@
     "image": null
   },
   {
-    "id": "rc_792185",
-    "title": "34th Annual Hot Wheels Collectors Convention",
-    "summary": "/* Gallery */",
-    "date": "2026-07-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/34th_Annual_Hot_Wheels_Collectors_Convention",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -315,21 +315,21 @@
     "image": null
   },
   {
-    "id": "search_51374",
-    "title": "Car Culture",
-    "summary": "Latest Hot Wheels information: Car Culture",
-    "date": "2025-08-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
-    "image": null
-  },
-  {
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
     "date": "2026-07-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
+    "image": null
+  },
+  {
+    "id": "search_51374",
+    "title": "Car Culture",
+    "summary": "Latest Hot Wheels information: Car Culture",
+    "date": "2025-08-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Car_Culture",
     "image": null
   },
   {
