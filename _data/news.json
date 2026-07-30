@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_793162",
+    "title": "Cabriolet Series (1997)",
+    "summary": "Mazda fixed to link to correct page, Previously was connected to a 2025 die/tool/casting • connected now to Mazda MX-5 Miata (1991)/ Mazda MX5",
+    "date": "2026-07-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Cabriolet_Series_(1997)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/1997_18604_ShortCard_%2796_Mustang_WHT_r1T.jpg/revision/latest/scale-to-width-down/1200?cb=20260730071010"
+  },
+  {
     "id": "rc_793154",
     "title": "1996 Mustang GT",
     "summary": "1997 ShortCard 18604",
@@ -101,11 +110,11 @@
   {
     "id": "rc_792775",
     "title": "Hot Wheels Unleashed",
-    "summary": "Hot Wheels Unleashed is a 2021 racing video game developed and published by Milestone. The game was released on 30 September 2021 for the Xbox Series X/S, Xbox One, PlayStation 5, PlayStation 4, Nintendo Switch, Microsoft Windows, Amazon Luna and Google Stadia. A sequel to this game, Hot Wheels Unleashed 2: Turbocharged, was released on 19 October 2023.",
+    "summary": "/* Single Vehicles */",
     "date": "2026-07-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Unleashed",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Twin_Mill_Gameplay.png/revision/latest/scale-to-width-down/1200?cb=20231004170313"
+    "image": null
   },
   {
     "id": "rc_792742",
