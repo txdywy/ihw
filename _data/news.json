@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_793192",
+    "title": "Design Team",
+    "summary": "Hot Wheels's design team (colloquially known as the Hot Wheels Dream Team) comprises of casting designers, graphic designers and packaging designers.",
+    "date": "2026-07-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Design_Team",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/80/CharlieAngulo.jpg/revision/latest?cb=20241113120522"
+  },
+  {
     "id": "rc_793162",
     "title": "Cabriolet Series (1997)",
     "summary": "Mazda fixed to link to correct page, Previously was connected to a 2025 die/tool/casting • connected now to Mazda MX-5 Miata (1991)/ Mazda MX5",
@@ -101,11 +110,11 @@
   {
     "id": "rc_792792",
     "title": "2018 Replica Entertainment",
-    "summary": "Category:Replica Entertainment\nCategory:2018 Hot Wheels",
+    "summary": "/* Single Release */",
     "date": "2026-07-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2018_Replica_Entertainment",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/The_Beatles_Yellow_Submarine-HW_2018-Entertainment_Series-Mix_A.jpg/revision/latest/scale-to-width-down/1200?cb=20180528034714"
+    "image": null
   },
   {
     "id": "rc_792775",
@@ -198,69 +207,6 @@
     "image": null
   },
   {
-    "id": "rc_792422",
-    "title": "Bass Boat",
-    "summary": "Undo revision 792377 by RetroAsurada (talk)not one hit wonder, this category is for castings released only once. this one here was released several times",
-    "date": "2026-07-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Bass_Boat",
-    "image": null
-  },
-  {
-    "id": "rc_792413",
-    "title": "Best in Class Mini Collection (2027)",
-    "summary": "Created page with \"{| class=\"wikitable sortable\" style=\"font-size: 100%; text-align: left;\" width=\"100%\" ! style=\"border-style: none none solid solid; background:\" |Toy # ! style=\"border-style: none none solid solid; background:\" |Col. # ! style=\"border-style: none none solid solid; background:\" |Casting ! style=\"border-style: none none solid solid; background:\" |Notes !...",
-    "date": "2026-07-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Best_in_Class_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_792388",
-    "title": "2027 Collector Edition",
-    "summary": "Created page with \"==Vehicles== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; |Toy # ! style=\"border-style: none none solid solid; |Casting Name ! style=\"border-style: none none solid solid; |Color ! style=\"border-style: none none solid solid; |Tampo ! style=\"border-style: none none solid solid; |Wheel Type !...",
-    "date": "2026-07-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Collector_Edition",
-    "image": null
-  },
-  {
-    "id": "rc_792383",
-    "title": "Hot Wheels Infinite Rush",
-    "summary": "/* Cars Featured */",
-    "date": "2026-07-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": null
-  },
-  {
-    "id": "rc_792334",
-    "title": "Ravenger S/T (Superstar Speeders)",
-    "summary": "Created page with \" ==Description== This is a version of Ravenger S/T adapted to fit a figure of a character. All releases feature a figure of Superman. ==Versions== The Ravenger S/T has come out in the following 1/64 scale versions: {| style=\"font-size: 85%; text-align: left;\" class=\"wikitable sort...\"",
-    "date": "2026-07-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Ravenger_S%2FT_(Superstar_Speeders)",
-    "image": null
-  },
-  {
-    "id": "rc_792332",
-    "title": "LB-ER34 Super Silhouette Nissan Skyline",
-    "summary": "Car Culture: Aerostyles 0/5",
-    "date": "2026-07-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/LB-ER34_Super_Silhouette_Nissan_Skyline",
-    "image": null
-  },
-  {
-    "id": "rc_792272",
-    "title": "Hot Bird",
-    "summary": "The date tracks for the Firebird Funny Car (1982) page",
-    "date": "2026-07-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Bird",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -282,7 +228,7 @@
     "id": "search_185583",
     "title": "List of 2026 Hot Wheels (by Series)",
     "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
