@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_794361",
+    "title": "Hot Wheels Haulers",
+    "summary": "Haulers was a series of trucks released from 1997 to 2002. This series was produced by ARCO Toys until at least 2000 when any mention of ARCO Toys was dropped from packaging. Some castings were also used in playsets and Super Race Rigs packs.",
+    "date": "2026-08-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Haulers",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Hauler_Good_%26_Plenty_Turck.jpg/revision/latest/scale-to-width-down/1200?cb=20190226171714"
+  },
+  {
+    "id": "rc_794350",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-08-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+  },
+  {
     "id": "rc_794287",
     "title": "Mazda RX-7 Liberty Walk",
     "summary": "/* Card description */",
@@ -92,20 +110,20 @@
   {
     "id": "rc_793792",
     "title": "2004 ZAMAC First Editions",
-    "summary": "In 2004, a selection of the 100 First Editions for the year were released as unpainted 'ZAMAC' models. These were a Toys R Us exclusive, although some also appeared at Target. The Splittin' Image ('Tooned) & Bedlam are the only cars (and only ZAMAC) to have Grey Plastic bodies instead of Unpainted Metal bodies.",
+    "summary": "/* Convention Vehicles */",
     "date": "2026-08-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2004_ZAMAC_First_Editions",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/2004zamac001g.jpg/revision/latest?cb=20220105223231"
+    "image": null
   },
   {
     "id": "rc_793777",
     "title": "Hot Wheels: Beat That!",
-    "summary": "Hot Wheels: Beat That! is a racing video game released in September 2007 and based on the Hot Wheels toy line manufactured by Mattel. The game was developed by Eutechnyx and published by Activision.",
+    "summary": "/* Trivia */",
     "date": "2026-08-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Beat_That!",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/HWBTBrutalistic.jpg/revision/latest?cb=20150710234736"
+    "image": null
   },
   {
     "id": "rc_793742",
