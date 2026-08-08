@@ -115,5 +115,23 @@
     "saleDate": "28 July 2026",
     "image": null,
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026__21_ford_bronco",
+    "name": "'21 Ford Bronco",
+    "year": 2026,
+    "color": "Spectraflame bright red",
+    "saleDate": "11 August 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026__21_ford_bronco",
+    "name": "'21 Ford Bronco",
+    "year": 2026,
+    "color": null,
+    "saleDate": "11 August 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
   }
 ]
