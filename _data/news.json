@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_795807",
+    "title": "2020 Hot Wheels Boulevard",
+    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "date": "2026-08-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2020_Hot_Wheels_Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/GJT71_Bone_Shaker.jpg/revision/latest/scale-to-width-down/1200?cb=20200203051455"
+  },
+  {
     "id": "rc_795779",
     "title": "2025 Hot Wheels Boulevard",
     "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
@@ -101,11 +110,11 @@
   {
     "id": "rc_795432",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "Looks more uniform when all the models are facing the same direction.",
     "date": "2026-08-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_795366",
@@ -249,24 +258,6 @@
     "date": "2026-08-06",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Armored_Batmobile",
-    "image": null
-  },
-  {
-    "id": "rc_794881",
-    "title": "Honda Civic Si (2006)",
-    "summary": "fixed the 2007 code car lines",
-    "date": "2026-08-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Honda_Civic_Si_(2006)",
-    "image": null
-  },
-  {
-    "id": "rc_794880",
-    "title": "Hot Wheels XL",
-    "summary": "Undo revision 794879 by Lamborghini Sian (talk)",
-    "date": "2026-08-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
     "image": null
   },
   {
