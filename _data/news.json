@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_795779",
+    "title": "2025 Hot Wheels Boulevard",
+    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "date": "2026-08-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Project935X.jpg/revision/latest/scale-to-width-down/1200?cb=20250119123805"
+  },
+  {
+    "id": "rc_795769",
+    "title": "Car & Track Starter Pack (Track Creator)",
+    "summary": "Created page with \" == Description == The Car & Track Starter Pack is a Hot Wheels accessory pack that contains Night Shifter, seven 12-inch (30.5 cm) molded track pieces, three 12-inch (30.5 cm) flex track pieces, and two adapter pieces to connect to older Track Builder track pieces, with one piece each for the peg and s...\"",
+    "date": "2026-08-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Car_%26_Track_Starter_Pack_(Track_Creator)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/73/JBJ75NS.jpg/revision/latest/scale-to-width-down/1200?cb=20241128155211"
+  },
+  {
     "id": "rc_795721",
     "title": "Leeway Chang",
     "summary": "Leeway Chang is a Hot Wheels staff designer specializing in graphics design who has worked at Mattel since 2007. Born in Taiwan, but spent most of his childhood in Latin America, Leeway traveled extensively before he settled in Southern California....",
@@ -92,11 +110,11 @@
   {
     "id": "rc_795366",
     "title": "Action Cycles",
-    "summary": "Action Cycles was a series of larger-scale (approximately 1:12-1:18 scale) Hot Wheels motorcycles produced from 1987 to about 1997/98, initially under the Hot Wheels Giants line. These were a series of Hot Wheels cars which featured clockwork motors which could be activated by pulling back and releasing, akin to many other clockwork toy cars....",
+    "summary": "just to be safe, I believe in the Neon Bright series each model had 2 variants. For Bike 4, we already have the two variants listed and I cannot find a green version.",
     "date": "2026-08-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Action_Cycles",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Action_Cycles_BIKE_IMAGE.jpg/revision/latest?cb=20260531235829"
+    "image": null
   },
   {
     "id": "rc_795319",
@@ -105,7 +123,7 @@
     "date": "2026-08-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Dodge_Viper_SRT10_ACR_(Hot_Wheels_XL)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/ViperSRTACRXL1.png/revision/latest/scale-to-width-down/1200?cb=20260619152001"
+    "image": null
   },
   {
     "id": "rc_795276",
@@ -252,15 +270,6 @@
     "image": null
   },
   {
-    "id": "rc_794854",
-    "title": "Hot Wheels",
-    "summary": "Replaced content with \"\"",
-    "date": "2026-08-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -375,15 +384,6 @@
     "date": "2024-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_169010",
-    "title": "2025 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
-    "date": "2026-07-15",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
