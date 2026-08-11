@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_795975",
+    "title": "RD-05",
+    "summary": "not RD-05, names were swapped for cards",
+    "date": "2026-08-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/RD-05",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/RD-05_Jun_Imai.jpg/revision/latest?cb=20080405033304"
+  },
+  {
     "id": "rc_795904",
     "title": "Spine Buster",
     "summary": "The characters of Acceleracers Series don't directly reference the Spinebuster casting itself. It would be better to add it to the Acceleracers page.",
@@ -105,7 +114,7 @@
     "date": "2026-08-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'40_Ford_Coupe",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/40_Ford_Coupe.JPG/revision/latest?cb=20091018135934"
+    "image": null
   },
   {
     "id": "rc_795640",
