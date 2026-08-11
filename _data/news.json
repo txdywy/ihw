@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_796111",
+    "title": "Ferrari F40 (RLC)",
+    "summary": "Created page with \" ==Description== The Ferrari F40 (Type F120) is a mid-engine, rear-wheel drive sports car engineered by Nicola Materazzi with styling by Pininfarina. It was built from 1987 until 1993, with the LM, Competizione and GTE race car versions continuing production from 1994 to 1996 respectively...\"",
+    "date": "2026-08-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_F40_(RLC)",
+    "image": null
+  },
+  {
+    "id": "rc_796082",
+    "title": "HW J-Imports Mini Collection (2026)",
+    "summary": "A dream collection of Japanese Domestic Market vehicles. Category:2026 Hot Wheels\nCategory:Hot Wheels by Series\nCategory:Mainline Segment\nCategory:HW J-Imports Series",
+    "date": "2026-08-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_J-Imports_Mini_Collection_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/ToyotaPriusCustom.jpg/revision/latest/scale-to-width-down/1200?cb=20251216105344"
+  },
+  {
+    "id": "rc_796024",
+    "title": "Kenworth",
+    "summary": "Kenworth Truck Company is an American truck manufacturer. Founded in 1923 as the successor to Gersix Motor Company, Kenworth specializes in production of heavy-duty (Class 8) and medium-duty (Class 5–7) commercial vehicles....",
+    "date": "2026-08-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Kenworth",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Kenworth_Van-24687_4.jpg/revision/latest/scale-to-width-down/1200?cb=20151015060418"
+  },
+  {
+    "id": "rc_796020",
+    "title": "Kawasaki",
+    "summary": "Kawasaki Motors, Ltd. (カワサキモータース株式会社, Kawasaki Mōtāsu Kabushikigaisha) is a Japanese mobility manufacturer that produces motorcycles, all-terrain vehicles, utility vehicles, watercraft, outboard motors, and other electric products. It derives its origins from Kawasaki Aerospace Systems, a subsidiary of Kawasaki Heavy Industries, and is rooted in the motorcycle, boat, and engine businesses.",
+    "date": "2026-08-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Kawasaki",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/SideMachine.jpg/revision/latest/scale-to-width-down/1200?cb=20230402142735"
+  },
+  {
     "id": "rc_795975",
     "title": "RD-05",
     "summary": "not RD-05, names were swapped for cards",
@@ -74,20 +110,20 @@
   {
     "id": "rc_795807",
     "title": "2020 Hot Wheels Boulevard",
-    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "summary": "Reverted edit by HobbyDiecast35 (talk) to last revision by Kaytron22",
     "date": "2026-08-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2020_Hot_Wheels_Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/GJT71_Bone_Shaker.jpg/revision/latest/scale-to-width-down/1200?cb=20200203051455"
+    "image": null
   },
   {
     "id": "rc_795779",
     "title": "2025 Hot Wheels Boulevard",
-    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "summary": "/* Mix 4 */",
     "date": "2026-08-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Project935X.jpg/revision/latest/scale-to-width-down/1200?cb=20250119123805"
+    "image": null
   },
   {
     "id": "rc_795769",
@@ -96,16 +132,16 @@
     "date": "2026-08-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Car_%26_Track_Starter_Pack_(Track_Creator)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/73/JBJ75NS.jpg/revision/latest/scale-to-width-down/1200?cb=20241128155211"
+    "image": null
   },
   {
     "id": "rc_795721",
     "title": "Leeway Chang",
-    "summary": "Leeway Chang is a Hot Wheels staff designer specializing in graphics design who has worked at Mattel since 2007. Born in Taiwan, but spent most of his childhood in Latin America, Leeway traveled extensively before he settled in Southern California....",
+    "summary": "/* 1/64 Scale Casting Designs */",
     "date": "2026-08-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Leeway_Chang",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/LeewayChang.png/revision/latest?cb=20210608133553"
+    "image": null
   },
   {
     "id": "rc_795713",
@@ -216,33 +252,6 @@
     "image": null
   },
   {
-    "id": "rc_795146",
-    "title": "Hot Wheels Elite 1:18 Scale",
-    "summary": "/* 2014 */",
-    "date": "2026-08-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_1%3A18_Scale",
-    "image": null
-  },
-  {
-    "id": "rc_795143",
-    "title": "Rescue Rods 5-Pack (2001)",
-    "summary": "/* Cars */",
-    "date": "2026-08-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Rescue_Rods_5-Pack_(2001)",
-    "image": null
-  },
-  {
-    "id": "rc_795136",
-    "title": "HW Warp Speeder",
-    "summary": "Added image",
-    "date": "2026-08-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Warp_Speeder",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -282,7 +291,7 @@
     "id": "search_195352",
     "title": "2026 HWC/RLC Releases",
     "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
-    "date": "2026-08-07",
+    "date": "2026-08-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
@@ -306,21 +315,21 @@
     "image": null
   },
   {
-    "id": "search_196499",
-    "title": "Steve Vandervate/2026 designs",
-    "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
-    "date": "2026-07-31",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
-    "image": null
-  },
-  {
     "id": "search_184597",
     "title": "2026 Car Culture: Team Transport",
     "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
     "date": "2026-07-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
+    "image": null
+  },
+  {
+    "id": "search_196499",
+    "title": "Steve Vandervate/2026 designs",
+    "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
+    "date": "2026-08-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
     "image": null
   },
   {
