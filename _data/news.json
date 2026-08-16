@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_796952",
+    "title": "Sweet Driver",
+    "summary": "Anybody Know what the card change is on Cards ?",
+    "date": "2026-08-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Sweet_Driver",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/SweetDriver.jpg/revision/latest/scale-to-width-down/1200?cb=20211122061255"
+  },
+  {
+    "id": "rc_796948",
+    "title": "Nissan 350Z Custom",
+    "summary": "Changed the listed colour to gloss gray for the premium releases of this car, \"flat\" is a completely non-reflective finish which is not accurate",
+    "date": "2026-08-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Nissan_350Z_Custom",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/2003Nissan350ZVeilSide.jpg/revision/latest/scale-to-width-down/1200?cb=20240821122631"
+  },
+  {
+    "id": "rc_796935",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-08-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+  },
+  {
     "id": "rc_796866",
     "title": "Hot Wheels Garage (2010)",
     "summary": "Released in 2010, the Hot Wheels Garage succeeded the 2009 Larry's Garage line after Larry Wood retired from Mattel in 2009. Larry still had his own cars in the line in 2010, but was joined that year by fellow designer Phil Riehlman and graphics guru Wayne Scott. The 2010 series had eight new castings.",
@@ -83,11 +110,11 @@
   {
     "id": "rc_796421",
     "title": "Steering Rigs",
-    "summary": "Hot Wheels Steering Rigs was a line of detailed semi tractor and trailer sets that were released in 1981 and 1982. On the back of the trailer, there was a large wheel on top which could be used to steer the rig. See detail below:\n200px|left|thumb|Steering wheel detail.150px\n200px\nThey were produced in two locations: Hong Kong and France.",
+    "summary": "Woops the Super Hot Wheels Italy is not Steering regs its the Tramsporters without the Steering mechanism Super Hpt Wheels Road Hawks line/series. Removed it from see also",
     "date": "2026-08-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Steering_Rigs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/Steering_Rig_Detail_-_7617cf.jpg/revision/latest/scale-to-width-down/1200?cb=20090306083104"
+    "image": null
   },
   {
     "id": "rc_796367",
@@ -96,7 +123,7 @@
     "date": "2026-08-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Dropstars_1%3A50_Scale_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/20190623_190201.jpg/revision/latest/scale-to-width-down/1200?cb=20250317014916"
+    "image": null
   },
   {
     "id": "rc_796335",
@@ -105,7 +132,7 @@
     "date": "2026-08-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hoto_Roto_(Hot_Wheels_XL)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/36/HotoRoto26XLCard.jpg/revision/latest/scale-to-width-down/1200?cb=20260813022710"
+    "image": null
   },
   {
     "id": "rc_796320",
@@ -186,33 +213,6 @@
     "date": "2026-08-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_J-Imports_Mini_Collection_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_796024",
-    "title": "Kenworth",
-    "summary": "Created page with \" Kenworth Truck Company is an American truck manufacturer. Founded in 1923 as the successor to Gersix Motor Company, Kenworth specializes in production of heavy-duty (Class 8) and medium-duty (Class 5–7) commercial vehicles. Headquartered in the Seattle suburb of Kirkla...\"",
-    "date": "2026-08-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Kenworth",
-    "image": null
-  },
-  {
-    "id": "rc_796020",
-    "title": "Kawasaki",
-    "summary": "Created page with \" Kawasaki Motors, Ltd. (カワサキモータース株式会社, Kawasaki Mōtāsu Kabushikigaisha) is a Japanese mobility manufacturer that produces motorcycles, all-terrain vehicles, utility vehicles, watercraft, outboard motors, and other electric products. It derives its origins from K...\"",
-    "date": "2026-08-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Kawasaki",
-    "image": null
-  },
-  {
-    "id": "rc_795975",
-    "title": "RD-05",
-    "summary": "not RD-05, names were swapped for cards",
-    "date": "2026-08-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/RD-05",
     "image": null
   },
   {
