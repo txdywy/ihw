@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_797416",
+    "title": "Alpha Pursuit",
+    "summary": "/* 2020 card */",
+    "date": "2026-08-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Alpha_Pursuit",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/Alpha_Pursuit._Side.jpg/revision/latest/scale-to-width-down/1200?cb=20200907232904"
+  },
+  {
+    "id": "rc_797407",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-08-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
     "id": "rc_797308",
     "title": "HW Braille Racer - Twin Mill",
     "summary": "Adding categories",
@@ -96,7 +114,7 @@
     "date": "2026-08-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Sweet_Driver",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/SweetDriver.jpg/revision/latest/scale-to-width-down/1200?cb=20211122061255"
+    "image": null
   },
   {
     "id": "rc_796948",
@@ -105,7 +123,7 @@
     "date": "2026-08-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Nissan_350Z_Custom",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/2003Nissan350ZVeilSide.jpg/revision/latest/scale-to-width-down/1200?cb=20240821122631"
+    "image": null
   },
   {
     "id": "rc_796866",
@@ -135,30 +153,12 @@
     "image": null
   },
   {
-    "id": "rc_796526",
-    "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "Trophy Champions, added Mega-Wrex, part of Mix 2",
-    "date": "2026-08-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
     "date": "2026-08-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
-    "id": "search_185583",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
-    "date": "2026-08-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
@@ -216,21 +216,21 @@
     "image": null
   },
   {
-    "id": "search_184597",
-    "title": "2026 Car Culture: Team Transport",
-    "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-07-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
-    "image": null
-  },
-  {
     "id": "search_185492",
     "title": "List of 2026 Hot Wheels new castings",
     "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels new castings",
     "date": "2026-08-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "image": null
+  },
+  {
+    "id": "search_184597",
+    "title": "2026 Car Culture: Team Transport",
+    "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
+    "date": "2026-07-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
     "image": null
   },
   {
