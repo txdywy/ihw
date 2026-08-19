@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_797800",
+    "title": "Lamborghini Sián FKP 37 (Hot Wheels XL)",
+    "summary": "/* Versions */",
+    "date": "2026-08-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Lamborghini_Si%C3%A1n_FKP_37_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/2019LamborghiniSi%C3%A1n.jpg/revision/latest/scale-to-width-down/1200?cb=20260314103219"
+  },
+  {
+    "id": "rc_797795",
+    "title": "Lucid",
+    "summary": "Lucid Group, Inc. is an American automotive and technology company that manufactures electric vehicles and supplies advanced electric vehicle powertrain systems. In September 2021, the company began producing the Lucid Air sedan at its factory in Casa Grande, Arizona.",
+    "date": "2026-08-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Lucid",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/LucidAir.jpg/revision/latest/scale-to-width-down/1200?cb=20220626122429"
+  },
+  {
+    "id": "rc_797789",
+    "title": "Lola",
+    "summary": "Lola Cars Limited is a British automobile manufacturer founded in 1958 by Eric Broadley in Bromley, England. The company is now owned by Till Bechtolsheimer, who purchased it in 2022. Lola Cars endured for more than fifty years to become one of the oldest and largest manufacturers of racing cars in the world.",
+    "date": "2026-08-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Lola",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Lola_GT70-293.jpg/revision/latest/scale-to-width-down/1200?cb=20140509032207"
+  },
+  {
     "id": "rc_797739",
     "title": "Technetium",
     "summary": "not sure where this would have been released but multiple are out there",
@@ -83,11 +110,11 @@
   {
     "id": "rc_797198",
     "title": "2026 Hot Wheels Legends Tour",
-    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "summary": "/* Finalists */",
     "date": "2026-08-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
+    "image": null
   },
   {
     "id": "rc_797156",
@@ -96,16 +123,16 @@
     "date": "2026-08-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Honda_Civic_EF3",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/Honda_Civic_Ek3_Dave_proto_2_%281%29.png/revision/latest/scale-to-width-down/1200?cb=20260817030559"
+    "image": null
   },
   {
     "id": "rc_797149",
     "title": "List of unreleased Hot Wheels",
-    "summary": "This is a list of unreleased Hot Wheels products. This article encompasses unreleased casting designs, playsets and other related products.",
+    "summary": "/* 2000s */",
     "date": "2026-08-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_unreleased_Hot_Wheels",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Resin_Gurney_Eagle_68.JPG/revision/latest?cb=20250517003201"
+    "image": null
   },
   {
     "id": "rc_797050",
@@ -201,7 +228,7 @@
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
-    "date": "2026-08-18",
+    "date": "2026-08-19",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
