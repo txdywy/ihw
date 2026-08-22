@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_798227",
+    "title": "Ferrari",
+    "summary": "Ferrari S.p.A is an Italian automobile manufacturer that produces high-end exotic sports cars, founded in 1939 by Enzo Ferrari. Hot Wheels has made many different Ferrari models, starting in 1970....",
+    "date": "2026-08-21",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/Ferrari_312p-52.jpg/revision/latest/scale-to-width-down/1200?cb=20140508054416"
+  },
+  {
+    "id": "rc_798194",
+    "title": "2026 HWC/RLC Releases",
+    "summary": "The following vehicles were sold on HotWheelsCollectors.com in the 2026 RLC membership year.",
+    "date": "2026-08-21",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/1965ShelbyCobra.jpg/revision/latest/scale-to-width-down/1200?cb=20260418030223"
+  },
+  {
     "id": "rc_798120",
     "title": "Volkswagen Drag Bus",
     "summary": "15th Annual Collectors Convention, 6,000 produced total, not sure where the breakdown numbers come from, not mentioned on the cards",
@@ -96,7 +114,7 @@
     "date": "2026-08-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Rescue_Ranger",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/1975-EmerSqua_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20201114093736"
+    "image": null
   },
   {
     "id": "rc_797893",
@@ -105,7 +123,7 @@
     "date": "2026-08-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Double_Loop_Dash_(Neon_Speeders)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/HTV41NH.jpg/revision/latest/scale-to-width-down/1200?cb=20241128163704"
+    "image": null
   },
   {
     "id": "rc_797889",
@@ -249,15 +267,6 @@
     "date": "2026-08-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
-    "image": null
-  },
-  {
-    "id": "search_195352",
-    "title": "2026 HWC/RLC Releases",
-    "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
-    "date": "2026-08-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
   },
   {
