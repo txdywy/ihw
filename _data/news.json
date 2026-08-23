@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_798389",
+    "title": "Hot Wheels: Beat That!",
+    "summary": "Hot Wheels: Beat That! is a racing video game released in September 2007 and based on the Hot Wheels toy line manufactured by Mattel. The game was developed by Eutechnyx and published by Activision.",
+    "date": "2026-08-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Beat_That!",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/32/HWBTBrutalistic.jpg/revision/latest?cb=20150710234736"
+  },
+  {
     "id": "rc_798359",
     "title": "'57 Chevy (McDonald's)",
     "summary": "The '57 Chevy for McDonald's based of '57 Chevy with exposed engine casting.",
@@ -101,11 +110,11 @@
   {
     "id": "rc_798101",
     "title": "2013 Multi-Pack Exclusives",
-    "summary": "The following vehicles could only be found in Multi-Packs (3, 9, 10, and 20 Packs) in the year 2013. Toy # goes as the following: 3-packs: K5904, 10-packs: X6999 & 20-packs: H7045\nSome multi-pack exclusive vehicles use existing tampo designs but were released with different colors and wheels, these vehicles are mixed into the contents of the multi-pack....",
+    "summary": "Added the listing of the Porsche 911 GT2 that was released for 2013 multi-packs, which features J5 wheels, clear windows, metallic silver paint, tan interior, grey base and black spoiler.",
     "date": "2026-08-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2013_Multi-Pack_Exclusives",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/MustangConcept.jpg/revision/latest?cb=20150120013905"
+    "image": null
   },
   {
     "id": "rc_798098",
