@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_799091",
+    "title": "Hot Wheels City",
+    "summary": "200px|rightHot Wheels City is one of three playset lines introduced in 2018 with the revamp of the Hot Wheels toy line. As part of the Growing Up with Hot Wheels chart, Hot Wheels City playsets are intended for ages 3 through 8, with the Stunt Tracks line intended as the next progression....",
+    "date": "2026-08-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_City",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HWCity2025.png/revision/latest?cb=20250306090537"
+  },
+  {
+    "id": "rc_799087",
+    "title": "Downtown Speedy Fuel Stop",
+    "summary": "/* Car(s) included */",
+    "date": "2026-08-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Downtown_Speedy_Fuel_Stop",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Downtown_Speedy_Fuel_Stop.jpg/revision/latest?cb=20211128173445"
+  },
+  {
     "id": "rc_799032",
     "title": "Dodge Charger Stock Car",
     "summary": "replacing with a loose image. The Cars promo and the Pro Racing variants came out at the same time. If someone wants a pic of the Cars promo loose, just hit me up.",
@@ -96,7 +114,7 @@
     "date": "2026-08-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Corkscrew_Buggy",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/14/Hw_corclscrew_buggy.png/revision/latest?cb=20200204033025"
+    "image": null
   },
   {
     "id": "rc_798742",
@@ -105,7 +123,7 @@
     "date": "2026-08-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Snow_Stormer",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/81/2015_Snow_Stormer.jpg/revision/latest/scale-to-width-down/1200?cb=20190214204819"
+    "image": null
   },
   {
     "id": "rc_798739",
@@ -216,60 +234,6 @@
     "image": null
   },
   {
-    "id": "rc_798269",
-    "title": "Batman Series (2026)",
-    "summary": "/* Vehicles */",
-    "date": "2026-08-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Batman_Series_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_798263",
-    "title": "Plymouth Barracuda (Fatbax)",
-    "summary": "Short card 2004-045 Window Black , Faced Down Common placement",
-    "date": "2026-08-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Plymouth_Barracuda_(Fatbax)",
-    "image": null
-  },
-  {
-    "id": "rc_798257",
-    "title": "Land Rover Defender 90",
-    "summary": "I Put \"fifteen52\" back on convention car fifteen52 aka 1552 is awesome wheels/rims/hubs",
-    "date": "2026-08-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Defender_90",
-    "image": null
-  },
-  {
-    "id": "rc_798243",
-    "title": "'80's Corvette",
-    "summary": "Sval9500 the Card Garage y Placa is the Aurimat /Mexico release card",
-    "date": "2026-08-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'80's_Corvette",
-    "image": null
-  },
-  {
-    "id": "rc_798227",
-    "title": "Ferrari",
-    "summary": "2004 B6054 166MM Barchetta ( TRUE FERRARI early Racing HISTORY of iconic cars",
-    "date": "2026-08-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Ferrari",
-    "image": null
-  },
-  {
-    "id": "rc_798194",
-    "title": "2026 HWC/RLC Releases",
-    "summary": "The car is on https://creations.mattel.com for anyone who wants to look at it",
-    "date": "2026-08-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -312,6 +276,15 @@
     "date": "2026-08-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
+    "image": null
+  },
+  {
+    "id": "search_195352",
+    "title": "2026 HWC/RLC Releases",
+    "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
+    "date": "2026-08-21",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
   },
   {
