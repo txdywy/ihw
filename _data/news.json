@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_799146",
+    "title": "Cars",
+    "summary": "right|300pxCars is a film series that debuted on 9 June 2006 with a line of Mattel products designed by Dave Weise, Chris Down, Dave Martis, Phedon Tsiknopoulos, and many others under consultation of John Lasseter, Bob Pauley, and Darla Anderson....",
+    "date": "2026-08-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Cars",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Disney-PixarCarslogo.png/revision/latest?cb=20251109152319"
+  },
+  {
+    "id": "rc_799142",
+    "title": "Jump Circuit Speedway",
+    "summary": "Created page with \" == Description == Jump Circuit Speedway is a Hot Wheels track set that contains Electrack, one slam launcher with return track, one 180-degree right turn jump, one 12-inch (30.5 cm) molded track piece, one 180-degree right turn and one socket adapter to connect to older Track Builder track pieces. The set has a car launched through...\"",
+    "date": "2026-08-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Jump_Circuit_Speedway",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/47/JumpCircuitSpeedway.jpg/revision/latest/scale-to-width-down/1200?cb=20260825215107"
+  },
+  {
+    "id": "rc_799133",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-08-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+  },
+  {
+    "id": "rc_799108",
+    "title": "Power Launch Champion",
+    "summary": "Created page with \" == Description == Power Launch Champion is a Hot Wheels track set that contains Lightnin' Bug, one slam launcher, one 6-inch (15.2 cm) molded track piece, one vertical jump stunt and one socket adapter to connect to older Track Builder track pieces. The set has a car launched into the vertical jump, hitting the flag piece, and exit...\"",
+    "date": "2026-08-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Power_Launch_Champion",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/PowerLaunchChampion.jpg/revision/latest/scale-to-width-down/1200?cb=20260825193717"
+  },
+  {
     "id": "rc_799091",
     "title": "Hot Wheels City",
     "summary": "200px|rightHot Wheels City is one of three playset lines introduced in 2018 with the revamp of the Hot Wheels toy line. As part of the Growing Up with Hot Wheels chart, Hot Wheels City playsets are intended for ages 3 through 8, with the Stunt Tracks line intended as the next progression....",
@@ -74,20 +110,20 @@
   {
     "id": "rc_798798",
     "title": "Hot Wheels Haulers",
-    "summary": "Haulers was a series of trucks released from 1997 to 2002. This series was produced by ARCO Toys until at least 2000 when any mention of ARCO Toys was dropped from packaging. Some castings were also used in playsets and Super Race Rigs packs.",
+    "summary": "Haulers 65743 Firetruck ORANGE POWER PIPES Subset 65743-87",
     "date": "2026-08-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Haulers",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Hauler_Good_%26_Plenty_Turck.jpg/revision/latest/scale-to-width-down/1200?cb=20190226171714"
+    "image": null
   },
   {
     "id": "rc_798791",
     "title": "Hallmark",
-    "summary": "Hallmark Cards, Inc. was founded in Kansas City, Missouri in 1910 and has been known primarily as an American greeting card and holiday decorative company. First introduced in 1973, Hallmark has produced more than 8,400 different Keepsake Christmas ornaments, encompassing a wide variety of themes and entertainment properties.",
+    "summary": "And The Winner Is... OPEN Free'D & Collectible Card",
     "date": "2026-08-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hallmark",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/54/KEEPSAKE_Hot_Wheels_30th_Anniversary_r1T.jpg/revision/latest/scale-to-width-down/1200?cb=20260809081949"
+    "image": null
   },
   {
     "id": "rc_798778",
@@ -96,16 +132,16 @@
     "date": "2026-08-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06_(Hot_Wheels_XL)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/C7xl1.png/revision/latest/scale-to-width-down/1200?cb=20260823115638"
+    "image": null
   },
   {
     "id": "rc_798760",
     "title": "Micro Vehicles",
-    "summary": "After the Micro Hot Wheels line, the Hot Wheels Micro Vehicles came out as a replacement in 1996 for a year (or two?) to fill the micro scale diecast slot. These unique cars have a hook on the front and a hole in the back, allowing collectors to hook cars together, make \"a rope of cars\", or race the micro cars down a track similar to a roller coaster carts....",
+    "summary": "Woops Sval9500 I said Wrong name Planet its the cars With TowRear/HitchesFront cars. Not the 87-91 Micro/Mini/Formula Racers castings",
     "date": "2026-08-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Micro_Vehicles",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/17/A_Micro_Wienee.JPG/revision/latest?cb=20240325004712"
+    "image": null
   },
   {
     "id": "rc_798744",
@@ -222,15 +258,6 @@
     "date": "2026-08-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
-    "id": "rc_798298",
-    "title": "35th Annual Hot Wheels Collectors Convention",
-    "summary": "/* Vehicles */",
-    "date": "2026-08-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/35th_Annual_Hot_Wheels_Collectors_Convention",
     "image": null
   },
   {
