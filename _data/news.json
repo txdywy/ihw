@@ -1,21 +1,30 @@
 [
   {
-    "id": "rc_799416",
+    "id": "rc_799496",
+    "title": "Zotic",
+    "summary": "not sure why the baggie version was removed previously, it is a separate variant and was sold in the past year. I don't think a China base makes sense to have been on the FE, and I couldn't find any. Maybe from a later re-release",
+    "date": "2026-08-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Zotic",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/Zotic_Planet.png/revision/latest/scale-to-width-down/1200?cb=20260331100950"
+  },
+  {
+    "id": "rc_799475",
     "title": "Hot Wheels Infinite Rush",
     "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
   },
   {
-    "id": "rc_799407",
-    "title": "Masters of the Universe Series (2026)",
-    "summary": "Masters of the Universe Series (2026) is a Collection.",
+    "id": "rc_799450",
+    "title": "Ferrari F40 (RLC)",
+    "summary": "I know a certain individual will be adding 50 - 60 pics including plenty of the cardboard box so I'm just adding these two",
     "date": "2026-08-26",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Masters_of_the_Universe_Series_(2026)",
-    "image": null
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_F40_(RLC)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/12/RLC_2026_Ferrari_F40_China_JJY72.jpg/revision/latest/scale-to-width-down/1200?cb=20260826204147"
   },
   {
     "id": "rc_799393",
@@ -101,11 +110,11 @@
   {
     "id": "rc_799189",
     "title": "2026 Hot Wheels Boulevard",
-    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "summary": "Koenigsegg CC850 V14A",
     "date": "2026-08-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/NissanZ32.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111652"
+    "image": null
   },
   {
     "id": "rc_799185",
@@ -339,15 +348,6 @@
     "date": "2026-08-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
-    "image": null
-  },
-  {
-    "id": "search_195352",
-    "title": "2026 HWC/RLC Releases",
-    "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
-    "date": "2026-08-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
   },
   {
