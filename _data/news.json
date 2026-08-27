@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_799580",
+    "title": "HW Rally Hauler",
+    "summary": "Adding categories",
+    "date": "2026-08-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Rally_Hauler",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/2021CCTT33-RV_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20210813105542"
+  },
+  {
+    "id": "rc_799572",
+    "title": "HW-26",
+    "summary": "Not intended to be the same car.",
+    "date": "2026-08-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW-26",
+    "image": null
+  },
+  {
+    "id": "rc_799542",
+    "title": "Sleighn' Rubber",
+    "summary": "2026 has two colours of pinstripes also has Silver front half of sleigh rear is the Golden pinstripe I SO Dig this Die/tool/casting so far 2 for 2 Awesomeness 👍🏾👍🏾 thinking about 3 weeks & SNOW will be at sea level FIREWEED is 99% done WILL CAPTURE SNOW Image with also SLED(S)",
+    "date": "2026-08-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Sleighn'_Rubber",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/JCB47_Sleighn%27_Rubber_o1.jpg/revision/latest?cb=20250830034620"
+  },
+  {
+    "id": "rc_799521",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-08-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+  },
+  {
     "id": "rc_799496",
     "title": "Zotic",
     "summary": "not sure why the baggie version was removed previously, it is a separate variant and was sold in the past year. I don't think a China base makes sense to have been on the FE, and I couldn't find any. Maybe from a later re-release",
@@ -7,15 +43,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Zotic",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/Zotic_Planet.png/revision/latest/scale-to-width-down/1200?cb=20260331100950"
-  },
-  {
-    "id": "rc_799475",
-    "title": "Hot Wheels Infinite Rush",
-    "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
-    "date": "2026-08-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
   },
   {
     "id": "rc_799450",
@@ -83,11 +110,11 @@
   {
     "id": "rc_799218",
     "title": "HotWheelsCollectors.com Series 4",
-    "summary": "Series 4 was released throughout the 2005 calendar year exclusively on HotWheelsCollectors.com\nThe Real Riders Series featured 6 vehicles with various Real Riders wheels and Spectraflame paint\n/\nMetal\nThe Neo-Classics Series featured 6 vehicles with Neo Redline wheels and Spectraflame paint\n2005-HWC s4 Real Riders H2927 Evil Weevil HWR Blue ooref-1....",
+    "summary": "Custom Mustang",
     "date": "2026-08-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HotWheelsCollectors.com_Series_4",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/SuperVan_HWCseries4.JPG/revision/latest?cb=20100126112214"
+    "image": null
   },
   {
     "id": "rc_799193",
@@ -96,16 +123,16 @@
     "date": "2026-08-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_G_63_AMG_6%C3%976",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/JCP45_o4.jpg/revision/latest/scale-to-width-down/1200?cb=20260826112852"
+    "image": null
   },
   {
     "id": "rc_799191",
     "title": "Elite 64",
-    "summary": "200px|rightElite 64 is a Premium-style series featuring true 1/64-scale cars. All castings feature multiple separate parts for added detail, bespoke Real Rider wheels specific to each car and may feature removable or opening parts. The line is available exclusively on HotWheelsCollectors....",
+    "summary": "Mercedes 6x6 1056YY BASE yet cards and outer box has a Packaging date of 1 week later 1056YY Production Date on Chassis Base",
     "date": "2026-08-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Elite_64",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/68/Elite64.png/revision/latest?cb=20221009134531"
+    "image": null
   },
   {
     "id": "rc_799189",
@@ -204,105 +231,6 @@
     "date": "2026-08-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Errors",
-    "image": null
-  },
-  {
-    "id": "rc_798855",
-    "title": "2004 McDonald's Series",
-    "summary": "/* Vehicles */",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2004_McDonald's_Series",
-    "image": null
-  },
-  {
-    "id": "rc_798844",
-    "title": "MAN",
-    "summary": "Created page with \" MAN Truck & Bus SE (formerly MAN Nutzfahrzeuge AG) is a German automotive manufacturer and a subsidiary of Traton, one of the leading international providers of commercial vehicles. Headquartered in Munich, Germany, MAN Truck & Bus produces vans in the range from 3.0 to 5.5 t gvw, trucks in the range from 7.49 to 44 t gvw,...\"",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/MAN",
-    "image": null
-  },
-  {
-    "id": "rc_798839",
-    "title": "Mack",
-    "summary": "Created page with \" Mack Trucks, Inc. is an American truck manufacturing company and a former manufacturer of buses and trolley buses. Founded in 1900 as the Mack Brothers Company, it manufactured its first truck in 1905 and adopted its present name in 1922. Since 2000, Mack Trucks has been a subsidiary of Volvo, wh...\"",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mack",
-    "image": null
-  },
-  {
-    "id": "rc_798798",
-    "title": "Hot Wheels Haulers",
-    "summary": "Haulers 65743 Firetruck ORANGE POWER PIPES Subset 65743-87",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Haulers",
-    "image": null
-  },
-  {
-    "id": "rc_798791",
-    "title": "Hallmark",
-    "summary": "And The Winner Is... OPEN Free'D & Collectible Card",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hallmark",
-    "image": null
-  },
-  {
-    "id": "rc_798778",
-    "title": "Corvette C7 Z06 (Hot Wheels XL)",
-    "summary": "/* Versions */",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Corvette_C7_Z06_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_798760",
-    "title": "Micro Vehicles",
-    "summary": "Woops Sval9500 I said Wrong name Planet its the cars With TowRear/HitchesFront cars. Not the 87-91 Micro/Mini/Formula Racers castings",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Micro_Vehicles",
-    "image": null
-  },
-  {
-    "id": "rc_798744",
-    "title": "Team Hot Wheels Corkscrew Buggy",
-    "summary": "Undo revision 798741 by Boris1966 (talk) nothing is ever really discontinued. Wait a few more years and it might show back up again.",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Corkscrew_Buggy",
-    "image": null
-  },
-  {
-    "id": "rc_798742",
-    "title": "Snow Stormer",
-    "summary": "Casting has been dormant since 2022, safe to say it's discontinued",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Snow_Stormer",
-    "image": null
-  },
-  {
-    "id": "rc_798739",
-    "title": "Volkswagen T1 Drag Bus",
-    "summary": "When Volkswagen cataloged and coded factory two-tone paint combinations for these vehicles, the lower body colour was always listed first in the official factory colour sequence and documentation. n a two-tone 1960s Volkswagen Bus, the bottom colour is considered the primary or main body colour, while the lighter shade on top (the roof and window beltline) acts as the secondary accent colour.",
-    "date": "2026-08-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Volkswagen_T1_Drag_Bus",
-    "image": null
-  },
-  {
-    "id": "rc_798732",
-    "title": "Hot Wheels: Beat That!",
-    "summary": "/* Gallery */",
-    "date": "2026-08-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Beat_That!",
     "image": null
   },
   {
