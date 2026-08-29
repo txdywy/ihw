@@ -1,6 +1,24 @@
 [
   {
-    "id": "rc_799957",
+    "id": "rc_799995",
+    "title": "Hot Wheels Classics",
+    "summary": "200px|right\nHot Wheels Classics is an annual line of Hot Wheels cars first released in 2005. They are marketed towards adult collectors and were originally priced around $3.99 (USD). Each car features a metal base and is released in several different Spectraflame colors.",
+    "date": "2026-08-29",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Classics",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Hwclassics.jpg/revision/latest?cb=20250316223953"
+  },
+  {
+    "id": "rc_799984",
+    "title": "Evil Twin",
+    "summary": "Classics s4 GOLD came with Collector's Button corrected toy# to M3655 larger button cards had different toy number(s) then the NONE LARGE CAR no button Toy #'s",
+    "date": "2026-08-29",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Evil_Twin",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/39/EvilTwin27th_ConventionOA.png/revision/latest?cb=20251028210713"
+  },
+  {
+    "id": "rc_799983",
     "title": "Hot Wheels Infinite Rush",
     "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
     "date": "2026-08-29",
@@ -16,15 +34,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Road_Trippin'_Series_(2014)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/HW-Road_Trippin%E2%80%99-2104-01-1-4_Mile_Coupe.jpg/revision/latest?cb=20140921220531"
-  },
-  {
-    "id": "rc_799934",
-    "title": "Hot Wheels Classics",
-    "summary": "200px|right\nHot Wheels Classics is an annual line of Hot Wheels cars first released in 2005. They are marketed towards adult collectors and were originally priced around $3.99 (USD). Each car features a metal base and is released in several different Spectraflame colors.",
-    "date": "2026-08-29",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Classics",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Hwclassics.jpg/revision/latest?cb=20250316223953"
   },
   {
     "id": "rc_799883",
@@ -261,51 +270,6 @@
     "image": null
   },
   {
-    "id": "rc_799193",
-    "title": "Mercedes-Benz G 63 AMG 6×6",
-    "summary": "1056YY yet Card(s) Boxes have pavling date of later Date",
-    "date": "2026-08-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_G_63_AMG_6%C3%976",
-    "image": null
-  },
-  {
-    "id": "rc_799191",
-    "title": "Elite 64",
-    "summary": "Mercedes 6x6 1056YY BASE yet cards and outer box has a Packaging date of 1 week later 1056YY Production Date on Chassis Base",
-    "date": "2026-08-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Elite_64",
-    "image": null
-  },
-  {
-    "id": "rc_799189",
-    "title": "2026 Hot Wheels Boulevard",
-    "summary": "Koenigsegg CC850 V14A",
-    "date": "2026-08-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "rc_799185",
-    "title": "Hot Wheels Monster Trucks Oversized",
-    "summary": "/* 2026 */",
-    "date": "2026-08-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Oversized",
-    "image": null
-  },
-  {
-    "id": "rc_799182",
-    "title": "Hot Wheels Monster Trucks Big Rigs",
-    "summary": "/* 2026 */",
-    "date": "2026-08-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Big_Rigs",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -348,6 +312,15 @@
     "date": "2026-08-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
+    "image": null
+  },
+  {
+    "id": "search_185401",
+    "title": "2026 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
+    "date": "2026-08-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
     "image": null
   },
   {
