@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_800175",
+    "title": "2027 Hot Wheels Boulevard",
+    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "date": "2026-08-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "rc_800170",
+    "title": "2026 Hot Wheels Legends Tour",
+    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "date": "2026-08-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
+  },
+  {
+    "id": "rc_800169",
+    "title": "2025 Hot Wheels Legends Tour",
+    "summary": "The winner of each round received a trophy with an exclusive black Bad to the Blade. HW Legends B2B.jpg\nWM Shipper-Square LEGENDS 2025 Bone Shaker.jpg\nLegends Tour 2025 Porsche 935 Pink Malaysia JCB37.jpg|Special Edition\nLegends Tour 2025 Porsche 935 Pink Malaysia JCB37 Back of Card....",
+    "date": "2026-08-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Legends_Tour",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/34/LEGENDS_Tour_1974_Porsche_914_V8.jpg/revision/latest?cb=20251205051758"
+  },
+  {
     "id": "rc_800135",
     "title": "2008 Color Shifters",
     "summary": "N9467 Easter 2pk Mega-Duty was manufactured at end of 2008 for 2009 Easter Release 3198A1 Nov 14th 46thWeek 46 so impossible to be a 2008 Easter Release",
@@ -7,15 +34,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2008_Color_Shifters",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Humvee_Color_Shifter.jpg/revision/latest?cb=20081229042511"
-  },
-  {
-    "id": "rc_800133",
-    "title": "2026 Hot Wheels Legends Tour",
-    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
-    "date": "2026-08-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
   },
   {
     "id": "rc_800088",
@@ -92,20 +110,20 @@
   {
     "id": "rc_799983",
     "title": "Hot Wheels Infinite Rush",
-    "summary": "Hot Wheels Infinite Rush is an upcoming 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game is set to be released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "summary": "/* Gameplay */",
     "date": "2026-08-29",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+    "image": null
   },
   {
     "id": "rc_799944",
     "title": "HW Road Trippin' Series (2014)",
-    "summary": "Hot Wheels Road Trippin’ is a 32–car series themed to notable driving roads. The series originally only included American roads but expanded in 2015 to be internationally themed.",
+    "summary": "BDK71 25/32 Firebird Funny Car CARD replied Flash SPOTTED Image With better image",
     "date": "2026-08-29",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Road_Trippin'_Series_(2014)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/HW-Road_Trippin%E2%80%99-2104-01-1-4_Mile_Coupe.jpg/revision/latest?cb=20140921220531"
+    "image": null
   },
   {
     "id": "rc_799883",
@@ -288,15 +306,6 @@
     "image": null
   },
   {
-    "id": "rc_799317",
-    "title": "Display Case Artwork",
-    "summary": "5144 24 Car COLLECTOR'S CASE also hold Collector's Button( s) clip folded over",
-    "date": "2026-08-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Display_Case_Artwork",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -306,21 +315,21 @@
     "image": null
   },
   {
-    "id": "search_185583",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
-    "date": "2026-08-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "search_165225",
     "title": "2025 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2025 Treasure Hunts Series",
     "date": "2026-01-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-08-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
