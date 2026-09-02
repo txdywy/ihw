@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_800703",
+    "title": "Ferrari 360 Modena (X-Raycers)",
+    "summary": "add code from base of my car",
+    "date": "2026-09-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_360_Modena_(X-Raycers)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/10/Ferrari_360_Modena_XRaycers_sketch.JPG/revision/latest/scale-to-width-down/1200?cb=20210817022459"
+  },
+  {
+    "id": "rc_800675",
+    "title": "Compact Kings Series (2026)",
+    "summary": "The Compact Kings series is a themed assortment as part of Hot Wheels's semi-premium (also known as \"Silver Series\") offerings. It was released in 2026 with packaging art designed by Jaime Puga under an independent contract.",
+    "date": "2026-09-01",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Compact_Kings_Series_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/2026_%2712_Ford_Fiesta.jpg/revision/latest/scale-to-width-down/1200?cb=20251202093937"
+  },
+  {
     "id": "rc_800645",
     "title": "Nash",
     "summary": "Nash Motors Company was an American automobile manufacturer that produced cars from 1916 until 1937. From 1937 through 1954, Nash Motors was the automotive division of Nash-Kelvinator....",
@@ -96,16 +114,16 @@
     "date": "2026-08-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Crash_Frenzy_Speedway",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/CrashFrenzySpeedway.jpg/revision/latest/scale-to-width-down/1200?cb=20260831062639"
+    "image": null
   },
   {
     "id": "rc_800340",
     "title": "Hot Wheels Classics",
-    "summary": "200px|right\nHot Wheels Classics is an annual line of Hot Wheels cars first released in 2005. They are marketed towards adult collectors and were originally priced around $3.99 (USD). Each car features a metal base and is released in several different Spectraflame colors.",
+    "summary": "Added track sets",
     "date": "2026-08-31",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Classics",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Hwclassics.jpg/revision/latest?cb=20250316223953"
+    "image": null
   },
   {
     "id": "rc_800312",
