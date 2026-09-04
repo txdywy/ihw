@@ -51,7 +51,7 @@
     "date": "2026-09-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Audi_Series_(2026)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/2026_Audi_90_Quattro.jpg/revision/latest/scale-to-width-down/1200?cb=20260702223810"
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/JKY15.jpg/revision/latest/scale-to-width-down/1200?cb=20260903113244"
   },
   {
     "id": "rc_800837",
@@ -279,30 +279,21 @@
     "image": null
   },
   {
-    "id": "rc_800088",
-    "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "/* Playsets */",
-    "date": "2026-08-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": null
-  },
-  {
-    "id": "rc_800077",
-    "title": "Boosted Jump Speedway Kit",
-    "summary": "Created page with \" == Description == The Boosted Jump Speedway Kit is a Hot Wheels accessory pack that contains Time Tracker, one booster, one catch ramp, one 90-degree right turn, one 90-degree left turn, one 180-degree right turn, one 180-degree left turn, one 12-inch (30.5 cm) flex track piece, four 3-inch (7.6 cm) support trac...\"",
-    "date": "2026-08-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Boosted_Jump_Speedway_Kit",
-    "image": null
-  },
-  {
     "id": "search_165225",
     "title": "2025 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2025 Treasure Hunts Series",
     "date": "2026-01-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185871",
+    "title": "2026 Hot Wheels Monster Trucks",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
+    "date": "2026-08-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
     "image": null
   },
   {
