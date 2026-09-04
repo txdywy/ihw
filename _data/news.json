@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_801018",
+    "title": "2026 Hot Wheels Legends Tour",
+    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "date": "2026-09-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
+  },
+  {
     "id": "rc_800957",
     "title": "2026 Hot Wheels Boulevard",
     "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
@@ -105,7 +114,7 @@
     "date": "2026-09-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Ferrari_360_Modena_(X-Raycers)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/10/Ferrari_360_Modena_XRaycers_sketch.JPG/revision/latest/scale-to-width-down/1200?cb=20210817022459"
+    "image": null
   },
   {
     "id": "rc_800675",
@@ -252,15 +261,6 @@
     "image": null
   },
   {
-    "id": "rc_800170",
-    "title": "2026 Hot Wheels Legends Tour",
-    "summary": "/* International finalists */",
-    "date": "2026-08-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
     "id": "rc_800169",
     "title": "2025 Hot Wheels Legends Tour",
     "summary": "/* Finalists */",
@@ -297,33 +297,6 @@
     "image": null
   },
   {
-    "id": "rc_800039",
-    "title": "2026 HWC/RLC Releases",
-    "summary": "JJY59 Carded",
-    "date": "2026-08-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
-    "image": null
-  },
-  {
-    "id": "rc_800032",
-    "title": "Porsche 908-3",
-    "summary": "Do not change the name. That is what it is called on the card and base.",
-    "date": "2026-08-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Porsche_908-3",
-    "image": null
-  },
-  {
-    "id": "rc_800029",
-    "title": "Triple Loop Speed Kit",
-    "summary": "Created page with \" == Description == The Triple Loop Speed Kit is a Hot Wheels accessory pack that contains Stockar, one slam launcher, two 6-inch (15.2 cm) molded track pieces, two 12-inch (30.5 cm) molded track pieces, two loops, one kicker loop, one left 180-degree turn, one flipper and two adapter pieces to connect to older Track Bu...\"",
-    "date": "2026-08-29",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Triple_Loop_Speed_Kit",
-    "image": null
-  },
-  {
     "id": "search_165225",
     "title": "2025 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2025 Treasure Hunts Series",
@@ -339,6 +312,15 @@
     "date": "2026-08-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
+    "image": null
+  },
+  {
+    "id": "search_195352",
+    "title": "2026 HWC/RLC Releases",
+    "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
+    "date": "2026-09-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
   },
   {
