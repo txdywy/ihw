@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_802537",
+    "title": "HW Rally Trailer",
+    "summary": "Adding categories",
+    "date": "2026-09-08",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Rally_Trailer",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/RallyTrailer.jpg/revision/latest/scale-to-width-down/1200?cb=20220220064000"
+  },
+  {
+    "id": "rc_802464",
+    "title": "Attack Pack",
+    "summary": "200px|rightAttack Pack was a line of monstrous trucks and vehicles designed by Mike McKittrick and others released from 1992 to 1994. The main gimmick of these vehicles was their transforming action when they were pressed down, causing them to open their mouths or perform other actions. They were even available as McDonalds Happy Meal toys, as an option to Barbie dolls.",
+    "date": "2026-09-08",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Attack_Pack",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/Attackpacktitle.gif/revision/latest?cb=20210109144921"
+  },
+  {
+    "id": "rc_802449",
+    "title": "List of unreleased Hot Wheels",
+    "summary": "This is a list of unreleased Hot Wheels products. This article encompasses unreleased casting designs, playsets and other related products.",
+    "date": "2026-09-08",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_unreleased_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Resin_Gurney_Eagle_68.JPG/revision/latest?cb=20250517003201"
+  },
+  {
     "id": "rc_802380",
     "title": "Nightspeed Mini Collection (2027)",
     "summary": "Emerging from the shadows to speed through the darkness, these slick wheels rule the night. Category:2027 Hot Wheels\nCategory:Mainline Segment\nCategory:Nightspeed Series\nCategory:Hot Wheels by Series",
@@ -83,11 +110,11 @@
   {
     "id": "rc_802103",
     "title": "HW Police Series (2020)",
-    "summary": "Centre|400px\nIn 2020, Hot Wheels released a series of 5 vehicles with decos inspired by police forces around the world. There was also a secondary theme to the series. The first sets came without the Hot Wheels logo and the card art reflected the \"Missing Logo\" with the castings in emergency response mode.",
+    "summary": "/* Vehicles */",
     "date": "2026-09-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Police_Series_(2020)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/72/HW_Police_Series_2020.jpg/revision/latest?cb=20200603012356"
+    "image": null
   },
   {
     "id": "rc_802076",
@@ -96,16 +123,16 @@
     "date": "2026-09-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/London_Bus_Routemaster_(1%3A43_Corgi_Collection)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Corgi_Collection_Bus.JPG/revision/latest/scale-to-width-down/1200?cb=20230118161139"
+    "image": null
   },
   {
     "id": "rc_802024",
     "title": "Hot Wheels Garage 30-Car Set",
-    "summary": "Released in 2010, the Hot Wheels Garage series included this 30-Car set. Featuring the primary 30 cars in the series, of which 5 castings made their public debut, especially the much anticipated Volkswagen 21-Window Drag Bus.",
+    "summary": "More early pics, will get it back out one day to get better ones",
     "date": "2026-09-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Garage_30-Car_Set",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/NeetStreeter_GarageSet.JPG/revision/latest?cb=20100612111006"
+    "image": null
   },
   {
     "id": "rc_802023",
@@ -216,60 +243,6 @@
     "image": null
   },
   {
-    "id": "rc_801701",
-    "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "GREEN Driver Picks Y3885 Charger Stock Car",
-    "date": "2026-09-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": null
-  },
-  {
-    "id": "rc_801592",
-    "title": "2026 Hot Wheels Boulevard",
-    "summary": "/* Mix 5 */",
-    "date": "2026-09-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "rc_801573",
-    "title": "Hot Wheels 1:18 Scale Series",
-    "summary": "/* 2015 */",
-    "date": "2026-09-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_1%3A18_Scale_Series",
-    "image": null
-  },
-  {
-    "id": "rc_801531",
-    "title": "Hot Wheels Elite 1:18 Scale",
-    "summary": "/* 2009 */",
-    "date": "2026-09-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Elite_1%3A18_Scale",
-    "image": null
-  },
-  {
-    "id": "rc_801530",
-    "title": "Hot Wheels Legends Tour Themed Multipack (2026)",
-    "summary": "Added base codes.",
-    "date": "2026-09-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Legends_Tour_Themed_Multipack_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_801528",
-    "title": "Hot Wheels Infinite Rush",
-    "summary": "Added more classes to more cars, still some cars that need them",
-    "date": "2026-09-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -288,15 +261,6 @@
     "image": null
   },
   {
-    "id": "search_185583",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
-    "date": "2026-09-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "search_144739",
     "title": "Super Treasure Hunt",
     "summary": "Latest Hot Wheels information: Super Treasure Hunt",
@@ -306,12 +270,21 @@
     "image": null
   },
   {
-    "id": "search_185581",
-    "title": "2026 New Models",
-    "summary": "Latest Hot Wheels information: 2026 New Models",
-    "date": "2026-08-18",
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-09-08",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_New_Models",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": null
+  },
+  {
+    "id": "search_185401",
+    "title": "2026 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
+    "date": "2026-09-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
     "image": null
   },
   {
@@ -375,6 +348,15 @@
     "date": "2025-05-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2023_Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_168214",
+    "title": "2022 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2022 Hot Wheels Boulevard",
+    "date": "2025-08-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2022_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
