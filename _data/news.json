@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_803574",
+    "title": "2026 Treasure Hunts Series",
+    "summary": "This is a list of Treasure Hunts from 2026.",
+    "date": "2026-09-13",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+  },
+  {
+    "id": "rc_803571",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-09-13",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
     "id": "rc_803540",
     "title": "List of 2027 Hot Wheels new castings",
     "summary": "Category:2027 Hot Wheels\nCategory:New Castings",
@@ -92,20 +110,20 @@
   {
     "id": "rc_803260",
     "title": "2027 Treasure Hunts Series",
-    "summary": "This is a list of Treasure Hunts from 2027.",
+    "summary": "/* 2027 Super Treasure Hunts */",
     "date": "2026-09-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2027_Treasure_Hunts_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+    "image": null
   },
   {
     "id": "rc_803227",
     "title": "Hot Wheels Monster Trucks Oversized",
-    "summary": "right|200pxHot Wheels Monster Trucks Oversized is a sub series of Hot Wheels Monster Trucks first launched in 2018. This line features 1/24 scale versions of various Monster Truck models; they feature a special package design which can be used as a display case. The series gained its current name in 2021; prior to then, the series was simply known as Monster Trucks 1:24 Scale Trucks.",
+    "summary": "/* 2026 */",
     "date": "2026-09-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Oversized",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/Hot_Wheels_Monster_Trucks_Oversized_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20230425181633"
+    "image": null
   },
   {
     "id": "rc_803196",
@@ -468,39 +486,12 @@
     "image": null
   },
   {
-    "id": "search_183990",
-    "title": "2026 Treasure Hunts Series",
-    "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
     "id": "search_165225",
     "title": "2025 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2025 Treasure Hunts Series",
     "date": "2026-01-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
-    "id": "search_144739",
-    "title": "Super Treasure Hunt",
-    "summary": "Latest Hot Wheels information: Super Treasure Hunt",
-    "date": "2025-06-01",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Super_Treasure_Hunt",
-    "image": null
-  },
-  {
-    "id": "search_185583",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
-    "date": "2026-09-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
@@ -582,15 +573,6 @@
     "date": "2025-05-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2023_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_168214",
-    "title": "2022 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2022 Hot Wheels Boulevard",
-    "date": "2025-08-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2022_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
