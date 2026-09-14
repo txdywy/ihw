@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_803747",
+    "title": "Dragster",
+    "summary": "Undo revision 803746 by Coldpopcarl (talk)",
+    "date": "2026-09-14",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Dragster",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Dragster_Org.JPG/revision/latest?cb=20090331010645"
+  },
+  {
     "id": "rc_803709",
     "title": "Bassline",
     "summary": "McDonald's casting, not really for this page",
@@ -101,11 +110,11 @@
   {
     "id": "rc_803442",
     "title": "Hot Wheels Legends Tour Themed Multipack (2026)",
-    "summary": "The Hot Wheels Legends Tour Themed Multipack (JLB24) was released in 2026. All cars were made in Thailand\ncenter|300px\nThe following castings were in the Hot Wheels Legends Tour Themed Multipack:",
+    "summary": "/* Cars */",
     "date": "2026-09-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Legends_Tour_Themed_Multipack_(2026)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/56/Silver_Series_Themed_Multipack_2026_Hot_Wheels_Legends_Tour_Thailand_JLB24_Front.jpg/revision/latest/scale-to-width-down/1200?cb=20260608225454"
+    "image": null
   },
   {
     "id": "rc_803418",
@@ -285,78 +294,6 @@
     "date": "2026-09-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Hall_of_Famers_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802982",
-    "title": "Rod Squad Mini Collection (2027)",
-    "summary": "Created page with \"Be the leader of the pack with this fleet of custom hot rods. {| class=\"wikitable sortable\" style=\"font-size: 100%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Toy # ! style=\"border-style: none none solid solid; background:\" |Col. # ! style=\"border-style: none none solid solid; background:\" |Casting !...",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Rod_Squad_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802977",
-    "title": "Hot Wheels Let's Race Mini Collection (2027)",
-    "summary": "Adding categories",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Let's_Race_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802973",
-    "title": "HW Heavyweights Mini Collection (2027)",
-    "summary": "Adding categories",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Heavyweights_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802966",
-    "title": "Circuit Breakers Mini Collection (2027)",
-    "summary": "Created page with \"{| class=\"wikitable sortable\" style=\"font-size: 100%; text-align: left;\" width=\"100%\" |- !style=\"border-style: none none solid solid; |Toy # !style=\"border-style: none none solid solid; |Col. # !style=\"border-style: none none solid solid; |Casting !style=\"border-style: none none solid solid; |Notes !style=\"border-style: none none solid solid; |Set # !...",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Circuit_Breakers_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802963",
-    "title": "X-Raycers Mini Collection (2027)",
-    "summary": "Created page with \"Vehicles with clear bodies and wheels, plus they're super fast on track. {| class=\"wikitable sortable\" style=\"font-size: 100%; text-align: left;\" width=\"100%\" |- !style=\"border-style: none none solid solid; |Toy # !style=\"border-style: none none solid solid; |Col. # !style=\"border-style: none none solid solid; |Casting !style=\"border-style: none none solid solid; |Notes !...",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/X-Raycers_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802962",
-    "title": "HW Fan Driven Mini Collection (2027)",
-    "summary": "Adding categories",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Fan_Driven_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802958",
-    "title": "HW Dirt Mini Collection (2027)",
-    "summary": "Adding categories",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Dirt_Mini_Collection_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_802955",
-    "title": "Batman Mini Collection (2027)",
-    "summary": "Created page with \"200px|rightHelp Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. {| class=\"wikitable sortable\" style=\"font-size: 100%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Toy # ! style=\"border-style: none none solid solid; background:\" |Col. # !...",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Batman_Mini_Collection_(2027)",
     "image": null
   },
   {
