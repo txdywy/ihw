@@ -1,5 +1,68 @@
 [
   {
+    "id": "rc_804097",
+    "title": "Hot Wheels Classics",
+    "summary": "200px|right\nHot Wheels Classics is an annual line of Hot Wheels cars first released in 2005. They are marketed towards adult collectors and were originally priced around $3.99 (USD). Each car features a metal base and is released in several different Spectraflame colors.",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Classics",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Hwclassics.jpg/revision/latest?cb=20250316223953"
+  },
+  {
+    "id": "rc_804084",
+    "title": "Pontiac 100th Anniversary Series (2026)",
+    "summary": "Silver Series 2026 Pontiac 100th Anniversary Back of Card.jpg|Back of Card\nCategory:2026 Hot Wheels\nCategory:Hot Wheels by Series\nCategory:Pontiac Cars",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Pontiac_100th_Anniversary_Series_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/Pontiac_100th_loose_Firebird.JPG/revision/latest/scale-to-width-down/1200?cb=20251124021825"
+  },
+  {
+    "id": "rc_804062",
+    "title": "Lamborghini Sián FKP 37 (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Lamborghini_Si%C3%A1n_FKP_37_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/2019LamborghiniSi%C3%A1n.jpg/revision/latest/scale-to-width-down/1200?cb=20260314103219"
+  },
+  {
+    "id": "rc_804060",
+    "title": "McLaren Senna (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/McLaren_Senna_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/SennaXL1.png/revision/latest/scale-to-width-down/1200?cb=20260806191412"
+  },
+  {
+    "id": "rc_804059",
+    "title": "Toyota AE86 Sprinter Trueno (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Toyota_AE86_Sprinter_Trueno_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/2026_XL_15.jpg/revision/latest/scale-to-width-down/1200?cb=20260601062733"
+  },
+  {
+    "id": "rc_804058",
+    "title": "'22 Ford Maverick Custom (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'22_Ford_Maverick_Custom_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/22MaverickXL.jpg/revision/latest/scale-to-width-down/1200?cb=20260612175130"
+  },
+  {
+    "id": "rc_804057",
+    "title": "2016 Ford GT Race (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2016_Ford_GT_Race_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/2016FordGTXL.png/revision/latest?cb=20260723141631"
+  },
+  {
     "id": "rc_804049",
     "title": "Land Rover Series II (Hot Wheels XL)",
     "summary": "Adding categories",
@@ -51,43 +114,43 @@
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Nissan_370Z",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/78/4449323061_f90bd81b56_b.jpg/revision/latest?cb=20100329204910"
+    "image": null
   },
   {
     "id": "rc_803910",
     "title": "List of 2027 Hot Wheels (by Series)",
-    "summary": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. Off-roaders that were built to feel the mud between their tires. The blasts from the past meet the motors of tomorrow, in fan-voted combos for every car-lover!",
+    "summary": "/* Nightspeed */",
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2021_20Batman.webp/revision/latest?cb=20240208231845"
+    "image": null
   },
   {
     "id": "rc_803904",
     "title": "Off-Road Racing 4-Pack",
-    "summary": "Here's your chance to become a big-time dust devil, with the Hot Wheels Off-Road Racing set. Get down and dirty, with a dune buggy, all-terrain vehicle, sport-utility vehicle, and pick-up truck. Each of these off-road racers are equipped with knobby tires and crew that's ready to kick some dust.",
+    "summary": "/* Vehicles */",
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Off-Road_Racing_4-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/K-Mart_Off-Road_Racing_4-Pack_1998_China_19329.jpg/revision/latest/scale-to-width-down/1200?cb=20250513225714"
+    "image": null
   },
   {
     "id": "rc_803775",
     "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "Each truck included a trophy accessory. 2025 Monster Trucks TYRE Dump.jpg\n2025 Monster Trucks TYRE Dump 1L.jpg\n2025 Monster Trucks TYRE Dump Left.jpg\nJJN44 Monster Trucks Snake Slam Takedown Bone Shaker r1L.jpg|JJN44\nJJN44 Monster Trucks Snake Slam Takedown Bone Shaker r1R.jpg|JJN44\nJJN44 Monster Trucks Snake Slam Takedown Bone Shaker r1Bot....",
+    "summary": "/* Monster Trucks Glow in the Dark */",
     "date": "2026-09-14",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/2025_Monster_Trucks_TYRE_Dump.jpg/revision/latest/scale-to-width-down/1200?cb=20251222081236"
+    "image": null
   },
   {
     "id": "rc_803770",
     "title": "Universal Monsters Series (2026)",
-    "summary": "Category:2026 Hot Wheels\nCategory:Hot Wheels by Series",
+    "summary": "/* Vehicles */",
     "date": "2026-09-14",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Universal_Monsters_Series_(2026)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/%E9%A2%A8%E7%81%AB%E8%BC%AA_%2740_FORD_%E7%A7%91%E5%AD%B8%E6%80%AA%E4%BA%BA%E7%9A%84%E6%96%B0%E5%A8%98_%E9%8A%80%E6%A8%99_%E7%92%B0%E7%90%83%E6%80%AA%E7%89%A9_1%E8%99%9F.jpg/revision/latest/scale-to-width-down/1200?cb=20260914120956"
+    "image": null
   },
   {
     "id": "rc_803747",
@@ -96,7 +159,7 @@
     "date": "2026-09-14",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Dragster",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Dragster_Org.JPG/revision/latest?cb=20090331010645"
+    "image": null
   },
   {
     "id": "rc_803709",
@@ -105,7 +168,7 @@
     "date": "2026-09-14",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Bassline",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Bassline_-_05_Teku.jpg/revision/latest?cb=20160520061844"
+    "image": null
   },
   {
     "id": "rc_803686",
@@ -258,15 +321,6 @@
     "date": "2026-09-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2027_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
-    "id": "rc_803227",
-    "title": "Hot Wheels Monster Trucks Oversized",
-    "summary": "/* 2026 */",
-    "date": "2026-09-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Oversized",
     "image": null
   },
   {
