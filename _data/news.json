@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_804049",
+    "title": "Land Rover Series II (Hot Wheels XL)",
+    "summary": "Adding categories",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Series_II_(Hot_Wheels_XL)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Land_Rover_XL_JLJ46.png/revision/latest/scale-to-width-down/1200?cb=20260709141023"
+  },
+  {
+    "id": "rc_804011",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinite Rush is a 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game has been released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+  },
+  {
     "id": "rc_803957",
     "title": "Team Hot Wheels Top Rides Series (2012)",
     "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
@@ -92,20 +110,20 @@
   {
     "id": "rc_803686",
     "title": "Action Command 5-Pack",
-    "summary": "The Action Command 5-Pack was released in 1994, featuring the following vehicles.",
+    "summary": "Posted both Pak Vari WHEEL Colour(s) White or Black & Alt Casting Plavement included Tail Gunner Wheel colour(s) ■ Alt Casting Tank Gunner/Tank Bucket Or Command Tank /Battle Tank",
     "date": "2026-09-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Action_Command_5-Pack",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/21/11365_Action_Command_VARI_PAK_r1.jpg/revision/latest/scale-to-width-down/1200?cb=20260913225152"
+    "image": null
   },
   {
     "id": "rc_803679",
     "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "summary": "/* Mattel Creations Collaboratory */",
     "date": "2026-09-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+    "image": null
   },
   {
     "id": "rc_803598",
@@ -252,24 +270,6 @@
     "image": null
   },
   {
-    "id": "rc_803190",
-    "title": "Party Wagon (Monster Truck)",
-    "summary": "Created page with \" ==Description== This is a monster truck version of the Party Wagon. ==Versions== The Party Wagon has come out in the following 1/64 scale versions: {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! styl...\"",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Party_Wagon_(Monster_Truck)",
-    "image": null
-  },
-  {
-    "id": "rc_803188",
-    "title": "Mattel Creations Collaboratory",
-    "summary": "/* Releases */",
-    "date": "2026-09-10",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mattel_Creations_Collaboratory",
-    "image": null
-  },
-  {
     "id": "search_165225",
     "title": "2025 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2025 Treasure Hunts Series",
@@ -300,7 +300,7 @@
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
-    "date": "2026-09-14",
+    "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
@@ -315,21 +315,21 @@
     "image": null
   },
   {
+    "id": "search_196499",
+    "title": "Steve Vandervate/2026 designs",
+    "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
+    "date": "2026-09-15",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
+    "image": null
+  },
+  {
     "id": "search_184597",
     "title": "2026 Car Culture: Team Transport",
     "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
     "date": "2026-09-06",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
-    "image": null
-  },
-  {
-    "id": "search_196499",
-    "title": "Steve Vandervate/2026 designs",
-    "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
-    "date": "2026-09-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
     "image": null
   },
   {
