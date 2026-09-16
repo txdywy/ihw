@@ -1,5 +1,45 @@
 [
   {
+    "id": "img_207165",
+    "title": "Scoopa Di Fuego (Rev-Ups)",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/ScoopaDiFuegoRevUpsUnrel.jpg/revision/latest?cb=20260916134844",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/ScoopaDiFuegoRevUpsUnrel.jpg/revision/latest?cb=20260916134844",
+    "width": 325,
+    "height": 280,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Scoopa_Di_Fuego_(Rev-Ups)"
+  },
+  {
+    "id": "img_207164",
+    "title": "Swamp Buggy (Rev-Ups)",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/a/af/SwampBuggyRevUpsUnrel.jpg/revision/latest?cb=20260916134943",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/a/af/SwampBuggyRevUpsUnrel.jpg/revision/latest?cb=20260916134943",
+    "width": 347,
+    "height": 216,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Swamp_Buggy_(Rev-Ups)"
+  },
+  {
+    "id": "img_207163",
+    "title": "Sharkruiser (Rev-Ups)",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/SharkruiserRevUpsUnrel.jpg/revision/latest/scale-to-width-down/1200?cb=20260916134932",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/SharkruiserRevUpsUnrel.jpg/revision/latest?cb=20260916134932",
+    "width": 1200,
+    "height": 765,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Sharkruiser_(Rev-Ups)"
+  },
+  {
+    "id": "img_207158",
+    "title": "Drift Tech (Rev-Ups)",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/DriftTechRevUps.jpg/revision/latest?cb=20251008035247",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/DriftTechRevUps.jpg/revision/latest?cb=20251008035247",
+    "width": 102,
+    "height": 84,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Drift_Tech_(Rev-Ups)"
+  },
+  {
     "id": "img_206849",
     "title": "Spitbull",
     "url": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Spitbull.jpg/revision/latest/scale-to-width-down/1200?cb=20260123090326",
@@ -258,36 +298,6 @@
     "height": 696,
     "source": "Hot Wheels Wiki",
     "carUrl": "https://hotwheels.fandom.com/wiki/Performance_Test_Trax_vehicle"
-  },
-  {
-    "id": "img_135276",
-    "title": "Tuk 'N' Roll",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Tuk%27nRoll2.jpg/revision/latest/scale-to-width-down/1200?cb=20230313150957",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Tuk%27nRoll2.jpg/revision/latest?cb=20230313150957",
-    "width": 1200,
-    "height": 1217,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Tuk_'N'_Roll"
-  },
-  {
-    "id": "img_191315",
-    "title": "Wreckstruction",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/Big_Rigs_Wreckstruction.jpg/revision/latest/scale-to-width-down/1200?cb=20260714150929",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/Big_Rigs_Wreckstruction.jpg/revision/latest?cb=20260714150929",
-    "width": 1200,
-    "height": 1176,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Wreckstruction"
-  },
-  {
-    "id": "img_199216",
-    "title": "Hot Meals",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Hot_Meals_JKP31.png/revision/latest/scale-to-width-down/1200?cb=20260617142840",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Hot_Meals_JKP31.png/revision/latest?cb=20260617142840",
-    "width": 1200,
-    "height": 716,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Hot_Meals"
   },
   {
     "id": "feat_twin_mill",

@@ -1,5 +1,59 @@
 [
   {
+    "id": "rc_804184",
+    "title": "Hot Wheels World",
+    "summary": "200px|right\nHot Wheels World sets, which began selling in 1997 as the successor to Street Traxx, Sto & Go and Hot Wheels Auto City, are part of a Hot Wheels track system designed to look like a futuristic city. They have track called \"E-Z Snap\" that is used for making the owner's track their dream city....",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_World",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HotWheelsWorld.png/revision/latest?cb=20210625004729"
+  },
+  {
+    "id": "rc_804183",
+    "title": "Rev-Ups (2011)",
+    "summary": "thumb|200px \nRev-Ups were a line of vehicles with a friction motor and magnets on the chassis. The bodies are interchangeable between chassis. This series was a reboot of the earlier Micro Rev-Ups from 2003.",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Rev-Ups_(2011)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Rev_Ups_2010_Logo.png/revision/latest?cb=20210225030048"
+  },
+  {
+    "id": "rc_804181",
+    "title": "Scoopa Di Fuego (Rev-Ups)",
+    "summary": "Created page with \" ==Description== This is a monster truck version of the Scoopa Di Fuego with a friction motor and magnets on the chassis designed for the 2011 Rev-Ups series. This casting appeared on the box for the Stunt Circuit but did not make production. ==Versions== The '''Scoopa Di Fue...\"",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Scoopa_Di_Fuego_(Rev-Ups)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/ScoopaDiFuegoRevUpsUnrel.jpg/revision/latest?cb=20260916134844"
+  },
+  {
+    "id": "rc_804180",
+    "title": "Swamp Buggy (Rev-Ups)",
+    "summary": "Created page with \" ==Description== This is a monster truck version of the Swamp Buggy with a friction motor and magnets on the chassis designed for the 2011 Rev-Ups series. This casting appeared on the box for the Stunt Circuit but did not make production. ==Versions== The Swamp Buggy would hav...\"",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Swamp_Buggy_(Rev-Ups)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/af/SwampBuggyRevUpsUnrel.jpg/revision/latest?cb=20260916134943"
+  },
+  {
+    "id": "rc_804179",
+    "title": "Sharkruiser (Rev-Ups)",
+    "summary": "Created page with \" ==Description== This is a monster truck version of the Sharkruiser with a friction motor and magnets on the chassis designed for the 2011 Rev-Ups series. This casting appeared on the box for the Stunt Circuit but did not make production. ==Versions== The Sharkruiser would ha...\"",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Sharkruiser_(Rev-Ups)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/SharkruiserRevUpsUnrel.jpg/revision/latest/scale-to-width-down/1200?cb=20260916134932"
+  },
+  {
+    "id": "rc_804174",
+    "title": "Drift Tech (Rev-Ups)",
+    "summary": "Created page with \" ==Description== This is a monster truck version of the Drift Tech with a friction motor and magnets on the chassis designed for the 2011 Rev-Ups series. This casting was shown in the artwork for multiple playsets and a physical version was shown in an early stock image, but the casting was never put into production....\"",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Drift_Tech_(Rev-Ups)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/DriftTechRevUps.jpg/revision/latest?cb=20251008035247"
+  },
+  {
     "id": "rc_804133",
     "title": "Hot Wheels Classics",
     "summary": "200px|right\nHot Wheels Classics is an annual line of Hot Wheels cars first released in 2005. They are marketed towards adult collectors and were originally priced around $3.99 (USD). Each car features a metal base and is released in several different Spectraflame colors.",
@@ -60,7 +114,7 @@
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'22_Ford_Maverick_Custom_(Hot_Wheels_XL)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/22MaverickXL.jpg/revision/latest/scale-to-width-down/1200?cb=20260612175130"
+    "image": null
   },
   {
     "id": "rc_804057",
@@ -69,7 +123,7 @@
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2016_Ford_GT_Race_(Hot_Wheels_XL)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/2016FordGTXL.png/revision/latest?cb=20260723141631"
+    "image": null
   },
   {
     "id": "rc_804049",
@@ -78,34 +132,34 @@
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Land_Rover_Series_II_(Hot_Wheels_XL)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Land_Rover_XL_JLJ46.png/revision/latest/scale-to-width-down/1200?cb=20260709141023"
+    "image": null
   },
   {
     "id": "rc_804011",
     "title": "Hot Wheels Infinite Rush",
-    "summary": "Hot Wheels Infinite Rush is a 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game has been released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "summary": "/* Upcoming/Unlisted Cars List */",
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+    "image": null
   },
   {
     "id": "rc_803957",
     "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "The Team Hot Wheels Top Rides Series was released exclusively at Target stores in 2012. All castings in this series are all 2011 and 2012 mainline releases on a specially designed card by the picks of the four driver teams. Each vehicle comes with a sticker sheet consisting of the Team Hot Wheels logo and the team color icon.",
+    "summary": "YELLOW Driver Y3836 '70 GTO Judge Damage CUT CARD Tip cut off NEED to be Replaced Upgraded ●● Didn't Realize recently purchased SLIGHTLY CUT Card",
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
+    "image": null
   },
   {
     "id": "rc_803934",
     "title": "Yechin Zhao",
-    "summary": "Yechin Zhao is an American designer who has worked with Mattel since 2022. Currently working with the Hot Wheels Track and Playsets team among other teams, he worked on Cars products prior to moving to the Hot Wheels brand. He can be found on social media under the handle @each.n.everyone.",
+    "summary": "Created page with \" Yechin Zhao is an American designer who has worked with Mattel since 2022. Currently working with the Hot Wheels Track and Playsets team among other teams, he worked on Cars products prior to moving to the Hot Wheels brand. He can be found on social media under the handle @each.n.everyone. ==Works== *Dessert Skate Park *...\"",
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Yechin_Zhao",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/YechinZhao.jpg/revision/latest?cb=20260915015922"
+    "image": null
   },
   {
     "id": "rc_803933",
@@ -297,15 +351,6 @@
     "image": null
   },
   {
-    "id": "rc_803379",
-    "title": "El Rey Special",
-    "summary": "Removed hyperlinks for the text \"Malibu Grand Prix\" and \"Lightning Gold.\" These are alt names for this casting and I'm not sure if they needed to be self referential to this page. Correct me if I'm wrong. Made them bold so they still stand out in the paragraph to match the rest of the formatting.",
-    "date": "2026-09-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/El_Rey_Special",
-    "image": null
-  },
-  {
     "id": "search_165225",
     "title": "2025 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2025 Treasure Hunts Series",
@@ -351,30 +396,21 @@
     "image": null
   },
   {
+    "id": "search_184597",
+    "title": "2026 Car Culture: Team Transport",
+    "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
+    "image": null
+  },
+  {
     "id": "search_196499",
     "title": "Steve Vandervate/2026 designs",
     "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
     "date": "2026-09-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
-    "image": null
-  },
-  {
-    "id": "search_184597",
-    "title": "2026 Car Culture: Team Transport",
-    "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-09-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
-    "image": null
-  },
-  {
-    "id": "search_189648",
-    "title": "European Car Culture Themed Multipack (2026)",
-    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
-    "date": "2026-07-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
     "image": null
   },
   {
