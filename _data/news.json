@@ -1,6 +1,15 @@
 [
   {
-    "id": "rc_804097",
+    "id": "rc_804120",
+    "title": "Key Force",
+    "summary": "right|200pxKey Force was a short-lived series of transforming vehicle toys produced from 1992 to 1994. Each vehicle featured two different modes, which could be unlocked using a key provided with each vehicle. Once the vehicles were transformed, the keys could be inserted into slots in the car's bodies to fire missiles or activate various parts.",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Key_Force",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/74/Keyforce_Logo.jpg/revision/latest?cb=20230318134319"
+  },
+  {
+    "id": "rc_804105",
     "title": "Hot Wheels Classics",
     "summary": "200px|right\nHot Wheels Classics is an annual line of Hot Wheels cars first released in 2005. They are marketed towards adult collectors and were originally priced around $3.99 (USD). Each car features a metal base and is released in several different Spectraflame colors.",
     "date": "2026-09-15",
@@ -88,15 +97,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Team_Hot_Wheels_2012_Cars.JPG/revision/latest/scale-to-width-down/1200?cb=20221001135431"
-  },
-  {
-    "id": "rc_803941",
-    "title": "Key Force",
-    "summary": "right|200pxKey Force was a short-lived series of transforming vehicle toys produced from 1992 to 1994. Each vehicle featured two different modes, which could be unlocked using a key provided with each vehicle. Once the vehicles were transformed, the keys could be inserted into slots in the car's bodies to fire missiles or activate various parts.",
-    "date": "2026-09-15",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Key_Force",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/74/Keyforce_Logo.jpg/revision/latest?cb=20230318134319"
   },
   {
     "id": "rc_803934",
@@ -303,24 +303,6 @@
     "date": "2026-09-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/El_Rey_Special",
-    "image": null
-  },
-  {
-    "id": "rc_803262",
-    "title": "Oldsmobile",
-    "summary": "Created page with \" Oldsmobile (formally the Oldsmobile Division of General Motors) was a brand of American automobiles, produced for most of its existence by General Motors. Originally established as \"Olds Motor Vehicle Company\" by Ransom E. Olds in 1897, it produced over 35 million vehicles,...\"",
-    "date": "2026-09-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Oldsmobile",
-    "image": null
-  },
-  {
-    "id": "rc_803260",
-    "title": "2027 Treasure Hunts Series",
-    "summary": "/* 2027 Super Treasure Hunts */",
-    "date": "2026-09-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Treasure_Hunts_Series",
     "image": null
   },
   {
