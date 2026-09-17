@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_804387",
+    "title": "Speed Snap",
+    "summary": "thumb\nSpeed Snap (officially Speed Snap Track System) is a track system introduced in 2025. It was intended as Mattel's response to research and customer input regarding Hot Wheels track sets, the studies finding a majority of kids aged 3-6 unable to build sets on their own, and parents finding them complicated, hard to store, and took up too much space....",
+    "date": "2026-09-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Speed_Snap",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/SpeedSnap.png/revision/latest?cb=20260908011624"
+  },
+  {
+    "id": "rc_804386",
+    "title": "Hot Wheels RacerVerse tracks",
+    "summary": "hHot Wheels RacerVerse tracks is the track lineup which is made of an obstacle course based of any place from movie/animated series transformed into the racetrack. The lineup uses the Speed Snap system for connecting with other tracks.",
+    "date": "2026-09-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RacerVerse_tracks",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/LOOSE_Chash.webp/revision/latest/scale-to-width-down/1200?cb=20260917175116"
+  },
+  {
     "id": "rc_804325",
     "title": "'67 Shelby GT500 (2010)",
     "summary": "Couldnt figure out a correct LIBE SPLITS 2 & 3 splits on single color amd Teleaes numbers SO made a single entry 2010-001 001/240 GREEN w/ Pink Window I listed it first of the 3 GREENS will try to combine the 3 I think having the PINK wibdow USA 1/240 placed in middle is why i couldnt fogure out the SPLITS lines WILLL try it again with PINK listed as First & only 1 vers ( I Do not know if PINK...",
@@ -92,11 +110,11 @@
   {
     "id": "rc_804183",
     "title": "Rev-Ups (2011)",
-    "summary": "thumb|200px \nRev-Ups were a line of vehicles with a friction motor and magnets on the chassis. The bodies are interchangeable between chassis. This series was a reboot of the earlier Micro Rev-Ups from 2003.",
+    "summary": "it is somewhat of a presumption that these were unreleased but I've never seen any traces of them and the set they were shown with is uncommon to begin with.",
     "date": "2026-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Rev-Ups_(2011)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Rev_Ups_2010_Logo.png/revision/latest?cb=20210225030048"
+    "image": null
   },
   {
     "id": "rc_804181",
@@ -105,7 +123,7 @@
     "date": "2026-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Scoopa_Di_Fuego_(Rev-Ups)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/ScoopaDiFuegoRevUpsUnrel.jpg/revision/latest?cb=20260916134844"
+    "image": null
   },
   {
     "id": "rc_804180",
@@ -315,39 +333,12 @@
     "image": null
   },
   {
-    "id": "rc_803588",
-    "title": "Turbofire",
-    "summary": "\"Dream Car\" is a generic name used by Hot Wheels designers of old to refer to literally any design depicting a concept car of the future. MULTIPLE cars have been conceptualized with this name.",
-    "date": "2026-09-13",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Turbofire",
-    "image": null
-  },
-  {
-    "id": "rc_803585",
-    "title": "GT Hunter",
-    "summary": "Added preliminary info on Pantone release",
-    "date": "2026-09-13",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/GT_Hunter",
-    "image": null
-  },
-  {
-    "id": "rc_803574",
+    "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
-    "summary": "/* 2026 Treasure Hunts */",
+    "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
     "date": "2026-09-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
-    "id": "rc_803571",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* Rod Squad 40px */",
-    "date": "2026-09-13",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
@@ -366,6 +357,15 @@
     "date": "2025-10-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2022_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
