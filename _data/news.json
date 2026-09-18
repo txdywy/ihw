@@ -1,21 +1,39 @@
 [
   {
-    "id": "rc_804387",
+    "id": "rc_804443",
+    "title": "Hot Wheels Haulers",
+    "summary": "Haulers was a series of trucks released from 1997 to 2002. This series was produced by ARCO Toys until at least 2000 when any mention of ARCO Toys was dropped from packaging. Some castings were also used in playsets and Super Race Rigs packs.",
+    "date": "2026-09-18",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Haulers",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Hauler_Good_%26_Plenty_Turck.jpg/revision/latest/scale-to-width-down/1200?cb=20190226171714"
+  },
+  {
+    "id": "rc_804438",
+    "title": "40th Annual Hot Wheels Collectors Convention",
+    "summary": "The 40th Annual Hot Wheels Collectors Convention will take place from 7 to 11 October 2026 in Los Angeles, California. The Guest of Honor at the Nationals will be Bryan Benedict. The following vehicles were released for the 40th Annual Hot Wheels Collectors Convention:",
+    "date": "2026-09-18",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
+    "image": null
+  },
+  {
+    "id": "rc_804425",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinite Rush is a 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game has been released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-09-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
+  },
+  {
+    "id": "rc_804418",
     "title": "Speed Snap",
     "summary": "thumb\nSpeed Snap (officially Speed Snap Track System) is a track system introduced in 2025. It was intended as Mattel's response to research and customer input regarding Hot Wheels track sets, the studies finding a majority of kids aged 3-6 unable to build sets on their own, and parents finding them complicated, hard to store, and took up too much space....",
     "date": "2026-09-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Speed_Snap",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/SpeedSnap.png/revision/latest?cb=20260908011624"
-  },
-  {
-    "id": "rc_804386",
-    "title": "Hot Wheels RacerVerse tracks",
-    "summary": "hHot Wheels RacerVerse tracks is the track lineup which is made of an obstacle course based of any place from movie/animated series transformed into the racetrack. The lineup uses the Speed Snap system for connecting with other tracks.",
-    "date": "2026-09-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RacerVerse_tracks",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/LOOSE_Chash.webp/revision/latest/scale-to-width-down/1200?cb=20260917175116"
   },
   {
     "id": "rc_804325",
@@ -52,15 +70,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Speed_Graphics_5-Pack",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/2/25/2016-HW-SpeedGraphics.jpg/revision/latest/scale-to-width-down/1200?cb=20161121090317"
-  },
-  {
-    "id": "rc_804271",
-    "title": "Hot Wheels Infinite Rush",
-    "summary": "Hot Wheels Infinite Rush is a 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game has been released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
-    "date": "2026-09-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest?cb=20260716204518"
   },
   {
     "id": "rc_804266",
@@ -101,11 +110,11 @@
   {
     "id": "rc_804184",
     "title": "Hot Wheels World",
-    "summary": "200px|right\nHot Wheels World sets, which began selling in 1997 as the successor to Street Traxx, Sto & Go and Hot Wheels Auto City, are part of a Hot Wheels track system designed to look like a futuristic city. They have track called \"E-Z Snap\" that is used for making the owner's track their dream city....",
+    "summary": "Added 88202 Deluxe Downtown Roadway ( 3 in 1 sets ) Police Station • Car Wash • Crash Curve! ● VW Bug ● '57 Chevy ● Velocitor ( police car )",
     "date": "2026-09-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_World",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HotWheelsWorld.png/revision/latest?cb=20210625004729"
+    "image": null
   },
   {
     "id": "rc_804183",
@@ -321,15 +330,6 @@
     "date": "2026-09-13",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": null
-  },
-  {
-    "id": "rc_803598",
-    "title": "2026 Hot Wheels Legends Tour",
-    "summary": "/* International finalists */",
-    "date": "2026-09-13",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
     "image": null
   },
   {
