@@ -1,12 +1,21 @@
 [
   {
-    "id": "rc_804980",
+    "id": "rc_805025",
     "title": "HW Poppa Wheelie",
-    "summary": "SK5SP didn't exist till 2015",
+    "summary": "/* Description */",
     "date": "2026-09-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Poppa_Wheelie",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/HW-2014-125-Poppa_Wheelie-Daredevils.jpg/revision/latest?cb=20140605014606"
+  },
+  {
+    "id": "rc_805022",
+    "title": "'84 Pontiac Grand Prix",
+    "summary": "Hot Ones CHASE mp 10pk. Movin' CARD single to GALLERY",
+    "date": "2026-09-21",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/'84_Pontiac_Grand_Prix",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/2004generalmills84pontiacgrandprix-.jpg/revision/latest?cb=20100518021646"
   },
   {
     "id": "rc_804978",
@@ -101,11 +110,11 @@
   {
     "id": "rc_804621",
     "title": "2026 Japan Collectors Convention",
-    "summary": "The 2026 Japan Collectors Convention took place in Chiba, Japan on 24 May 2026 in conjunction with the MINI CAR A GO GO!! Dwayne Vance was the guest of honor at the event.",
+    "summary": "/* Convention Cars */",
     "date": "2026-09-18",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Japan_Collectors_Convention",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/2026_JAPAN_JCP40_Kawa-Bug-A_LEFT_r1.jpg/revision/latest/scale-to-width-down/1200?cb=20260612051909"
+    "image": null
   },
   {
     "id": "rc_804618",
