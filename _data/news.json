@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_805210",
+    "title": "Hot Wheels XL",
+    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
+    "date": "2026-09-22",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
+  },
+  {
+    "id": "rc_805189",
+    "title": "Neet Streeter",
+    "summary": "Added a similar car",
+    "date": "2026-09-22",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Neet_Streeter",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Neet_Streeter_RL_HK_%21976.jpg/revision/latest/scale-to-width-down/1200?cb=20130121213400"
+  },
+  {
+    "id": "rc_805188",
+    "title": "Clover Cars Series (2007)",
+    "summary": "The 2007 Clover Cars Series was available at Walmart.",
+    "date": "2026-09-22",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Clover_Cars_Series_(2007)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Dodge-viper-2007-clover.jpg/revision/latest?cb=20200330093452"
+  },
+  {
     "id": "rc_805158",
     "title": "Hot Wheels Infinite Rush",
     "summary": "Hot Wheels Infinite Rush is a 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game has been released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
@@ -83,16 +110,16 @@
   {
     "id": "rc_805095",
     "title": "Polestar",
-    "summary": "Polestar Automotive Holding UK PLC, or simply Polestar, is a Swedish automotive manufacturer that produces electric cars and is principally owned by Li Shufu's PSD Investment, Geely Holding and Volvo Cars....",
+    "summary": "Created page with \" Polestar Automotive Holding UK PLC, or simply Polestar, is a Swedish automotive manufacturer that produces electric cars and is principally owned by Li Shufu's PSD Investment, Geely Holding and Volvo Cars. With an \"asset-light\" approach in development and manufacturing, Polestar does not have its own manu...\"",
     "date": "2026-09-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Polestar",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Polestar_Synergy.PNG/revision/latest?cb=20241213221332"
+    "image": null
   },
   {
     "id": "rc_805086",
     "title": "Baseplates",
-    "summary": "This is the main crosswalk table between Baseplates and Casting Pages for 1/64 Scale Hot Wheels models. Baseplate variations are listed oldest-newest tooling.",
+    "summary": "Added Lotus Espirt 2001c Yet the 2011 RELEASE has a Toy # W1582 also on Base Thailand",
     "date": "2026-09-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Baseplates",
@@ -101,11 +128,11 @@
   {
     "id": "rc_805085",
     "title": "Errors",
-    "summary": "Errors are Hot Wheels cars with defects from the manufacturing process. This can include problems with the actual car itself, such as having the incorrect wheels, mis-application of tampos, and broken/missing parts, or can include mistakes with how the car is packaged....",
+    "summary": "/* Card Errors */",
     "date": "2026-09-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Errors",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/Zoticerror1.jpeg/revision/latest/scale-to-width-down/1200?cb=20240707021620"
+    "image": null
   },
   {
     "id": "rc_805080",
@@ -315,42 +342,6 @@
     "image": null
   },
   {
-    "id": "rc_804325",
-    "title": "'67 Shelby GT500 (2010)",
-    "summary": "Couldnt figure out a correct LIBE SPLITS 2 & 3 splits on single color amd Teleaes numbers SO made a single entry 2010-001 001/240 GREEN w/ Pink Window I listed it first of the 3 GREENS will try to combine the 3 I think having the PINK wibdow USA 1/240 placed in middle is why i couldnt fogure out the SPLITS lines WILLL try it again with PINK listed as First & only 1 vers ( I Do not know if PINK...",
-    "date": "2026-09-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'67_Shelby_GT500_(2010)",
-    "image": null
-  },
-  {
-    "id": "rc_804322",
-    "title": "2027 Mystery Models",
-    "summary": "Created page with \"==Series 1== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" ! style=\"border-style: none none solid solid\" | Series # ! style=\"border-style: none none solid solid\" |Casting Name ! style=\"border-style: none none solid solid\" |Body Color ! style=\"border-style: none none solid solid\" |Toy # ! style=\"border-style: none none solid solid\" |Notes !...",
-    "date": "2026-09-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Mystery_Models",
-    "image": null
-  },
-  {
-    "id": "rc_804309",
-    "title": "HW Speed Graphics 5-Pack",
-    "summary": "Adding categories",
-    "date": "2026-09-17",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Speed_Graphics_5-Pack",
-    "image": null
-  },
-  {
-    "id": "rc_804266",
-    "title": "List of 2027 Hot Wheels (by Series)",
-    "summary": "/* HW Euro 40px */",
-    "date": "2026-09-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -438,6 +429,24 @@
     "date": "2026-07-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
+    "image": null
+  },
+  {
+    "id": "search_99697",
+    "title": "Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: Hot Wheels Boulevard",
+    "date": "2024-09-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_169010",
+    "title": "2025 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2025 Hot Wheels Boulevard",
+    "date": "2026-08-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
