@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_805575",
+    "title": "Scion",
+    "summary": "Scion was a marque of Toyota that debuted in 2003 and was available only in the United States and Canada. It was intended to appeal to millennials; the Scion marque emphasized inexpensive, stylish, and distinctive sport compact vehicles, and used a simplified \"pure price\" sales concept that eschewed traditional trim levels and dealer haggling....",
+    "date": "2026-09-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Scion",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/00/ScionXBHINGreen.jpg/revision/latest/scale-to-width-down/1200?cb=20231231012558"
+  },
+  {
+    "id": "rc_805572",
+    "title": "Packard",
+    "summary": "Packard (formerly the Packard Motor Car Company) was an American luxury automobile company located in Detroit, Michigan. One of the \"Three Ps\" – alongside Peerless Motor Company and Pierce-Arrow – the company was known for building high-quality luxury automobiles before World War II. A Packard was a prestigious vehicle, and surviving examples are often found in museums and automobile collections.",
+    "date": "2026-09-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Packard",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Classicpackard.jpg/revision/latest?cb=20080413055604"
+  },
+  {
+    "id": "rc_805564",
+    "title": "Scania",
+    "summary": "Founded in 1911, Scania AB, stylised SCANIA, is a Swedish manufacturer of heavy trucks, buses and engines headquartered in Södertälje, Sweden. The company develops commercial vehicles for long-distance haulage, construction and regional distribution, as well as engines and power solutions for marine and industrial applications. Scania is a subsidiary of Traton, part of the Volkswagen Group....",
+    "date": "2026-09-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Scania",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/93/GRV11_-_Scania_Rally_Truck-1-2.jpg/revision/latest/scale-to-width-down/1200?cb=20210923202422"
+  },
+  {
     "id": "rc_805552",
     "title": "Saleen",
     "summary": "Saleen Automotive, Inc., commonly known as Saleen, is an American manufacturer of specialty high-performance sports cars and high-performance automotive parts, and is privately held. The Saleen brand was established in 1983 originally as \"Saleen Autosport\" by Steve Saleen, a former professional Formula Atlantic race-car driver....",
@@ -83,11 +110,11 @@
   {
     "id": "rc_805210",
     "title": "Hot Wheels XL",
-    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
+    "summary": "/* 2026 */",
     "date": "2026-09-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
+    "image": null
   },
   {
     "id": "rc_805189",
@@ -96,16 +123,16 @@
     "date": "2026-09-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Neet_Streeter",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Neet_Streeter_RL_HK_%21976.jpg/revision/latest/scale-to-width-down/1200?cb=20130121213400"
+    "image": null
   },
   {
     "id": "rc_805188",
     "title": "Clover Cars Series (2007)",
-    "summary": "The 2007 Clover Cars Series was available at Walmart.",
+    "summary": "/* Vehicles */",
     "date": "2026-09-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Clover_Cars_Series_(2007)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Dodge-viper-2007-clover.jpg/revision/latest?cb=20200330093452"
+    "image": null
   },
   {
     "id": "rc_805147",
@@ -288,24 +315,6 @@
     "image": null
   },
   {
-    "id": "rc_804681",
-    "title": "Team Hot Wheels Top Rides Series (2012)",
-    "summary": "RED Driver Y3855 '71 Charger",
-    "date": "2026-09-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Top_Rides_Series_(2012)",
-    "image": null
-  },
-  {
-    "id": "rc_804656",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "1970 Pontiac Firebird (2nd Color)",
-    "date": "2026-09-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -330,6 +339,15 @@
     "date": "2025-10-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2022_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-09-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
