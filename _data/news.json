@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_805552",
+    "title": "Saleen",
+    "summary": "Saleen Automotive, Inc., commonly known as Saleen, is an American manufacturer of specialty high-performance sports cars and high-performance automotive parts, and is privately held. The Saleen brand was established in 1983 originally as \"Saleen Autosport\" by Steve Saleen, a former professional Formula Atlantic race-car driver....",
+    "date": "2026-09-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Saleen",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/50/Saleen_S7_2002_FE_PR5.jpg/revision/latest?cb=20090130030929"
+  },
+  {
     "id": "rc_805461",
     "title": "40 Years of Hot Wheels Set",
     "summary": "* Though the series honors each year with a car that appeared in the Mainline, the Olds 442 W-30 for 1993 is the only car that did not appear in the Mainline but the Demolition Man series. Only making its first appearance in the Mainline in 1995\n40_Years_of_Hot_Wheels_Set_FRONT.jpg|40 Years of Hot Wheels Set FRONT\n40_Years_of_Hot_Wheels_Set_BACK....",
@@ -101,11 +110,11 @@
   {
     "id": "rc_805147",
     "title": "2023 Collector Edition",
-    "summary": "2023-MI1 DollarGen 993 GT2 Display HRX21 HKL69 Z3.jpg|from Display Tray\n2023-MI1 DollarGen 993 GT2 Display HRX21 HKL69 Z.jpg\n2023-CE HKL69 993 GT2 r2.jpg\n2023-CE HKL69 993 GT2 o2r.jpg\nAs a Walmart promotion between November 19th to December 30th, if you spent $20 you could receive one of two cars; the 2019 Collector Edition '70 Chevelle SS Wagon or the 2021 Collector Edition '65 Ford Galaxie....",
+    "summary": "/* Vehicles */",
     "date": "2026-09-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2023_Collector_Edition",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2023-CE_HKL69_993_GT2_o4.jpg/revision/latest?cb=20250919064401"
+    "image": null
   },
   {
     "id": "rc_805146",
@@ -297,42 +306,6 @@
     "image": null
   },
   {
-    "id": "rc_804639",
-    "title": "2025 Hot Wheels Legends Tour",
-    "summary": "Reverted edit by Someonesawmyname (talk) to last revision by Grunty89",
-    "date": "2026-09-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
-    "id": "rc_804627",
-    "title": "Design Team",
-    "summary": "/* Casting designers */",
-    "date": "2026-09-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Design_Team",
-    "image": null
-  },
-  {
-    "id": "rc_804621",
-    "title": "2026 Japan Collectors Convention",
-    "summary": "/* Convention Cars */",
-    "date": "2026-09-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Japan_Collectors_Convention",
-    "image": null
-  },
-  {
-    "id": "rc_804618",
-    "title": "Hot Wheels J-Imports Series (2027)",
-    "summary": "Created page with \"==Vehicles== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" ! style=\"border-style: none none solid solid\" |Series # ! style=\"border-style: none none solid solid\" |Toy # ! style=\"border-style: none none solid solid\" |Casting Name ! style=\"border-style: none none solid solid\" |Color ! style=\"border-style: none none solid solid\" |Wheel Type !...",
-    "date": "2026-09-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_J-Imports_Series_(2027)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -381,7 +354,7 @@
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
-    "date": "2026-09-15",
+    "date": "2026-09-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
@@ -408,7 +381,7 @@
     "id": "search_196499",
     "title": "Steve Vandervate/2026 designs",
     "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
-    "date": "2026-09-15",
+    "date": "2026-09-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
     "image": null
