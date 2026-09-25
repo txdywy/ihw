@@ -151,5 +151,14 @@
     "saleDate": "25 August 2026",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/3/37/2026-RLC_JJY59_r1.jpg/revision/latest/scale-to-width-down/1200?cb=20260830004207",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_nissan_skyline_gt_r__bnr32_",
+    "name": "Nissan Skyline GT-R (BNR32)",
+    "year": 2026,
+    "color": "Spectraflame slate",
+    "saleDate": "29 September 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
   }
 ]
