@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_806387",
+    "title": "List of 2024 Hot Wheels (by Series)",
+    "summary": "For 2024, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. This list lists the model grouped by series.",
+    "date": "2026-09-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2024_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
+    "id": "rc_806384",
+    "title": "List of 2025 Hot Wheels (by Series)",
+    "summary": "For 2025, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2025 Hot Wheels.",
+    "date": "2026-09-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2025_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
     "id": "rc_806289",
     "title": "2026 Singapore Hot Wheels Convention",
     "summary": "The 2026 Singapore Hot Wheels Convention (officially the 1st Annual Hot Wheels Collectors Convention Singapore 2026) took place from 25 to 27 September 2026 in Singapore. Andrés Andrieu was the guest of honor at the event. As with all previous editions, this event was organized by Korei.",
@@ -92,20 +110,20 @@
   {
     "id": "rc_806023",
     "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "summary": "Undo revision 806015 by . AndyBFG (talk)",
     "date": "2026-09-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_805994",
     "title": "Hot Wheels - Epic Show",
-    "summary": "The Hot Wheels - Epic Show is a Hot Wheels-themed stunt show performed at Brazilian theme park Beto Carrero World, in Penha, Santa Catarina. It features approximately 40 minutes of incredible stunts that mimic those performed by children in toy cars. The show is included in the park's entry pass.",
+    "summary": "/* 2025 Accident */",
     "date": "2026-09-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_-_Epic_Show",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Hot_Wheels_Epic_Show_001.jpeg/revision/latest?cb=20250821185229"
+    "image": null
   },
   {
     "id": "rc_805903",
@@ -288,33 +306,6 @@
     "image": null
   },
   {
-    "id": "rc_805688",
-    "title": "Peter Carris",
-    "summary": "Created page with \"Peter Carris is a former graphic designer for Hot Wheels who worked for the brand from 1999 to 2003. He is known for his work on Highway 35 World Race and many other series. In his personal life he graduated from San José State University under Industrial and Product Design courses with a Bachelor of Arts and ArtCenter College of Design un...\"",
-    "date": "2026-09-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Peter_Carris",
-    "image": null
-  },
-  {
-    "id": "rc_805683",
-    "title": "Jerry Thienprasiddhi/2003 designs",
-    "summary": "Created page with \"The following is a list of 2003 Hot Wheels tampo designs by Jerry Thienprasiddhi. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-09-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Jerry_Thienprasiddhi%2F2003_designs",
-    "image": null
-  },
-  {
-    "id": "rc_805666",
-    "title": "Michael Heralda/1998 designs",
-    "summary": "Created page with \"The following is a list of 2005 Hot Wheels tampo designs by Michael Heralda. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-09-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Michael_Heralda%2F1998_designs",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -390,7 +381,7 @@
     "id": "search_196499",
     "title": "Steve Vandervate/2026 designs",
     "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
     "image": null
