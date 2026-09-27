@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_806650",
+    "title": "HW Flames 5-Pack (2020)",
+    "summary": "The HW Flames 5-Pack (GHP60) was released in 2020. All vhicles were made in Indonesia.",
+    "date": "2026-09-27",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Flames_5-Pack_(2020)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/25/Hotwheels5pack2020hwflames.jpg/revision/latest?cb=20200608170946"
+  },
+  {
     "id": "rc_806633",
     "title": "List of 2027 Hot Wheels (by Series)",
     "summary": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. Off-roaders that were built to feel the mud between their tires. The blasts from the past meet the motors of tomorrow, in fan-voted combos for every car-lover!",
@@ -101,11 +110,11 @@
   {
     "id": "rc_806192",
     "title": "2027 Mystery Models",
-    "summary": "Category:Hot Wheels by Series\nCategory:Mystery Models",
+    "summary": "/* Series 1 */",
     "date": "2026-09-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2027_Mystery_Models",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/67873846_2140142139616800_2183669696656572416_n.jpg/revision/latest?cb=20190810195809"
+    "image": null
   },
   {
     "id": "rc_806128",
