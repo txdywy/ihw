@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_807077",
+    "title": "Lotus Esprit",
+    "summary": "Back of cards",
+    "date": "2026-09-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Lotus_Esprit",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/20/LotusEsprit.jpg/revision/latest?cb=20080314021212"
+  },
+  {
+    "id": "rc_807068",
+    "title": "Suzuki",
+    "summary": "Suzuki Motor Corporation is a Japanese multinational mobility manufacturer headquartered in Hamamatsu, Shizuoka. It manufactures automobiles, motorcycles, all-terrain vehicles (ATVs), outboard marine engines, wheelchairs and a variety of other small internal combustion engines....",
+    "date": "2026-09-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Suzuki",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Suzuki_QuadracerCTY.JPG/revision/latest?cb=20091115064908"
+  },
+  {
+    "id": "rc_807016",
+    "title": "Stutz Motor Cars",
+    "summary": "The Stutz Motor Car Company was an American automobile manufacturer based in Indianapolis, Indiana that produced high-end sports and luxury cars. The company was founded in 1911 as the Ideal Motor Car Company before merging with the Stutz Auto Parts Company in 1913. Due to the pressures of the Great Depression, the Stutz company went defunct in 1938.",
+    "date": "2026-09-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Stutz_Motor_Cars",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Stutz_Blackhawk_Gry.JPG/revision/latest?cb=20090118035629"
+  },
+  {
+    "id": "rc_806988",
+    "title": "Super Hot Wheels",
+    "summary": "Added anotheg CUT CARD from 2pk cut design cards BOTTOM CAR of a 2pk GOLF CABRIOLET Racing Yellow , Blue Stripes FRANCFORT 26 PIERBURG ZENITH more sponsors on hood BLUE BASE",
+    "date": "2026-09-28",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Super_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/06/Super_Hot_Wheels_Logo.PNG/revision/latest?cb=20220713193456"
+  },
+  {
     "id": "rc_806915",
     "title": "The Loyal Subjects",
     "summary": "Trading Card Drift Rod 1 of 48 one in out of 4 cases",
@@ -74,20 +110,20 @@
   {
     "id": "rc_806545",
     "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "summary": "/* Elite 64 */",
     "date": "2026-09-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+    "image": null
   },
   {
     "id": "rc_806508",
     "title": "'Tooned",
-    "summary": "150px|right'Tooned (alternatively formatted as Tooned or Toon'd) is a body style of Hot Wheels cars introduced in 2003. While the definition of 'Tooned vehicles has changed significantly over the years, the one constant is their squished-up or exaggerated proportions compared to their scale counterparts....",
+    "summary": "/* List of 'Tooned vehicles */",
     "date": "2026-09-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'Tooned",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Tooned.png/revision/latest?cb=20180408233838"
+    "image": null
   },
   {
     "id": "rc_806476",
@@ -96,16 +132,16 @@
     "date": "2026-09-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mercedes_380_SEL",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/380SEL82HotOnes.jpg/revision/latest/scale-to-width-down/1200?cb=20260223071806"
+    "image": null
   },
   {
     "id": "rc_806387",
     "title": "List of 2024 Hot Wheels (by Series)",
-    "summary": "For 2024, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. This list lists the model grouped by series.",
+    "summary": "/* HW Celebration Racers 40px */",
     "date": "2026-09-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2024_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+    "image": null
   },
   {
     "id": "rc_806384",
@@ -132,42 +168,6 @@
     "date": "2026-09-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Rondres_W-33",
-    "image": null
-  },
-  {
-    "id": "rc_806207",
-    "title": "Drift Rod",
-    "summary": "new base code, for the co-molded casting",
-    "date": "2026-09-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Drift_Rod",
-    "image": null
-  },
-  {
-    "id": "rc_806192",
-    "title": "2027 Mystery Models",
-    "summary": "/* Series 1 */",
-    "date": "2026-09-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Mystery_Models",
-    "image": null
-  },
-  {
-    "id": "rc_806128",
-    "title": "Liberty Walk",
-    "summary": "/* Liberty Walk models by casting: */",
-    "date": "2026-09-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Liberty_Walk",
-    "image": null
-  },
-  {
-    "id": "rc_806126",
-    "title": "Audi",
-    "summary": "Can you NOT use the French titles of the series and think it's the official name?",
-    "date": "2026-09-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Audi",
     "image": null
   },
   {
@@ -228,7 +228,7 @@
     "id": "search_185398",
     "title": "2026 Car Culture",
     "summary": "Latest Hot Wheels information: 2026 Car Culture",
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture",
     "image": null
