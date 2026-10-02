@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_807906",
+    "title": "Bywayman",
+    "summary": "/* Backs of Cards */",
+    "date": "2026-10-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Bywayman",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/45/Bywayman_LtBlBW.JPG/revision/latest?cb=20090101183707"
+  },
+  {
     "id": "rc_807883",
     "title": "Hot Wheels Fire Rescue",
     "summary": "/* Versions */",
@@ -105,7 +114,7 @@
     "date": "2026-09-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Grogu's_Great_Race",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/HPL32_RacerVerse_Grogu%27s_Great_Race_r1.jpg/revision/latest/scale-to-width-down/1200?cb=20260930131953"
+    "image": null
   },
   {
     "id": "rc_807612",
@@ -249,15 +258,6 @@
     "date": "2026-09-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Lotus_Esprit",
-    "image": null
-  },
-  {
-    "id": "rc_807068",
-    "title": "Suzuki",
-    "summary": "Created page with \" Suzuki Motor Corporation is a Japanese multinational mobility manufacturer headquartered in Hamamatsu, Shizuoka. It manufactures automobiles, motorcycles, all-terrain vehicles (ATVs), outboard marine engines, wheelchairs and a variety of other small internal combustion engines. Founded in 1909 as \"Su...\"",
-    "date": "2026-09-28",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Suzuki",
     "image": null
   },
   {
