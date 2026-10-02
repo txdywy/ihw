@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_807975",
+    "title": "Zender",
+    "summary": "Founded in 1969 by Hans-Albert Zender as HAZ, Zender GmbH produced individual car bucket seats on special request and fender extensions made of glass fiber reinforced plastic for the NSU TT in Bassenheim near Koblenz. From 1974, Zender produced body parts made of ABS plastic and polyurethane foam. Ford became a customer.",
+    "date": "2026-10-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Zender",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/Zender_Fact_4_SlvUH.JPG/revision/latest?cb=20090203150224"
+  },
+  {
+    "id": "rc_807972",
+    "title": "Phantom",
+    "summary": "Phantom was an American automobile manufacturer created in 1938 by Rust Heinz to produce his futuristic streamlined car, the Corsair. The car was designed with safety at the utmost, with a body of electrically welded aviation steel tubing, an outer surface of alloy steel, and a passenger compartment lined with rubber composition, passengers riding in a scientifically safe \"steel cage....",
+    "date": "2026-10-02",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Phantom",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/38_Phantom_Corsair_Blk.JPG/revision/latest?cb=20090319042402"
+  },
+  {
     "id": "rc_807944",
     "title": "2027 Hot Wheels Boulevard",
     "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
@@ -92,11 +110,11 @@
   {
     "id": "rc_807656",
     "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "Each truck included a trophy accessory. File:2025 Monster Trucks TYRE Dump.jpg\nFile:2025 Monster Trucks TYRE Dump 1L.jpg\nFile:2025 Monster Trucks TYRE Dump Left.jpg\nFile:JJN44 Monster Trucks Snake Slam Takedown Bone Shaker r1L.jpg|JJN44\nFile:JJN44 Monster Trucks Snake Slam Takedown Bone Shaker r1R.jpg|JJN44\nFile:JJN44 Monster Trucks Snake Slam Takedown Bone Shaker r1Bot....",
+    "summary": "/* Monster Trucks Demolition Doubles */",
     "date": "2026-09-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/2025_Monster_Trucks_TYRE_Dump.jpg/revision/latest/scale-to-width-down/1200?cb=20251222081236"
+    "image": null
   },
   {
     "id": "rc_807654",
@@ -105,7 +123,7 @@
     "date": "2026-09-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Teku.png/revision/latest?cb=20240321053446"
+    "image": null
   },
   {
     "id": "rc_807645",
@@ -234,33 +252,6 @@
     "image": null
   },
   {
-    "id": "rc_807179",
-    "title": "2026 Hot Wheels Legends Tour",
-    "summary": "/* International finalists */",
-    "date": "2026-09-29",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
-    "id": "rc_807173",
-    "title": "The Loyal Subjects",
-    "summary": "Trading Card 1of96 one in/out of 8 cases Twinduction GREEN Window-Clear Interior-Black",
-    "date": "2026-09-29",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/The_Loyal_Subjects",
-    "image": null
-  },
-  {
-    "id": "rc_807165",
-    "title": "Hot Wheels Monster Trucks Oversized",
-    "summary": "From Weston Racing on YouTube.",
-    "date": "2026-09-29",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Oversized",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -309,7 +300,7 @@
     "id": "search_195352",
     "title": "2026 HWC/RLC Releases",
     "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
-    "date": "2026-09-29",
+    "date": "2026-10-02",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
@@ -360,12 +351,12 @@
     "image": null
   },
   {
-    "id": "search_185492",
-    "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels new castings",
-    "date": "2026-09-27",
+    "id": "search_189648",
+    "title": "European Car Culture Themed Multipack (2026)",
+    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
+    "date": "2026-07-22",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
+    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
     "image": null
   },
   {
