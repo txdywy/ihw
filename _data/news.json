@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_808312",
+    "title": "1st Annual Hot Wheels Collectors Nationals",
+    "summary": "The 1st Annual Hot Wheels Collectors Nationals took place Oakbrook, IL, April 5-8, 2001. The following is a list of cars that were exclusive to the Convention.",
+    "date": "2026-10-04",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/1st_Annual_Hot_Wheels_Collectors_Nationals",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/2001_nationals.jpg/revision/latest?cb=20191215142828"
+  },
+  {
     "id": "rc_808277",
     "title": "Formula One 5-Pack (2026)",
     "summary": "This is a 5-Pack of cars designed in collaboration with Formula One. It is also known as the Formula 1 Race Team 5-Pack. Some packs feature the toy number JLN11 instead.",
@@ -101,11 +110,11 @@
   {
     "id": "rc_808194",
     "title": "2026 Hot Wheels Legends Tour",
-    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "summary": "/* Finalists */",
     "date": "2026-10-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
+    "image": null
   },
   {
     "id": "rc_808190",
