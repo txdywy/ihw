@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_809051",
+    "title": "2026 Multi-Pack Exclusives",
+    "summary": "The following vehicles could only be found in Multi-Packs (3, 8, 10, and 20 Packs) in the year 2026. Toy # goes as the following: 3-packs: K5904, 8-packs: HPV78, 9/10-packs: X6999 & 20-packs: H7045. Some multi-pack exclusive vehicles use existing tampo designs but were released with different colors and wheels, these vehicles are mixed into the contents of the multi-pack.",
+    "date": "2026-10-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Multi-Pack_Exclusives",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/X6999-32ford-2026.jpg/revision/latest/scale-to-width-down/1200?cb=20260110185802"
+  },
+  {
+    "id": "rc_809032",
+    "title": "Modern Muscle Collector Set",
+    "summary": "Created page with \"400px ==Vehicles== The following vehicles were included in the Modern Muscle Collector Set: {| class=\"wikitable sortable\" width=\"100%\" style=\"font-size: 85%; text-align: left;\" |- ! style=\"border-style: none none solid solid; |Casting Name ! style=\"border-style: none none solid solid; |Color ! style=\"border-style: none none solid solid; |Tampos !...",
+    "date": "2026-10-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Modern_Muscle_Collector_Set",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/11/FordMystangShelbyGT350RFleet.jpg/revision/latest?cb=20211103035920"
+  },
+  {
+    "id": "rc_809021",
+    "title": "Treasure Hunt Set",
+    "summary": "Treasure Hunt Set is the term used to refer to a boxed bundle produced by Mattel for the Hot Wheels lineup consisting of all Treasure Hunt models for a given year; these sets have been produced since 1995. The sets typically have special packaging design and are produced in highly limited quantities; these are available in a similar vein to Master Cases....",
+    "date": "2026-10-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Treasure_Hunt_Set",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/47/1995_JC_Penny_TreasureHunt_Set.jpg/revision/latest/scale-to-width-down/1200?cb=20100507181151"
+  },
+  {
+    "id": "rc_809004",
+    "title": "List of 2027 Hot Wheels new castings",
+    "summary": "Category:2027 Hot Wheels\nCategory:New Castings",
+    "date": "2026-10-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_new_castings",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/%27ToonedBoneShaker.jpg/revision/latest/scale-to-width-down/1200?cb=20260926122304"
+  },
+  {
     "id": "rc_809003",
     "title": "Vairstrike",
     "summary": "Reverted edit by EgorDubakin2013 (talk) to last revision by PocketCar",
@@ -7,15 +43,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Vairstrike",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/Vairstrike_Sketch.jpg/revision/latest?cb=20260804171357"
-  },
-  {
-    "id": "rc_808987",
-    "title": "List of 2027 Hot Wheels new castings",
-    "summary": "Category:2027 Hot Wheels\nCategory:New Castings",
-    "date": "2026-10-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/%27ToonedBoneShaker.jpg/revision/latest/scale-to-width-down/1200?cb=20260926122304"
   },
   {
     "id": "rc_808972",
@@ -83,20 +110,20 @@
   {
     "id": "rc_808679",
     "title": "HW Getaways 5-Pack (2025)",
-    "summary": "The HW Getaways 5-Pack (JBJ77) was released in 2025, with all cars being made in Indonesia.",
+    "summary": "/* Cars */",
     "date": "2026-10-06",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Getaways_5-Pack_(2025)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/2025HWGetaways5Pack.jpg/revision/latest/scale-to-width-down/1200?cb=20250423005437"
+    "image": null
   },
   {
     "id": "rc_808625",
     "title": "Hot Wheels Monster Trucks Oversized",
-    "summary": "right|200pxHot Wheels Monster Trucks Oversized is a sub series of Hot Wheels Monster Trucks first launched in 2018. This line features 1/24 scale versions of various Monster Truck models; they feature a special package design which can be used as a display case. The series gained its current name in 2021; prior to then, the series was simply known as Monster Trucks 1:24 Scale Trucks.",
+    "summary": "From Weston Racing on YouTube.",
     "date": "2026-10-06",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Monster_Trucks_Oversized",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/23/Hot_Wheels_Monster_Trucks_Oversized_logo.jpg/revision/latest/scale-to-width-down/1200?cb=20230425181633"
+    "image": null
   },
   {
     "id": "rc_808611",
@@ -240,33 +267,6 @@
     "date": "2026-10-03",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
-    "image": null
-  },
-  {
-    "id": "rc_808190",
-    "title": "Hot Wheels RC",
-    "summary": "/* Singles */",
-    "date": "2026-10-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
-    "image": null
-  },
-  {
-    "id": "rc_808185",
-    "title": "Subaru Impreza Rally",
-    "summary": "Created page with \" == Description == This is an RC version of a 1995 Subaru Impreza 555 WRC Rally Car as driven by Colin McRae. Unlike previous RC products and similar to other \"Premium\" RC offerings, the Subaru Impreza Rally features a metal body, operating headlights, taillights and steering f...\"",
-    "date": "2026-10-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Subaru_Impreza_Rally",
-    "image": null
-  },
-  {
-    "id": "rc_808103",
-    "title": "Errors",
-    "summary": "/* Vehicles found with incorrect/non-matching wheels */",
-    "date": "2026-10-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Errors",
     "image": null
   },
   {
