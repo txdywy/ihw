@@ -1,12 +1,165 @@
 [
   {
+    "id": "rc_809675",
+    "title": "Rodger Dodger",
+    "summary": "The Hot Wheels Stunt Show has a real version of this car",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Rodger_Dodger",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/30/Rodgerdodger.jpg/revision/latest?cb=20080413230905"
+  },
+  {
+    "id": "rc_809618",
+    "title": "Ferrari SF-24",
+    "summary": "Created page with \" ==Description== The Ferrari SF-24 is a Formula One car designed by Enrico Cardile and others to compete in the 2024 Formula One World Championship. The car was driven by Scuderia Ferrari (Ferrari later gained a title sponsor ahead of Miami, leading to the team being named Scu...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_SF-24",
+    "image": null
+  },
+  {
+    "id": "rc_809616",
+    "title": "Classics 5-Pack (1991)",
+    "summary": "The Classics 5-Pack (1629) was released in 1991. 250px\nThe following castings were in the Classics 5-Pack (1629):",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Classics_5-Pack_(1991)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Classic_5-pack_1991.jpg/revision/latest/scale-to-width-down/1200?cb=20141202170148"
+  },
+  {
+    "id": "rc_809614",
+    "title": "Aston Martin AMR24",
+    "summary": "Created page with \" ==Description== The Aston Martin AMR24 is a Formula One car designed by Dan Fallows and others to compete in the 2023 Formula One World Championship. The car was driven by Aston Martin Aramco F1 Team drivers Fernando Alonso and Lance Stroll. Compared to its predecessor t...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Aston_Martin_AMR24",
+    "image": null
+  },
+  {
+    "id": "rc_809611",
+    "title": "Williams FW45",
+    "summary": "Created page with \" ==Description== The Williams FW45 is a Formula One car designed by Mike Elliott and others to compete in the 2023 Formula One World Championship. The car was driven by Williams Racing drivers Alex Albon and Logan Sargeant. Although a frequent backmarker, the car's significant straig...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Williams_FW45",
+    "image": null
+  },
+  {
+    "id": "rc_809609",
+    "title": "Red Bull RB19",
+    "summary": "Created page with \" ==Description== The Red Bull RB19 is a Formula One car designed by Adrian Newey and others to compete in the 2023 Formula One World Championship. The car was driven by Oracle Red Bull Racing drivers Max Verstappen and Sergio Pérez. An extremely competitive car, the RB19 was viewed...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Red_Bull_RB19",
+    "image": null
+  },
+  {
+    "id": "rc_809608",
+    "title": "Mercedes-AMG W14",
+    "summary": "Created page with \" ==Description== The Mercedes-AMG F1 W14 E Performance is a Formula One car designed by Mike Elliott and others to compete in the 2023 Formula One World Championship. The car was driven by Mercedes-AMG Petronas F1 Team drivers Lewis Hamilton and George Russell. Initially featuring...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Mercedes-AMG_W14",
+    "image": null
+  },
+  {
+    "id": "rc_809602",
+    "title": "McLaren MCL60",
+    "summary": "Created page with \" ==Description== The McLaren MCL60 (initially named the MCL37) is a Formula One car designed by James Key and others to compete in the 2023 Formula One World Championship. The car was driven by McLaren F1 Team drivers Lando Norris and Oscar Piastri. Despite initially featuring...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/McLaren_MCL60",
+    "image": null
+  },
+  {
+    "id": "rc_809598",
+    "title": "Haas VF-23",
+    "summary": "Created page with \" ==Description== The Haas VF-23 is a Formula One car designed by Simone Resta and others to compete in the 2023 Formula One World Championship. The car was driven by MoneyGram Haas F1 Team drivers Kevin Magnussen and Nico Hülkenberg. Despite relatively regularly finishing strongly in q...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Haas_VF-23",
+    "image": null
+  },
+  {
+    "id": "rc_809596",
+    "title": "Ferrari SF-23",
+    "summary": "Created page with \" ==Description== The Ferrari SF-23 is a Formula One car designed by Enrico Cardile and others to compete in the 2023 Formula One World Championship. The car was driven by Scuderia Ferrari drivers Charles Leclerc and Carlos Sainz Jr. Despite featuring notably high straight-line speed...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Ferrari_SF-23",
+    "image": null
+  },
+  {
+    "id": "rc_809595",
+    "title": "Aston Martin AMR23",
+    "summary": "Created page with \" ==Description== The Aston Martin AMR23 is a Formula One car designed by Andrew Green and others to compete in the 2023 Formula One World Championship. The car was driven by Aston Martin Aramco Cognizant F1 Team drivers Fernando Alonso and Lance Stroll. Initially regarded as a s...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Aston_Martin_AMR23",
+    "image": null
+  },
+  {
+    "id": "rc_809594",
+    "title": "Alpine A523",
+    "summary": "Created page with \" ==Description== The Alpine A523 is a Formula One car designed by Pat Fry and others to compete in the 2023 Formula One World Championship. The car was driven by BWT Alpine F1 Team drivers Pierre Gasly and Esteban Ocon. A consistent midfield contender, the A523 scored two podiums (1 ea...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Alpine_A523",
+    "image": null
+  },
+  {
+    "id": "rc_809591",
+    "title": "AlphaTauri AT04",
+    "summary": "Created page with \" ==Description== The AlphaTauri AT04 is a Formula One car designed by Jody Egginton and others to compete in the 2023 Formula One World Championship. The car was driven by Scuderia AlphaTauri drivers Yuki Tsunoda, Nyck de Vries, Daniel Ricciardo and Liam Lawson, with Ricciardo repl...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/AlphaTauri_AT04",
+    "image": null
+  },
+  {
+    "id": "rc_809586",
+    "title": "Alfa Romeo C43",
+    "summary": "Created page with \" ==Description== The Alfa Romeo C43 is a Formula One car designed by Jan Monchaux and others to compete in the 2023 Formula One World Championship. The car was driven by Alfa Romeo F1 Team Stake drivers Zhou Guanyu and Valtteri Bottas. Regarded as a downgrade over its predecessor, t...\"",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Alfa_Romeo_C43",
+    "image": null
+  },
+  {
+    "id": "rc_809579",
+    "title": "List of unreleased Hot Wheels",
+    "summary": "/* 2020s */",
+    "date": "2026-10-10",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_unreleased_Hot_Wheels",
+    "image": null
+  },
+  {
+    "id": "rc_809568",
+    "title": "1979 Chevy C30 Crew Cab Dually 4×4",
+    "summary": "Created page with \" ==Description== The Chevrolet C/K is a series of trucks manufactured by the Chevrolet division of General Motors. The third generation of the C/K, styled by Bill Mitchell, was introduced in 1973 and was known as the Rounded Line series. This generation of C/K introduced a four door cab configuration as we...\"",
+    "date": "2026-10-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/1979_Chevy_C30_Crew_Cab_Dually_4%C3%974",
+    "image": null
+  },
+  {
+    "id": "rc_809556",
+    "title": "Drifty Seven",
+    "summary": "Created page with \" ==Description== The 1957 Chevrolet is an automobile manufactured by the Chevrolet division of General Motors. Styled by Clare Mackichan, the 1957 Chevrolet, or '57 Chevy as it is often referred, was available in three versions: the luxury-oriented Bel Air, the mid-range 210 and the economical 1957 Chevy 150|...\"",
+    "date": "2026-10-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Drifty_Seven",
+    "image": null
+  },
+  {
     "id": "rc_809472",
     "title": "Great American Truck Race Stunt Set",
     "summary": "Created page with \" ==Description== KENWORTH vs. PETERBILT in the battle of the Big Rigs! ==Includes== * (2) Truck Tractors * (2) 4 Speed Power Boosters * (2) Loop Bases * (1) Finish Gate * (4) Clear Joiners * (10) 24\" Red, White & Blue track sections * Decal set * Instructions ==Cars Included== *Hammer Down *Mo...\"",
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Great_American_Truck_Race_Stunt_Set",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/22/No.1437_Great_American_Truck_Race_Stunt_Set_r1.jpg/revision/latest/scale-to-width-down/1200?cb=20261009182415"
+    "image": null
   },
   {
     "id": "rc_809391",
@@ -15,7 +168,7 @@
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mustang_Funny_Car",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Mustang_FC_-_04_FE.jpg/revision/latest/scale-to-width-down/1200?cb=20090114080336"
+    "image": null
   },
   {
     "id": "rc_809389",
@@ -24,7 +177,7 @@
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/1985_Pontiac_J2000",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/RLC_2026_1985_Pontiac_J2000_China_JJY71.jpg/revision/latest/scale-to-width-down/1200?cb=20261009124529"
+    "image": null
   },
   {
     "id": "rc_809362",
@@ -33,21 +186,21 @@
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_The_Movie_(Columbia_Pictures)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/68/ColumbiaPicturesFront.jpeg/revision/latest/scale-to-width-down/1200?cb=20261009050459"
+    "image": null
   },
   {
     "id": "rc_809329",
     "title": "2026 Singapore Hot Wheels Convention",
-    "summary": "The 2026 Singapore Hot Wheels Convention (officially the 1st Annual Hot Wheels Collectors Convention Singapore 2026) took place from 25 to 27 September 2026 in Singapore. Andrés Andrieu was the guest of honor at the event. As with all previous editions, this event was organized by Korei.",
+    "summary": "/* Vehicles */",
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Singapore_Hot_Wheels_Convention",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+    "image": null
   },
   {
     "id": "rc_809294",
     "title": "40th Annual Hot Wheels Collectors Convention",
-    "summary": "The 40th Annual Hot Wheels Collectors Convention took place from 7 to 11 October 2026 in Los Angeles, California. The Guest of Honor at the Nationals was Bryan Benedict. The following vehicles were released for the 40th Annual Hot Wheels Collectors Convention:",
+    "summary": "/* Vehicles */",
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
@@ -56,20 +209,20 @@
   {
     "id": "rc_809273",
     "title": "Cargo Plane",
-    "summary": "Similar to the Cargo Carrier, these Huge planes can carry many of your Hot Wheel cars, and fly them to the racetrack. Unlike Cargo Carrier, not many of these planes where made throughout the years. Perhaphs its because these planes are big and bulky and tough to store, unlike the Cargo Carriers box like shape.",
+    "summary": "/* Cars included */",
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Cargo_Plane",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/16/1990_Mattel_Catalog_%283%29.JPG/revision/latest/scale-to-width-down/1200?cb=20241023155726"
+    "image": null
   },
   {
     "id": "rc_809255",
     "title": "List of 2026 Hot Wheels new castings",
-    "summary": "Category:2026 Hot Wheels\nCategory:New Castings",
+    "summary": "/* HWC/RLC */",
     "date": "2026-10-09",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Pass%27nGo.jpg/revision/latest/scale-to-width-down/1200?cb=20250921133437"
+    "image": null
   },
   {
     "id": "rc_809237",
@@ -78,16 +231,16 @@
     "date": "2026-10-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'71_Lamborghini_Miura_P400_SV",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/%2771Miura2.jpg/revision/latest/scale-to-width-down/1200?cb=20250322092214"
+    "image": null
   },
   {
     "id": "rc_809227",
     "title": "List of 2027 Hot Wheels new castings",
-    "summary": "Category:2027 Hot Wheels\nCategory:New Castings",
+    "summary": "/* Car Culture */",
     "date": "2026-10-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_new_castings",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/%27ToonedBoneShaker.jpg/revision/latest/scale-to-width-down/1200?cb=20260926122304"
+    "image": null
   },
   {
     "id": "rc_809149",
@@ -96,7 +249,7 @@
     "date": "2026-10-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels_Corkscrew_Buggy",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/14/Hw_corclscrew_buggy.png/revision/latest?cb=20200204033025"
+    "image": null
   },
   {
     "id": "rc_809088",
@@ -105,7 +258,7 @@
     "date": "2026-10-08",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'40_Ford_Coupe",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/40_Ford_Coupe.JPG/revision/latest?cb=20091018135934"
+    "image": null
   },
   {
     "id": "rc_809051",
@@ -159,42 +312,6 @@
     "date": "2026-10-06",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious%3A_Fast_Life_Series_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_808832",
-    "title": "Custom Volkswagen Beetle",
-    "summary": "/* 2009 card */",
-    "date": "2026-10-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Custom_Volkswagen_Beetle",
-    "image": null
-  },
-  {
-    "id": "rc_808729",
-    "title": "List of 2027 Hot Wheels (by Series)",
-    "summary": "/* HW Dirt */",
-    "date": "2026-10-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
-    "id": "rc_808687",
-    "title": "2021 Jeep Wrangler 392 Rubicon",
-    "summary": "Created page with \" ==Description== The Jeep Wrangler Rubicon 392 is a performance package for the Jeep Wrangler. Designed by Mark Allen, its main feature is its 6.4L HEMI V8, making this the top of the line model of the Wrangler lineup. Other changes with the Wrangler inclu...\"",
-    "date": "2026-10-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2021_Jeep_Wrangler_392_Rubicon",
-    "image": null
-  },
-  {
-    "id": "rc_808686",
-    "title": "2027 Hot Wheels Boulevard",
-    "summary": "/* Mix 2 */",
-    "date": "2026-10-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
     "image": null
   },
   {
@@ -303,6 +420,15 @@
     "date": "2026-08-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_205885",
+    "title": "2027 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2027 Hot Wheels Boulevard",
+    "date": "2026-10-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
