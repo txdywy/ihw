@@ -1,5 +1,50 @@
 [
   {
+    "id": "rc_809812",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "For 2026, the Hot Wheels mainline is numbered 1 through 250 with color variations not receiving a new number. Treasure Hunts and store exclusives are numbered. For the listing by series see List of 2026 Hot Wheels.",
+    "date": "2026-10-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HW_Dream_Garage_2020.png/revision/latest?cb=20240208232828"
+  },
+  {
+    "id": "rc_809800",
+    "title": "Tyco Turbo Hopper",
+    "summary": "Fixed the Versions Section of the page. Also, my greatest apologies for seemingly upsetting you. It's been a REAL hot sec when i made a castings page and i only really know Tyco (Or should it be Taiyo?) on a surface level. I'm sorry admin.",
+    "date": "2026-10-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Tyco_Turbo_Hopper",
+    "image": null
+  },
+  {
+    "id": "rc_809787",
+    "title": "2027 Hot Wheels Boulevard",
+    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "date": "2026-10-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "rc_809781",
+    "title": "2027 Pull-Back Speeders",
+    "summary": "Mini Collections have been removed with all models now in a single list of 32. Production is moved from Thailand to China.",
+    "date": "2026-10-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2027_Pull-Back_Speeders",
+    "image": null
+  },
+  {
+    "id": "rc_809758",
+    "title": "40th Annual Hot Wheels Collectors Convention",
+    "summary": "The 40th Annual Hot Wheels Collectors Convention took place from 7 to 11 October 2026 in Los Angeles, California. The Guest of Honor at the Nationals was Bryan Benedict. The following vehicles were released for the 40th Annual Hot Wheels Collectors Convention:",
+    "date": "2026-10-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
+    "image": null
+  },
+  {
     "id": "rc_809675",
     "title": "Rodger Dodger",
     "summary": "The Hot Wheels Stunt Show has a real version of this car",
@@ -198,15 +243,6 @@
     "image": null
   },
   {
-    "id": "rc_809294",
-    "title": "40th Annual Hot Wheels Collectors Convention",
-    "summary": "/* Vehicles */",
-    "date": "2026-10-09",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
-    "image": null
-  },
-  {
     "id": "rc_809273",
     "title": "Cargo Plane",
     "summary": "/* Cars included */",
@@ -270,33 +306,6 @@
     "image": null
   },
   {
-    "id": "rc_809032",
-    "title": "Modern Muscle Collector Set",
-    "summary": "Created page with \"400px ==Vehicles== The following vehicles were included in the Modern Muscle Collector Set: {| class=\"wikitable sortable\" width=\"100%\" style=\"font-size: 85%; text-align: left;\" |- ! style=\"border-style: none none solid solid; |Casting Name ! style=\"border-style: none none solid solid; |Color ! style=\"border-style: none none solid solid; |Tampos !...",
-    "date": "2026-10-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Modern_Muscle_Collector_Set",
-    "image": null
-  },
-  {
-    "id": "rc_809021",
-    "title": "Treasure Hunt Set",
-    "summary": "/* Sets */",
-    "date": "2026-10-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Treasure_Hunt_Set",
-    "image": null
-  },
-  {
-    "id": "rc_809003",
-    "title": "Vairstrike",
-    "summary": "Reverted edit by EgorDubakin2013 (talk) to last revision by PocketCar",
-    "date": "2026-10-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Vairstrike",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -312,15 +321,6 @@
     "date": "2026-01-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
-    "id": "search_185583",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
-    "date": "2026-10-07",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
@@ -411,15 +411,6 @@
     "date": "2026-08-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_205885",
-    "title": "2027 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2027 Hot Wheels Boulevard",
-    "date": "2026-10-06",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
