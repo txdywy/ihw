@@ -1,12 +1,84 @@
 [
   {
-    "id": "rc_810365",
+    "id": "rc_810433",
+    "title": "Hollowback",
+    "summary": "Wrong Silver Series",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hollowback",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/74/2005Acc-MM05_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20210814060534"
+  },
+  {
+    "id": "rc_810432",
+    "title": "Sling Shot",
+    "summary": "Wrong Silver Series",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Sling_Shot",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Sling_Shot_NathanP.jpg/revision/latest?cb=20080325024103"
+  },
+  {
+    "id": "rc_810431",
+    "title": "Reverb",
+    "summary": "Wrong Silver Series",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Reverb",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/2005A-T1_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20221126060633"
+  },
+  {
+    "id": "rc_810430",
+    "title": "RD-09",
+    "summary": "Wrong Silver Series",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/RD-09",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/RD-09_Sketch1.png/revision/latest?cb=20200205001841"
+  },
+  {
+    "id": "rc_810429",
+    "title": "Hot Wheels Infinite Rush",
+    "summary": "Hot Wheels Infinite Rush is a 2026 racing game from the developers behind Hot Wheels Unleashed & Hot Wheels Unleashed 2: Turbocharged. Developed and published by Milestone S.r.l., the game has been released on 10 September 2026, for the Xbox Series X/S, PlayStation 5, Nintendo Switch 2 and Microsoft Windows.",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Med_hotwheels_ir_tentacle_bay_2_cfdccd2d-2fdd-4568-9cc4-cee570301639.jpg/revision/latest/scale-to-width-down/1200?cb=20260929191002"
+  },
+  {
+    "id": "rc_810416",
     "title": "List of 2027 Hot Wheels new castings",
     "summary": "Category:2027 Hot Wheels\nCategory:New Castings",
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_new_castings",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/%27ToonedBoneShaker.jpg/revision/latest/scale-to-width-down/1200?cb=20260926122304"
+  },
+  {
+    "id": "rc_810415",
+    "title": "Super Tsunami",
+    "summary": "Undo revision 810414 by Tonny6660 (talk)Highly advise to take care while editing the table through visual editor, it removes the image settings on table",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Super_Tsunami",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/SuperTsunamiSketch.jpg/revision/latest?cb=20240331115722"
+  },
+  {
+    "id": "rc_810382",
+    "title": "Radford",
+    "summary": "Radford Motors, a renowned British automotive company, is celebrated for its bespoke, hand-crafted luxury vehicles. Founded in the 1940s by Harold Radford, the company initially gained fame for its coachbuilding skills, particularly with custom modifications for Rolls-Royce and Bentley cars....",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Radford",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/RadfordPikesPeak.jpg/revision/latest/scale-to-width-down/1200?cb=20260110124913"
+  },
+  {
+    "id": "rc_810377",
+    "title": "2026 Hot Wheels Legends Tour",
+    "summary": "The winner of each round received a trophy with an exclusive black Rip Rod. 250px\nLegends Tour 2026 '69 Ford Mustang Boss 302 Malaysia JKD35 Back of Card.jpg|Special Edition Back of Card\nCategory:Events\nCategory:2026 Hot Wheels",
+    "date": "2026-10-12",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Legends_Tour",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Legends_Tour_2026_%2769_Ford_Mustang_Boss_302_Malaysia_JKD35_Back_of_Card.jpg/revision/latest/scale-to-width-down/1200?cb=20260505215204"
   },
   {
     "id": "rc_810364",
@@ -38,25 +110,25 @@
   {
     "id": "rc_810319",
     "title": "2026 Red Line Club Membership",
-    "summary": "There is only 1 variation of the 2025 1965 Shelby Cobra 427 S/C\n1965ShelbyCobra2.jpg\nJJY67 r1.jpg|2026 JJY67 RLC Club Exclusive membership Car\nJJY67 r1T.jpg|2026 JJY67 RLC Club Exclusive membership Car \nJJY67 r2.jpg|2026 JJY67 RLC Club Exclusive membership Car \n2026-RLC Collectors Button Cobra.jpg|2026 Membership Collectors Button\n2026-RLC Membership Button Patch Cobra....",
+    "summary": "Created page with \"==1965 Shelby Cobra 427 S/C== There is only 1 variation of the 2025 1965 Shelby Cobra 427 S/C {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" ! style=\"border-style: none none solid solid;|Release # ! style=\"border-style: none none solid solid;|Body Color ! style=\"border-style: none none solid solid;|Tampo !...",
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Red_Line_Club_Membership",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/1965ShelbyCobra.jpg/revision/latest/scale-to-width-down/1200?cb=20260418030223"
+    "image": null
   },
   {
     "id": "rc_810300",
     "title": "List of 2027 Hot Wheels (by Series)",
-    "summary": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. Off-roaders that were built to feel the mud between their tires. The blasts from the past meet the motors of tomorrow, in fan-voted combos for every car-lover!",
+    "summary": "/* Factory Fresh 40px */",
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2021_20Batman.webp/revision/latest?cb=20240208231845"
+    "image": null
   },
   {
     "id": "rc_810293",
     "title": "HW J-Imports Mini Collection (2027)",
-    "summary": "A dream collection of Japanese Domestic Market vehicles. Category:2027 Hot Wheels\nCategory:Hot Wheels by Series\nCategory:Mainline Segment\nCategory:HW J-Imports Series",
+    "summary": "Created page with \"A dream collection of Japanese Domestic Market vehicles. {| class=\"wikitable sortable\" style=\"font-size: 100%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Toy # ! style=\"border-style: none none solid solid; background:\" |Col. # ! style=\"border-style: none none solid solid; background:\" |Casting !...",
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_J-Imports_Mini_Collection_(2027)",
@@ -65,7 +137,7 @@
   {
     "id": "rc_810291",
     "title": "HW Future Past Mini Collection (2027)",
-    "summary": "Category:2027 Hot Wheels\nCategory:Mainline Segment\nCategory:HW Future Past Series\nCategory:Hot Wheels by Series",
+    "summary": "Created page with \"{| class=\"wikitable sortable\" style=\"font-size: 100%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Toy # ! style=\"border-style: none none solid solid; background:\" |Col. # ! style=\"border-style: none none solid solid; background:\" |Casting ! style=\"border-style: none none solid solid; background:\" |Notes !...",
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Future_Past_Mini_Collection_(2027)",
@@ -74,11 +146,11 @@
   {
     "id": "rc_810262",
     "title": "2027 Treasure Hunts Series",
-    "summary": "This is a list of Treasure Hunts from 2027.",
+    "summary": "/* 2027 Treasure Hunts */",
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2027_Treasure_Hunts_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+    "image": null
   },
   {
     "id": "rc_810253",
@@ -87,7 +159,7 @@
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Mercedes-Benz_Sprinter_Tourer",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/GRL31_-_Mercedes-Benz_Sprinter_Tourer_%281_of_2%29-2.jpg/revision/latest/scale-to-width-down/1200?cb=20220311173207"
+    "image": null
   },
   {
     "id": "rc_810251",
@@ -96,7 +168,7 @@
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/1994_Honda_del_Sol",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HondaCR-XdelSol.jpg/revision/latest/scale-to-width-down/1200?cb=20260126120830"
+    "image": null
   },
   {
     "id": "rc_810233",
@@ -105,7 +177,7 @@
     "date": "2026-10-12",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Volkswagen_T1_Rockster",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/32nd_Annual_Hot_Wheels_Collectors_Convention_Autograph_Sheets_Posters_and_Prints_9bf0f58c-c61d-483d-a28b-4c6797b48f72.jpg/revision/latest/scale-to-width-down/1200?cb=20251030181449"
+    "image": null
   },
   {
     "id": "rc_810164",
@@ -360,15 +432,6 @@
     "image": null
   },
   {
-    "id": "rc_809947",
-    "title": "Hot Wheels Infinite Rush",
-    "summary": "/* Boost 'n' Slide */",
-    "date": "2026-10-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": null
-  },
-  {
     "id": "rc_809935",
     "title": "Off Road Explorers 5-Pack (1992)",
     "summary": "Added Alternate Gulch Stepper Fluorescent Yellow ( early release of 1993's rel ) probably from late lattter run Gift Pavks of Off Road Explorers Gift Pack",
@@ -405,42 +468,6 @@
     "image": null
   },
   {
-    "id": "rc_809800",
-    "title": "Tyco Turbo Hopper",
-    "summary": "Fixed the Versions Section of the page. Also, my greatest apologies for seemingly upsetting you. It's been a REAL hot sec when i made a castings page and i only really know Tyco (Or should it be Taiyo?) on a surface level. I'm sorry admin.",
-    "date": "2026-10-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Tyco_Turbo_Hopper",
-    "image": null
-  },
-  {
-    "id": "rc_809787",
-    "title": "2027 Hot Wheels Boulevard",
-    "summary": "/* Mix 2 */",
-    "date": "2026-10-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "rc_809781",
-    "title": "2027 Pull-Back Speeders",
-    "summary": "Created page with \"Mini Collections have been removed with all models now in a single list of 32. Production is moved from Thailand to China. ==Mix 1== {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: center;\" width=\"100%\" ! style=\"border-style: none none solid solid\" |Casting Name ! style=\"border-style: none none solid solid\" |Collector # !...",
-    "date": "2026-10-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Pull-Back_Speeders",
-    "image": null
-  },
-  {
-    "id": "rc_809758",
-    "title": "40th Annual Hot Wheels Collectors Convention",
-    "summary": "/* Vehicles */",
-    "date": "2026-10-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/40th_Annual_Hot_Wheels_Collectors_Convention",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -450,21 +477,21 @@
     "image": null
   },
   {
-    "id": "search_185871",
-    "title": "2026 Hot Wheels Monster Trucks",
-    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Monster Trucks",
-    "date": "2026-10-12",
+    "id": "search_165225",
+    "title": "2025 Treasure Hunts Series",
+    "summary": "Latest Hot Wheels information: 2025 Treasure Hunts Series",
+    "date": "2026-01-21",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Monster_Trucks",
+    "url": "https://hotwheels.fandom.com/wiki/2025_Treasure_Hunts_Series",
     "image": null
   },
   {
-    "id": "search_144739",
-    "title": "Super Treasure Hunt",
-    "summary": "Latest Hot Wheels information: Super Treasure Hunt",
-    "date": "2025-06-01",
+    "id": "search_118874",
+    "title": "2022 Treasure Hunts Series",
+    "summary": "Latest Hot Wheels information: 2022 Treasure Hunts Series",
+    "date": "2025-10-22",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Super_Treasure_Hunt",
+    "url": "https://hotwheels.fandom.com/wiki/2022_Treasure_Hunts_Series",
     "image": null
   },
   {
@@ -546,6 +573,15 @@
     "date": "2026-08-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_205885",
+    "title": "2027 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2027 Hot Wheels Boulevard",
+    "date": "2026-10-11",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
     "image": null
   }
 ]
