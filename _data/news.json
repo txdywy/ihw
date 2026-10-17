@@ -1,5 +1,41 @@
 [
   {
+    "id": "rc_811725",
+    "title": "Display Case Artwork",
+    "summary": "Artwork on the front of each case has varied over the years. This is a page to add pictures of the various artwork for different size car cases. Some of these cases where made by Tara Toys.",
+    "date": "2026-10-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Display_Case_Artwork",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/be/Black_Wheels_Vintage_case.JPG/revision/latest/scale-to-width-down/1200?cb=20240514011314"
+  },
+  {
+    "id": "rc_811716",
+    "title": "Hot Wheels Let's Race 5-Pack (2026)",
+    "summary": "The Hot Wheels Let's Race 5-Pack (JKG22) was released in 2026, with all cars being made in Indonesia. The cars in the 5-Pack are nearly identical (except the Shark Bite which is identical) to their previous releases. center|300px",
+    "date": "2026-10-17",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Let's_Race_5-Pack_(2026)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/93/2026_Hot_Wheels_Let%27s_Race_5-Pack.jpg/revision/latest/scale-to-width-down/1200?cb=20261014152638"
+  },
+  {
+    "id": "rc_811709",
+    "title": "List of 2027 Hot Wheels (by Series)",
+    "summary": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. Off-roaders that were built to feel the mud between their tires. The blasts from the past meet the motors of tomorrow, in fan-voted combos for every car-lover!",
+    "date": "2026-10-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2021_20Batman.webp/revision/latest?cb=20240208231845"
+  },
+  {
+    "id": "rc_811707",
+    "title": "2027 Treasure Hunts Series",
+    "summary": "This is a list of Treasure Hunts from 2027.",
+    "date": "2026-10-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2027_Treasure_Hunts_Series",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
+  },
+  {
     "id": "rc_811560",
     "title": "Hot Wheels Racing 1",
     "summary": "Adding categories",
@@ -45,24 +81,6 @@
     "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/00021203-2.jpg/revision/latest?cb=20170413205749"
   },
   {
-    "id": "rc_811434",
-    "title": "2027 Treasure Hunts Series",
-    "summary": "This is a list of Treasure Hunts from 2027.",
-    "date": "2026-10-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Treasure_Hunts_Series",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RTH.png/revision/latest?cb=20230422010219"
-  },
-  {
-    "id": "rc_811430",
-    "title": "List of 2027 Hot Wheels (by Series)",
-    "summary": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. Off-roaders that were built to feel the mud between their tires. The blasts from the past meet the motors of tomorrow, in fan-voted combos for every car-lover!",
-    "date": "2026-10-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2021_20Batman.webp/revision/latest?cb=20240208231845"
-  },
-  {
     "id": "rc_811395",
     "title": "List of 2025 Hot Wheels new castings",
     "summary": "Category:2025 Hot Wheels\nCategory:New Castings",
@@ -101,11 +119,11 @@
   {
     "id": "rc_811242",
     "title": "2013 Pop Culture",
-    "summary": "Category:2013 Hot Wheels\nCategory:Pop Culture",
+    "summary": "Reverted edits by Jingles21053yahoo (talk) to last revision by Coldpopcarl",
     "date": "2026-10-15",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2013_Pop_Culture",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/HW-Looney_Toons-Spoiler_Sport.jpg/revision/latest/scale-to-width-down/1200?cb=20131217022050"
+    "image": null
   },
   {
     "id": "rc_811240",
@@ -369,15 +387,6 @@
     "image": null
   },
   {
-    "id": "rc_810973",
-    "title": "Hot Wheels Let's Race 5-Pack (2026)",
-    "summary": "Created page with \"The Hot Wheels Let's Race 5-Pack (JKG22) was released in 2026, with all cars being made in Indonesia. The cars in the 5-Pack are nearly identical (except the Shark Bite which is identical) to their previous releases....",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Let's_Race_5-Pack_(2026)",
-    "image": null
-  },
-  {
     "id": "rc_810965",
     "title": "Porsche 934.5 (Hot Wheels XL)",
     "summary": "/* Versions */",
@@ -423,69 +432,6 @@
     "image": null
   },
   {
-    "id": "rc_810958",
-    "title": "Bone Shaker (Hot Wheels XL)",
-    "summary": "Adding categories",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Bone_Shaker_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_810956",
-    "title": "'83 Chevy Silverado (Hot Wheels XL)",
-    "summary": "/* Versions */",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'83_Chevy_Silverado_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_810955",
-    "title": "Donut Drifter (Hot Wheels XL)",
-    "summary": "Adding categories",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Donut_Drifter_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_810953",
-    "title": "LB-Silhouette WORKS GT Nissan 35GT-RR VER.2 (Hot Wheels XL)",
-    "summary": "/* Versions */",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/LB-Silhouette_WORKS_GT_Nissan_35GT-RR_VER.2_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_810952",
-    "title": "Toyota Supra (Hot Wheels XL)",
-    "summary": "/* Versions */",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Toyota_Supra_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_810951",
-    "title": "'55 Chevy Bel Air Gasser (Hot Wheels XL)",
-    "summary": "/* Versions */",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/'55_Chevy_Bel_Air_Gasser_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_810950",
-    "title": "Porsche 911 Turbo 3.6 (964) (Hot Wheels XL)",
-    "summary": "/* Versions */",
-    "date": "2026-10-14",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Turbo_3.6_(964)_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -501,15 +447,6 @@
     "date": "2026-01-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Treasure_Hunts_Series",
-    "image": null
-  },
-  {
-    "id": "search_118874",
-    "title": "2022 Treasure Hunts Series",
-    "summary": "Latest Hot Wheels information: 2022 Treasure Hunts Series",
-    "date": "2025-10-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2022_Treasure_Hunts_Series",
     "image": null
   },
   {
