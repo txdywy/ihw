@@ -1,5 +1,50 @@
 [
   {
+    "id": "rc_812842",
+    "title": "Taurus Stocker (1998, basic)",
+    "summary": "NASCARs don't have doors",
+    "date": "2026-10-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Taurus_Stocker_(1998%2C_basic)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/Rouchse_racing_taurus.JPG/revision/latest/scale-to-width-down/1200?cb=20210528134115"
+  },
+  {
+    "id": "rc_812839",
+    "title": "T-Bird Stocker (Pro Racing)",
+    "summary": "NASCARs don't have doors",
+    "date": "2026-10-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/T-Bird_Stocker_(Pro_Racing)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/1997_Ford_6_Valvoline_Thunderbird_Short_Track.JPG/revision/latest/scale-to-width-down/1200?cb=20190727043832"
+  },
+  {
+    "id": "rc_812834",
+    "title": "T-Bird Stocker (100%)",
+    "summary": "NASCARs don't have doors",
+    "date": "2026-10-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/T-Bird_Stocker_(100%25)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/Im_lovin_it_100_per.JPG/revision/latest/scale-to-width-down/1200?cb=20210614005811"
+  },
+  {
+    "id": "rc_812827",
+    "title": "Taurus Stocker (2000)",
+    "summary": "NASCARs don't have doors",
+    "date": "2026-10-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Taurus_Stocker_(2000)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/Taurus_Valvoline_6.JPG/revision/latest/scale-to-width-down/1200?cb=20190510045621"
+  },
+  {
+    "id": "rc_812769",
+    "title": "Fast & Furious: Boost Mode Series (2027)",
+    "summary": "Category:2027 Hot Wheels\nCategory:Hot Wheels by Series",
+    "date": "2026-10-20",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious%3A_Boost_Mode_Series_(2027)",
+    "image": null
+  },
+  {
     "id": "rc_812739",
     "title": "Leeway Chang/2024 designs",
     "summary": "The following is a list of 2024 Hot Wheels tampo designs by Leeway Chang. Category:Leeway Chang Designs",
@@ -69,34 +114,34 @@
     "date": "2026-10-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Fingerboard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/FingerboardVariety.jpg/revision/latest/scale-to-width-down/1200?cb=20230127150812"
+    "image": null
   },
   {
     "id": "rc_812709",
     "title": "2022 Hot Wheels Skate",
-    "summary": "Mind bending boards with gritty performance! Push yourself to the limits and conquer every challenge! Expect the unexpected in a tricked-out world of unearthly designs!",
+    "summary": "2024 '90s Rewind and Grind case.",
     "date": "2026-10-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2022_Hot_Wheels_Skate",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/79/SkullGrind.jpg/revision/latest/scale-to-width-down/1200?cb=20230225073644"
+    "image": null
   },
   {
     "id": "rc_812707",
     "title": "2023 Hot Wheels Skate",
-    "summary": "Take a bite out of the competition with these freaky food inspired boards! Add some flair to your big air with these bright & flashy decks! Mind bending boards with gritty performance!",
+    "summary": "2024 '90s Rewind and Grind etc.",
     "date": "2026-10-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2023_Hot_Wheels_Skate",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/79/SkullGrind.jpg/revision/latest/scale-to-width-down/1200?cb=20230225073644"
+    "image": null
   },
   {
     "id": "rc_812704",
     "title": "2025 Hot Wheels Skate",
-    "summary": "Category:2024 Hot Wheels\nCategory:Hot Wheels Skate",
+    "summary": "This SHOULD be the '90s Rewind & Grind Carry Case from 2024.",
     "date": "2026-10-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Hot_Wheels_Skate",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Skate_Talon_Take_Off.JPG/revision/latest/scale-to-width-down/1200?cb=20250703000555"
+    "image": null
   },
   {
     "id": "rc_812703",
@@ -105,7 +150,7 @@
     "date": "2026-10-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Ultra_Turbofire",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/UltraTurbofire.jpg/revision/latest/scale-to-width-down/1200?cb=20261019124529"
+    "image": null
   },
   {
     "id": "rc_812694",
@@ -252,33 +297,6 @@
     "image": null
   },
   {
-    "id": "rc_812128",
-    "title": "Display Case Artwork",
-    "summary": "/* 48 Car Cases */",
-    "date": "2026-10-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Display_Case_Artwork",
-    "image": null
-  },
-  {
-    "id": "rc_812106",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "Undo revision 812043 by HonestLapwing680 (talk)",
-    "date": "2026-10-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
-    "id": "rc_812040",
-    "title": "Hot Wheels Infinite Rush",
-    "summary": "Made tables sortable",
-    "date": "2026-10-18",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Infinite_Rush",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -294,6 +312,15 @@
     "date": "2026-01-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2025_Treasure_Hunts_Series",
+    "image": null
+  },
+  {
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-10-18",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
