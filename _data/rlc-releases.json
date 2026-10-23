@@ -187,5 +187,23 @@
     "saleDate": "20 October 2026",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/7/70/RLC_2026_RWB_Porsche_930_China_JJY69.jpg/revision/latest/scale-to-width-down/1200?cb=20261023093831",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_datsun_240z",
+    "name": "Datsun 240Z",
+    "year": 2026,
+    "color": "Spectraflame aqua",
+    "saleDate": "27 October 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_datsun_240z",
+    "name": "Datsun 240Z",
+    "year": 2026,
+    "color": null,
+    "saleDate": "27 October 2026",
+    "image": null,
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
   }
 ]
