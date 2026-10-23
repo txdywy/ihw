@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_813837",
+    "title": "Screen Time Mini Collection (2027)",
+    "summary": "200px|rightVehicles inspired by popular movies, TV shows, video games, and more. Category:2027 Hot Wheels\nCategory:Hot Wheels by Series\nCategory:HW Screen Time Series\nCategory:Mainline Segment",
+    "date": "2026-10-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Screen_Time_Mini_Collection_(2027)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/HW_Screen_Time_%282018%29.png/revision/latest?cb=20180322234450"
+  },
+  {
+    "id": "rc_813826",
+    "title": "HW Quinjet",
+    "summary": "#REDIRECT Quinjet\nCategory:Redirects",
+    "date": "2026-10-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Quinjet",
+    "image": null
+  },
+  {
+    "id": "rc_813821",
+    "title": "Quinjet",
+    "summary": "Created page with \" ==Description== The Quinjet is a jet aircraft used by S.H.I.E.L.D. and the Avengers; it acts as the successor to the Quadjet, featuring a unique flight system featuring wings equipped with turbofans. This is a depiction of a design of Quinjet which appears in the movie ''wikipedia:Avengers: Doomsday|Avenge...\"",
+    "date": "2026-10-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Quinjet",
+    "image": null
+  },
+  {
     "id": "rc_813799",
     "title": "Hot Wheels Legends Tour",
     "summary": "200px|rightThe Hot Wheels Legends Tour is an annual custom car competition organized by Mattel since 2018 across the United States and globally, initially started to celebrate Hot Wheels's 50th anniversary. A calendar of scheduled events is released before the start of the competition, with global events introduced in 2020; US-based events have usually been held in conjunction with Wal-Mart....",
@@ -83,11 +110,11 @@
   {
     "id": "rc_813754",
     "title": "Display Case Artwork",
-    "summary": "Artwork on the front of each case has varied over the years. This is a page to add pictures of the various artwork for different size car cases. Some of these cases where made by Tara Toys.",
+    "summary": "/* 48 Car Cases */",
     "date": "2026-10-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Display_Case_Artwork",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/be/Black_Wheels_Vintage_case.JPG/revision/latest/scale-to-width-down/1200?cb=20240514011314"
+    "image": null
   },
   {
     "id": "rc_813685",
@@ -96,7 +123,7 @@
     "date": "2026-10-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Forza_Motorsport_5",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/04/FM51.webp/revision/latest/scale-to-width-down/1200?cb=20261022230622"
+    "image": null
   },
   {
     "id": "rc_813666",
@@ -105,7 +132,7 @@
     "date": "2026-10-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Forza_Horizon_4",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/84/FH41.webp/revision/latest/scale-to-width-down/1200?cb=20261022225817"
+    "image": null
   },
   {
     "id": "rc_813647",
@@ -402,51 +429,6 @@
     "date": "2026-10-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/1998_McDonald's_Series",
-    "image": null
-  },
-  {
-    "id": "rc_813088",
-    "title": "T-Rex Rampage (2008)",
-    "summary": "Created page with \" ==Description== right|250x250px T-Rex Rampage is a iconic large playset that featuring a giant red T-Rex that was released in 2008. The set is described as the “Ultimate Drive Around Playset.” It features several different play elements, including a three-story parking garage that can hold three...\"",
-    "date": "2026-10-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/T-Rex_Rampage_(2008)",
-    "image": null
-  },
-  {
-    "id": "rc_813070",
-    "title": "Torino Stocker",
-    "summary": "NASCARs don't have doors",
-    "date": "2026-10-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Torino_Stocker",
-    "image": null
-  },
-  {
-    "id": "rc_813052",
-    "title": "Frontrunnin' Fairmont",
-    "summary": "NASCARs don't have doors",
-    "date": "2026-10-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Frontrunnin'_Fairmont",
-    "image": null
-  },
-  {
-    "id": "rc_813043",
-    "title": "Thunderburner",
-    "summary": "NASCARs don't have doors",
-    "date": "2026-10-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Thunderburner",
-    "image": null
-  },
-  {
-    "id": "rc_812989",
-    "title": "Bone Shaker",
-    "summary": "Reverted edits by GojiraToy (talk) to last revision by Coldpopcarl",
-    "date": "2026-10-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Bone_Shaker",
     "image": null
   },
   {
