@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_814229",
+    "title": "Electric Hot Wheels Racing",
+    "summary": "300px|right\nThe Electric Hot Wheels Racing or Electric Hot Wheels series is a series of Hot Wheel Slot cars that came out mostly in the late 1990s, with some appearances afterwards mostly in tracksets. Slot cars are miniature cars that have motors in them which are powered by a rail system....",
+    "date": "2026-10-24",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Electric_Hot_Wheels_Racing",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Its_Electric_bogey_wogey.jpg/revision/latest?cb=20240117191757"
+  },
+  {
+    "id": "rc_814223",
+    "title": "Hot Wheels Model Car Kits",
+    "summary": "A Model Car Kit is a toy car, usually in 1:32, 1:25 & 1:24 scale that needs to be assembled, glued, painted, and put together to have a finished custom car. Hot Wheels has released many kits for many years under different Model Kit companies such as AMT, Polar Lights, Snaps, Revell, and many more listed below.",
+    "date": "2026-10-24",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Model_Car_Kits",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/82model.jpg/revision/latest?cb=20231228034158"
+  },
+  {
     "id": "rc_814164",
     "title": "Hot Wheels: The Creative Drive",
     "summary": "Hot Wheels: The Creative Drive is a limited print-run deluxe coffee table book released in 2026. It came with an exclusive red Custom '68 Camaro included in a display‑worthy box. The book's foreword is by Larry Wood.",
@@ -92,11 +110,11 @@
   {
     "id": "rc_813799",
     "title": "Hot Wheels Legends Tour",
-    "summary": "200px|rightThe Hot Wheels Legends Tour is an annual custom car competition organized by Mattel since 2018 across the United States and globally, initially started to celebrate Hot Wheels's 50th anniversary. A calendar of scheduled events is released before the start of the competition, with global events introduced in 2020; US-based events have usually been held in conjunction with Wal-Mart....",
+    "summary": "/* Winners */",
     "date": "2026-10-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Legends_Tour",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/06/LegendsTourLogo.svg/revision/latest?cb=20260614230622"
+    "image": null
   },
   {
     "id": "rc_813796",
@@ -105,7 +123,7 @@
     "date": "2026-10-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Fiat_642_RN2_Bartoletti_Transporter",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/66/FiatBartoletti.jpg/revision/latest/scale-to-width-down/1200?cb=20251003154119"
+    "image": null
   },
   {
     "id": "rc_813786",
