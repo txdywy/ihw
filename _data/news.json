@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_815274",
+    "title": "Mike McClone/2022 designs",
+    "summary": "The following is a list of 2022 Hot Wheels tampo designs by Mike McClone. Category:Mike McClone Graphics",
+    "date": "2026-10-29",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Mike_McClone%2F2022_designs",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/2022ML-076_%28Large%29.JPG/revision/latest/scale-to-width-down/1200?cb=20220226032824"
+  },
+  {
+    "id": "rc_815270",
+    "title": "List of 2027 Hot Wheels (by Series)",
+    "summary": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. Off-roaders that were built to feel the mud between their tires. The blasts from the past meet the motors of tomorrow, in fan-voted combos for every car-lover!",
+    "date": "2026-10-29",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2021_20Batman.webp/revision/latest?cb=20240208231845"
+  },
+  {
     "id": "rc_815234",
     "title": "2026 Collector Edition",
     "summary": "A Walmart promotion between August 15 to October 15 had the 2023 Collector Edition Custom '93 Nissan Hardbody (D21) or the 2021 Collector Edition '67 Off Road Camaro as gift for spending $20. Category:2026 Hot Wheels\nCategory:Mail-in Promotions\nCategory:Hot Wheels by Series",
@@ -92,20 +110,20 @@
   {
     "id": "rc_815173",
     "title": "Kevin Geraldez/2023 designs",
-    "summary": "The following is a list of 2023 Hot Wheels tampo designs by Kevin Geraldez. Category:Kevin Geraldez Graphics",
+    "summary": "Created page with \"The following is a list of 2023 Hot Wheels tampo designs by Kevin Geraldez. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
     "date": "2026-10-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Kevin_Geraldez%2F2023_designs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/94/DasBlaueWunder.jpg/revision/latest/scale-to-width-down/1200?cb=20231111102841"
+    "image": null
   },
   {
     "id": "rc_815172",
     "title": "Kevin Geraldez/2024 designs",
-    "summary": "The following is a list of 2024 Hot Wheels tampo designs by Kevin Geraldez. Category:Kevin Geraldez Graphics",
+    "summary": "Created page with \"The following is a list of 2024 Hot Wheels tampo designs by Kevin Geraldez. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
     "date": "2026-10-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Kevin_Geraldez%2F2024_designs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/1950ChevyFleetline.jpg/revision/latest/scale-to-width-down/1200?cb=20240613151013"
+    "image": null
   },
   {
     "id": "rc_815171",
@@ -513,24 +531,6 @@
     "image": null
   },
   {
-    "id": "rc_814506",
-    "title": "Fast & Furious: Boost Mode Series (2027)",
-    "summary": "/* Vehicles */",
-    "date": "2026-10-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Fast_%26_Furious%3A_Boost_Mode_Series_(2027)",
-    "image": null
-  },
-  {
-    "id": "rc_814476",
-    "title": "List of 2026 Hot Wheels (by Series)",
-    "summary": "/* HW Dream Garage */",
-    "date": "2026-10-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -567,12 +567,12 @@
     "image": null
   },
   {
-    "id": "search_195352",
-    "title": "2026 HWC/RLC Releases",
-    "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
-    "date": "2026-10-23",
+    "id": "search_185583",
+    "title": "List of 2026 Hot Wheels (by Series)",
+    "summary": "Latest Hot Wheels information: List of 2026 Hot Wheels (by Series)",
+    "date": "2026-10-27",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2026_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
@@ -582,6 +582,15 @@
     "date": "2026-10-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
+    "image": null
+  },
+  {
+    "id": "search_195352",
+    "title": "2026 HWC/RLC Releases",
+    "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
+    "date": "2026-10-23",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
   },
   {
