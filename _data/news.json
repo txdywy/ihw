@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_815494",
+    "title": "Hot Wheels Model Car Kits",
+    "summary": "A Model Car Kit is a toy car, usually in 1:32, 1:25 & 1:24 scale that needs to be assembled, glued, painted, and put together to have a finished custom car. Hot Wheels has released many kits for many years under different Model Kit companies such as AMT, Polar Lights, Snaps, Revell, and many more listed below.",
+    "date": "2026-10-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Model_Car_Kits",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/82model.jpg/revision/latest?cb=20231228034158"
+  },
+  {
     "id": "rc_815451",
     "title": "'92 Ford Mustang (Hot Wheels XL)",
     "summary": "/* Versions */",
@@ -101,11 +110,11 @@
   {
     "id": "rc_815178",
     "title": "Anton Henggono/2027 designs",
-    "summary": "The following is a list of 2027 Hot Wheels tampo designs by Anton Henggono. Category:Anton Henggono Graphics",
+    "summary": "Created page with \"The following is a list of 2027 Hot Wheels tampo designs by Anton Henggono. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
     "date": "2026-10-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Anton_Henggono%2F2027_designs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/Lincoln_TH_2027.jpg/revision/latest/scale-to-width-down/1200?cb=20260901154740"
+    "image": null
   },
   {
     "id": "rc_815175",
@@ -477,51 +486,6 @@
     "image": null
   },
   {
-    "id": "rc_814686",
-    "title": "X-34 Landspeeder",
-    "summary": "Fixed a very slight spell error, i do gotta say you did a great job on the new description! i didn't add some of the stuff like the Bond Bug Chassis fact and XP-38 due to me thinking it would make the description too long and verbose but MAN you prove me wrong. Your knowledgeable facts on vehicles both real and fictional is something i truly envy",
-    "date": "2026-10-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/X-34_Landspeeder",
-    "image": null
-  },
-  {
-    "id": "rc_814666",
-    "title": "Ralph Benítez/2027 designs",
-    "summary": "Created page with \"The following is a list of 2027 Hot Wheels tampo designs by Ralph Benítez. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-10-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Ralph_Ben%C3%ADtez%2F2027_designs",
-    "image": null
-  },
-  {
-    "id": "rc_814660",
-    "title": "Chevrolet",
-    "summary": "Can we NOT add unreleased products for God sakes?",
-    "date": "2026-10-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Chevrolet",
-    "image": null
-  },
-  {
-    "id": "rc_814659",
-    "title": "Hot Wheels RC",
-    "summary": "/* Singles */",
-    "date": "2026-10-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
-    "image": null
-  },
-  {
-    "id": "rc_814657",
-    "title": "Mattel Brick Shop",
-    "summary": "Wrong release, it is in yellow.",
-    "date": "2026-10-26",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mattel_Brick_Shop",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -579,7 +543,7 @@
     "id": "search_195352",
     "title": "2026 HWC/RLC Releases",
     "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
-    "date": "2026-10-23",
+    "date": "2026-10-30",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
