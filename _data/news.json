@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_815534",
+    "title": "Hot Wheels XL",
+    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
+    "date": "2026-10-30",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
+  },
+  {
     "id": "rc_815494",
     "title": "Hot Wheels Model Car Kits",
     "summary": "A Model Car Kit is a toy car, usually in 1:32, 1:25 & 1:24 scale that needs to be assembled, glued, painted, and put together to have a finished custom car. Hot Wheels has released many kits for many years under different Model Kit companies such as AMT, Polar Lights, Snaps, Revell, and many more listed below.",
@@ -16,15 +25,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/'92_Ford_Mustang_(Hot_Wheels_XL)",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/1992FordFoxbody.jpg/revision/latest/scale-to-width-down/1200?cb=20260424095928"
-  },
-  {
-    "id": "rc_815437",
-    "title": "Hot Wheels XL",
-    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
-    "date": "2026-10-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
   },
   {
     "id": "rc_815274",
@@ -450,42 +450,6 @@
     "image": null
   },
   {
-    "id": "rc_814732",
-    "title": "Steve Vandervate/2027 designs",
-    "summary": "Created page with \"The following is a list of 2027 Hot Wheels tampo designs by Steve Vandervate. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-10-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2027_designs",
-    "image": null
-  },
-  {
-    "id": "rc_814714",
-    "title": "Mario Godoy/2026 designs",
-    "summary": "Created page with \"The following is a list of 2026 Hot Wheels tampo designs by Mario Godoy. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-10-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mario_Godoy%2F2026_designs",
-    "image": null
-  },
-  {
-    "id": "rc_814710",
-    "title": "Mario Godoy/2027 designs",
-    "summary": "Created page with \"The following is a list of 2027 Hot Wheels tampo designs by Mario Godoy. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-10-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mario_Godoy%2F2027_designs",
-    "image": null
-  },
-  {
-    "id": "rc_814702",
-    "title": "Ralph Benítez/2026 designs",
-    "summary": "Created page with \"The following is a list of 2026 Hot Wheels tampo designs by Ralph Benítez. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-10-27",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Ralph_Ben%C3%ADtez%2F2026_designs",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -537,15 +501,6 @@
     "date": "2026-10-10",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_195352",
-    "title": "2026 HWC/RLC Releases",
-    "summary": "Latest Hot Wheels information: 2026 HWC/RLC Releases",
-    "date": "2026-10-30",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_HWC%2FRLC_Releases",
     "image": null
   },
   {
