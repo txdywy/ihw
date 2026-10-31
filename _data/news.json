@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_815635",
+    "title": "List of 2027 Hot Wheels new castings",
+    "summary": "Category:2027 Hot Wheels\nCategory:New Castings",
+    "date": "2026-10-31",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_new_castings",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/HondaRA272.jpg/revision/latest/scale-to-width-down/1200?cb=20261019124501"
+  },
+  {
     "id": "rc_815628",
     "title": "Hot Wheels (2018)",
     "summary": "Adding categories",
@@ -101,11 +110,11 @@
   {
     "id": "rc_815187",
     "title": "Troy Castro/2026 designs",
-    "summary": "The following is a list of 2026 Hot Wheels tampo designs by Troy Castro. Category:Troy Castro Graphics",
+    "summary": "Created page with \"The following is a list of 2026 Hot Wheels tampo designs by Troy Castro. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
     "date": "2026-10-28",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Troy_Castro%2F2026_designs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/X6999-32ford-2026.jpg/revision/latest/scale-to-width-down/1200?cb=20260110185802"
+    "image": null
   },
   {
     "id": "rc_815184",
@@ -522,15 +531,6 @@
     "image": null
   },
   {
-    "id": "search_184597",
-    "title": "2026 Car Culture: Team Transport",
-    "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
-    "date": "2026-10-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
-    "image": null
-  },
-  {
     "id": "search_51374",
     "title": "Car Culture",
     "summary": "Latest Hot Wheels information: Car Culture",
@@ -540,12 +540,21 @@
     "image": null
   },
   {
-    "id": "search_189648",
-    "title": "European Car Culture Themed Multipack (2026)",
-    "summary": "Latest Hot Wheels information: European Car Culture Themed Multipack (2026)",
-    "date": "2026-07-22",
+    "id": "search_196499",
+    "title": "Steve Vandervate/2026 designs",
+    "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
+    "date": "2026-10-27",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/European_Car_Culture_Themed_Multipack_(2026)",
+    "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
+    "image": null
+  },
+  {
+    "id": "search_184597",
+    "title": "2026 Car Culture: Team Transport",
+    "summary": "Latest Hot Wheels information: 2026 Car Culture: Team Transport",
+    "date": "2026-10-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
     "image": null
   },
   {
