@@ -1,5 +1,77 @@
 [
   {
+    "id": "rc_817033",
+    "title": "2026 Mexico Hot Wheels Convention",
+    "summary": "The 2026 Mexico Hot Wheels Convention (officially branded the 2026 Salón Hot Wheels) took place in Mexico City, Mexico.",
+    "date": "2026-11-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Mexico_Hot_Wheels_Convention",
+    "image": null
+  },
+  {
+    "id": "rc_817029",
+    "title": "2026 Singapore Hot Wheels Convention",
+    "summary": "The 2026 Singapore Hot Wheels Convention (officially the 1st Annual Hot Wheels Collectors Convention Singapore 2026) took place from 25 to 27 September 2026 in Singapore. Andrés Andrieu was the guest of honor at the event. As with previous editions of the event the event was organized by Korei.",
+    "date": "2026-11-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Singapore_Hot_Wheels_Convention",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+  },
+  {
+    "id": "rc_817028",
+    "title": "Deora II",
+    "summary": "deleted vehicle sim version to put on the roblox page",
+    "date": "2026-11-07",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Deora_II",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/35_Years_of_Speed_Randy_Leffingwell_Deora_%282%29.JPG/revision/latest/scale-to-width-down/1200?cb=20240723020711"
+  },
+  {
+    "id": "rc_817019",
+    "title": "2026 China Hot Wheels Convention",
+    "summary": "The 2026 China Hot Wheels Convention (officially the Hot Wheels China Collectors Convention 2026) took place from 16 to 18 October 2026 in Foshan, China, coinciding with the APAxpo 2026 event. Matt Gabe was the guest of honor at the event. Collectors Conventions were previously held in China in 2023 but this was the first officially sanctioned event featuring a Code 1 car.",
+    "date": "2026-11-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_China_Hot_Wheels_Convention",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+  },
+  {
+    "id": "rc_817013",
+    "title": "2026 Australian Diecast Expo",
+    "summary": "The 2026 Australian Diecast Expo took place from 28 to 30 November 2026 in Sydney, Australia. Jimmy Liu was the guest of honor at the event. As with previous editions of the event the event was organized by Southern Diecast.",
+    "date": "2026-11-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Australian_Diecast_Expo",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+  },
+  {
+    "id": "rc_817011",
+    "title": "2026 Philippines Hot Wheels Convention",
+    "summary": "The 2026 Philippines Hot Wheels Convention (officially the Hot Wheels Collectors Convention Philippines 2026) took place from 5 to 6 September 2026 in Manila, the Philippines. Brendon Vetuskey was the guest of honor at the event. As with previous editions of the event the event was organized by METRICS PH.",
+    "date": "2026-11-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Philippines_Hot_Wheels_Convention",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+  },
+  {
+    "id": "rc_817006",
+    "title": "2026 Malaysia Hot Wheels Convention",
+    "summary": "The 2026 Malaysia Hot Wheels Convention (officially the 4th Annual Malaysia Collectors Convention 2026) took place from 1 to 2 August 2026 in Serdang, Malaysia, coinciding with the Art of Speed 2026 event. Ronald Wong was the guest of honor at the event. The following vehicles were released for the 2026 Malaysia Hot Wheels Convention:",
+    "date": "2026-11-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Malaysia_Hot_Wheels_Convention",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+  },
+  {
+    "id": "rc_817002",
+    "title": "2026 Indonesia Hot Wheels Convention",
+    "summary": "The 2026 Indonesia Hot Wheels Convention, officially the Hot Wheels Indonesia Collectors Convention 2026, took place from 9 to 11 October 2026 in Tangerang, Indonesia, coinciding with the Indonesia Modification Expo 2026 event. Manson Cheung was the guest of honor at the event. The following vehicles were released for the 2026 Indonesia Hot Wheels Convention:",
+    "date": "2026-11-06",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Indonesia_Hot_Wheels_Convention",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+  },
+  {
     "id": "rc_816864",
     "title": "Twin Mill III",
     "summary": "Can we NOT do that? A car appearing in Roblox doesn't mean it's official media that should be in a Gallery.",
@@ -42,7 +114,7 @@
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Rodger_Dodger_2.0",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/NM48Reece.JPG/revision/latest/scale-to-width-down/1200?cb=20190721064459"
+    "image": null
   },
   {
     "id": "rc_816808",
@@ -51,7 +123,7 @@
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Sharkruiser",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Sharkruiser_PrpUH.JPG/revision/latest?cb=20090113054003"
+    "image": null
   },
   {
     "id": "rc_816800",
@@ -60,7 +132,7 @@
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Splittin'_Image",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/69/Splittin_image_orig.jpg/revision/latest?cb=20260501142027"
+    "image": null
   },
   {
     "id": "rc_816797",
@@ -69,12 +141,12 @@
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/D-Muscle",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/D-MuscleCFH10.jpg/revision/latest/scale-to-width-down/1200?cb=20150707040128"
+    "image": null
   },
   {
     "id": "rc_816783",
     "title": "2027 Hot Wheels Boulevard",
-    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "summary": "Reverted edit by WKPQ (talk) to last revision by Grunty89",
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_Boulevard",
@@ -83,29 +155,29 @@
   {
     "id": "rc_816767",
     "title": "Jason Goad/2018 designs",
-    "summary": "The following is a list of 2018 Hot Wheels tampo designs by Jason Goad. Category:Jason Goad Graphics",
+    "summary": "Created page with \"The following is a list of 2018 Hot Wheels tampo designs by Jason Goad. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Jason_Goad%2F2018_designs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Test_subject.jpg/revision/latest/scale-to-width-down/1200?cb=20190925010316"
+    "image": null
   },
   {
     "id": "rc_816766",
     "title": "Jason Goad/2008 designs",
-    "summary": "The following is a list of 2008 Hot Wheels tampo designs by Jason Goad. Category:Jason Goad Graphics",
+    "summary": "Created page with \"The following is a list of 2008 Hot Wheels tampo designs by Jason Goad. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Jason_Goad%2F2008_designs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/All_Stars_%2765_Impala_-_6453df.jpg/revision/latest/scale-to-width-down/1200?cb=20081117135627"
+    "image": null
   },
   {
     "id": "rc_816765",
     "title": "Jason Goad/2007 designs",
-    "summary": "The following is a list of 2007 Hot Wheels tampo designs by Jason Goad. Category:Jason Goad Graphics",
+    "summary": "Created page with \"The following is a list of 2007 Hot Wheels tampo designs by Jason Goad. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Jason_Goad%2F2007_designs",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Dream_Halloween_2007_1941_Willys_Copper_Malaysia_No_Toy_Number.jpg/revision/latest/scale-to-width-down/1200?cb=20230127192804"
+    "image": null
   },
   {
     "id": "rc_816764",
@@ -249,51 +321,6 @@
     "date": "2026-11-04",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_unreleased_Hot_Wheels",
-    "image": null
-  },
-  {
-    "id": "rc_816241",
-    "title": "Display Case Artwork",
-    "summary": "/* 100+ Car Cases */",
-    "date": "2026-11-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Display_Case_Artwork",
-    "image": null
-  },
-  {
-    "id": "rc_816238",
-    "title": "World Race Wünstenrallye",
-    "summary": "Created page with \" ==Description== Please check out all other World Race pages listed by relevancy World Race Wünstenrallye was an...\"",
-    "date": "2026-11-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/World_Race_W%C3%BCnstenrallye",
-    "image": null
-  },
-  {
-    "id": "rc_816230",
-    "title": "AcceleRacers Spiel",
-    "summary": "Created page with \" ==Description== AcceleRacers Spiel was an online PC video game developed by German television broadcasting company Toggo/SuperRTL with oversight of Mattel using...\"",
-    "date": "2026-11-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/AcceleRacers_Spiel",
-    "image": null
-  },
-  {
-    "id": "rc_816223",
-    "title": "Hot Wheels: Beat That!",
-    "summary": "Corrected a small error from my previous edit.",
-    "date": "2026-11-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Beat_That!",
-    "image": null
-  },
-  {
-    "id": "rc_816220",
-    "title": "Mebetoys",
-    "summary": "the other cars in the poster are from the Grand Toros series except for these two cars",
-    "date": "2026-11-03",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Mebetoys",
     "image": null
   },
   {
