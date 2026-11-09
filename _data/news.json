@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_817311",
+    "title": "CadZZilla",
+    "summary": "Gibbons owns CadZZilla but is on LOAN to Peterson Museum Gibbons Car Colletion rotating from vault & mainfloor display",
+    "date": "2026-11-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/CadZZilla",
+    "image": null
+  },
+  {
+    "id": "rc_817310",
+    "title": "Hotwheels.com",
+    "summary": "center|300px\nthumb|296x296px|The hotwheels.com website as it was seen in 2020\nhotwheels.com was a website first launched in 1997 (domain registered August 21, 1996) that served as a hub for parents, children, and collectors to interact, with the link appearing on various products in the years after. It featured many activities, news posts, webgames, and downloadable content....",
+    "date": "2026-11-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hotwheels.com",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Hotwheelscomlogo.png/revision/latest?cb=20260603093922"
+  },
+  {
+    "id": "rc_817303",
+    "title": "General-Mills 1997 Designer Collection 5-Pack",
+    "summary": "These are the vehicles released in 1997, for the General-Mills 1997 \nDesigner Collection 5-Pack. It featured 5 vehicles with exclusive colors only available through a mail order offer with General Mills\n100px",
+    "date": "2026-11-09",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/General-Mills_1997_Designer_Collection_5-Pack",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/5pack.GM.gif/revision/latest?cb=20090819153228"
+  },
+  {
     "id": "rc_817240",
     "title": "Bruce Pascal/HOT WHEELS PROTOTYPES Featuring the Bruce Pascal Collection",
     "summary": "HOT WHEELS PROTOTYPES Featuring the Bruce Pascal Collection is a paperback book released in 2011 and licensed by Mattel. Bruce Pascal & Michael Zarnock authored in collaboration of HOT WHEELS PROTOTYPES book Pascal was the main with the book also being edited by Kelly Lenox.",
@@ -25,15 +52,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_new_castings",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/HondaRA272.jpg/revision/latest/scale-to-width-down/1200?cb=20261019124501"
-  },
-  {
-    "id": "rc_817198",
-    "title": "CadZZilla",
-    "summary": "Created page with \" ==Description== CadZZilla is a custom car based on a 1948 Cadillac Series 62 Sedanette built by Boyd Coddington for Billy Gibbons of the band ZZ Top. Designed by Jack Chisenhall and Larry Erickson, CadZZilla was conceived in 1989 and draws inspiration...\"",
-    "date": "2026-11-08",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/CadZZilla",
-    "image": null
   },
   {
     "id": "rc_817147",
@@ -92,7 +110,7 @@
   {
     "id": "rc_817033",
     "title": "2026 Mexico Hot Wheels Convention",
-    "summary": "The 2026 Mexico Hot Wheels Convention (officially branded the 2026 Salón Hot Wheels) took place in Mexico City, Mexico.",
+    "summary": "/* Convention Cars */",
     "date": "2026-11-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Mexico_Hot_Wheels_Convention",
@@ -101,11 +119,11 @@
   {
     "id": "rc_817029",
     "title": "2026 Singapore Hot Wheels Convention",
-    "summary": "The 2026 Singapore Hot Wheels Convention (officially the 1st Annual Hot Wheels Collectors Convention Singapore 2026) took place from 25 to 27 September 2026 in Singapore. Andrés Andrieu was the guest of honor at the event. As with previous editions of the event the event was organized by Korei.",
+    "summary": "/* Dinner Models */",
     "date": "2026-11-07",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Singapore_Hot_Wheels_Convention",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/43/AsiaConR34.jpg/revision/latest/scale-to-width-down/1200?cb=20260925130032"
+    "image": null
   },
   {
     "id": "rc_817028",
@@ -348,24 +366,6 @@
     "date": "2026-11-05",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Ferrari_80th_Anniversary_5-Pack",
-    "image": null
-  },
-  {
-    "id": "rc_816541",
-    "title": "Birdie Burner",
-    "summary": "Created page with \" == Description == Birdie Burner is a depiction of a hot-rodded golf cart hauler. It pulls a trailer simulating a mini golf course while the hauler itself is styled after a golf ball. A golf ball is present in the trailer, allowing one to \"play\" a game of mini golf. == Versions == The Birdie Burner has come out in the follo...\"",
-    "date": "2026-11-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Birdie_Burner",
-    "image": null
-  },
-  {
-    "id": "rc_816520",
-    "title": "List of 2027 Hot Wheels (by Series)",
-    "summary": "/* Hot Wheels Let's Race 40px */",
-    "date": "2026-11-04",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
     "image": null
   },
   {
