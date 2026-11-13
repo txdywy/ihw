@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_818308",
+    "title": "HW Pursuit",
+    "summary": "Undo revision 818307 by SofterHornet831 (talk) probably should not put that unless it is confirmed by the designer themselves.",
+    "date": "2026-11-13",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Pursuit",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/2013-020-HWPursuit-White.jpg/revision/latest/scale-to-width-down/1200?cb=20130521011227"
+  },
+  {
+    "id": "rc_818295",
+    "title": "Team Hot Wheels",
+    "summary": "center|frame|The Team Hot Wheels Logo\nTeam Hot Wheels was a multimedia series of toys, video games, books, movies, videos and real life events that took place throughout the years 2011 to 2017. It was undoubtedly the most notable and famous Hot Wheels related thing that came out in the 2010s and is an important part of Hot Wheels history as a whole....",
+    "date": "2026-11-13",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/Hw_teamhw_logo.png/revision/latest?cb=20110412172850"
+  },
+  {
     "id": "rc_818269",
     "title": "Dodge Viper GTS-R",
     "summary": "the 2024 5 pack version has also been found in 2026 3 packs, added it to the latest release",
@@ -72,15 +90,6 @@
     "image": null
   },
   {
-    "id": "rc_818160",
-    "title": "Team Hot Wheels",
-    "summary": "center|frame|The Team Hot Wheels Logo\nTeam Hot Wheels was a multimedia series of toys, video games, books, movies, videos and real life events that took place throughout the years 2011 to 2017. It was undoubtedly the most notable and famous Hot Wheels related thing that came out in the 2010s and is an important part of Hot Wheels history as a whole....",
-    "date": "2026-11-12",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Team_Hot_Wheels",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/Hw_teamhw_logo.png/revision/latest?cb=20110412172850"
-  },
-  {
     "id": "rc_818087",
     "title": "List of 2027 Hot Wheels new castings",
     "summary": "Category:2027 Hot Wheels\nCategory:New Castings",
@@ -101,11 +110,11 @@
   {
     "id": "rc_818063",
     "title": "2026 Hot Wheels Boulevard",
-    "summary": "Category:Hot Wheels Boulevard\nCategory:Hot Wheels Boulevard by Year\nCategory:Hot Wheels by Series",
+    "summary": "/* Mix 5 */",
     "date": "2026-11-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/1/19/NissanZ32.jpg/revision/latest/scale-to-width-down/1200?cb=20251216111652"
+    "image": null
   },
   {
     "id": "rc_818062",
