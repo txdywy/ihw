@@ -214,5 +214,14 @@
     "saleDate": "10 November 2026",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/RLC_2026_2023_Dodge_Challenger_SRT_Demon_170_China_JJY53.jpg/revision/latest?cb=20261111223414",
     "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
+  },
+  {
+    "id": "rlc_2026_volkswagen_t1_rockster",
+    "name": "Volkswagen T1 Rockster",
+    "year": 2026,
+    "color": "Spectraflame bright red",
+    "saleDate": "17 November 2026",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/RLC_2026_1976_Volkswagen_Golf_MK1_GTI_China_JJY63_Back_of_Box.jpg/revision/latest/scale-to-width-down/1200?cb=20260703144130",
+    "url": "https://hotwheels.fandom.com/wiki/2026_HWC/RLC_Releases"
   }
 ]
