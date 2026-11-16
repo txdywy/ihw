@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_818728",
+    "title": "List of 2027 Hot Wheels (by Series)",
+    "summary": "Help Batman fight crime and protect Gotham City in these Batmobile inspired vehicles. Off-roaders that were built to feel the mud between their tires. The blasts from the past meet the motors of tomorrow, in fan-voted combos for every car-lover!",
+    "date": "2026-11-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/List_of_2027_Hot_Wheels_(by_Series)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2021_20Batman.webp/revision/latest?cb=20240208231845"
+  },
+  {
+    "id": "rc_818723",
+    "title": "Porsche 911 Carrera RS 2.7",
+    "summary": "I replaced the category “Group 4 Race Cars” with “Group 4 Rally” because although this car was a homologation special for group 4 it did itself completely in Group 4 Rallying (and some group 3 as well).",
+    "date": "2026-11-16",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Porsche_911_Carrera_RS_2.7",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/88/Porsche911CarreraRS.jpg/revision/latest/scale-to-width-down/1200?cb=20230116100046"
+  },
+  {
     "id": "rc_818597",
     "title": "2027 Multi-Pack Exclusives",
     "summary": "The following vehicles could only be found in Multi-Packs (3, 8, 10, and 20 Packs) in the year 2027. Toy # goes as the following: 3-packs: K5904, 8-packs: HPV78, 9/10-packs: X6999 & 20-packs: H7045. Some multi-pack exclusive vehicles use existing tampo designs but were released with different colors and wheels, these vehicles are mixed into the contents of the multi-pack.",
@@ -92,20 +110,20 @@
   {
     "id": "rc_818361",
     "title": "Faster Than Ever",
-    "summary": "right|150px\nThis is a list of Hot Wheels Faster Than Ever vehicles released between 2005-2006 & 2009-2010. To the right is what the Faster Than Ever wheel looks like, or also known as the FTE. The Faster Than Ever wheel is more than just a wheel.",
+    "summary": "148 Corvette Stingray conv Red (FTE) & (FTE2) placed in Notes that was found /reported by many to have MIX BOTH Wheel Types on same car FTE FTE2 Combos ~~",
     "date": "2026-11-14",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Faster_Than_Ever",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/2423bf.jpg/revision/latest?cb=20091102054407"
+    "image": null
   },
   {
     "id": "rc_818360",
     "title": "Faster Than Ever Series (2012)",
-    "summary": "These vehicles are the fastest Hot Wheels® version of their kind with nickel-plated axles for faster speed. Collect all 10! Category:Hot Wheels by Series\nCategory:Faster Than Ever\nCategory:2012 Hot Wheels\nCategory:Mainline Segment",
+    "summary": "Updated an image for the second color of the 2012 Faster Than Ever series release of the Aston Martin DBS.",
     "date": "2026-11-14",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Faster_Than_Ever_Series_(2012)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/DSC00136.jpg/revision/latest/scale-to-width-down/1200?cb=20120615154655"
+    "image": null
   },
   {
     "id": "rc_818330",
@@ -306,24 +324,6 @@
     "image": null
   },
   {
-    "id": "rc_817901",
-    "title": "Hot Wheels: AcceleRacers (film series)",
-    "summary": "/* Original Mainframe Storyboards */",
-    "date": "2026-11-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
-    "image": null
-  },
-  {
-    "id": "rc_817872",
-    "title": "Vehicle Simulator",
-    "summary": "/* Castings Featured */",
-    "date": "2026-11-11",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Vehicle_Simulator",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -408,7 +408,7 @@
     "id": "search_196499",
     "title": "Steve Vandervate/2026 designs",
     "summary": "Latest Hot Wheels information: Steve Vandervate/2026 designs",
-    "date": "2026-11-14",
+    "date": "2026-11-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Steve_Vandervate%2F2026_designs",
     "image": null
