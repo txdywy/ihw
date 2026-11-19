@@ -1,5 +1,23 @@
 [
   {
+    "id": "rc_819495",
+    "title": "The Muppets Series (2021)",
+    "summary": "The Muppets Series is the first mix of the Themed Entertainment Assortment for 2021.",
+    "date": "2026-11-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/The_Muppets_Series_(2021)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/6/60/2021-01.jpg/revision/latest?cb=20210419010720"
+  },
+  {
+    "id": "rc_819493",
+    "title": "Forza Horizon Series (2021)",
+    "summary": "The Forza Horizon Series is the fourth mix of the Themed Automotive Assortment for 2021.",
+    "date": "2026-11-19",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Forza_Horizon_Series_(2021)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/96/HW_Black_Pink_SRT.jpg/revision/latest/scale-to-width-down/1200?cb=20211218042336"
+  },
+  {
     "id": "rc_819439",
     "title": "Batman Series (2021)",
     "summary": "The Batman Series is the fourth mix of the Themed Entertainment Assortment for 2021.",
@@ -92,20 +110,20 @@
   {
     "id": "rc_818956",
     "title": "Premium Collector Set",
-    "summary": "The Premium Collector Set assortment is an adult collector-focused premium set consisting of 4 vehicles in diorama-style packaging. All vehicles feature Real Riders wheels, diecast bodies and chassis.",
+    "summary": "/* Exotic Hypercars */",
     "date": "2026-11-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Premium_Collector_Set",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2020NissanSetDatsun510.jpg/revision/latest/scale-to-width-down/1200?cb=20240603033938"
+    "image": null
   },
   {
     "id": "rc_818937",
     "title": "Hot Wheels Let's Race 5-Pack (2026)",
-    "summary": "The Hot Wheels Let's Race 5-Pack (JKG22) was released in 2026, with all cars being made in Indonesia. The cars in the 5-Pack are nearly identical (except the Shark Bite which is identical) to their previous releases. center|300px",
+    "summary": "/* Cars */",
     "date": "2026-11-17",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Let's_Race_5-Pack_(2026)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/93/2026_Hot_Wheels_Let%27s_Race_5-Pack.jpg/revision/latest/scale-to-width-down/1200?cb=20261014152638"
+    "image": null
   },
   {
     "id": "rc_818926",
@@ -123,42 +141,6 @@
     "date": "2026-11-16",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Toyota_Supra_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_818774",
-    "title": "Super Hot Wheels",
-    "summary": "(1:24)<< 1:25 Porsche 924",
-    "date": "2026-11-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Super_Hot_Wheels",
-    "image": null
-  },
-  {
-    "id": "rc_818761",
-    "title": "HW-26",
-    "summary": "Card copyright is 2027 but it's available now, so...",
-    "date": "2026-11-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW-26",
-    "image": null
-  },
-  {
-    "id": "rc_818759",
-    "title": "Disney x Formula 1 Hot Wheels",
-    "summary": "Redirected page to HW-26",
-    "date": "2026-11-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Disney_x_Formula_1_Hot_Wheels",
-    "image": null
-  },
-  {
-    "id": "rc_818758",
-    "title": "Disney × Formula 1 Hot Wheels",
-    "summary": "Redirected page to HW-26",
-    "date": "2026-11-16",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Disney_%C3%97_Formula_1_Hot_Wheels",
     "image": null
   },
   {
@@ -222,15 +204,6 @@
     "date": "2026-11-11",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
-    "image": null
-  },
-  {
-    "id": "search_186448",
-    "title": "2026 Fast & Furious Premium Series",
-    "summary": "Latest Hot Wheels information: 2026 Fast & Furious Premium Series",
-    "date": "2026-11-13",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Fast_%26_Furious_Premium_Series",
     "image": null
   },
   {
