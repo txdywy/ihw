@@ -1,5 +1,14 @@
 [
   {
+    "id": "rc_820400",
+    "title": "Hot Wheels RC",
+    "summary": "right|300pxHot Wheels RC is a line of remote-controlled Hot Wheels cars introduced in 2020, initially as a Red Line Club exclusive. As the name suggests the series consists of remote-controlled Hot Wheels cars controllable by a remote control. Each car is able to go forward, reverse, turn and activate \"boost mode\" with a button on their controller.",
+    "date": "2026-11-22",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HotWheelsRC.png/revision/latest/scale-to-width-down/1200?cb=20251108084504"
+  },
+  {
     "id": "rc_820187",
     "title": "Hot Wheels Racing (2025)",
     "summary": "200px|rightHot Wheels Racing is a series introduced in 2025, intended as Hot Wheels's marketing umbrella for track sets and similar products marketing Formula One cars. The series was introduced in 2025 as part of a tie-in with Hot Wheels and Formula One Management. As of 2026, the only products sold under this umbrella are track sets, themed to various aspects of a Formula One race weekend.",
@@ -105,7 +114,7 @@
     "date": "2026-11-20",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Aeroflash",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/ROLL3DX-03.gif/revision/latest?cb=20250624172452"
+    "image": null
   },
   {
     "id": "rc_819847",
@@ -198,51 +207,6 @@
     "image": null
   },
   {
-    "id": "rc_819536",
-    "title": "1963 Cadillac Coupe DeVille",
-    "summary": "rims do not match with actual release; likely ai upscaling or similar",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/1963_Cadillac_Coupe_DeVille",
-    "image": null
-  },
-  {
-    "id": "rc_819531",
-    "title": "List of 2023 Hot Wheels (by Series)",
-    "summary": "/* HW Gassers 40px */",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/List_of_2023_Hot_Wheels_(by_Series)",
-    "image": null
-  },
-  {
-    "id": "rc_819498",
-    "title": "Leeway Chang/2021 designs",
-    "summary": "Created page with \"The following is a list of 2021 Hot Wheels tampo designs by Leeway Chang. {| class=\"wikitable sortable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; background:\" |Year ! style=\"border-style: none none solid solid; background:\" |Casting Name ! style=\"border-style: none none solid solid; background:\" |Series Name !...",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Leeway_Chang%2F2021_designs",
-    "image": null
-  },
-  {
-    "id": "rc_819495",
-    "title": "The Muppets Series (2021)",
-    "summary": "/* Vehicles */",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/The_Muppets_Series_(2021)",
-    "image": null
-  },
-  {
-    "id": "rc_819493",
-    "title": "Forza Horizon Series (2021)",
-    "summary": "/* Vehicles */",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Forza_Horizon_Series_(2021)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -300,7 +264,7 @@
     "id": "search_185401",
     "title": "2026 Hot Wheels Boulevard",
     "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
-    "date": "2026-11-11",
+    "date": "2026-11-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
     "image": null
