@@ -1,5 +1,32 @@
 [
   {
+    "id": "rc_820752",
+    "title": "Hot Wheels: Infinite Loop",
+    "summary": "Hot Wheels Infinite Loop is a free-2-play mobile racing game developed by CM Games and Mattel. It features over 60 Hot Wheels cars, online 4 vs 4 multiplayer, single-player Campaign and Challenges racing modes and achievements system. Developers used a red Tur-Bone Charged (new 2019 model) with the game logo on the card for game promotion at Gamescom 2019.",
+    "date": "2026-11-24",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Infinite_Loop",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Bullet_Proof_%28In-Game%29.jpg/revision/latest?cb=20261123013120"
+  },
+  {
+    "id": "rc_820685",
+    "title": "Leeway Chang/2011 designs",
+    "summary": "The following is a list of 2011 Hot Wheels tampo designs by Leeway Chang. Category:Leeway Chang Designs",
+    "date": "2026-11-24",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Leeway_Chang%2F2011_designs",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/be/64_pontiac_gto_2011_teal.png/revision/latest?cb=20110220193854"
+  },
+  {
+    "id": "rc_820677",
+    "title": "Nissan Skyline GT-R (R34) (Hot Wheels XL)",
+    "summary": "#REDIRECT Nissan Skyline GT-R (BNR34) (Hot Wheels XL)\nCategory:Redirects",
+    "date": "2026-11-24",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(R34)_(Hot_Wheels_XL)",
+    "image": null
+  },
+  {
     "id": "rc_820629",
     "title": "Kool Kombi (Hot Wheels XL)",
     "summary": "/* Versions */",
@@ -15,15 +42,6 @@
     "date": "2026-11-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(BNR34)_(Hot_Wheels_XL)",
-    "image": null
-  },
-  {
-    "id": "rc_820627",
-    "title": "Nissan Skyline GT-R (R34) (Hot Wheels XL)",
-    "summary": "#REDIRECT Nissan Skyline GT-R (BNR34) (Hot Wheels XL)",
-    "date": "2026-11-24",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(R34)_(Hot_Wheels_XL)",
     "image": null
   },
   {
@@ -92,11 +110,11 @@
   {
     "id": "rc_820541",
     "title": "Hot Wheels XL",
-    "summary": "200px|rightHot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and often their wheels. This series was developed by Charlie Angulo.",
+    "summary": "/* 2027 */",
     "date": "2026-11-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_XL",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/HotWheelsXL.png/revision/latest?cb=20260619013525"
+    "image": null
   },
   {
     "id": "rc_820539",
@@ -198,15 +216,6 @@
     "image": null
   },
   {
-    "id": "rc_820440",
-    "title": "Hot Wheels: Infinite Loop",
-    "summary": "Can you not upload low-quality duplicates of perfectly good quality existing images already on this Wiki for God sakes?",
-    "date": "2026-11-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Infinite_Loop",
-    "image": null
-  },
-  {
     "id": "rc_820400",
     "title": "Hot Wheels RC",
     "summary": "/* Singles */",
@@ -303,78 +312,6 @@
     "date": "2026-11-21",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/HW_Torque_Mini_Collection_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_819878",
-    "title": "Electric Hot Wheels Racing",
-    "summary": "96628 turbo twin pack Twin Mill & custom pickup Blue",
-    "date": "2026-11-20",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Electric_Hot_Wheels_Racing",
-    "image": null
-  },
-  {
-    "id": "rc_819875",
-    "title": "Aeroflash",
-    "summary": "Hot Ones CHASE CARD D45",
-    "date": "2026-11-20",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Aeroflash",
-    "image": null
-  },
-  {
-    "id": "rc_819847",
-    "title": "MX48 Turbo",
-    "summary": "/* 2008 card */",
-    "date": "2026-11-20",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/MX48_Turbo",
-    "image": null
-  },
-  {
-    "id": "rc_819832",
-    "title": "Hot Wheels: AcceleRacers (film series)",
-    "summary": "/* Realms Early Concept Art */",
-    "date": "2026-11-20",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_AcceleRacers_(film_series)",
-    "image": null
-  },
-  {
-    "id": "rc_819799",
-    "title": "2027 Multi-Pack Exclusives",
-    "summary": "/* Exclusive Decoration Vehicles */",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Multi-Pack_Exclusives",
-    "image": null
-  },
-  {
-    "id": "rc_819763",
-    "title": "2013 Hot Wheels Chevy Camaro Special Edition",
-    "summary": "Adding categories",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2013_Hot_Wheels_Chevy_Camaro_Special_Edition",
-    "image": null
-  },
-  {
-    "id": "rc_819757",
-    "title": "Design Team",
-    "summary": "/* Casting designers */",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Design_Team",
-    "image": null
-  },
-  {
-    "id": "rc_819752",
-    "title": "HW Circle Track 5-Pack",
-    "summary": "/* Cars */",
-    "date": "2026-11-19",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Circle_Track_5-Pack",
     "image": null
   },
   {
