@@ -1,12 +1,48 @@
 [
   {
-    "id": "rc_821115",
+    "id": "rc_821464",
+    "title": "Racing Culture",
+    "summary": "200px|rightRacing Culture (Assortment No. JJR32) is a new-for-2027, 1:64-scale, adult collector-oriented series. The series depicts real-world race cars of all eras.",
+    "date": "2026-11-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Racing_Culture",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/RacingCulture.png/revision/latest?cb=20261014002955"
+  },
+  {
+    "id": "rc_821461",
     "title": "Hot Wheels: Infinite Loop",
-    "summary": "Hot Wheels: Infinite Loop was a racing-combat video game mobile application developed by CM Games first revealed and released at Gamescom Convention on 20 August 2019. An age gate was integrated to ensure users under 16 did not receive Loot Boxes due to the feature being classified as “unlawful gambling” in some countries....",
+    "summary": "Adding categories",
     "date": "2026-11-25",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Infinite_Loop",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Hwil_logo.png/revision/latest/scale-to-width-down/1200?cb=20210201124115"
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/0/07/HWIL1.png/revision/latest?cb=20261125105633"
+  },
+  {
+    "id": "rc_821150",
+    "title": "Electric Hot Wheels Racing",
+    "summary": "300px|right\nThe Electric Hot Wheels Racing or Electric Hot Wheels series is a series of Hot Wheel Slot cars that came out mostly in the late 1990s, with some appearances afterwards mostly in tracksets. Slot cars are miniature cars that have motors in them which are powered by a rail system....",
+    "date": "2026-11-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/Electric_Hot_Wheels_Racing",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Its_Electric_bogey_wogey.jpg/revision/latest?cb=20240117191757"
+  },
+  {
+    "id": "rc_821140",
+    "title": "HW Legends 5-Pack (2021)",
+    "summary": "The HW Legends 5-Pack (GTN38) was released in 2021. 150px\nThe following castings were in the HW Legends 5-Pack (GTN38):\nCategory:5-Packs\nCategory:2021 Hot Wheels\nCategory:2021 5-Packs",
+    "date": "2026-11-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Legends_5-Pack_(2021)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/GTN38.png.e02f7f09b4aa716e4bc02d68d1057ad8.png/revision/latest?cb=20201216190517"
+  },
+  {
+    "id": "rc_821130",
+    "title": "2 Cool",
+    "summary": "added photo to gallery. i am unable to confirm wheel variation. admins or anyone who is wondering there is zero trace of ever having wheel paint and the car is in very nice shape.",
+    "date": "2026-11-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2_Cool",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/8/83/2_Cool_hot-wheels-sketch.jpg/revision/latest?cb=20200204193159"
   },
   {
     "id": "rc_821111",
@@ -92,7 +128,7 @@
   {
     "id": "rc_820624",
     "title": "2027 Hot Wheels XL",
-    "summary": "Category:Hot Wheels XL\nCategory:Hot Wheels XL by Year\nCategory:Hot Wheels by Series",
+    "summary": "Created page with \"{| class=\"sortable wikitable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; |Toy # ! style=\"border-style: none none solid solid; |Col.# ! style=\"border-style: none none solid solid; |Mix ! style=\"border-style: none none solid solid; |Model Name ! style=\"border-style: none none solid solid; |Photo Open !...",
     "date": "2026-11-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2027_Hot_Wheels_XL",
@@ -101,11 +137,11 @@
   {
     "id": "rc_820623",
     "title": "2026 Hot Wheels XL",
-    "summary": "Category:Hot Wheels XL\nCategory:Hot Wheels XL by Year\nCategory:Hot Wheels by Series",
+    "summary": "Created page with \"{| class=\"sortable wikitable\" style=\"font-size: 85%; text-align: left;\" width=\"100%\" |- ! style=\"border-style: none none solid solid; |Toy # ! style=\"border-style: none none solid solid; |Col.# ! style=\"border-style: none none solid solid; |Mix ! style=\"border-style: none none solid solid; |Model Name ! style=\"border-style: none none solid solid; |Photo Open !...",
     "date": "2026-11-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_XL",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/JKL09_a.jpg/revision/latest/scale-to-width-down/1200?cb=20260110071501"
+    "image": null
   },
   {
     "id": "rc_820593",
@@ -261,42 +297,6 @@
     "image": null
   },
   {
-    "id": "rc_820187",
-    "title": "Hot Wheels Racing (2025)",
-    "summary": "Can't tell if that's a stock Mattel image or not. Removing for now.",
-    "date": "2026-11-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_(2025)",
-    "image": null
-  },
-  {
-    "id": "rc_820155",
-    "title": "Hot Wheels Racing (2026)",
-    "summary": "Created page with \"200px|rightHot Wheels Racing is a series introduced in 2025, intended as Hot Wheels's marketing umbrella for track sets and similar products marketing Formula One cars. The series was introduced in 2025 as part of a tie-in with Hot Wheels and Formula One Management....",
-    "date": "2026-11-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_Racing_(2026)",
-    "image": null
-  },
-  {
-    "id": "rc_820154",
-    "title": "Formula 1 Sprint Race Circuit",
-    "summary": "/* Cars */",
-    "date": "2026-11-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Formula_1_Sprint_Race_Circuit",
-    "image": null
-  },
-  {
-    "id": "rc_820115",
-    "title": "Formula 1 Downhill Circuit Race Track Set (2026)",
-    "summary": "/* Cars */",
-    "date": "2026-11-21",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Formula_1_Downhill_Circuit_Race_Track_Set_(2026)",
-    "image": null
-  },
-  {
     "id": "search_183990",
     "title": "2026 Treasure Hunts Series",
     "summary": "Latest Hot Wheels information: 2026 Treasure Hunts Series",
@@ -351,12 +351,12 @@
     "image": null
   },
   {
-    "id": "search_185401",
-    "title": "2026 Hot Wheels Boulevard",
-    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
-    "date": "2026-11-25",
+    "id": "search_186448",
+    "title": "2026 Fast & Furious Premium Series",
+    "summary": "Latest Hot Wheels information: 2026 Fast & Furious Premium Series",
+    "date": "2026-11-22",
     "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Fast_%26_Furious_Premium_Series",
     "image": null
   },
   {
@@ -402,6 +402,15 @@
     "date": "2026-11-22",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/2026_Car_Culture%3A_Team_Transport",
+    "image": null
+  },
+  {
+    "id": "search_185401",
+    "title": "2026 Hot Wheels Boulevard",
+    "summary": "Latest Hot Wheels information: 2026 Hot Wheels Boulevard",
+    "date": "2026-11-25",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/2026_Hot_Wheels_Boulevard",
     "image": null
   },
   {

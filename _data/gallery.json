@@ -1,5 +1,15 @@
 [
   {
+    "id": "img_4972",
+    "title": "Hollowback",
+    "url": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/HollowbackSketch.jpg/revision/latest?cb=20261117090352",
+    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/HollowbackSketch.jpg/revision/latest?cb=20261117090352",
+    "width": 793,
+    "height": 474,
+    "source": "Hot Wheels Wiki",
+    "carUrl": "https://hotwheels.fandom.com/wiki/Hollowback"
+  },
+  {
     "id": "img_126449",
     "title": "Racing Convoy",
     "url": "https://static.wikia.nocookie.net/hotwheels/images/1/11/Trackin%27_Trucks_Y0181.jpg/revision/latest?cb=20200427181139",
@@ -178,16 +188,6 @@
     "height": 1453,
     "source": "Hot Wheels Wiki",
     "carUrl": "https://hotwheels.fandom.com/wiki/Unicharge"
-  },
-  {
-    "id": "img_202908",
-    "title": "Sand Blazer",
-    "url": "https://static.wikia.nocookie.net/hotwheels/images/0/03/%E9%A2%A8%E7%81%AB%E8%BC%AA_SAND_BLAZER_%E6%B2%99%E6%BC%A0%E8%B6%8A%E9%87%8E%E8%BB%8A_%E7%B2%89%E8%97%8D%E7%99%BD%E5%A1%97%E8%A3%9D_1-64%E6%80%AA%E7%8D%B8%E5%A4%A7%E8%85%B3%E8%BB%8A_Monster_trucks_26L-1.jpg/revision/latest/scale-to-width-down/1200?cb=20260929161355",
-    "fullUrl": "https://static.wikia.nocookie.net/hotwheels/images/0/03/%E9%A2%A8%E7%81%AB%E8%BC%AA_SAND_BLAZER_%E6%B2%99%E6%BC%A0%E8%B6%8A%E9%87%8E%E8%BB%8A_%E7%B2%89%E8%97%8D%E7%99%BD%E5%A1%97%E8%A3%9D_1-64%E6%80%AA%E7%8D%B8%E5%A4%A7%E8%85%B3%E8%BB%8A_Monster_trucks_26L-1.jpg/revision/latest?cb=20260929161355",
-    "width": 1200,
-    "height": 1476,
-    "source": "Hot Wheels Wiki",
-    "carUrl": "https://hotwheels.fandom.com/wiki/Sand_Blazer"
   },
   {
     "id": "feat_twin_mill",
