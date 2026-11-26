@@ -1,12 +1,30 @@
 [
   {
-    "id": "rc_821522",
+    "id": "rc_821539",
+    "title": "HW Prototype 12",
+    "summary": "/* Versions */",
+    "date": "2026-11-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Prototype_12",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/HW_Proto_12_Phil_R_Rev160507.jpg/revision/latest?cb=20160509044504"
+  },
+  {
+    "id": "rc_821533",
     "title": "Hot Wheels: Infinite Loop",
     "summary": "/* Featured Castings */",
     "date": "2026-11-26",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Infinite_Loop",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/0/07/HWIL1.png/revision/latest?cb=20261125105633"
+  },
+  {
+    "id": "rc_821523",
+    "title": "HW Legends 5-Pack (2021)",
+    "summary": "The HW Legends 5-Pack (GTN38) was released in 2021. 150px\nThe following castings were in the HW Legends 5-Pack (GTN38):\nCategory:5-Packs\nCategory:2021 Hot Wheels\nCategory:2021 5-Packs",
+    "date": "2026-11-26",
+    "source": "Hot Wheels Wiki",
+    "url": "https://hotwheels.fandom.com/wiki/HW_Legends_5-Pack_(2021)",
+    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/GTN38.png.e02f7f09b4aa716e4bc02d68d1057ad8.png/revision/latest?cb=20201216190517"
   },
   {
     "id": "rc_821464",
@@ -25,15 +43,6 @@
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Electric_Hot_Wheels_Racing",
     "image": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Its_Electric_bogey_wogey.jpg/revision/latest?cb=20240117191757"
-  },
-  {
-    "id": "rc_821140",
-    "title": "HW Legends 5-Pack (2021)",
-    "summary": "The HW Legends 5-Pack (GTN38) was released in 2021. 150px\nThe following castings were in the HW Legends 5-Pack (GTN38):\nCategory:5-Packs\nCategory:2021 Hot Wheels\nCategory:2021 5-Packs",
-    "date": "2026-11-25",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/HW_Legends_5-Pack_(2021)",
-    "image": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/GTN38.png.e02f7f09b4aa716e4bc02d68d1057ad8.png/revision/latest?cb=20201216190517"
   },
   {
     "id": "rc_821130",
@@ -101,7 +110,7 @@
   {
     "id": "rc_820677",
     "title": "Nissan Skyline GT-R (R34) (Hot Wheels XL)",
-    "summary": "#REDIRECT Nissan Skyline GT-R (BNR34) (Hot Wheels XL)\nCategory:Redirects",
+    "summary": "Adding categories",
     "date": "2026-11-24",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Nissan_Skyline_GT-R_(R34)_(Hot_Wheels_XL)",
@@ -249,51 +258,6 @@
     "date": "2026-11-23",
     "source": "Hot Wheels Wiki",
     "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels%3A_Beat_That!",
-    "image": null
-  },
-  {
-    "id": "rc_820506",
-    "title": "2027 Formula One Collection",
-    "summary": "Using cardback names. All should be Kristina.",
-    "date": "2026-11-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Formula_One_Collection",
-    "image": null
-  },
-  {
-    "id": "rc_820493",
-    "title": "Peanuts 75 Years Series (2025)",
-    "summary": "/* Vehicles */",
-    "date": "2026-11-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Peanuts_75_Years_Series_(2025)",
-    "image": null
-  },
-  {
-    "id": "rc_820480",
-    "title": "2027 Racing Culture",
-    "summary": "cant wait for this car.",
-    "date": "2026-11-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/2027_Racing_Culture",
-    "image": null
-  },
-  {
-    "id": "rc_820464",
-    "title": "Hybrid Speed Series (2025)",
-    "summary": "/* Vehicles */",
-    "date": "2026-11-23",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hybrid_Speed_Series_(2025)",
-    "image": null
-  },
-  {
-    "id": "rc_820400",
-    "title": "Hot Wheels RC",
-    "summary": "/* Singles */",
-    "date": "2026-11-22",
-    "source": "Hot Wheels Wiki",
-    "url": "https://hotwheels.fandom.com/wiki/Hot_Wheels_RC",
     "image": null
   },
   {
